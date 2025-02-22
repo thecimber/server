@@ -40,8 +40,6 @@ export const EmulatorDetails = () => {
     }
 
     const handleChange = (event) => {
-        console.log('serach' + search);
-
         const newSearch = event.target.value
         setSearch(newSearch)
         debouncedGetGames(newSearch)
