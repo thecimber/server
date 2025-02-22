@@ -10,6 +10,7 @@ export const DownloadButtons = ({ methods }) => {
                     className={`btn ${color}`} 
                     target="_blank" 
                     rel="noopener noreferrer"
+                    translate="no"
                 >
                     <i className={icon}></i> {name}
                 </a>

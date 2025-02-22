@@ -49,7 +49,7 @@ export const EmulatorDetails = () => {
 
     return (
         <>
-            <h2 className="subtitulo">Juegos para {title}</h2>
+            <h2 className="subtitulo my-3">Juegos para {title}</h2>
             <form action="" onSubmit={handleSubmit} className="d-flex justify-content-center mb-4">
                 <div className="row w-50 w-md-50">
                     <div className="col-12 col-md-9 mb-2 mb-md-0">

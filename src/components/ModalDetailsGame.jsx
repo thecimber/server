@@ -27,7 +27,7 @@ export const ModalDetailsGame = ({ game, onClose, console }) => {
                   <p><strong>Genero: </strong> {genre.join(', ')}</p>
                   <p><strong>Formato: </strong> {'[' + format.join(', ') + ']'}</p>
                   <p><strong>Tamaño: </strong> {size}</p>
-                  <p><strong>Contraseña: </strong> {PASSWORD_ZIP}</p>
+                  <p translate="no"><strong>Contraseña: </strong> {PASSWORD_ZIP}</p>
 
                   <div className="rating">
                     <p><strong>Descargar: </strong></p>
