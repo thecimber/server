@@ -1,0 +1,20 @@
+import React from "react";
+
+export const DownloadButtons = ({ methods }) => {
+    return (
+        <div className="d-flex gap-2 flex-wrap">
+            {methods.map(({ name, icon, color, link }, index) => (
+                <a 
+                    key={index} 
+                    href={link} 
+                    className={`btn ${color}`} 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                >
+                    <i className={icon}></i> {name}
+                </a>
+            ))}
+        </div>
+    );
+};
+
