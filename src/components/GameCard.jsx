@@ -1,9 +1,7 @@
 import '../styles/game.css'
 
 export const GameCard = ( {id, name, image, format, language, size, downloadFormat, link, downloadTutorial, date,genre,pathImage,downloadMethods,handleDetailsGame}) => {
-    console.log('name'+name);
-    
-    console.log(pathImage + image)
+
     return (
         <>
             <div className="juego-card" onClick={() => handleDetailsGame({id, name, image, format, language, size, downloadFormat, link, downloadTutorial, date,genre,pathImage,downloadMethods})}>

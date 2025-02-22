@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom"
+
 export const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -7,7 +9,7 @@ export const Navbar = () => {
             </button>
             <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div className="navbar-nav">
-                    <a className="nav-item nav-link active" href="#">Inicio</a>
+                <Link to={`/`} className="nav-item nav-link active">Inicio</Link>
                     <a className="nav-item nav-link" href="#">Roms</a>
                 </div>
             </div>

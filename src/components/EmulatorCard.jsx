@@ -2,7 +2,6 @@ import { Link } from 'react-router-dom';
 import '../styles/emulator.css';
 
 export const EmulatorCard = ({ emulator }) => {
-  console.log(emulator.name);
 
   return (
     <Link to={`/emulador/${emulator.path}`} className="emulador-card">

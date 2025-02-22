@@ -109,3 +109,15 @@
       font-size: 0.8rem; /* Tamaño de los detalles reducido */
     }
   }
+
+  @media (max-width: 768px) {
+    .w-md-50 {
+      width: 75% !important; /* Aumenta el ancho en dispositivos pequeños */
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .w-md-50 {
+      width: 100% !important; /* Ocupa todo el ancho en móviles */
+    }
+  }
