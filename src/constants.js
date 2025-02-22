@@ -29,4 +29,6 @@ export const PROPS_ACTUALIZACION= {
     
 }
 
+export const PASSWORD_ZIP = 'thecimber';
+
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles/modal.css';
 import { DownloadButtons } from './DownloadButtons';
-import { DOWNLOAD_TUTORIAL, TELEGRAM_CHANEL } from '../constants';
+import { DOWNLOAD_TUTORIAL, TELEGRAM_CHANEL,PASSWORD_ZIP } from '../constants';
 
 export const ModalDetailsGame = ({ game, onClose, console }) => {
   if (!game) return null;
@@ -27,6 +27,8 @@ export const ModalDetailsGame = ({ game, onClose, console }) => {
                   <p><strong>Genero: </strong> {genre.join(', ')}</p>
                   <p><strong>Formato: </strong> {'[' + format.join(', ') + ']'}</p>
                   <p><strong>Tamaño: </strong> {size}</p>
+                  <p><strong>Contraseña: </strong> {PASSWORD_ZIP}</p>
+
                   <div className="rating">
                     <p><strong>Descargar: </strong></p>
 
