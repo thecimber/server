@@ -11,8 +11,9 @@ export const useGames = ({ emulator }) => {
 
     useEffect(() => {
         const { games, title, pathImage } = getGameByEmulator({ emulator });
+        const gamesSorted = games.sort((a, b) => a.name.localeCompare(b.name));
         setGamesInfo({
-            games, title, pathImage
+            games: gamesSorted, title, pathImage
         });
     }, [])
 
@@ -22,8 +23,9 @@ export const useGames = ({ emulator }) => {
         const filterGames = games.filter((game) =>
             game.name.toLowerCase().includes(search.toLowerCase().trim())
         );
+        const gamesSorted = filterGames.sort((a, b) => a.name.localeCompare(b.name));
         setGamesInfo({
-            games:filterGames, 
+            games:gamesSorted, 
             title, 
             pathImage
         })
