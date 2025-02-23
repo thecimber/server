@@ -40,7 +40,15 @@
     box-shadow: 0 0 15px 7px rgba(249, 13, 194, 0.6), /* Sombra roja */
     0 0 15px 8px rgba(0, 255, 140, 0.6), /* Sombra verde */
     0 0 15px 10px rgba(0, 191, 255, 0.6); /* Sombra azul */
+    background: linear-gradient(45deg, rgb(255, 0, 106), rgb(247, 0, 255), #00ffc8, rgb(0, 77, 128), rgb(211, 145, 219), rgb(92, 226, 121), violet);
+    background-size: 400% 400%;
+    animation: prismaAnim 2s linear infinite;
     
+  }
+  @keyframes prismaAnim {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
   }
   
   /* Imagen de la card */
