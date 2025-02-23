@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(87, 84, 84);
+    background-color: rgb(45, 43, 43);
 }
 
 .logo-navbar{
@@ -7,3 +7,7 @@ body{
     margin: 5px;
     border-radius: 50%;
 }
+
+/* .bg-deku{
+    background-color: rgb(55, 2, 55);
+} */

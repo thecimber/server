@@ -15,7 +15,7 @@ function App() {
           <HeroSection/>
           <Home />
         </>} />
-        <Route path="/emulador/:emuladorNombre" element={<EmulatorDetails />} />
+        <Route path="/emulador/:emulatorGame" element={<EmulatorDetails />} />
       </Routes>
     </>
   )
