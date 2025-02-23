@@ -5,6 +5,8 @@ import { EmulatorDetails } from './pages/EmulatorDetails'
 import { HeroSection } from './components/HeroSection'
 import { Route, Router, Routes } from 'react-router-dom'
 import { Dmca } from './components/Dmca'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 function App() {
   return (
