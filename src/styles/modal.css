@@ -4,7 +4,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.5) !important;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,8 +15,8 @@
     z-index: 1051; /* El modal debe tener un z-index mayor que el fondo oscuro */
 }
 .custom-modal-content {
-    background-color: #1a1a1a;
-    color: white;
+    background-color: #1a1a1a !important;
+    color: white !important;
     border: 1px solid #333;
 }
 
@@ -26,7 +26,7 @@
 }
 
 .custom-modal-title {
-    color: white;
+    color: white !important;
     font-size: 1.5em;
 }
 
