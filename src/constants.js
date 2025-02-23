@@ -1,4 +1,4 @@
-export const DOWNLOAD_TUTORIAL = 'https://youtube.com/shorts/2Ou6a-CiXws?feature=share';
+export const DOWNLOAD_TUTORIAL = 'https://youtu.be/prSP3hniOdI?si=95pZkOeDUaVo6VQD';
 
 export const TELEGRAM_CHANEL = ''
 
