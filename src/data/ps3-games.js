@@ -229,7 +229,7 @@ export const gamesPs3 =
         {
             id: 27752,
             name: 'Saint Seiya: Sanctuary Battle',
-            image: '91Fh3PrlzEL._AC_SL1500_.jpg',
+            image: 'Saint-Seiya-Sanctuary-Battle.jpeg',
             format: ["ISO/PKG"],
             language: ["Español"],
             genre: ["Acción"],
@@ -399,7 +399,7 @@ export const gamesPs3 =
             date: '',
             downloadMethods: [
                 { ...PROPS_MEDIFIRE, link: "https://cuty.io/ALvJ73" },
-                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1UsWxjrZ24EWwT7cIIQOMlw" }
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1zx02F95vLLIql-cUU0IiDw" }
             ]
         },
         {
