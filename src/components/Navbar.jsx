@@ -15,6 +15,8 @@ export const Navbar = () => {
                 <div className="navbar-nav">
                     <Link to={`/`} className="nav-item nav-link active">Inicio</Link>
                     <a className="nav-item nav-link" href="#">Roms</a>
+                    <Link to={`/dmca`} className="nav-item nav-link">Dmca</Link>
+
                 </div>
             </div>
         </nav>

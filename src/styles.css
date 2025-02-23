@@ -8,6 +8,12 @@ body{
     border-radius: 50%;
 }
 
+.container-dmca {
+    color: white;
+    text-align: justify;
+}
+
+
 /* .bg-deku{
     background-color: rgb(55, 2, 55);
 } */
