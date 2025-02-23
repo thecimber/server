@@ -37,6 +37,10 @@
   .juego-card:hover {
     cursor: pointer;
     transform: translateY(-10px); /* Efecto hover */
+    box-shadow: 0 0 15px 7px rgba(249, 13, 194, 0.6), /* Sombra roja */
+    0 0 15px 8px rgba(0, 255, 140, 0.6), /* Sombra verde */
+    0 0 15px 10px rgba(0, 191, 255, 0.6); /* Sombra azul */
+    
   }
   
   /* Imagen de la card */
