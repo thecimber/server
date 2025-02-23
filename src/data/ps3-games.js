@@ -193,6 +193,230 @@ export const gamesPs3 =
                 { ...PROPS_MEDIFIRE, link: "https://cuty.io/S28sRI" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1kJO9UAaFzJj-nSRVW9f76A" }
             ]
+        },
+        {
+            id: 230240,
+            name: 'Alice: Madness Returns',
+            image: 'Alice-Madness-Returns-ps3.webp',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción", "Plataformas"],
+            size: '4,41 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/bVV6Dx" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1irChPZYL4b5dHY4GtWDmHw" }
+            ]
+        },
+        {
+            id: 625482,
+            name: 'Saint Seiya: Brave Soldiers',
+            image: '61nALts7tyL._AC_.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Fighting"],
+            size: '3.03 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/SP3CbyNtM" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1ezcMhILcH07eDKL3ufrXNA" }
+            ]
+        },
+        {
+            id: 27752,
+            name: 'Saint Seiya: Sanctuary Battle',
+            image: '91Fh3PrlzEL._AC_SL1500_.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción"],
+            size: '5,82 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/zDiqkTT1KnqZ" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1DpGXCoZgFkMUCe9b_jWbAQ" }
+            ]
+        },
+        {
+            id: 238195,
+            name: 'Saint Seiya: Soldiers’ Soul',
+            image: '91Fh3PrlzEL._AC_SL1500_.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Fighting"],
+            size: '5,38 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/zOKbbZbcLi" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1wcNbjD5y-HWwgaACRFy05A" }
+            ]
+        },
+        {
+            id: 131229,
+            name: 'Asura’s Wrath',
+            image: 'February-21-2012.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Fighting"],
+            size: '6,53 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/WDt87" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/169jb2FzKrcC4kXTT2j66jg" }
+            ]
+        },
+        {
+            id: 782351,
+            name: 'Assassin’s Creed',
+            image: 'assassins-creed-ps3.webp',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción"],
+            size: '6,65 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/AfAv1" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1h0pPGNclMXEXDe0yFZ53pA" }
+            ]
+        },
+        {
+            id: 915844,
+            name: 'The Amazing Spider-Man 2',
+            image: 'the-amazing-spider-man-2-ps3.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción", "aventuras"],
+            size: '7,37 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/B0XuYpIo" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1JHn5onbzOtFGK-Dmud_ljg" }
+            ]
+        },
+        {
+            id: 565965,
+            name: 'God of War III (DEMO)',
+            image: 'god-of-war-III.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción", "aventuras"],
+            size: '2,80 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/28zbt" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1fg-wqSHgcA2lrQHcXVw7WA" }
+            ]
+        },
+        {
+            id: 103462,
+            name: 'Call of Duty: Black Ops',
+            image: 'November-9-2010.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Fighting"],
+            size: '10,28 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/cxbbv0D54z9" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1RpjLqdxYoajpVnOMjyJeig" }
+            ]
+        },
+        {
+            id: 762969,
+            name: 'Dead Island',
+            image: 'Dead-Island-ps3.webp',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción", "Plataformas"],
+            size: '3,28 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/CZdiWUiEaC" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1do0d89aBfh9UzDBL5F4i7g" }
+            ]
+        },
+        {
+            id: 67765,
+            name: 'Demon’s Souls',
+            image: 'demons-souls-ps3.webp',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción", "Plataformas"],
+            size: '6,23 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/Vd7JBTCeel" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1TekdJvPK5p9_W2gQn2iWvA" }
+            ]
+        },
+        {
+            id: 168633,
+            name: 'MLB 16: The Show',
+            image: 'mlb-the-show-16-ps3.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Deporte"],
+            size: '17,93 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/4CKFoI6" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1FaqNLPBJIcLTjDEjsnfa4A" }
+            ]
+        },
+        {
+            id: 139220,
+            name: 'Naruto Shippuden: Ultimate Ninja Storm Revolution',
+            image: 'Ultimate-Ninja-Storm-Revolution-ps3.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Other"],
+            size: '6 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/ALvJ73" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1UsWxjrZ24EWwT7cIIQOMlw" }
+            ]
+        },
+        {
+            id: 887265,
+            name: 'Red Dead Redemption',
+            image: 'Red-Dead-Redemption-ps3.webp',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción", "aventuras"],
+            size: '6,84 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/Lp8ivs" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1sX_3eh2ZlomWZx0OP3AXrA" }
+            ]
         }
 
 
