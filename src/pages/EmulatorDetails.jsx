@@ -32,8 +32,6 @@ export const EmulatorDetails = () => {
         gamesPerPage,
         goToCurrentPage
     } = usePagination({ games });
-    console.log('pagination');
-    console.log(gamesPaginaton);
     
     useEffect(() => {
         goToCurrentPage();
@@ -86,15 +84,6 @@ export const EmulatorDetails = () => {
                         )
                 }
             </div>
-            {/* 
-                    currentPage,
-        gamesPaginaton,
-        paginate,
-        goToPreviousPage,
-        goToNextPage,
-        length
-            
-            */}
             <Pagination currentPage={currentPage} goToPreviousPage={goToPreviousPage} goToNextPage={goToNextPage} length={length} gamesPerPage={gamesPerPage} paginate={paginate}/>
             {selectedGame && <ModalDetailsGame game={selectedGame} onClose={closeModal} console={title} />}
 
