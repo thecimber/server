@@ -1,34 +1,26 @@
-/* Contenedor principal */
-/* .juegos-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px; espacios entre las cards
-    padding: 20px;
-    justify-content: center;
-  } */
   .juegos-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 20px; /* Espacio entre las cards */
-    padding: 20px; /* Padding general */
-    padding-left: 40px; /* Padding izquierdo */
-    padding-right: 40px; /* Padding derecho */
+    gap: 20px; 
+    padding: 20px; 
+    padding-left: 40px;
+    padding-right: 40px; 
     justify-content: center;
   }
   .subtitulo {
-    text-align: center; /* Centra el texto */
-    font-size: 2rem; /* Tamaño del subtítulo */
-    margin-bottom: 20px; /* Espacio debajo del subtítulo */
-    color: #fcfafa; /* Color del texto */
-    width: 100%; /* Ocupa todo el ancho del contenedor */
+    text-align: center; 
+    font-size: 2rem; 
+    margin-bottom: 20px; 
+    color: #fcfafa; 
+    width: 100%; 
   }
-  /* Estilos para cada card */
+
   .juego-card:hover {
     cursor: pointer;
-    transform: translateY(-10px); /* Efecto hover */
-    box-shadow: 0 0 15px 7px rgba(249, 13, 194, 0.6), /* Sombra roja */
-    0 0 15px 8px rgba(0, 255, 140, 0.6), /* Sombra verde */
-    0 0 15px 10px rgba(0, 191, 255, 0.6); /* Sombra azul */
+    transform: translateY(-10px); 
+    box-shadow: 0 0 15px 7px rgba(249, 13, 194, 0.6), 
+    0 0 15px 8px rgba(0, 255, 140, 0.6), 
+    0 0 15px 10px rgba(0, 191, 255, 0.6); 
     background: linear-gradient(45deg, rgb(255, 0, 106), rgb(247, 0, 255), #00ffc8, rgb(0, 77, 128), rgb(211, 145, 219), rgb(92, 226, 121), violet);
     background-size: 400% 400%;
     animation: prismaAnim 2s linear infinite;
@@ -39,36 +31,34 @@
     50% { background-position: 100% 50%; }
     100% { background-position: 0% 50%; }
   }
-/* Estilos para cada card */
+
 .juego-card {
-  flex: 1 1 calc(25% - 20px); /* 4 cards por fila en escritorio */
-  max-width: calc(25% - 20px); /* Asegura que no exceda el ancho */
+  flex: 1 1 calc(25% - 20px); 
+  max-width: calc(25% - 20px);
   background-color: #302e2e;
   border: 1px solid #ddd;
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease;
-  display: flex; /* Hacemos que la tarjeta sea un contenedor flexible */
-  flex-direction: column; /* Organizamos los elementos en columna */
+  display: flex; 
+  flex-direction: column; 
 }
 
-/* Imagen de la card */
 .juego-card img {
   width: 100%;
-  height: 350px; /* Altura fija para las imágenes */
-  object-fit: cover; /* Ajusta la imagen al tamaño sin distorsionar */
-  flex-shrink: 0; /* Evita que la imagen se encoja */
+  height: 350px; 
+  object-fit: cover;
+  flex-shrink: 0;
 }
 
-/* Contenido de la card */
 .juego-info {
   padding: 15px;
   text-align: center;
-  flex-grow: 1; /* Hace que el contenido ocupe el espacio restante */
+  flex-grow: 1; 
   display: flex;
   flex-direction: column;
-  justify-content: space-between; /* Distribuye el espacio entre los elementos */
+  justify-content: space-between;
 }
   
   .juego-info h3 {
@@ -92,51 +82,50 @@
   /* Responsive para tablets */
   @media (max-width: 768px) {
     .juego-card {
-      flex: 2 2 calc(50% - 20px); /* 2 cards por fila en tablets */
+      flex: 2 2 calc(50% - 20px); /* 2 cards por fila */
       max-width: calc(50% - 20px);
     }
   }
   
   /* Responsive para móviles */
-/* Responsive para móviles */
 @media (max-width: 480px) {
     .juego-card {
       flex: 1 1 calc(50% - 10px); /* 2 cards por fila en móviles */
       max-width: calc(50% - 10px);
-      min-height: 300px; /* Altura reducida para móviles */
+      min-height: 300px; 
     }
   
     .juego-card img {
-      height: 150px; /* Altura de la imagen reducida */
+      height: 150px; 
     }
   
     .juego-info {
-      padding: 10px; /* Padding reducido */
+      padding: 10px; 
     }
   
     .juego-info h3 {
-      font-size: 0.9rem; /* Tamaño del título reducido */
+      font-size: 0.9rem; 
       margin-bottom: 10px;
     }
   
     .juego-info p {
-      font-size: 0.7rem; /* Tamaño de la descripción reducido */
+      font-size: 0.7rem; 
       margin-bottom: 10px;
     }
   
     .juego-detalles {
-      font-size: 0.7rem; /* Tamaño de los detalles reducido */
+      font-size: 0.7rem;
     }
   }
 
   @media (max-width: 768px) {
     .w-md-50 {
-      width: 75% !important; /* Aumenta el ancho en dispositivos pequeños */
+      width: 75% !important; 
     }
   }
   
   @media (max-width: 576px) {
     .w-md-50 {
-      width: 100% !important; /* Ocupa todo el ancho en móviles */
+      width: 100% !important; 
     }
   }

@@ -8,11 +8,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    z-index: 1050; /* Asegúrate de que este valor sea mayor que el z-index de otros elementos */
+    z-index: 1050; 
 }
 
 .modal {
-    z-index: 1051; /* El modal debe tener un z-index mayor que el fondo oscuro */
+    z-index: 1051; 
 }
 .custom-modal-content {
     background-color: #1a1a1a !important;
