@@ -5,6 +5,8 @@ import { ModalDetailsGame } from "../components/ModalDetailsGame";
 import { SearchForm } from "../components/SearchForm";
 import { useEmulatorGames } from "../hooks/useEmulatorGames";
 import { useEffect } from "react";
+import { Pagination } from "../components/Pagination";
+import { usePagination } from "../hooks/UsePagination";
 
 export const EmulatorDetails = () => {
     const { emulatorGame } = useParams();
@@ -20,31 +22,48 @@ export const EmulatorDetails = () => {
         handleChange,
     } = useEmulatorGames(emulatorGame);
 
+    const {
+        currentPage,
+        gamesPaginaton,
+        paginate,
+        goToPreviousPage,
+        goToNextPage,
+        length,
+        gamesPerPage,
+        goToCurrentPage
+    } = usePagination({ games });
+    console.log('pagination');
+    console.log(gamesPaginaton);
+    
+    useEffect(() => {
+        goToCurrentPage();
+    }, [games]);
+
     useEffect(() => {
         if (selectedGame) {
-          document.body.classList.add("modal-open");
+            document.body.classList.add("modal-open");
         } else {
-          document.body.classList.remove("modal-open");
+            document.body.classList.remove("modal-open");
         }
-    
+
         return () => {
-          document.body.classList.remove("modal-open");
+            document.body.classList.remove("modal-open");
         };
-      }, [selectedGame]);
+    }, [selectedGame]);
 
     return (
         <>
             <h2 className="subtitulo my-3">Juegos para {title}</h2>
-            <SearchForm handleSubmit={handleSubmit} handleChange={handleChange} search={search}/>
+            <SearchForm handleSubmit={handleSubmit} handleChange={handleChange} search={search} />
             <div className="juegos-container">
                 {
-                    games.length === 0 ?
+                    gamesPaginaton.length === 0 ?
                         <div className="alert alert-warning w-50 text-center" role="alert">
                             No se econtraron juegos!
                         </div>
                         :
                         (
-                            games.map(({ id, name, image, format, language, size, downloadFormat, link, downloadTutorial, date, genre, downloadMethods }) => {
+                            gamesPaginaton.map(({ id, name, image, format, language, size, downloadFormat, link, downloadTutorial, date, genre, downloadMethods }) => {
                                 return (
                                     <GameCard
                                         key={id}
@@ -67,6 +86,16 @@ export const EmulatorDetails = () => {
                         )
                 }
             </div>
+            {/* 
+                    currentPage,
+        gamesPaginaton,
+        paginate,
+        goToPreviousPage,
+        goToNextPage,
+        length
+            
+            */}
+            <Pagination currentPage={currentPage} goToPreviousPage={goToPreviousPage} goToNextPage={goToNextPage} length={length} gamesPerPage={gamesPerPage} paginate={paginate}/>
             {selectedGame && <ModalDetailsGame game={selectedGame} onClose={closeModal} console={title} />}
 
         </>

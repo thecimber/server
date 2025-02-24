@@ -35,6 +35,7 @@
 .juego-card {
   flex: 1 1 calc(25% - 20px); 
   max-width: calc(25% - 20px);
+  height: 30rem;
   background-color: #302e2e;
   border: 1px solid #ddd;
   border-radius: 8px;
@@ -93,6 +94,7 @@
       flex: 1 1 calc(50% - 10px); /* 2 cards por fila en móviles */
       max-width: calc(50% - 10px);
       min-height: 300px; 
+      max-height: 7rem;
     }
   
     .juego-card img {

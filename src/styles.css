@@ -13,6 +13,19 @@ body{
     text-align: justify;
 }
 
+.active>.page-link, .page-link.active {
+    background-color: blueviolet !important;
+    border-color: black !important;
+}
+
+.page-link {
+    background-color: rgb(59, 59, 59) !important;
+    color: white !important;
+}
+
+.pagination{
+    gap: 7px !important;
+}
 
 /* .bg-deku{
     background-color: rgb(55, 2, 55);
