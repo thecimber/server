@@ -1,7 +1,6 @@
 .hero-section {
   position: relative;
   height: 350px;
-  /* Altura del Hero Section */
   background-image: url('../assets/hero-section.jpeg');
   background-size: cover;
   background-position: center;
@@ -20,7 +19,6 @@
   right: 0;
   bottom: 0;
   background: rgba(0, 0, 0, 0.5);
-  /* Overlay oscuro para mejorar la legibilidad */
 }
 
 .hero-content {
