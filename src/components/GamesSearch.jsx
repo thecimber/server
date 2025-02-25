@@ -20,7 +20,7 @@ export const GamesSearch = () => {
 
     return (
         <>
-            <h2 className="subtitulo my-3">Resultados para {result}</h2>
+            <h2 className="subtitulo my-3 subtitulo-resultados">Resultados para {result}</h2>
             <SearchForm handleSubmit={handleSubmit} handleChange={handleChange} search={search} />
             <GameGrid games={games} />
 
