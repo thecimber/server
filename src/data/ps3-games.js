@@ -84,7 +84,7 @@ export const gamesPs3 =
         },
         {
             id: 575759,
-            name: '  Dragon Ball: Raging Blast 2',
+            name: 'Dragon Ball: Raging Blast 2',
             image: 'Dragon-Ball-Raging-Blast-2-ps3.webp',
             format: ["ISO/PKG"],
             language: ["Español"],

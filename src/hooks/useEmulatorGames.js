@@ -3,10 +3,9 @@ import debounce from "just-debounce-it";
 import { useGames } from "../hooks/useGames";
 
 export const useEmulatorGames = (emulatorGame) => {
-    const { gamesInfo, getGames } = useGames({ emulator: emulatorGame });
-    const { games, title, pathImage } = gamesInfo;
 
-    const [selectedGame, setSelectedGame] = useState(null);
+    const { games, getGames } = useGames({ emulator: emulatorGame });
+
     const [search, setSearch] = useState('');
 
     const debouncedGetGames = useCallback(
@@ -15,14 +14,6 @@ export const useEmulatorGames = (emulatorGame) => {
         }, 1000),
         [getGames]
     );
-
-    const openModal = (juego) => {
-        setSelectedGame(juego);
-    };
-
-    const closeModal = () => {
-        setSelectedGame(null);
-    };
 
     const handleSubmit = (event) => {
         event.preventDefault();
@@ -37,12 +28,7 @@ export const useEmulatorGames = (emulatorGame) => {
 
     return {
         games,
-        title,
-        pathImage,
-        selectedGame,
         search,
-        openModal,
-        closeModal,
         handleSubmit,
         handleChange,
     };

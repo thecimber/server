@@ -3,10 +3,10 @@ import '../styles/modal.css';
 import { DownloadButtons } from './DownloadButtons';
 import { DOWNLOAD_TUTORIAL, TELEGRAM_CHANEL,PASSWORD_ZIP } from '../constants';
 
-export const ModalDetailsGame = ({ game, onClose, console }) => {
+export const ModalDetailsGame = ({ game, onClose}) => {
   if (!game) return null;
 
-  const { id, name, image, format, language, size, downloadFormat, link, downloadTutorial, date, genre, pathImage, downloadMethods } = game;
+  const { id, name, image,console, format, language, size, downloadFormat, link, downloadTutorial, date, genre, downloadMethods } = game;
 
   return (
     <div className="abrir-modal animacion fadeIn">
@@ -19,7 +19,7 @@ export const ModalDetailsGame = ({ game, onClose, console }) => {
             <div className="modal-body custom-modal-body">
               <div className="modal-body-content">
                 <div className="modal-image">
-                  <img src={pathImage + image} alt="Captain Quazar" />
+                  <img src={image} alt="Captain Quazar" />
                 </div>
                 <div className="modal-info">
                   <p><strong>Consola: </strong> {console}</p>
@@ -31,7 +31,7 @@ export const ModalDetailsGame = ({ game, onClose, console }) => {
 
                   <div className="rating">
                     <p><strong>Descargar: </strong></p>
-
+a
                     {
                       <DownloadButtons methods={downloadMethods} />
                     }
@@ -72,44 +72,3 @@ export const ModalDetailsGame = ({ game, onClose, console }) => {
     </div>
   );
 };
-//https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ps3/sonic-the-hedgehog-ps3-300x350.webp
-/*
-    <div className="modal-overlay">
-      <div className="modal custom-dark-modal" style={{ display: 'block' }}>
-        <div className="modal-header bg-dark text-white border-secondary">
-          <h5 className="modal-title">{name}</h5>
-          <button type="button" className="close text-white" onClick={onClose}>
-            <span>&times;</span>
-          </button>
-        </div>
-        <div className="modal-body bg-dark text-white">
-          <div className="text-center mb-3">
-            <img
-              src={pathImage + image}
-              alt={name}
-              className="img-fluid rounded"
-              style={{ maxHeight: '200px' }}
-            />
-          </div>
-          <div className="modal-details">
-            <p><strong>Consola:</strong> {console}</p>
-            <p><strong>Publicado por:</strong> {''}</p>
-            <p><strong>Desarrollado por:</strong> {''}</p>
-            <p><strong>Vistas:</strong> {''}</p>
-            <p><strong>Descargas:</strong> {'descarga'}</p>
-            <p><strong>Lanzamiento:</strong> {''}</p>
-            <p><strong>Tamaño del archivo:</strong> {size}</p>
-            <p><strong>Calificación:</strong> {''}</p>
-          </div>
-          <div className="modal-description mt-3">
-            <p>{name}</p>
-          </div>
-        </div>
-        <div className="modal-footer bg-dark border-secondary">
-          <button type="button" className="btn btn-secondary" onClick={onClose}>
-            Cerrar
-          </button>
-        </div>
-      </div>
-    </div>
-*/

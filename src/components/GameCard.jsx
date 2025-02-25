@@ -1,11 +1,11 @@
 import '../styles/game.css'
 
-export const GameCard = ( {id, name, image, format, language, size, downloadFormat, link, downloadTutorial, date,genre,pathImage,downloadMethods,handleDetailsGame}) => {
+export const GameCard = ( {id, name,console, image, format, language, size, downloadFormat, link, downloadTutorial, date,genre,downloadMethods,handleDetailsGame}) => {
 
     return (
         <>
-            <div className="juego-card" onClick={() => handleDetailsGame({id, name, image, format, language, size, downloadFormat, link, downloadTutorial, date,genre,pathImage,downloadMethods})}>
-                <img src={pathImage + image} alt="Wing Commander III" />
+            <div className="juego-card" onClick={() => handleDetailsGame({id, name,console, image, format, language, size, downloadFormat, link, downloadTutorial, date,genre,downloadMethods})}>
+                <img src={image} alt="Wing Commander III" />
                 <div className="juego-info">
                     <h3 className='text-white'>{name}</h3>
                     <p className='text-white'>{genre.join(', ')}</p>
