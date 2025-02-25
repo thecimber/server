@@ -31,7 +31,7 @@ export const ModalDetailsGame = ({ game, onClose}) => {
 
                   <div className="rating">
                     <p><strong>Descargar: </strong></p>
-a
+
                     {
                       <DownloadButtons methods={downloadMethods} />
                     }
