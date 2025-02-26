@@ -563,6 +563,53 @@ export const gamesPs3 =
             ]
         },
 
-
+        {
+            id: 315474,
+            name: "Dante's Inferno",
+            image: 'Dantes-Inferno-ps3.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción", "aventuras"],
+            size: '5,34 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/12Ry0awynhG" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1vY5HlUZdPVnPm4-nM_w08g" }
+            ]
+        },
+        {
+            id: 69270,
+            name: 'Fifa Street ',
+            image: 'FIFA-Street-ps3.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Sport"],
+            size: '4,57 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/FkFzrm" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1mMZF6NyFX94FYzdxTMYzAg" }
+            ]
+        },
+        {
+            id: 59749,
+            name: 'www 2k17',
+            image: 'wwe-2k17-ps3.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Fighting"],
+            size: '8,13 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/NnFXVVmNwUB" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1mGZk--WEUqjJpzs5GAW-FA" }
+            ]
+        }
 
     ]
