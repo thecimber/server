@@ -417,7 +417,152 @@ export const gamesPs3 =
                 { ...PROPS_MEDIFIRE, link: "https://cuty.io/Lp8ivs" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1sX_3eh2ZlomWZx0OP3AXrA" }
             ]
-        }
+        },
+        {
+            id: 140429,
+            name: 'God of War Collection',
+            image: 'God-Of-War-Collection_Box_ESRB_FINAL.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción"],
+            size: '21,77 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/hjDS0j" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1T0vSlXmQDe4CBY5WLaHWKA" }
+            ]
+        },
+        {
+            id: 949811,
+            name: 'Uncharted: Drake’s Fortune',
+            image: 'Uncharted-Drake’s-Fortune.webp',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción", "Plataformas"],
+            size: '20,69 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/ToSGrpyJ1Xh" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/19iaiJ-0raWq4H1aHKnAHOw" }
+            ]
+        },
+        {
+            id: 295523,
+            name: 'AFRO SAMURAI',
+            image: 'Afro-Samurai-ps3.webp',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción", "Plataformas"],
+            size: '3,64 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/Q9zlq3" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1xJs3D9IGZqj4ReATVDRfLw" }
+            ]
+        },
+        {
+            id: 778698,
+            name: 'Castle Crashers',
+            image: 'Castle-Crashers-ps3.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción"],
+            size: '154,17 MB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/KsiXe7ny" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1zU4Uc1i1tCjQ7pcbPZojiA" }
+            ]
+        },
+        {
+            id: 93320,
+            name: 'Dragon Ball Z: Ultimate Tenkaichi',
+            image: 'Ultimate-Tenkaichi-ps3.webp',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Fighting"],
+            size: '5,99 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/EYeKuhksRT" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/11Mz3VtJj5Yoa7KcpUm8vVw" }
+            ]
+        },
+        {
+            id: 768848,
+            name: 'Pac-Man Championship Edition DX',
+            image: 'Pac-Man-Championship-Edition-DX-ps3.webp',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Other"],
+            size: '248,04 MB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/yPgLu" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1lxoM2JjDCFRz6mfxqRFQFw" }
+            ]
+        },
+        {
+            id: 366556,
+            name: 'Digimon All-Star Rumble',
+            image: 'digimon-all-star-rumble-ps3-gorosoft-digital-D_NQ_NP_755079-MLA25891337672_082017-F.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción", "Plataformas"],
+            size: '552,23 MB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/iu9YnHasM" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1iVnzXGLt3m-4sTVXYcB3nA" }
+            ]
+        },
+        {
+            id: 881969,
+            name: 'Blur',
+            image: '1589200330-8a99299c-aad6-4723-b68f-4e17a33a4e78.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Other"],
+            size: '5,78 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/hH61I6SceotG" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1d2rqb_w_hWnuI_nn6rR5YQ" }
+            ]
+        },
+        {
+            id: 142702,
+            name: 'Dragon Ball: Raging Blast',
+            image: 'Raging-Blast-ps3.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Fighting"],
+            size: '3,21',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/51Fx" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1DvIE3EpeutR3_thiCSHFzw" }
+            ]
+        },
+
 
 
     ]
