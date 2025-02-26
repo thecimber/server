@@ -38,8 +38,8 @@ export const ModalDetailsGame = ({ game, onClose}) => {
                     {/* <span>★★★★★</span> 2.55 (0 votes) */}
                   </div>
                   <div>
-                    <p className='' style={{color: 'red', fontSize: '1.1rem'}}>Mucha publicidad: <span style={{color: 'white'}}>Enlace mediafire</span></p>
-                    <p className='' style={{color: 'green', fontSize: '1.1rem'}}>Poca publicidad: <span style={{color: 'white'}}>Enlace terabox</span></p>
+                    <p className='' style={{color: 'white', fontSize: '1.1rem'}}>Mediafire: <span style={{color: '#ffff00'}}>Mucha publicidad.</span></p>
+                    <p className='' style={{color: 'white', fontSize: '1.1rem'}}>Terabox: <span style={{color: '#bfff00'}}>Poca publicidad.</span></p>
                   </div>
                   <div className="help-users">
                     <a
