@@ -610,6 +610,102 @@ export const gamesPs3 =
                 { ...PROPS_MEDIFIRE, link: "https://cuty.io/NnFXVVmNwUB" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1mGZk--WEUqjJpzs5GAW-FA" }
             ]
-        }
+        },
+        {
+            id: 546819,
+            name: 'Midnight Club: Los Angeles',
+            image: 'midnight-club-los-angeles-ps3.webp',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Racing"],
+            size: '4 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/MKqqR" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1Z-nWGaeSWoeHEVS3HGyJ0A" }
+            ]
+        },
+        {
+            id: 317978,
+            name: 'Jojo’s Bizarre Adventure: All-Star Battle',
+            image: 'Jojos-Bizarre-Adventure-All-Star-Battle.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Fighting"],
+            size: '2,66 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/966NWABoEv" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1NK8_FaTOkpUoGOrp7WbAAw" }
+            ]
+        },
+        {
+            id: 594100,
+            name: 'Far cry 3',
+            image: 'far-cry-3-ps3.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción", "aventuras"],
+            size: '5 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/3lD7Z" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1dzkT-CV4vzkqabZn3rpxXg" }
+            ]
+        },
+        {
+            id: 558769,
+            name: 'Batman: Arkham City',
+            image: 'Batman-Arkham-City.jpg',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Fighting"],
+            size: '7,57 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/IsvGbZUJN" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1cT4FyubaUszzhwU9tQA2ZQ" }
+            ]
+        },
+        {
+            id: 881477,
+            name: 'Uncharted 2: Among Thieves',
+            image: 'Uncharted-2-Among-Thieves.webp',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción", "Plataformas"],
+            size: '18,37 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/uud1Rzse" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/13gTKp0naXbAc-2t5MWBjww" }
+            ]
+        },
+        {
+            id: 106918,
+            name: 'Sleeping Dogs',
+            image: 'sleeping-dogs-ps3.webp',
+            format: ["ISO/PKG"],
+            language: ["Español"],
+            genre: ["Acción", "aventuras", "construcción"],
+            size: '5,32 GB',
+            link: '',
+            downloadTutorial: DOWNLOAD_TUTORIAL,
+            date: '',
+            downloadMethods: [
+                { ...PROPS_MEDIFIRE, link: "https://cuty.io/ogJbvy8J1" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/123rmbyMOZ0_cf-g-qQ4l2Q" }
+            ]
+        },
 
     ]
