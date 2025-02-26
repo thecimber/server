@@ -1,6 +1,6 @@
 export const DOWNLOAD_TUTORIAL = 'https://youtu.be/prSP3hniOdI?si=95pZkOeDUaVo6VQD';
 
-export const TELEGRAM_CHANEL = ''
+export const TELEGRAM_CHANEL = 'https://t.me/+oh6DcSfpIpY5MGZh'
 
 export const PATH_SERVER = 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main'
 

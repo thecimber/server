@@ -7,7 +7,7 @@ export const DownloadButtons = ({ methods }) => {
                 <a 
                     key={index} 
                     href={link} 
-                    className={`btn ${color}`} 
+                    className={`btn ${color} btn-sm`} 
                     target="_blank" 
                     rel="noopener noreferrer"
                     translate="no"

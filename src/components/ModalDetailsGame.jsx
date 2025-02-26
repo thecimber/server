@@ -41,19 +41,19 @@ export const ModalDetailsGame = ({ game, onClose}) => {
                     <p className='' style={{color: 'white', fontSize: '1.1rem'}}>Mediafire: <span style={{color: '#ffff00'}}>Mucha publicidad.</span></p>
                     <p className='' style={{color: 'white', fontSize: '1.1rem'}}>Terabox: <span style={{color: '#bfff00'}}>Poca publicidad.</span></p>
                   </div>
-                  <div className="help-users">
+                  <div className="help-users row mx-1">
                     <a
                       href={DOWNLOAD_TUTORIAL}
-                      className={`btn btn-danger`}
+                      className={`btn btn-danger btn-sm`}
                       target="_blank"
                       rel=""
                     >
-                      <i className='fa-brands fa-youtube'></i> {'Tutorial de descarga'}
+                      <i className='fa-brands fa-youtube'></i> {'Como descargar en terabox'}
                     </a>
 
                     <a
                       href={TELEGRAM_CHANEL}
-                      className={`btn btn-primary`}
+                      className={`btn btn-primary btn-sm`}
                       target="_blank"
                       rel=""
                     >
