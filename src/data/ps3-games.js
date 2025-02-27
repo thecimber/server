@@ -913,4 +913,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/AH9bzE4D" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1ZOYpaASJL2OQQWnRsDnsag" }
         ]
+    },
+{
+        id: 90685,
+        name: 'The Simpsons Game',
+        image: 'the-simpsons-game-ps3.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","aventuras"],
+        size: '9,65 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/R7PJ" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/16EBvAYmpJ0JkjQnm_DfroQ" }
+        ]
     }]
