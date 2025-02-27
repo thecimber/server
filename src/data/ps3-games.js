@@ -849,4 +849,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/Ij8fTV0d" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/10sIVLjBopITcZmbqPYa76g" }
         ]
+    },
+{
+        id: 270336,
+        name: 'Infamous 2',
+        image: 'June-7-2011.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","aventuras"],
+        size: '13,93 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/0SjCpqyp7Au" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1yXu3DPi6qAvc48Z4GdJc-w" }
+        ]
     }]
