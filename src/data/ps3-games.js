@@ -881,4 +881,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/9kkW6rg" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1sT8DJmzmOb1dfFAD-x4olA" }
         ]
+    },
+{
+        id: 612968,
+        name: 'PES 2018: Pro Evolution Soccer',
+        image: 'pes-181-69373e65c6b5c9fc7c15608710201424-640-0.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Sport"],
+        size: '7,96 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/oH1j" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1fZ0T8-FNT6Dczj9q-10YaQ" }
+        ]
     }]
