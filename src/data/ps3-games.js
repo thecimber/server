@@ -929,4 +929,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/R7PJ" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/16EBvAYmpJ0JkjQnm_DfroQ" }
         ]
+    },
+{
+        id: 902916,
+        name: 'Assassin’s Creed IV: Black Flag',
+        image: 'Assassins-Creed-IV-Black-Flag-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '8,40 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/Q9sSHhK9NgWN" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1d6qTQL7_FvnCF2VO5S62Gg" }
+        ]
     }]
