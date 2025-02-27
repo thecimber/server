@@ -799,7 +799,7 @@ export const gamesPs3 =
         date: '',
         downloadMethods: [
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/hOtXhxW" },
-                { ...PROPS_MEDIFIRE, link: "https://1024terabox.com/s/1Th7ZnZNXSrNrhl-ke4s8Ow" }
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1Th7ZnZNXSrNrhl-ke4s8Ow" }
         ]
     },
 {
