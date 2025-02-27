@@ -817,4 +817,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/Z0RdsZPd" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1IGao5cMsY5V-QMBbhzaiIg" }
         ]
+    },
+{
+        id: 863355,
+        name: 'Bleach: Soul Resurrección',
+        image: '71XmJJpgYL.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Fighting"],
+        size: '1,98 Gb',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/h3T7oCEh1oQ" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1u5-KxUaexxWVax2FAFG5OQ" }
+        ]
     }]
