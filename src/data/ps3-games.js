@@ -1,8 +1,7 @@
 import { DOWNLOAD_TUTORIAL, PROPS_ACTUALIZACION, PROPS_MEDIFIRE, PROPS_TERABOX } from "../constants";
 
 export const gamesPs3 =
-    [
-        {
+    [{
             id: 576867,
             name: 'Minecraft PlayStation 3 Edition',
             image: 'Minecraft-PlayStation-3-Edition.webp',
@@ -706,6 +705,52 @@ export const gamesPs3 =
                 { ...PROPS_MEDIFIRE, link: "https://cuty.io/ogJbvy8J1" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/123rmbyMOZ0_cf-g-qQ4l2Q" }
             ]
-        }
-
-    ]
+        },
+{
+        id: 309586,
+        name: 'J-STARS Victory Vs+',
+        image: 'J-Stars-Victory-VS-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '3,46 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/UimF" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/17sIzn5CXAISIivOSkvsq2Q" }
+        ]
+    },
+{
+        id: 631150,
+        name: 'J-STARS Victory Vs+',
+        image: 'J-Stars-Victory-VS-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '3,46 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/UimF" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/17sIzn5CXAISIivOSkvsq2Q" }
+        ]
+    },
+{
+        id: 261027,
+        name: 'J-STARS Victory Vs+',
+        image: 'J-Stars-Victory-VS-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '3,46 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/UimF" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/17sIzn5CXAISIivOSkvsq2Q" }
+        ]
+    }]
