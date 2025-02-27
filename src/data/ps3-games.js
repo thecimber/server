@@ -977,7 +977,7 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/nF0RIoRH" },
             { ...PROPS_TERABOX, link: "https://1024terabox.com/s/15_ezTRa_QZZ5Q1Nd54VDPA" }
         ]
-    },
+    }, 
     {
         id: 694697,
         name: 'Drakengard 3',
