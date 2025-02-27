@@ -945,4 +945,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/Q9sSHhK9NgWN" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1d6qTQL7_FvnCF2VO5S62Gg" }
         ]
+    },
+{
+        id: 115205,
+        name: 'Max payne 3',
+        image: 'max-payne-3-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '13,8 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/J8n89bOtJ" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1JeSxrkhZkXOJQ30tzskphw" }
+        ]
     }]
