@@ -897,4 +897,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/oH1j" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1fZ0T8-FNT6Dczj9q-10YaQ" }
         ]
+    },
+{
+        id: 94437,
+        name: 'Far cry 4 (Pack 3)',
+        image: 'November-18-2014.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas","Fighting"],
+        size: '15,21 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/AH9bzE4D" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1ZOYpaASJL2OQQWnRsDnsag" }
+        ]
     }]
