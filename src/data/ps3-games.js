@@ -977,4 +977,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/nF0RIoRH" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/15_ezTRa_QZZ5Q1Nd54VDPA" }
         ]
+    },
+{
+        id: 694697,
+        name: 'Drakengard 3',
+        image: 'Drakengard-3-ps3-scaled.jpg',
+        format: ["ISO/PKG"],
+        language: ["USA"],
+        genre: ["Acción","Plataformas","Fighting"],
+        size: '15,5 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/kubSJgmL" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1N7AiTJ00PO-JmPNKvGBpbA" }
+        ]
     }]
