@@ -785,4 +785,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/9RtGN9KA" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1WC2anyRmGMi2to_dZ8_M8w" }
         ]
+    },
+{
+        id: 656781,
+        name: 'Mafia 2',
+        image: '24-August-2010.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción"],
+        size: '7,24 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/hOtXhxW" },
+                { ...PROPS_MEDIFIRE, link: "https://1024terabox.com/s/1Th7ZnZNXSrNrhl-ke4s8Ow" }
+        ]
     }]
