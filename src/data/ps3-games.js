@@ -833,4 +833,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/h3T7oCEh1oQ" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1u5-KxUaexxWVax2FAFG5OQ" }
         ]
+    },
+{
+        id: 521090,
+        name: 'Ultimate Marvel vs Capcom 3',
+        image: 'ultimate-marvel-vs-capcom-3-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '2,88 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/Ij8fTV0d" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/10sIVLjBopITcZmbqPYa76g" }
+        ]
     }]
