@@ -865,4 +865,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/0SjCpqyp7Au" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1yXu3DPi6qAvc48Z4GdJc-w" }
         ]
+    },
+{
+        id: 373450,
+        name: 'Call of Duty: World at War',
+        image: 'Call-of-Duty-World-at-War-ps3.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción"],
+        size: '10,81 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/9kkW6rg" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1sT8DJmzmOb1dfFAD-x4olA" }
+        ]
     }]
