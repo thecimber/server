@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import logo from '../assets/logo.jpg';
 
 export const Navbar = () => {
-    return (
+    return ( 
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
             <Link to="/" className="navbar-brand">
                 <img className="logo-navbar" src={logo} alt="" />
