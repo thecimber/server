@@ -737,4 +737,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/eNxQG" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1DncBPpUlSqzTJaR6r_SeBQ" }
         ]
+    },
+{
+        id: 55374,
+        name: 'Resident Evil 5',
+        image: 'March-5-2009.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '10,01 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/tKsthR6Tr" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1uzSVgxpwjSVfKEEa6or0xg" }
+        ]
     }]
