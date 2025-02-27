@@ -753,4 +753,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/tKsthR6Tr" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1uzSVgxpwjSVfKEEa6or0xg" }
         ]
+    },
+{
+        id: 834855,
+        name: 'Devil may cry 4',
+        image: 'devil-may-cry-4-ps3.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '6,64 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/G1rFajk" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1LVHN4BKQMGrvkaZdE63oyA" }
+        ]
     }]
