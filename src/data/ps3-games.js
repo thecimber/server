@@ -721,4 +721,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/UimF" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/17sIzn5CXAISIivOSkvsq2Q" }
         ]
+    },
+{
+        id: 457901,
+        name: 'Call of Duty 4: Modern Warfare',
+        image: 'Call-of-Duty-4-Modern-Warfare.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción"],
+        size: '5,57 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/eNxQG" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1DncBPpUlSqzTJaR6r_SeBQ" }
+        ]
     }]
