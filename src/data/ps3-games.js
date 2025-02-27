@@ -753,4 +753,36 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/UimF" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/17sIzn5CXAISIivOSkvsq2Q" }
         ]
+    },
+{
+        id: 546719,
+        name: 'J-STARS Victory Vs+',
+        image: 'J-Stars-Victory-VS-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '3,46 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/UimF" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/17sIzn5CXAISIivOSkvsq2Q" }
+        ]
+    },
+{
+        id: 708434,
+        name: 'J-STARS Victory Vs+',
+        image: 'J-Stars-Victory-VS-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '3,46 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/UimF" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/17sIzn5CXAISIivOSkvsq2Q" }
+        ]
     }]
