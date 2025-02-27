@@ -706,6 +706,6 @@ export const gamesPs3 =
                 { ...PROPS_MEDIFIRE, link: "https://cuty.io/ogJbvy8J1" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/123rmbyMOZ0_cf-g-qQ4l2Q" }
             ]
-        },
+        }
 
     ]
