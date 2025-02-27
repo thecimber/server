@@ -801,4 +801,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/hOtXhxW" },
                 { ...PROPS_MEDIFIRE, link: "https://1024terabox.com/s/1Th7ZnZNXSrNrhl-ke4s8Ow" }
         ]
+    },
+{
+        id: 822436,
+        name: 'WRC 5',
+        image: 'WRC-5-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Other"],
+        size: '4,49 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/Z0RdsZPd" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1IGao5cMsY5V-QMBbhzaiIg" }
+        ]
     }]
