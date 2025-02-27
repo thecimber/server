@@ -769,4 +769,36 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/G1rFajk" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1LVHN4BKQMGrvkaZdE63oyA" }
         ]
+    },
+{
+        id: 463741,
+        name: 'The Elder Scrolls V Skyrim',
+        image: 'Elder-Scrolls-V-Skyrim.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '4,09 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/9RtGN9KA" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1WC2anyRmGMi2to_dZ8_M8w" }
+        ]
+    },
+{
+        id: 271999,
+        name: 'The Elder Scrolls V Skyrim',
+        image: 'Elder-Scrolls-V-Skyrim.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '4,09 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/9RtGN9KA" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1WC2anyRmGMi2to_dZ8_M8w" }
+        ]
     }]
