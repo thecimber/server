@@ -1,12 +1,9 @@
 import { EmulatorCard } from "../components/EmulatorCard";
+import { getEmulators } from "../services/emulatorService";
 import '../styles/home.css';
 
-const emulators = [
-    { id: 1, name: 'PS3', path: 'ps3', image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ps3-png.png' },
-];
-
-
 export const Home = () => {
+    const emulators = getEmulators();
     return (
         <div className="home">
             <h1 className="text-white">Emuladores</h1>

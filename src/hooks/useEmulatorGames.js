@@ -1,6 +1,7 @@
 import { useState, useCallback } from "react";
 import debounce from "just-debounce-it";
 import { useGames } from "../hooks/useGames";
+import { getEmulatorByName } from "../services/emulatorService";
 
 export const useEmulatorGames = (emulatorGame) => {
 
@@ -26,10 +27,13 @@ export const useEmulatorGames = (emulatorGame) => {
         debouncedGetGames(newSearch);
     };
 
+    const emulador = getEmulatorByName(emulatorGame);
+
     return {
         games,
         search,
         handleSubmit,
         handleChange,
+        emulador
     };
 };
