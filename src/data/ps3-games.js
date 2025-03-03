@@ -1121,4 +1121,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/I0K7rKgUEKix" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1zRPZ3ZdZy4OdtC3yaxpxCw" }
         ]
+    },
+{
+        id: 935209,
+        name: 'Nier',
+        image: 'nier-ps3.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción"],
+        size: '5,72 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/ChJPE" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1NIx8oe8E1Tevpp3ko10CJA" }
+        ]
     }]
