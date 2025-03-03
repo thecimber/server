@@ -1233,4 +1233,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/bKLaLsGLJF" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1i2UqbUtep8J1h1LjJlob_Q" }
         ]
+    },
+{
+        id: 354900,
+        name: 'Watch dogs',
+        image: 'watch-dogs-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '9,75 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/ZXEvL88" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1nDH3EtjQ9nb3JaOexG6LsA" }
+        ]
     }]
