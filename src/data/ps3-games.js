@@ -993,4 +993,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/kubSJgmL" },
             { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1N7AiTJ00PO-JmPNKvGBpbA" }
         ]
+    },
+{
+        id: 759626,
+        name: 'Dark souls',
+        image: 'dark-souls-ps3.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '4,41 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/W9iXB" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1sX8pFD79LYvYrDF442KVTw" }
+        ]
     }]
