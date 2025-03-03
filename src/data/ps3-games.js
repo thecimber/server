@@ -1265,4 +1265,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/FqHUO" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1DC4pJ6W1g3IzIiuF16G1cw" }
         ]
+    },
+{
+        id: 830318,
+        name: 'Naruto shippuden ultimate ninja storm 2',
+        image: 'Naruto-Shippuden-Ultimate-Ninja-Storm-2-ps3.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas","Fighting"],
+        size: '4,41 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/N2hW" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1OOIub6uIZJjBEM_5zSKGXQ" }
+        ]
     }]
