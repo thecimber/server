@@ -977,7 +977,7 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/nF0RIoRH" },
             { ...PROPS_TERABOX, link: "https://1024terabox.com/s/15_ezTRa_QZZ5Q1Nd54VDPA" }
         ]
-    }, 
+    },
     {
         id: 694697,
         name: 'Drakengard 3',
@@ -994,39 +994,39 @@ export const gamesPs3 =
             { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1N7AiTJ00PO-JmPNKvGBpbA" }
         ]
     },
-{
+    {
         id: 759626,
         name: 'Dark souls',
         image: 'dark-souls-ps3.webp',
         format: ["ISO/PKG"],
         language: ["Español"],
-        genre: ["Acción","Plataformas"],
+        genre: ["Acción", "Plataformas"],
         size: '4,41 GB',
         link: '',
         downloadTutorial: DOWNLOAD_TUTORIAL,
         date: '',
         downloadMethods: [
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/W9iXB" },
-                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1sX8pFD79LYvYrDF442KVTw" }
+            { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1sX8pFD79LYvYrDF442KVTw" }
         ]
     },
-{
+    {
         id: 352348,
-        name: 'Assassin's creed rogue',
+        name: "Assassin's creed rogue",
         image: 'Rogue-ps3.jpg',
         format: ["ISO/PKG"],
         language: ["Español"],
-        genre: ["Acción","Plataformas"],
+        genre: ["Acción", "Plataformas"],
         size: '6,9 GB',
         link: '',
         downloadTutorial: DOWNLOAD_TUTORIAL,
         date: '',
         downloadMethods: [
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/hpnDv" },
-                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1e_PlK0ykZWoQORXFtVhRkA" }
+            { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1e_PlK0ykZWoQORXFtVhRkA" }
         ]
     },
-{
+    {
         id: 904005,
         name: 'Mortal Kombat vs DC universe',
         image: 'mortal-kombat-vs-dc-universe-ps3.webp',
@@ -1039,6 +1039,6 @@ export const gamesPs3 =
         date: '',
         downloadMethods: [
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/pdix4YAqa0" },
-                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1IY5TIJXLox7uO7yICkHSjA" }
+            { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1IY5TIJXLox7uO7yICkHSjA" }
         ]
     }]
