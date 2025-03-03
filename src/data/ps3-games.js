@@ -1057,4 +1057,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/CoXzO2m9l" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/19Tn185XfyiGyFZZ9LmkgfQ" }
         ]
+    },
+{
+        id: 678756,
+        name: 'Wwe SmackDown vs Raw',
+        image: 'wwe-smackdown-vs-raw-2011-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Fighting"],
+        size: '4,81 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/6namUTAR2D" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1OqlkV3kBIHYuu2vIUQDlZw" }
+        ]
     }]

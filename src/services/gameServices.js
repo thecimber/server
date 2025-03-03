@@ -15,7 +15,7 @@ export const getGamesBySearch = ({search}) => {
     const games = getGamesPs3().map(game => ({...game,console: 'Ps3',image: PATH_SERVER_PS3 + game.image}));
 
     const filterGames = games.filter((game) =>
-        game.name.toLowerCase().includes(search.toLowerCase().trim())
+        game.name.toLowerCase().trim().includes(search.toLowerCase().trim())
     );
 
     return filterGames;
