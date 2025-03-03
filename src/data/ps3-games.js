@@ -1009,4 +1009,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/W9iXB" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1sX8pFD79LYvYrDF442KVTw" }
         ]
+    },
+{
+        id: 352348,
+        name: 'Assassin's creed rogue',
+        image: 'Rogue-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '6,9 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/hpnDv" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1e_PlK0ykZWoQORXFtVhRkA" }
+        ]
     }]
