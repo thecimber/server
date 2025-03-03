@@ -1105,4 +1105,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/cyiGeXJG1Z" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1E1QuVdxtyIBaIyGfNHB5wA" }
         ]
+    },
+{
+        id: 427114,
+        name: 'Need for speed carbon',
+        image: 'need-for-speed-carbon-ps3.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción"],
+        size: '19,73',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/I0K7rKgUEKix" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1zRPZ3ZdZy4OdtC3yaxpxCw" }
+        ]
     }]
