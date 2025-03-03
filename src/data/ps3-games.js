@@ -1041,4 +1041,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/pdix4YAqa0" },
             { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1IY5TIJXLox7uO7yICkHSjA" }
         ]
+    },
+{
+        id: 843638,
+        name: 'Wwe 2k14',
+        image: 'wwe-2k14-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Fighting"],
+        size: '13,04 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/CoXzO2m9l" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/19Tn185XfyiGyFZZ9LmkgfQ" }
+        ]
     }]
