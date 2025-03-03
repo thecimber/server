@@ -1169,4 +1169,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/z7pxgI" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1gdDtWten0ORmmADB1fVOOw" }
         ]
+    },
+{
+        id: 805215,
+        name: 'Little big planet 2',
+        image: 'littlebigplanet-2-ps3.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '18,39 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/kfBCD" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1CwJrD0RudfOV_KdZHj6mOg" }
+        ]
     }]
