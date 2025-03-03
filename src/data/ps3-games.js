@@ -1025,4 +1025,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/hpnDv" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1e_PlK0ykZWoQORXFtVhRkA" }
         ]
+    },
+{
+        id: 904005,
+        name: 'Mortal Kombat vs DC universe',
+        image: 'mortal-kombat-vs-dc-universe-ps3.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Fighting"],
+        size: '5,59',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/pdix4YAqa0" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1IY5TIJXLox7uO7yICkHSjA" }
+        ]
     }]
