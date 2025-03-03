@@ -1185,4 +1185,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/kfBCD" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1CwJrD0RudfOV_KdZHj6mOg" }
         ]
+    },
+{
+        id: 255254,
+        name: 'Spider-man 3',
+        image: 'spider-man-3.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Fighting"],
+        size: '4,33 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/fhRNcqkjp" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1gCMPv1xdC4VWVPggAlEW9w" }
+        ]
     }]
