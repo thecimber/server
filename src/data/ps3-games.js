@@ -1281,4 +1281,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/N2hW" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1OOIub6uIZJjBEM_5zSKGXQ" }
         ]
+    },
+{
+        id: 826585,
+        name: 'Marvel vs Capcom fate of two worlds 3',
+        image: 'Fate-of-Two-Worlds-ps3.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '3,02',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/b6MVD2Va" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1Sr2kM8v08Q8QHItE_dMvWg" }
+        ]
     }]
