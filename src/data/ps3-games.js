@@ -1297,4 +1297,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/b6MVD2Va" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1Sr2kM8v08Q8QHItE_dMvWg" }
         ]
+    },
+{
+        id: 741821,
+        name: 'Playstation all-star battle royale',
+        image: 'PlayStation-All-Stars-Battle-Royale-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Fighting"],
+        size: '4,89 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/NPyH" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1s0HymHhOchxGhlMBsyUTDQ" }
+        ]
     }]
