@@ -1217,4 +1217,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/WeZx" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1QpTeBzBr7J0_GP3Lfhfmpw" }
         ]
+    },
+{
+        id: 937293,
+        name: 'Mortal Kombat 2011',
+        image: 'Mortal-Kombat-2011-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Fighting"],
+        size: '8,77 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/bKLaLsGLJF" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1i2UqbUtep8J1h1LjJlob_Q" }
+        ]
     }]
