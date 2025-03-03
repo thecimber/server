@@ -1201,4 +1201,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/fhRNcqkjp" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1gCMPv1xdC4VWVPggAlEW9w" }
         ]
+    },
+{
+        id: 693826,
+        name: 'Plants vs zombie Garden Warfare ',
+        image: 'Garden-Warfare-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Other"],
+        size: '3,08 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/WeZx" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1QpTeBzBr7J0_GP3Lfhfmpw" }
+        ]
     }]
