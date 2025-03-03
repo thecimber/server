@@ -1089,4 +1089,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/3LuXp" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1GWk55EpVtLIocQK6djbIYw" }
         ]
+    },
+{
+        id: 76469,
+        name: 'Pes 2013 pro evolution soccer ',
+        image: 'Pro-Evolution-Soccer-2013-ps3-wiki.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Sport"],
+        size: '5,74 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/cyiGeXJG1Z" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1E1QuVdxtyIBaIyGfNHB5wA" }
+        ]
     }]
