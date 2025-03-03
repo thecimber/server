@@ -1137,4 +1137,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/ChJPE" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1NIx8oe8E1Tevpp3ko10CJA" }
         ]
+    },
+{
+        id: 234320,
+        name: 'Sly Cooper thieves in time ',
+        image: 'Thieves-In-Time-ps3.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '18,97 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/SVP19yCM0u" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1drl52uOzCnJt2v9VMKkYOQ" }
+        ]
     }]
