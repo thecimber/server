@@ -1153,4 +1153,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/SVP19yCM0u" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1drl52uOzCnJt2v9VMKkYOQ" }
         ]
+    },
+{
+        id: 109868,
+        name: 'Need for speed rivals',
+        image: 'need-for-speed-rivals-ps3-wiki.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '6,54 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/z7pxgI" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1gdDtWten0ORmmADB1fVOOw" }
+        ]
     }]
