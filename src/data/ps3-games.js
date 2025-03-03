@@ -1073,4 +1073,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/6namUTAR2D" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1OqlkV3kBIHYuu2vIUQDlZw" }
         ]
+    },
+{
+        id: 966554,
+        name: 'Zen pinball',
+        image: 'Zen-Pinball-2.webp',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Other"],
+        size: '388,36 MB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/3LuXp" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1GWk55EpVtLIocQK6djbIYw" }
+        ]
     }]
