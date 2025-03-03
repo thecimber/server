@@ -1249,4 +1249,20 @@ export const gamesPs3 =
             { ...PROPS_MEDIFIRE, link: "https://cuty.io/ZXEvL88" },
                 { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1nDH3EtjQ9nb3JaOexG6LsA" }
         ]
+    },
+{
+        id: 129107,
+        name: 'Tales of xillia',
+        image: 'tales-of-xillia-ps3.jpg',
+        format: ["ISO/PKG"],
+        language: ["Español"],
+        genre: ["Acción","Plataformas"],
+        size: '6,11 GB',
+        link: '',
+        downloadTutorial: DOWNLOAD_TUTORIAL,
+        date: '',
+        downloadMethods: [
+            { ...PROPS_MEDIFIRE, link: "https://cuty.io/FqHUO" },
+                { ...PROPS_TERABOX, link: "https://1024terabox.com/s/1DC4pJ6W1g3IzIiuF16G1cw" }
+        ]
     }]
