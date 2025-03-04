@@ -3,7 +3,7 @@ import { DOWNLOAD_TUTORIAL, PROPS_ACTUALIZACION, PROPS_MEDIFIRE, PROPS_TERABOX }
 export const gamesPs3 =
     [{
                 id: "576867",
-                name: "Minecraft PlayStation 3 ",
+                name: "Minecraft PlayStation 3 Edition",
                 image: "Minecraft-PlayStation-3-Edition.webp",
                 format: ["ISO/PKG"],
                 language: ["Español"],
