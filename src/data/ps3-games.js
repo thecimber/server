@@ -1205,4 +1205,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/qwViIOfz" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1jqpWe0rq2Ki0cSEjjeZ6pw" }
                 ]
+            },{
+                id: "RIE4hrPo",
+                name: "Street fighter x tekken",
+                image: "Street-fighter-x-tekken-(Europe).jpg",
+                format: ["PKG/ISO"],
+                language: ["Español"],
+                genre: ["Fighting"],
+                size: "12.78 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/j4Nj5Ip9yo" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/17j_pi8BAzgOb5Iy3R_6IxQ" }
+                ]
             }];
