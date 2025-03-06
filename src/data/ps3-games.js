@@ -1177,4 +1177,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/k7Snq7" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1NdyjO5xBuhQHgzCqP701_Q" }
                 ]
+            },{
+                id: "IL3hdXEw",
+                name: "Little big planet 3",
+                image: "Little-big-planet-3-(Europe).jpg",
+                format: ["ISO/PKG"],
+                language: ["Español"],
+                genre: ["Acción","Plataformas"],
+                size: "7.8 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/3o71bEWOq4j" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/19edz3PsybbksyWEzksi5ng" }
+                ]
             }];
