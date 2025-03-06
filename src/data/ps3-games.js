@@ -1191,4 +1191,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/3o71bEWOq4j" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/19edz3PsybbksyWEzksi5ng" }
                 ]
+            },{
+                id: "mNGSc5JH",
+                name: "Battlefield 4",
+                image: "Battlefield-4-(Europe).jpg",
+                format: ["ISO/PKG"],
+                language: ["Español"],
+                genre: ["Action","Shooter"],
+                size: "10.68 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/qwViIOfz" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1jqpWe0rq2Ki0cSEjjeZ6pw" }
+                ]
             }];
