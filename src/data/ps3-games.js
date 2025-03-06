@@ -1163,4 +1163,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/OfoeZ23FV8w" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1rsojYLOdf85YRRgAd5AT_A" }
                 ]
+            },{
+                id: "ExKJbpoH",
+                name: "Sonic Generation",
+                image: "Sonic-Generation-(Europe).jpg",
+                format: ["ISO/PKG"],
+                language: ["Español"],
+                genre: ["Action","Adventure","Platformer"],
+                size: "8.7 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/k7Snq7" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1NdyjO5xBuhQHgzCqP701_Q" }
+                ]
             }];
