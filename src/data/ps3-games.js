@@ -1219,4 +1219,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/j4Nj5Ip9yo" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/17j_pi8BAzgOb5Iy3R_6IxQ" }
                 ]
+            },{
+                id: "MuUtDNh6",
+                name: "Fifa 19",
+                image: "fifa-19.jpg",
+                format: ["ISO/PKG"],
+                language: ["Español"],
+                genre: ["Deportes"],
+                size: "8.84 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/hXw3o" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1WxDbFK_Ehcgt3M8DJi_kfQ" }
+                ]
             }];
