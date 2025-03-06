@@ -1149,4 +1149,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/NPyH" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1s0HymHhOchxGhlMBsyUTDQ" }
                 ]
+            },{
+                id: "ZBdjzWIU",
+                name: "Street fighter IV",
+                image: "Street-fighter-IV.jpg",
+                format: ["ISO/PKG"],
+                language: ["Español"],
+                genre: ["Fighting"],
+                size: "19.3 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/OfoeZ23FV8w" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1rsojYLOdf85YRRgAd5AT_A" }
+                ]
             }];
