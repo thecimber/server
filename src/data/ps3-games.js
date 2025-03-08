@@ -1261,4 +1261,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/1vkXSUYY4Dx" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1rlUiFZ86GF-c4ZuwdorT4g" }
                 ]
+            },{
+                id: "nmhqYHdW",
+                name: "FIFA 13",
+                image: "fifa-13.jpg",
+                format: ["ISO/PKG"],
+                language: ["Español"],
+                genre: ["Deportes"],
+                size: "5.58 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/aHdZ" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1P3tUzo2nE6TcxIMq5UpDcg" }
+                ]
             }];
