@@ -1275,4 +1275,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/aHdZ" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1P3tUzo2nE6TcxIMq5UpDcg" }
                 ]
+            },{
+                id: "1xKxA5xC",
+                name: "FIFA 18",
+                image: "fifa-18.jpg",
+                format: ["ISO/PKG"],
+                language: ["Español"],
+                genre: ["Deportes"],
+                size: "8.87 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/gI6lIh" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1vbWXuMUW_Fug8VykzlgfoQ" }
+                ]
             }];
