@@ -1317,4 +1317,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/q1Vp1TR" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1p2Ha00Auv-JiRBc-ZCJ2rQ" }
                 ]
+            },{
+                id: "VxAg-TNk",
+                name: "Naruto Shippuden ultimate ninja storm 3 full burst",
+                image: "Naruto Shippuden-ultimate-ninja-storm-3-full-burst.jpg",
+                format: ["ISO/PKG"],
+                language: ["Español"],
+                genre: ["Fighting"],
+                size: "6.55 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/rCBNzj3" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Bwcx8i8xMAa5i1k__wPWMw" }
+                ]
             }];
