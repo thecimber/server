@@ -1289,4 +1289,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/gI6lIh" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1vbWXuMUW_Fug8VykzlgfoQ" }
                 ]
+            },{
+                id: "erizIKCr",
+                name: "Naruto Ultimate ninja storm 3",
+                image: "Naruto-Ultimate-ninja-storm-3.jpg",
+                format: ["ISO/PKG"],
+                language: ["Español"],
+                genre: ["Action","Fighting"],
+                size: "6.32 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ylhWh" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1IGQBpzvgMkH3SVXZ0FJr6g" }
+                ]
             }];
