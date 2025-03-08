@@ -1247,4 +1247,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/K364" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/14CCCXcmbryQCnAFd8Sp7dg" }
                 ]
+            },{
+                id: "MnjbVeoh",
+                name: "FIFA 12",
+                image: "fifa-12.jpg",
+                format: ["ISO/PKG"],
+                language: ["Español"],
+                genre: ["Deportes"],
+                size: "8.86 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/1vkXSUYY4Dx" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1rlUiFZ86GF-c4ZuwdorT4g" }
+                ]
             }];
