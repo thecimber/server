@@ -1387,4 +1387,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/GbbXILCf9uvy" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1efjXvw1qQLhRJ28tRJaIdQ" }
                 ]
+            },{
+                id: "yF9eTwsz",
+                name: "God of war 3 Edición Completa",
+                image: "God-of-war-3-Edición-Completa.jpg",
+                format: ["ISO/PKG"],
+                language: ["Español"],
+                genre: ["Action","Fighting"],
+                size: "40 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://1024terabox.com/s/1_Lo7dRfRV1HT5qIXGPL58g" },{ ...PROPS_TERABOX , link: "https://cuty.io/v1ZEVl" }
+                ]
             }];
