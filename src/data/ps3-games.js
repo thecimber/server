@@ -1359,4 +1359,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://1024terabox.com/s/1B3kxYYv7y_vgAyQVsygKHw" },{ ...PROPS_TERABOX , link: "https://cuty.io/CCPjuBAs" }
                 ]
+            },{
+                id: "VMcK4ANB",
+                name: "NBA 2k18",
+                image: "Nba-2k18.jpg",
+                format: ["ISO/PKG"],
+                language: ["Español"],
+                genre: ["Deportes"],
+                size: "8.28 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/CuXPbFJdLA" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/13TwDEdBQl3bHFoe8ZlBF-g" }
+                ]
             }];
