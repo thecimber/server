@@ -1331,4 +1331,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/rCBNzj3" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Bwcx8i8xMAa5i1k__wPWMw" }
                 ]
+            },{
+                id: "NzOAc2V-",
+                name: "Dmc Devil may cry",
+                image: "Dmc-Devil-may-cry.jpg",
+                format: ["ISo/PKG"],
+                language: ["Español"],
+                genre: ["Action","adventures"],
+                size: "6.35 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://1024terabox.com/s/1EJnZUe-Qy-eCIREpEMbyVQ" },{ ...PROPS_TERABOX , link: "https://cuty.io/uTuv2d" }
+                ]
             }];
