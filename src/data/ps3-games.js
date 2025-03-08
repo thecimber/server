@@ -1233,4 +1233,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/hXw3o" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1WxDbFK_Ehcgt3M8DJi_kfQ" }
                 ]
+            },{
+                id: "TevRI8am",
+                name: "Fifa 10",
+                image: "fifa-10.jpg",
+                format: ["ISO/PKG"],
+                language: ["Español"],
+                genre: ["Deportes"],
+                size: "9.27 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/K364" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/14CCCXcmbryQCnAFd8Sp7dg" }
+                ]
             }];
