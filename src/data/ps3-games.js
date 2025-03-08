@@ -1303,4 +1303,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/ylhWh" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1IGQBpzvgMkH3SVXZ0FJr6g" }
                 ]
+            },{
+                id: "0F8Ch1tO",
+                name: "Naruto Shippuden Ultimate Ninja Storm Generations",
+                image: "Naruto ShippudeUltimate-Ninja-Storm-Generations.jpg",
+                format: ["ISO/PKG"],
+                language: ["Español"],
+                genre: ["Fighting"],
+                size: "5.09 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/q1Vp1TR" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1p2Ha00Auv-JiRBc-ZCJ2rQ" }
+                ]
             }];
