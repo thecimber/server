@@ -1345,4 +1345,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://1024terabox.com/s/1EJnZUe-Qy-eCIREpEMbyVQ" },{ ...PROPS_TERABOX , link: "https://cuty.io/uTuv2d" }
                 ]
+            },{
+                id: "DYLXkVV3",
+                name: "Diablo 3",
+                image: "Diablo-3.jpg",
+                format: ["ISO/PKG"],
+                language: ["Español"],
+                genre: ["Action","Role-Playing"],
+                size: "22.21 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://1024terabox.com/s/1B3kxYYv7y_vgAyQVsygKHw" },{ ...PROPS_TERABOX , link: "https://cuty.io/CCPjuBAs" }
+                ]
             }];
