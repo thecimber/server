@@ -1,8 +1,8 @@
-body{
+body {
     background-color: rgb(45, 43, 43) !important;
 }
 
-.logo-navbar{
+.logo-navbar {
     width: 4rem;
     margin: 5px;
     border-radius: 50%;
@@ -13,7 +13,8 @@ body{
     text-align: justify;
 }
 
-.active>.page-link, .page-link.active {
+.active>.page-link,
+.page-link.active {
     background-color: blueviolet !important;
     border-color: black !important;
 }
@@ -23,8 +24,15 @@ body{
     color: white !important;
 }
 
-.pagination{
+.pagination {
     gap: 7px !important;
+}
+
+@media (max-width: 480px) {
+    .pagination {
+        gap: 4px !important;
+    }
+
 }
 
 /* .bg-deku{

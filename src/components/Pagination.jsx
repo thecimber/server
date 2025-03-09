@@ -2,7 +2,7 @@ import React from 'react';
 
 export const Pagination = ({ currentPage, goToPreviousPage, goToNextPage, gamesPerPage, length, paginate }) => {
     const totalPages = Math.ceil(length / gamesPerPage); 
-    const maxPagesToShow = 5;
+    const maxPagesToShow = 4;
 
     const generatePageNumbers = () => {
         const pageNumbers = [];
@@ -14,14 +14,14 @@ export const Pagination = ({ currentPage, goToPreviousPage, goToNextPage, gamesP
             }
         } else {
 
-            if (currentPage <= Math.ceil(maxPagesToShow / 2)) {
+            if (currentPage <= Math.ceil(maxPagesToShow / 4)) {
 
                 for (let i = 1; i <= maxPagesToShow; i++) {
                     pageNumbers.push(i);
                 }
                 pageNumbers.push("...");
                 pageNumbers.push(totalPages);
-            } else if (currentPage >= totalPages - Math.floor(maxPagesToShow / 2)) {
+            } else if (currentPage >= totalPages - Math.floor(maxPagesToShow / 4)) {
 
                 pageNumbers.push(1);
                 pageNumbers.push("...");
@@ -31,7 +31,7 @@ export const Pagination = ({ currentPage, goToPreviousPage, goToNextPage, gamesP
             } else {
                 pageNumbers.push(1);
                 pageNumbers.push("...");
-                for (let i = currentPage - Math.floor(maxPagesToShow / 2); i <= currentPage + Math.floor(maxPagesToShow / 2); i++) {
+                for (let i = currentPage - Math.floor(maxPagesToShow / 4); i <= currentPage + Math.floor(maxPagesToShow / 4); i++) {
                     pageNumbers.push(i);
                 }
                 pageNumbers.push("...");
