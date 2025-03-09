@@ -28,6 +28,7 @@ export const ModalDetailsGame = ({ game, onClose}) => {
                   <p><strong>Formato: </strong> {'[' + format.join(', ') + ']'}</p>
                   <p><strong>Tamaño: </strong> {size}</p>
                   <p translate="no"><strong>Contraseña: </strong> {PASSWORD_ZIP}</p>
+                  <p translate="no"><strong>Descomprimir con: </strong> RAR</p>
 
                   <div className="rating">
                     <p><strong>Descargar: </strong></p>
