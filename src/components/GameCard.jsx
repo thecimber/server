@@ -10,9 +10,10 @@ export const GameCard = ( {id, name,console, image, format, language, size, down
                     <h3 className='text-white'>{name}</h3>
                     <p className='text-white'>{genre.join(', ')}</p>
                     <div className="juego-detalles">
-                        <span className='text-white'>{language.join(', ')}</span>
-                        <span className='text-white'>{console}</span>
-                        <span className='text-white'>{size}</span>
+                        {/* <span className='text-white'>{language.join(', ')}</span> */}
+                        <span className='text-white'>{''}</span>
+                        <span className=' text-white badge bg-primary'>{console}</span>
+                        <span className='text-white'>{''}</span>
                     </div>
                 </div>
             </div>
