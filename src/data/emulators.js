@@ -11,21 +11,21 @@ export const emulators = [
     //     name: 'PC',
     //     path: 'pc',
     //     image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/pc-logo2.jpeg',
-    //     emulador: 'https://1024terabox.com/s/1RMMUOHAekKUO6zZN6bTpsQ'
+    //     emulador: ''
     // },
     // {
     //     id: 3,
     //     name: 'PSP',
     //     path: 'psp',
     //     image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/psp-logo.png',
-    //     emulador: 'https://1024terabox.com/s/1RMMUOHAekKUO6zZN6bTpsQ'
+    //     emulador: ''
     // },
     // {
     //     id: 4,
     //     name: 'DS',
     //     path: 'ds',
     //     image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ds-logo.jpeg',
-    //     emulador: 'https://1024terabox.com/s/1RMMUOHAekKUO6zZN6bTpsQ'
+    //     emulador: ''
     // },
 ];
 

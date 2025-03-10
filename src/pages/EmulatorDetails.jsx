@@ -17,10 +17,14 @@ export const EmulatorDetails = () => {
     return (
         <>
             <h2 className="subtitulo my-3">Juegos para {emulatorGame}</h2>
-            <div className="text-center my-3">
-                <a href={emulador} className="btn btn-sm btn-warning">
-                <i className="fa-solid fa-gamepad"></i> Emulador</a>
-            </div>
+            {
+                emulador != '' &&
+                <div className="text-center my-3">
+                    <a href={emulador} className="btn btn-sm btn-warning">
+                        <i className="fa-solid fa-gamepad"></i> Emulador</a>
+                </div>
+            }
+
             <SearchForm handleSubmit={handleSubmit} handleChange={handleChange} search={search} />
             <GameGrid games={games} />
 
