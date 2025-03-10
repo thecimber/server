@@ -3,7 +3,7 @@ import { DOWNLOAD_TUTORIAL, PROPS_ACTUALIZACION, PROPS_MEDIFIRE, PROPS_TERABOX }
 export const gamesPsp = [{
                 id: "A41iI9ad",
                 name: "Assassin's Creed Bloodlines",
-                image: "undefinedAssassins-Creed-Bloodlines.jpg",
+                image: "Assassins-Creed-Bloodlines.jpg",
                 format: ["ISO"],
                 language: ["Español","Inglés"],
                 genre: ["Acción","Aventuras","Fighting"],
