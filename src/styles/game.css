@@ -79,6 +79,23 @@
     font-size: 0.8rem;
     color: #888;
   }
+
+  .ps3{
+    font-size: .8rem !important;
+    background-color: rgb(0, 30, 255) !important;
+  }
+  .psp{
+    font-size: .8rem !important;
+    background-color: rgb(0, 225, 255) !important;
+  }
+  .ds{
+    font-size: .8rem !important;
+    background-color: rgb(255, 0, 225) !important;
+  }
+  .pc{
+    font-size: .8rem !important;
+    background-color: red !important;
+  }
   
   /* Responsive para tablets */
   @media (max-width: 768px) {
