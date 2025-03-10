@@ -43,4 +43,18 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1rDc45r40UmIrq1jo_XHvBA" }
                 ]
+            },{
+                id: "_zJtiFhh",
+                name: "Assassin's Creed Rogue",
+                image: "Assassins-Creed-Rogue.jpg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura","Fighting"],
+                size: "8.80 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/115TQ9zbCCyoayvGf-buaJw" }
+                ]
             }];
