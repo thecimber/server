@@ -57,4 +57,18 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/115TQ9zbCCyoayvGf-buaJw" }
                 ]
+            },{
+                id: "tuhovOgd",
+                name: "Assassin's Creed Chronicles Russia",
+                image: "Assassins-Creed-Chronicles-Russia .jpg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura","Fighting"],
+                size: "5.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Q6GHhwuTac6u1sPh7EFwKQ" }
+                ]
             }];
