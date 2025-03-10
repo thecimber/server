@@ -15,4 +15,18 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1BTobX03XktQkFbSC0T7RlA" }
                 ]
+            },{
+                id: "ogiyC67_",
+                name: "Assassin's creed Brotherhood",
+                image: "Assassins-creed-Brotherhood.jpg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura","Fighting"],
+                size: "574.4 MB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1JnNyBw-y_-eLeEtAgMtO9A" }
+                ]
             }];
