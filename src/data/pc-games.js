@@ -85,4 +85,18 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1fFcrIRSAC0dEvmkFAWH6jA" }
                 ]
+            },{
+                id: "D8_ktB85",
+                name: "Assassin's Creed Chronicles China ",
+                image: "Assassins-Creed-Chronicles-China.jpg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura","Fighting"],
+                size: "3.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/180FQHCpXLBD9kSwfLXsRaQ" }
+                ]
             }];
