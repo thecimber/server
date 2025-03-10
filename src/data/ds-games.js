@@ -14,4 +14,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1pTAK43a9IVhdtplIgVCDMg" }
                 ]
+            },{
+                id: "ttNpgLht",
+                name: "Assassin's Creed 2 Discovery",
+                image: "Assassin's-Creed-2-Discovery.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Acción","Aventura","Fighting"],
+                size: "49.1 MB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1HHBT6gT5mbUUAdi4RCsqDw" }
+                ]
             }];
