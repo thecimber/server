@@ -71,4 +71,18 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Q6GHhwuTac6u1sPh7EFwKQ" }
                 ]
+            },{
+                id: "Wm9Zzj8f",
+                name: "Assassin's Creed Chronicles India",
+                image: "Assassins-Creed-Chronicles-India.jpg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura","Fighting"],
+                size: "3.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1fFcrIRSAC0dEvmkFAWH6jA" }
+                ]
             }];
