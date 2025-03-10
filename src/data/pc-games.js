@@ -29,4 +29,18 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1JnNyBw-y_-eLeEtAgMtO9A" }
                 ]
+            },{
+                id: "qsDPxyJa",
+                name: "Assassin's Creed Origins",
+                image: "Assassins-Creed-Origins.jpg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura","Fighting"],
+                size: "46.9 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1rDc45r40UmIrq1jo_XHvBA" }
+                ]
             }];
