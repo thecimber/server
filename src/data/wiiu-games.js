@@ -294,4 +294,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/6xAFTC" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1bRedHbthKyPaQKGa2fWu9Q" }
                 ]
+            },{
+                id: "BRkmF97C",
+                name: "Call Of Duty Black ops 2",
+                image: "Call-Of-Duty-Black-ops-2.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting","Otro"],
+                size: "17.73 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/XPa3Bj1" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ErnC9ixNtGl8d2vAIfIzsQ" }
+                ]
             }];
