@@ -27,6 +27,13 @@ export const emulators = [
         image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ds-logo.jpeg',
         emulador: ''
     },
+    // {
+    //     id: 5,
+    //     name: 'Wii U',
+    //     path: 'wiiu',
+    //     image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/wiiu-logo.jpg',
+    //     emulador: ''
+    // },
 ];
 
 

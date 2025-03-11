@@ -96,6 +96,10 @@
     font-size: .8rem !important;
     background-color: red !important;
   }
+  .wii{
+    font-size: .8rem !important;
+    background-color: rgb(77, 255, 0) !important;
+  }
   
   /* Responsive para tablets */
   @media (max-width: 768px) {
