@@ -56,4 +56,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/jsjG" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1vHDDITQ1H0anjbmNNaMalw" }
                 ]
+            },{
+                id: "_20mVo60",
+                name: "Assassin's Creed 3",
+                image: "Assassi'-Creed-3.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura","Fighting"],
+                size: "20 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/d30R" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1jIoAu4nPTaiJPdl3Pbr6-g" }
+                ]
             }];
