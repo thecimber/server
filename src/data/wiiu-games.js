@@ -126,4 +126,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/LGDaw" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1GS257NJmrzazq4gqfXjvMQ" }
                 ]
+            },{
+                id: "_yrvfOAn",
+                name: "Axiom verge",
+                image: "Axiom-verge.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura","Otro"],
+                size: "427.3 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/R726p9g" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1MUxWLRP6VNuk2Smes3Y7IA" }
+                ]
             }];
