@@ -280,4 +280,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/9nUgeUks" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1l7y4Qx6a6TIsJVdhmYnLcQ" }
                 ]
+            },{
+                id: "ooouPKlS",
+                name: "Cabela's Dangerous Hunts 2013",
+                image: "Cabelas-Dangerous-Hunts-2013.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Deportes","Fighting"],
+                size: "5.84 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/6xAFTC" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1bRedHbthKyPaQKGa2fWu9Q" }
+                ]
             }];
