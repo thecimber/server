@@ -196,4 +196,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/5VogAVP" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1HTI_PJwbUAg0GG1PV0Y9ew" }
                 ]
+            },{
+                id: "OagICodT",
+                name: "Bayonetta",
+                image: "Bayonetta.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura","Fighting"],
+                size: "11.9 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ZYjc3Gb" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1nmomIUqFEIk1j_A4MK93xg" }
+                ]
             }];
