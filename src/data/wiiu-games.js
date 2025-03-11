@@ -98,4 +98,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/C9aZA7nX" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DidaLiAOea0piErfsdVqkQ" }
                 ]
+            },{
+                id: "GESVd1mK",
+                name: "Angry Birds Trilogy",
+                image: "Angry-Birds-Trilogy.jpg",
+                format: ["WUA"],
+                language: ["Multi-IDdioma"],
+                genre: ["Aventura"],
+                size: "1.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/LUaUyGFE" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1onm-tktkhor9w81zCpURPA" }
+                ]
             }];
