@@ -168,4 +168,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/JGOJiDY" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Frz1GPtDePut2ePWjcjoLg" }
                 ]
+            },{
+                id: "MjxKI1o4",
+                name: "Batman arkham origins",
+                image: "Batman-arkham-origins.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting"],
+                size: "13.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/LjmyBD1B" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ZLSjeU2XEE8qc0PeB9MGUg" }
+                ]
             }];
