@@ -27,7 +27,11 @@ body {
 .pagination {
     gap: 7px !important;
 }
-
+.footer-dark{
+    background-color: #212529 !important;
+    color: white !important;
+    margin-bottom: 0px !important;
+}
 @media (max-width: 480px) {
     .pagination {
         gap: 4px !important;

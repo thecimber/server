@@ -7,6 +7,7 @@ import { Dmca } from './components/Dmca'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import { GamesSearch } from './components/GamesSearch'
+import { Footer } from './components/Footer'
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
         <Route path="*" element={<Navigate to="/" />} />
 
       </Routes>
+      {/* <Footer/> */}
     </>
   )
 }
