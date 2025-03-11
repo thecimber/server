@@ -182,4 +182,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/LjmyBD1B" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ZLSjeU2XEE8qc0PeB9MGUg" }
                 ]
+            },{
+                id: "4LJQx9j6",
+                name: "Batman arkham city",
+                image: "Batman-arkham-city.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting"],
+                size: "17.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/5VogAVP" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1HTI_PJwbUAg0GG1PV0Y9ew" }
+                ]
             }];
