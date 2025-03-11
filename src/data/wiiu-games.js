@@ -112,4 +112,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/LUaUyGFE" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1onm-tktkhor9w81zCpURPA" }
                 ]
+            },{
+                id: "AsGC1pGi",
+                name: "Angry Birds star wars",
+                image: "Angry-Birds-star-wars.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "1.3 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/LGDaw" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1GS257NJmrzazq4gqfXjvMQ" }
+                ]
             }];
