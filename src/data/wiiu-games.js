@@ -42,4 +42,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/P2hNaP" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1gsfJm4xBQnyTrn1wGrFn0g" }
                 ]
+            },{
+                id: "-BZ29AvR",
+                name: "Animal Crossing amiibo festival",
+                image: "Animal-Crossing-amiibo-festival.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "1.3 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/jsjG" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1vHDDITQ1H0anjbmNNaMalw" }
+                ]
             }];
