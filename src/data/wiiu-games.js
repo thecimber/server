@@ -84,4 +84,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/BicTV" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1a0tIOZPJ8KhrMLKoqKhzdA" }
                 ]
+            },{
+                id: "Ng4hUg-Q",
+                name: "Super Mario 3d World",
+                image: "Super-Mario-3d-World.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "1.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/C9aZA7nX" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DidaLiAOea0piErfsdVqkQ" }
+                ]
             }];
