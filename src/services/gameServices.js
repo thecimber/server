@@ -27,7 +27,7 @@ export const getGamesBySearch = ({search}) => {
     const gamesPc = getGamesPc().map(game => ({...game,console: 'Pc',image: PATH_SERVER_PC + game.image}));
     const gamesPsp = getGamesPsp().map(game => ({...game,console: 'Psp',image: PATH_SERVER_PSP + game.image}));
     const gamesDs = getGamesDs().map(game => ({...game,console: 'Ds',image: PATH_SERVER_DS + game.image}));
-    const gamesWiiu = getGamesDs().map(game => ({...game,console: 'Wii U',image: PATH_SERVER_WIIU + game.image}));
+    const gamesWiiu = getGamesWiiu().map(game => ({...game,console: 'Wii U',image: PATH_SERVER_WIIU + game.image}));
 
 
     const games = [...gamesPs3,...gamesPc, ...gamesPsp, ...gamesDs,...gamesWiiu];
