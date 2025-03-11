@@ -12,7 +12,7 @@ export const PATH_SERVER_PSP = 'https://raw.githubusercontent.com/thecimber/serv
 
 export const PATH_SERVER_DS = 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ds/';
 
-export const PATH_SERVER_WIIU = 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ds/';
+export const PATH_SERVER_WIIU = 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/wiiu/';
 
 
 export const PROPS_MEDIFIRE = {

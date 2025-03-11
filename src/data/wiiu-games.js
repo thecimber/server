@@ -14,4 +14,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/ek1dtTVR" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1XOqUsTwAUbaDBxoLkM0sKg" }
                 ]
+            },{
+                id: "m4840njw",
+                name: "Adventure Time Explore the Dungeon Because I Don't Know",
+                image: "Adventure-Time Explore-the-Dungeon-Because-I-Dont-Know.jpg",
+                format: ["WUA"],
+                language: ["Español"],
+                genre: ["Acción","Aventura"],
+                size: "972.4 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/hwJzg" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1JTz4R4jZ2AeyzAnNSK0oCg" }
+                ]
             }];
