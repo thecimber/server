@@ -49,7 +49,7 @@ export const ModalDetailsGame = ({ game, onClose}) => {
                       target="_blank"
                       rel=""
                     >
-                      <i className='fa-brands fa-youtube'></i> {'Como descargar en terabox'}
+                      <i className='fa-brands fa-youtube'></i> {'Terabox tutorial / Tutorial terabox'}
                     </a>
 
                     <a
