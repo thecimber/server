@@ -70,4 +70,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/d30R" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1jIoAu4nPTaiJPdl3Pbr6-g" }
                 ]
+            },{
+                id: "8pLeS64h",
+                name: "Assassin's Creed black Flag",
+                image: "Assassins-Creed-black-Flag.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura","Fighting"],
+                size: "13.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/BicTV" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1a0tIOZPJ8KhrMLKoqKhzdA" }
+                ]
             }];
