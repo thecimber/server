@@ -224,4 +224,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/hSuDe7ASL" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1WDqdzpbOzqkTokPgXmovEg" }
                 ]
+            },{
+                id: "Kq2QjEIP",
+                name: "Ben 10 omniverse",
+                image: "Ben-10-omniverse.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting"],
+                size: "2.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/rMLm" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1HIlA_c1NpZGf2l-4EraRNw" }
+                ]
             }];
