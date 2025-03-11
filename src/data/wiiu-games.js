@@ -140,4 +140,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/R726p9g" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1MUxWLRP6VNuk2Smes3Y7IA" }
                 ]
+            },{
+                id: "I24Dg-GL",
+                name: "Barbie breamhouse party",
+                image: "Barbie-breamhouse-party.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "1,8 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/MXsoFiuk0zzG" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1GpGw5EqECL5mAUuVoIEXVg" }
+                ]
             }];
