@@ -266,4 +266,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/qgHv2y" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1pUoZs98nkpw2U3B4oMfXEw" }
                 ]
+            },{
+                id: "q5k22_lZ",
+                name: "Cabela's Big game hunter - pro hunts ",
+                image: "Cabelas-Big-game-hunter-pro-hunts.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Deportes","Fighting"],
+                size: "3.01 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/9nUgeUks" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1l7y4Qx6a6TIsJVdhmYnLcQ" }
+                ]
             }];
