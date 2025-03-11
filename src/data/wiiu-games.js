@@ -154,4 +154,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/MXsoFiuk0zzG" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1GpGw5EqECL5mAUuVoIEXVg" }
                 ]
+            },{
+                id: "-g73LHA1",
+                name: "Barbie & her Sisters Puppy rescue",
+                image: "Barbie-&-her-Sisters-Puppy-rescue.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "1.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/JGOJiDY" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Frz1GPtDePut2ePWjcjoLg" }
+                ]
             }];
