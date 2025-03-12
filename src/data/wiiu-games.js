@@ -420,4 +420,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/RV1Zq" }
                 ]
+            },{
+                id: "XMH8RDkC",
+                name: "Disney Infinity",
+                image: "Disney-Infinity.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting","Acción","Aventura"],
+                size: "9.48 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/bCdLz8y6" }
+                ]
             }];
