@@ -350,4 +350,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/p1vHWoNAD5" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Em5l4l-WOVqo1cqgrKY79Q" }
                 ]
+            },{
+                id: "wps6Z3St",
+                name: "Darksiders 2",
+                image: "Darksiders-2.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting"],
+                size: "8.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/cNID1" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1XjcKt8MY6KXdcphyGZugtA" }
+                ]
             }];
