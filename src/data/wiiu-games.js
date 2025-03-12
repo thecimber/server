@@ -322,4 +322,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/FcVjUihMY" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1-lIIVJfxRk_Qp7EJAl5kUA" }
                 ]
+            },{
+                id: "aEkfVfVB",
+                name: "Captain Toad treasure tracker",
+                image: "Captain-Toad-treasure-tracker.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventuras"],
+                size: "1.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/Ec03OUOg6J" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1KehlxIM7Vkwrh_MmIZ4xRg" }
+                ]
             }];
