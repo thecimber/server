@@ -392,4 +392,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/v8WCRMIDBV7O" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1b99UrATIQ1BJjEpFpOHRpg" }
                 ]
+            },{
+                id: "CcR_TuTr",
+                name: "Devil's Third",
+                image: "Devils-Third.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "13.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://gofile.io/d/1pJNgQ" }
+                ]
             }];
