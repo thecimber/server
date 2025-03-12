@@ -404,7 +404,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://gofile.io/d/1pJNgQ" }
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/6Aw2tMiKq" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1npzWOnP8KgVDieTISBRAPw" }
                 ]
             },{
                 id: "HRIb8IEI",
