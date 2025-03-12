@@ -378,4 +378,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/MGGu4h9uo5U5" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/12xXPDOs7xza0hX8OrEIA-w" }
                 ]
+            },{
+                id: "Xz2kL28g",
+                name: "Deus ex Human revolution",
+                image: "Deus-ex-Human-revolution.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting"],
+                size: "12.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/v8WCRMIDBV7O" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1b99UrATIQ1BJjEpFpOHRpg" }
+                ]
             }];
