@@ -406,4 +406,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://gofile.io/d/1pJNgQ" }
                 ]
+            },{
+                id: "HRIb8IEI",
+                name: "Disney Epic Mickey 2 the Powe of two",
+                image: "Disney-Epic-Mickey-2-the-Powe-of-two.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura","Plataformas"],
+                size: "7.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/RV1Zq" }
+                ]
             }];
