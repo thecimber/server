@@ -1343,7 +1343,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://1024terabox.com/s/1EJnZUe-Qy-eCIREpEMbyVQ" },{ ...PROPS_TERABOX , link: "https://cuty.io/uTuv2d" }
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/uTuv2d" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1EJnZUe-Qy-eCIREpEMbyVQ" }
                 ]
             },{
                 id: "DYLXkVV3",
