@@ -32,6 +32,10 @@ body {
     color: white !important;
     margin-bottom: 0px !important;
 }
+
+.social-media {
+    font-size: 1.7rem !important;
+}
 @media (max-width: 480px) {
     .pagination {
         gap: 4px !important;
