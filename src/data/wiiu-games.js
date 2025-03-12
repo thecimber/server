@@ -434,4 +434,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/bCdLz8y6" }
                 ]
+            },{
+                id: "nGHer8zj",
+                name: "Disney Infinity 2.0",
+                image: "Disney-Infinity-2.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting","Aventura"],
+                size: "10.30 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/Ss03gWUStb2r" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1SuCIyU3_O_LJUnWPVVmXrg" }
+                ]
             }];
