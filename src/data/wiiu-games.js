@@ -364,4 +364,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/cNID1" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1XjcKt8MY6KXdcphyGZugtA" }
                 ]
+            },{
+                id: "-NbifF13",
+                name: "Darksiders warmastered edition",
+                image: "Darksiders-warmastered-edition.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "11.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/MGGu4h9uo5U5" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/12xXPDOs7xza0hX8OrEIA-w" }
+                ]
             }];
