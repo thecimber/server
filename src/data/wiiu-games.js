@@ -336,4 +336,18 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/Ec03OUOg6J" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1KehlxIM7Vkwrh_MmIZ4xRg" }
                 ]
+            },{
+                id: "0u3ncY-e",
+                name: "Cars 3 Driven towin",
+                image: "Cars-3-Driven-towin.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Deportes"],
+                size: "2.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/p1vHWoNAD5" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Em5l4l-WOVqo1cqgrKY79Q" }
+                ]
             }];
