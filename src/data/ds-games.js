@@ -168,4 +168,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/MFKWbfh" }
                 ]
+            },{
+                id: "SdosQ4rG",
+                name: "Mario & Luigi: Bowser’s Inside Story",
+                image: "Mario-&-Luigi:Bowsers-Inside-Story.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "33 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/EbpmhDvI" }
+                ]
             }];
