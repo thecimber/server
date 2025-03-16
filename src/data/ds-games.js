@@ -238,4 +238,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/qyEKo" }
                 ]
+            },{
+                id: "tguWk44_",
+                name: "The Legend of Zelda: Phantom Hourglass",
+                image: "The Legend-of-Zelda:Phantom-Hourglass.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "50 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/3QscDSYx" }
+                ]
             }];
