@@ -434,4 +434,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/s59OEhIBNHEG" }
                 ]
+            },{
+                id: "I4D_dhRa",
+                name: "Pokemon Moon Black 2",
+                image: "Pokemon-Moon-Black-2.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "142 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/AuPq2eTFaJ" }
+                ]
             }];
