@@ -154,4 +154,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     
                 ]
+            },{
+                id: "MrBnBwVW",
+                name: "Mario & Luigi: Partners In Time",
+                image: "Mario-&-Luigi:Partners-In-Time.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "16 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/MFKWbfh" }
+                ]
             }];
