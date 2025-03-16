@@ -266,4 +266,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/rIuk" }
                 ]
+            },{
+                id: "ITUrfGMR",
+                name: "Yoshi’s Island DS",
+                image: "Yoshis-Island-DS.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "24 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/tsdXemgH" }
+                ]
             }];
