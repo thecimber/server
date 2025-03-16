@@ -98,4 +98,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/Fx2QbuoJoRfW" }
                 ]
+            },{
+                id: "I1v0Ke_I",
+                name: "Cooking Mama ",
+                image: "Cooking-Mama.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "8 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/vY6Z" }
+                ]
             }];
