@@ -126,4 +126,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/4LP71Vk9a" }
                 ]
+            },{
+                id: "L8yFw6TO",
+                name: "Metal Slug 7",
+                image: "Metal-Slug-7.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "40 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/0WyQ7Pu9azq2" }
+                ]
             }];
