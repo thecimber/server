@@ -56,4 +56,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/6bEaKsj2" }
                 ]
+            },{
+                id: "XHoeB2Gd",
+                name: "Mario vs. Donkey Kong: Mini-Land Mayhem! ",
+                image: "Mario vs. Donkey-Kong:Mini-Land-Mayhem!.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "40 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/tq5fAE7tSir" }
+                ]
             }];
