@@ -294,4 +294,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/a3TdVMed" }
                 ]
+            },{
+                id: "jPTd4cwe",
+                name: "Pokemon Fusion Platinum",
+                image: "Pokemon-Fusion-Platinum.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "40 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/caXy3jbCPsqm" }
+                ]
             }];
