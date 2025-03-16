@@ -420,4 +420,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/E9kir" }
                 ]
+            },{
+                id: "V1FGqe-U",
+                name: "New Super Mario Bros",
+                image: "New-Super-Mario-Bros.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "13 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/s59OEhIBNHEG" }
+                ]
             }];
