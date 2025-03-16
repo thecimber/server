@@ -196,4 +196,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/ha9fl76" }
                 ]
+            },{
+                id: "S724sYyr",
+                name: "Pokemon Sacred Gold",
+                image: "Pokemon-Sacred-Gold.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "64 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ktBx5u3QsT" }
+                ]
             }];
