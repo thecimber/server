@@ -224,4 +224,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/qMbyw" }
                 ]
+            },{
+                id: "G45jVZvo",
+                name: "Inazuma Eleven",
+                image: "Inazuma-Eleven.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Deportes"],
+                size: "145 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/qyEKo" }
+                ]
             }];
