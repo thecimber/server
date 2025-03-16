@@ -140,4 +140,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/0WyQ7Pu9azq2" }
                 ]
+            },{
+                id: "PRp95N3M",
+                name: "Pokémon Soul Silver Fusion",
+                image: "Pokemon-Soul-Silver-Fusion.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "58 mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    
+                ]
             }];
