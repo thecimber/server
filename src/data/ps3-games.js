@@ -1401,4 +1401,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://1024terabox.com/s/1_Lo7dRfRV1HT5qIXGPL58g" },{ ...PROPS_TERABOX , link: "https://cuty.io/v1ZEVl" }
                 ]
+            },{
+                id: "sheY0e0G",
+                name: "Saint seiya brave soldiers [PKG]",
+                image: "Saint-seiya-brave-soldiers.jpg",
+                format: ["PKG"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting"],
+                size: "3.20 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/isN3U" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1pQbXWMsIWeZl1G6Jmtz-Vg " }
+                ]
             }];
