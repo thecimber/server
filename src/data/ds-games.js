@@ -364,4 +364,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/tVbCEkDOWg" }
                 ]
+            },{
+                id: "Uwpk1EXV",
+                name: "Pokemon Diamond Sun and Moon",
+                image: "Pokemon-Diamond-Sun-and-Moon.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "26 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/xTQhw2dUqjk" }
+                ]
             }];
