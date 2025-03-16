@@ -70,4 +70,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/tq5fAE7tSir" }
                 ]
+            },{
+                id: "HGC4r0Hi",
+                name: "Kirby Super Star Ultra",
+                image: "Kirby-Super-Star-Ultra.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "64 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/EgVYScasSwzy" }
+                ]
             }];
