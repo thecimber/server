@@ -378,4 +378,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/xTQhw2dUqjk" }
                 ]
+            },{
+                id: "Hz-V75_2",
+                name: "Mario Party DS",
+                image: "Mario-Party-DS.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "27 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/VPIF" }
+                ]
             }];
