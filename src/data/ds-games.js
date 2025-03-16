@@ -280,4 +280,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/tsdXemgH" }
                 ]
+            },{
+                id: "UbYejGTR",
+                name: "Plants vs. Zombies",
+                image: "Plants-vs.-Zombies.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "24 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/a3TdVMed" }
+                ]
             }];
