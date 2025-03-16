@@ -112,4 +112,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/vY6Z" }
                 ]
+            },{
+                id: "jhlfqTxY",
+                name: "Transformers: Autobots",
+                image: "Transformers:Autobots.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "49 mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/4LP71Vk9a" }
+                ]
             }];
