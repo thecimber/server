@@ -308,4 +308,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/caXy3jbCPsqm" }
                 ]
+            },{
+                id: "RmJHay1b",
+                name: "Pokemon Silver Yellow",
+                image: "Pokemon-Silver-Yellow.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "57 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/xSbkVK1MOhnw" }
+                ]
             }];
