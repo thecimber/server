@@ -322,4 +322,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/xSbkVK1MOhnw" }
                 ]
+            },{
+                id: "Fa6aGqoe",
+                name: "Call of Duty: Black Ops",
+                image: "Call-of-Duty:Black-Ops.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Español"],
+                size: "44 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/iYZJv2a9Xq" }
+                ]
             }];
