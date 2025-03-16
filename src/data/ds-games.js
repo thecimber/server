@@ -28,4 +28,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1HHBT6gT5mbUUAdi4RCsqDw" }
                 ]
+            },{
+                id: "2MS1r9uh",
+                name: "Pokemon HeartGold & SoulSilver 2010",
+                image: "Pokemon-HeartGold-&-SoulSilver-2010.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "54.72 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/AuPq2eTFaJ" }
+                ]
             }];
