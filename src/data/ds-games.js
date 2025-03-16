@@ -210,4 +210,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/ktBx5u3QsT" }
                 ]
+            },{
+                id: "cs_txUUF",
+                name: "Spider-Man 3",
+                image: "Spider-Man-3.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "37 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/qMbyw" }
+                ]
             }];
