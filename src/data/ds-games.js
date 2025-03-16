@@ -84,4 +84,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/EgVYScasSwzy" }
                 ]
+            },{
+                id: "JKuVB6G_",
+                name: "Sonic Rush",
+                image: "Sonic-Rush.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "42 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/Fx2QbuoJoRfW" }
+                ]
             }];
