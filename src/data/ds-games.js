@@ -252,4 +252,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/3QscDSYx" }
                 ]
+            },{
+                id: "vfsXb7kS",
+                name: "Pokémon Fire Red",
+                image: "Pokemon-Fire-Red.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "60 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/rIuk" }
+                ]
             }];
