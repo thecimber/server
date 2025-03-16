@@ -182,4 +182,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/EbpmhDvI" }
                 ]
+            },{
+                id: "IgoOsAcT",
+                name: "Pokemon Mystery Dungeon: Explorers of Sky",
+                image: "Pokémon Mystery-Dungeon:Explorers-of-Sky.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "26 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ha9fl76" }
+                ]
             }];
