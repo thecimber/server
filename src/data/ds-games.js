@@ -406,4 +406,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/zbCTBAek9" }
                 ]
+            },{
+                id: "RFoYkUhA",
+                name: "Pokemon Black and White 2",
+                image: "Pokémon-Black-and-White-2.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "141 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/E9kir" }
+                ]
             }];
