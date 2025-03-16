@@ -336,4 +336,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/iYZJv2a9Xq" }
                 ]
+            },{
+                id: "4YT84T3N",
+                name: "The Legend of Zelda: Spirit Tracks",
+                image: "The-Legend-of-Zelda:Spirit-Tracks.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "40 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/3EE5GSBPx0pV" }
+                ]
             }];
