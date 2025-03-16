@@ -42,4 +42,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/AuPq2eTFaJ" }
                 ]
+            },{
+                id: "IU_2EPSi",
+                name: "Ultimate spider-man",
+                image: "Ultimate-spider-man.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "53.92 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/6bEaKsj2" }
+                ]
             }];
