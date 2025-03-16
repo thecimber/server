@@ -350,4 +350,18 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/3EE5GSBPx0pV" }
                 ]
+            },{
+                id: "o1eLRNAQ",
+                name: "Pokemon Diamond & Pearl",
+                image: "Pokemon-Diamond-&-Pearl.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "27 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/tVbCEkDOWg" }
+                ]
             }];
