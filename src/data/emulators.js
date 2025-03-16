@@ -20,13 +20,13 @@ export const emulators = [
         image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/psp-logo.png',
         emulador: ''
     },
-    {
-        id: 4,
-        name: 'DS',
-        path: 'ds',
-        image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ds-logo.jpeg',
-        emulador: ''
-    },
+    // {
+    //     id: 4,
+    //     name: 'DS',
+    //     path: 'ds',
+    //     image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ds-logo.jpeg',
+    //     emulador: ''
+    // },
     {
         id: 5,
         name: 'Wii U',
