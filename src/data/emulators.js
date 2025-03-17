@@ -34,6 +34,20 @@ export const emulators = [
         image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/wiiu-logo.jpg',
         emulador: 'https://1024terabox.com/s/1ifALCTlRdfYNvCksREvzaA'
     },
+    // {
+    //     id: 6,
+    //     name: 'Game Cube',
+    //     path: 'gamecube',
+    //     image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/gamecube-logo.png',
+    //     emulador: ''
+    // },
+    // {
+    //     id: 7,
+    //     name: 'PS2',
+    //     path: 'ps2',
+    //     image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ps2-logo.webp',
+    //     emulador: ''
+    // },
 ];
 
 

@@ -14,6 +14,10 @@ export const PATH_SERVER_DS = 'https://raw.githubusercontent.com/thecimber/serve
 
 export const PATH_SERVER_WIIU = 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/wiiu/';
 
+export const PATH_SERVER_GAMECUBE = 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/gamecube/';
+
+export const PATH_SERVER_PS2 = 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ps2/';
+
 
 export const PROPS_MEDIFIRE = {
     name: "Mediafire",
