@@ -434,4 +434,214 @@ export const gamesDs = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/AuPq2eTFaJ" }
                 ]
+            },{
+                id: "bwjH3WP6",
+                name: "Pokemon Mega Platinum",
+                image: "Pokemon-Mega-Platinum.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "43 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/bmhCv8Md0" }
+                ]
+            },{
+                id: "O200Cjjp",
+                name: "Tetris DS",
+                image: "Tetris-DS.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Otro"],
+                size: "9 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/MTUz3" }
+                ]
+            },{
+                id: "O1-19zh6",
+                name: "Kingdom Hearts 358/2 Days",
+                image: "Kingdom-Hearts-358-2Days.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "217 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/kGbsmkjsN" }
+                ]
+            },{
+                id: "UL4xA8qW",
+                name: "Pokemon Conquest",
+                image: "Pokemon-Conquest.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "72 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/gdqSHHjIf9iS" }
+                ]
+            },{
+                id: "dtZAtneD",
+                name: "Pokemon Ranger: Shadows of Almia",
+                image: "Pokemon-Ranger:Shadows-of-Almia.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "17 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ce89ggnmDg" }
+                ]
+            },{
+                id: "7fmedSSc",
+                name: "Sonic Classic Collection",
+                image: "Sonic-Classic-Collection.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "31 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/cAZz0e" }
+                ]
+            },{
+                id: "2ZD8DVsu",
+                name: "GoldenEye 007",
+                image: "GoldenEye-007.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Acción"],
+                size: "41 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/CPND6kD" }
+                ]
+            },{
+                id: "2LPRD6il",
+                name: "Cars",
+                image: "Cars.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Deportes"],
+                size: "9 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/YA1sL" }
+                ]
+            },{
+                id: "Jen9LibJ",
+                name: "Final Fantasy II",
+                image: "Final-Fantasy-II.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "66 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/wwLFx9hcKP" }
+                ]
+            },{
+                id: "NJ0qEgvt",
+                name: "Super Princess Peach",
+                image: "Super-Princess-Peach.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Acción"],
+                size: "13 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/hvyB7lsZj" }
+                ]
+            },{
+                id: "UxWcR1wN",
+                name: "Ninja Gaiden: Dragon Sword",
+                image: "Ninja-GaidenDragon-Sword.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Acción"],
+                size: "106 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/4X6r13d2i" }
+                ]
+            },{
+                id: "ojHzE7Uc",
+                name: "Sonic Rush Adventure",
+                image: "Sonic-Rush-Adventure.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "39 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/xiTBOWwx" }
+                ]
+            },{
+                id: "-wPVoZaX",
+                name: "Castlevania: Dawn of Sorrow",
+                image: "Castlevania:Dawn-of-Sorrow.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "23 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/yul92knJ" }
+                ]
+            },{
+                id: "OhQM0weG",
+                name: "Phoenix Wright: Ace Attorney",
+                image: "Phoenix-Wright:Ace-Attorney.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Acción"],
+                size: "39 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/dQQdWdAceyQM" }
+                ]
+            },{
+                id: "kP0KmYtG",
+                name: "MySims",
+                image: "MySims.jpg",
+                format: ["nds"],
+                language: ["Español"],
+                genre: ["Aventura"],
+                size: "19 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/q13b8KsRnHLw" }
+                ]
             }];
