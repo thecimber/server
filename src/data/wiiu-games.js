@@ -714,4 +714,116 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/KOpmDPe5LWX6" }
                 ]
+            },{
+                id: "O_6hdFnL",
+                name: "Hello Kitty Kruisers",
+                image: "photo_5100582605748809406_x.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "374 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/3rk87fxF" }
+                ]
+            },{
+                id: "ZIZ3Bsg9",
+                name: "Hot Wheels - World’s Best Driver",
+                image: "photo_5100582605748809407_x.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Deporte","Acción"],
+                size: "3.50 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/DniS" }
+                ]
+            },{
+                id: "Nl8EEYkU",
+                name: "How to Train Your Dragons 2 ",
+                image: "photo_5100582605748809408_x.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventuras","Fighting"],
+                size: "391 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/BGzpHq" }
+                ]
+            },{
+                id: "H9OZ_msl",
+                name: "Hyrule Warriors",
+                image: "photo_5100582605748809409_x.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventuras","Fighting"],
+                size: "7.64 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/DP2piioQFWe" }
+                ]
+            },{
+                id: "nZgb7MHX",
+                name: "Injustice Gods Among Us",
+                image: "photo_5100582605748809410_x.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting"],
+                size: "8.22 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ChFrGlioGy" }
+                ]
+            },{
+                id: "QCxWOvhI",
+                name: "JUST DANCE 2014",
+                image: "photo_5100582605748809411_x.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Otro"],
+                size: "17.20 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/0IYOmQovGQai" }
+                ]
+            },{
+                id: "WbmvaFhW",
+                name: "Mario & Sonic at the Sochi 2014 - Olympic Winter Games",
+                image: "photo_5100582605748809412_x.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura","Deporte"],
+                size: "7.18 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/2yXDjexOBX" }
+                ]
+            },{
+                id: "_wgsVS2a",
+                name: "Mario & Sonic at the Rio 2016 - Olympic Games",
+                image: "photo_5100582605748809413_x.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura","Deporte"],
+                size: "2.64 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/EN4MlcVqpNf7" }
+                ]
             }];
