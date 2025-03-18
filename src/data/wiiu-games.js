@@ -448,4 +448,270 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/Ss03gWUStb2r" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1SuCIyU3_O_LJUnWPVVmXrg" }
                 ]
+            },{
+                id: "bP2zakq0",
+                name: "THE WALKING DEAD SURVIVAL INSTINT WII U",
+                image: "THE-WALKING-DEAD-SURVIVAL-INSTINT-WIIU.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "9.04 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/pyFD5PbXvo" }
+                ]
+            },{
+                id: "utOvdxyW",
+                name: "BATMAN ARKHAM ORIGINS WII U ",
+                image: "BATMAN-ARKHAM-ORIGINS-WII-U.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting"],
+                size: "16.10 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/50Fx8lo" }
+                ]
+            },{
+                id: "20rN_Z88",
+                name: "LEGO MARVEL SUPER HEROES WII U ",
+                image: "LEGO-MARVEL-SUPER-HEROES-WII-U.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting"],
+                size: "5.37 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/c3hioUIcBbkO" }
+                ]
+            },{
+                id: "oxcVnJ-R",
+                name: "DuckTales Remastered",
+                image: "DuckTales-Remastered.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "863 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/kkP2n3n" }
+                ]
+            },{
+                id: "uZXJ78If",
+                name: "Donkey Kong Country: Tropical Freeze ",
+                image: "Donkey-Kong-Country:Tropical-Freeze .jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "9.83 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/MaNp6tn" }
+                ]
+            },{
+                id: "0tkDywxa",
+                name: "ESPN Sports Connection ",
+                image: "ESPN-Sports-Connection.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Deportes"],
+                size: "2.08 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/CnCEYr90q" }
+                ]
+            },{
+                id: "2E1OZXa_",
+                name: "F1 RACE STARS - POWERED UP EDITION ",
+                image: "F1 RACE-STARS-POWERED-UP-EDITION.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "2.03 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/Prt2S" }
+                ]
+            },{
+                id: "aWvFtskJ",
+                name: "FAST Racing NEO",
+                image: "FAST-Racing-NEO.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción Aventura"],
+                size: "819 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/2L6gUHEr" }
+                ]
+            },{
+                id: "j_F44dtc",
+                name: "FIFA Soccer 13",
+                image: "FIFA-Soccer -13.jpg",
+                format: ["WUA"],
+                language: ["Español"],
+                genre: ["Deporte"],
+                size: "7.20 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/CGjHc" }
+                ]
+            },{
+                id: "FJTRGyPL",
+                name: "Family Party 30 Great Games Obstacle Arcade",
+                image: "Family Party-30-Great-Games-Obstacle-Arcade.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "456 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/dmC5ie" }
+                ]
+            },{
+                id: "WZcdRRtf",
+                name: "Fast & Furious - Showdown",
+                image: "Fast-&-Furious-Showdown.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Deportes"],
+                size: "1.90 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/kKsbqWbGIrW2" }
+                ]
+            },{
+                id: "7OV5SHvK",
+                name: "Funky Barn",
+                image: "Funky-Barn.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "286 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/I8oYv" }
+                ]
+            },{
+                id: "jE8ODHhd",
+                name: "GAME & WARIO",
+                image: "GAME-&-WARIO.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "3.06 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/L27W" }
+                ]
+            },{
+                id: "3Jv5KbwJ",
+                name: "STAR FOX ZERO",
+                image: "STAR-FOX-ZERO.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura"],
+                size: "4.49 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/O33DJBS0" }
+                ]
+            },{
+                id: "WxmaWl-r",
+                name: "RAYMAN LEGENDS",
+                image: "RAYMAN-LEGENDS.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "6.67 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ORDmZcr7" }
+                ]
+            },{
+                id: "Sy1hbCRN",
+                name: "Game Party Champions",
+                image: "Game-Party-Champions.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Deporte"],
+                size: "1.71 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/L5nO" }
+                ]
+            },{
+                id: "3xwOgHfE",
+                name: "Giana Sisters - Twisted Dreams Director's Cut",
+                image: "Giana Sisters-Twisted-Dreams-Directors-Cut.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura","Fighting"],
+                size: "8.70 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/k5xo0CqH" }
+                ]
+            },{
+                id: "NlEIjy01",
+                name: "Guitar Hero Live",
+                image: "Guitar-Hero-Live.jpg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Otro"],
+                size: "16.68 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/F4GKmWzR3U" }
+                ]
+            },{
+                id: "EEFL_JRR",
+                name: "THE LEGENDS OF ZELDA THE WIND WAKER HD",
+                image: "THE-LEGENDS-OF-ZELDA-THE-WIND-WAKER-HD.jpeg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura"],
+                size: "1.49 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/KOpmDPe5LWX6" }
+                ]
             }];
