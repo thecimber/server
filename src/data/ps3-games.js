@@ -1415,4 +1415,214 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/isN3U" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1pQbXWMsIWeZl1G6Jmtz-Vg " }
                 ]
+            },{
+                id: "QXGa3Siy",
+                name: "Terminator: Salvation",
+                image: "Terminator:Salvation.jpg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "5.65 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/fDwvGzAkU" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1sAfOuZCr33lAw2MguIcTqA" }
+                ]
+            },{
+                id: "Jnfk1_hA",
+                name: "One Piece: Pirate Warriors 3",
+                image: "photo_5103104975617240884_y.jpg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting"],
+                size: "13.75 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/N8hfb6QZDh" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1XEU5KwMkrYCWSqnH4rZ74A" }
+                ]
+            },{
+                id: "N4OVXzcd",
+                name: "Assassin's Creed 2",
+                image: "Assassin's Creed 2.jpg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura","Fighting"],
+                size: "15.46 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/2BtLu" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1pdHGWp4wKwyenRO3enZLUw" }
+                ]
+            },{
+                id: "Q4Mnwoqo",
+                name: "NCAA FOOTBALL 14 ",
+                image: "NCAA FOOTBALL 14 .jpg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Deporte"],
+                size: "6.38 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/SEWwFWhNHcB" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1SHA4Ciw0t-01hsB5GFLsaQ" }
+                ]
+            },{
+                id: "0xcafb41",
+                name: "Stake 2",
+                image: "Stake 2.jpg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Deporte"],
+                size: "6.87 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/rMCgB" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1rTNwIPGUPnWqnZJ66CmN5Q" }
+                ]
+            },{
+                id: "uFBt6VUe",
+                name: "Batman arkham asylum",
+                image: "Batman arkham asylum.jpg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting"],
+                size: "6.58 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ymNSz6GAu" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1BoffE4fFbaTxvEpTiDpENw" }
+                ]
+            },{
+                id: "YGgFtVlg",
+                name: "Need For Speed hot Pursuit",
+                image: "Need For Speed hot Pursuit.jpg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Racing"],
+                size: "6.82 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/MHqkF" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1RtKGmjHdvjCk9X8f4JHcVg" }
+                ]
+            },{
+                id: "ITUptjb7",
+                name: "Dragon Ball battle of z",
+                image: "Dragon Ball battle of z.jpg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting"],
+                size: "2.04 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/HBPdH93fB" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1nTIccSIrU1nSa-HqBAsSJA" }
+                ]
+            },{
+                id: "Z6h-mBNx",
+                name: "Ninja Gaiden Sigma 2 ",
+                image: "ninja.webp",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "3.44 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/2o2Mxw" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1FaL5GCVcuiLkPfb07WRzCA" }
+                ]
+            },{
+                id: "LxAfHzre",
+                name: "Resistance fall of Man",
+                image: "Resistance-Fall-Of-Man-ps3-300x350.jpg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "7.98 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/unNa9bkEXfd" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1S04Dj5Z0OC0Y_4vzkHP9ww" }
+                ]
+            },{
+                id: "O3RCVoUu",
+                name: "Spider-man Egde of time",
+                image: "Spider-man Egde of time.jpg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura","Fighting"],
+                size: "7.40 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/BYbpaw" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1kKTqJFvDtZ7EARGIuhDcMw" }
+                ]
+            },{
+                id: "9Om7qC6x",
+                name: "Hitman Absolution",
+                image: "Hitman Absolution.jpg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting"],
+                size: "16.80 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/9aytj" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Cdt0K0YOkZg9d0VpIxPSgg" }
+                ]
+            },{
+                id: "Xq40SXKY",
+                name: "Dead Space",
+                image: "dead-space-ps3.jpg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Terror","Acción"],
+                size: "6.61 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ch5QGdNIfg" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1TY2iiXXG8PJKI9-i72L64w" }
+                ]
+            },{
+                id: "xJUERsGv",
+                name: "Ben 10 Ultimate alien cosmic Destruction",
+                image: "ben-300x370.webp",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura"],
+                size: "3.54 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/hSawHo" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1mdWWRG10MjGaY9wm2taxTw" }
+                ]
+            },{
+                id: "HPXpIZVS",
+                name: "Lollipop Chainsaw",
+                image: "Lollipop Chainsaw.jpg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting","Terror"],
+                size: "4.91 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/qokE" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1IFfEvKT062eRcRHGVFpYYQ" }
+                ]
             }];
