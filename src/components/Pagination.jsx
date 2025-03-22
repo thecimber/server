@@ -12,8 +12,7 @@ export const Pagination = ({ currentPage, goToPreviousPage, goToNextPage, gamesP
             for (let i = 1; i <= totalPages; i++) {
                 pageNumbers.push(i);
             }
-        } else {
-
+        } else {            
             if (currentPage <= Math.ceil(maxPagesToShow / 4)) {
 
                 for (let i = 1; i <= maxPagesToShow; i++) {
@@ -32,7 +31,8 @@ export const Pagination = ({ currentPage, goToPreviousPage, goToNextPage, gamesP
                 pageNumbers.push(1);
                 pageNumbers.push("...");
                 for (let i = currentPage - Math.floor(maxPagesToShow / 4); i <= currentPage + Math.floor(maxPagesToShow / 4); i++) {
-                    pageNumbers.push(i);
+                    if(i > 1)
+                        pageNumbers.push(i);
                 }
                 pageNumbers.push("...");
                 pageNumbers.push(totalPages);
