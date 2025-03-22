@@ -785,4 +785,298 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1q4lmq6nf_OMSZ9hHleJ_AQ" }
                 ]
+            },{
+                id: "Opa5vIQq",
+                name: "Alan Wake",
+                image: "Alan Wake.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "8.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1veiypUFlOsEDSS1SdCf1fA" }
+                ]
+            },{
+                id: "nNRK-_PL",
+                name: "Devil May Cry HD Collection ",
+                image: "Devil May Cry HD Collection .jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "11.8 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1fstU0IzX9PnqTyQJjAmASw" }
+                ]
+            },{
+                id: "wzTqK0gR",
+                name: "Batman Arkham Knight ",
+                image: "Batman Arkham Knight .jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting"],
+                size: "52.8 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1n4AehpO9dJbvB-0RJ_t6xA" }
+                ]
+            },{
+                id: "fXpCeuI0",
+                name: "Batman Arkham Origins ",
+                image: "Batman Arkham Origins .jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting"],
+                size: "16.6 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/17Xv2ToUiBORvcNP5fP75Ow" }
+                ]
+            },{
+                id: "P68MNAWw",
+                name: "Batman The Enemy Within ",
+                image: "Batman The Enemy Within .jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting"],
+                size: "34.9 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/16M2Iv0xAE8yNN7tYZsVXag" }
+                ]
+            },{
+                id: "xRQbzVMa",
+                name: "Lego Batman 2 Dc Super Heroes ",
+                image: "Lego Batman 2 Dc Super Heroes.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura"],
+                size: "3.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1KYwOLeuyuSIa-t7f0Ta41A" }
+                ]
+            },{
+                id: "6TU82Flq",
+                name: "Lego Batman 3 Beyond Gotham ",
+                image: "Lego Batman 3 Beyond Gotham.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura"],
+                size: "8.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1SrUQoj8WHQMXQvNMkRyU1g" }
+                ]
+            },{
+                id: "N3keaVAF",
+                name: "Batman Arkham City ",
+                image: "Batman Arkham City.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting"],
+                size: "16.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/16OUDbYpi9OmpskmNNFkmzQ" }
+                ]
+            },{
+                id: "01YPfOzm",
+                name: "Street fighter V Champion Edition ",
+                image: "Street fighter V Champion Edition.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting"],
+                size: "49.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1sIe4kB8Hrz8sV7VL_Pc-fA" }
+                ]
+            },{
+                id: "X_lSXy9v",
+                name: "Devil May Cry Reloaded ",
+                image: "Devil May Cry Reloaded .jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "8.9 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Gq7r1wrIwAe0XuIRRWEt_w" }
+                ]
+            },{
+                id: "fbnnCdqp",
+                name: "Little Nightmares 2",
+                image: "Little Nightmares 2.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "6.6 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1-55h0oPM9fB3semIkLJx1g" }
+                ]
+            },{
+                id: "1zgoqTrI",
+                name: "Planet Crafter ",
+                image: "Planet Crafter.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "2.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Hh1HCR-bNokuEsGs_QSqSQ" }
+                ]
+            },{
+                id: "uDjex69j",
+                name: "Slime Rancher 2",
+                image: "Slime Rancher .jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "2.3 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Tmh7wQftFspDmCsCHv2-mQ" }
+                ]
+            },{
+                id: "_4j6F9WP",
+                name: "Factorio",
+                image: "Factorio.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "4.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/11HgjC5kexN_2BFVbTNUhnw" }
+                ]
+            },{
+                id: "-BOl37PG",
+                name: "Brotato",
+                image: "Brotato.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "228.1 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1QrUi00MGyjI48d3qCAsjAw" }
+                ]
+            },{
+                id: "tq2y2LLk",
+                name: "Abiotic Factor ",
+                image: "Abiotic Factor.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "1.6 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ZRprSx8yqj3R1NrWNY0fQw" }
+                ]
+            },{
+                id: "ZSSRUE2k",
+                name: "Dying Light ",
+                image: "Dying Light.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "33.3 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1s-yYPqW4_xJfgtoqpqxBzA" }
+                ]
+            },{
+                id: "I4K1g9IG",
+                name: "Devil May Cry 4 Special Edition",
+                image: "Devil May Cry 4 Special Edition.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "26.2 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1bE3XHoa9jwISIvdG92oVuQ" }
+                ]
+            },{
+                id: "0pEIkPrt",
+                name: "Devil May Cry 5 ",
+                image: "Devil May Cry 5.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "42.9 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1jXNfyZUadqaL0wmK_le3yQ" }
+                ]
+            },{
+                id: "a3hNal6i",
+                name: "Devil May Cry 3",
+                image: "Devil May Cry 3.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "3.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/18nPvNCqKILizvIxi1UJP7A" }
+                ]
+            },{
+                id: "3KktHLYI",
+                name: "Dragon Ball Sparking Zero",
+                image: "Dragon Ball Sparking Zero.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "28.8 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1-UbtrITwiWsnq1lLi_2dBw" }
+                ]
             }];
