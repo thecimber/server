@@ -20,7 +20,7 @@ export const EmulatorDetails = () => {
             {
                 emulador != '' &&
                 <div className="text-center my-3">
-                    <a href={emulador} className="btn-animated">
+                    <a href={emulador} className="btn-animated btn-animated-red">
                         <i className="fa-solid fa-gamepad"></i> Emulador</a>
                 </div>
             }
