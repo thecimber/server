@@ -8,3 +8,16 @@
     flex-wrap: wrap;
     justify-content: center;
   }
+
+  @media (max-width: 480px) {
+    .Toastify__toast-container {
+      width: 90% !important; /* Ajusta el ancho */
+      left: 50% !important;
+      transform: translateX(-50%) !important;
+    }
+    .Toastify__toast {
+      max-width: 320px !important; /* Ajusta el tamaño máximo del toast */
+      margin: 0 auto !important;
+    }
+  }
+  
