@@ -1264,7 +1264,7 @@ export const gamesPc =
             },{
                 id: "q0tZCLwZ",
                 name: "Five Nights At Freddy's Collection [1,2,3,4]",
-                image: "Five Nights At Freddy's Collection [1,2,3,4].jpeg",
+                image: "Five Nights At Freddy's Collection [1,2,3,4]2.jpeg",
                 format: ["PREINSTALADO"],
                 language: ["Multi-Idioma"],
                 genre: ["Terror"],
