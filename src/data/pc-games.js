@@ -1079,4 +1079,200 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1-UbtrITwiWsnq1lLi_2dBw" }
                 ]
+            },{
+                id: "oJ7OWdwk",
+                name: "Outlast",
+                image: "Outlast.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "5.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1w0Joqtxs9x_RGAhePLk_OA" }
+                ]
+            },{
+                id: "EbfspENE",
+                name: "Titan Fall 2",
+                image: "Titan Fall 2.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "46.1 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1aNJEJ6vujOWe6SUlERhagw" }
+                ]
+            },{
+                id: "GXMF8oKc",
+                name: "Titan Souls ",
+                image: "Titan Souls.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "225 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1NK1J_dHn75mW0miOk6D56w" }
+                ]
+            },{
+                id: "xZO0r-E_",
+                name: "Dragon ball xenoverse ",
+                image: "Dragon ball xenoverse.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting"],
+                size: "10.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1s43STFoamUZ3avEmo0bWbA" }
+                ]
+            },{
+                id: "_z8T7QlO",
+                name: "Jojo's all star battle bizarre adventure",
+                image: "Jojo's all star battle bizarre adventure.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "5.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1qyfBZHksxjGLLURS1lpeYw" }
+                ]
+            },{
+                id: "XSZVKrqI",
+                name: "Fnaf sister location ",
+                image: "Fnaf sister location.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Terror"],
+                size: "926.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/17IZxBMsPcY6R-nSlj9jYnw" }
+                ]
+            },{
+                id: "2PC5MXyS",
+                name: "Resident evil village",
+                image: "Resident evil village.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "34.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/14MN2ZHOInqsE7bLLMJh8NQ" }
+                ]
+            },{
+                id: "Kq4leJwy",
+                name: "Resident Evil Biohazard",
+                image: "Resident Evil Biohazard.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "35.1 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1a2kNZhequrmpb6bvRudszA" }
+                ]
+            },{
+                id: "UuTphJIP",
+                name: "Resident evil 5 ",
+                image: "Resident evil 5.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "6.9 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Rf4U3KejjauXRG9fkI_YKQ" }
+                ]
+            },{
+                id: "LD86uZ3H",
+                name: "Lords of the Fallen ",
+                image: "Lords of the Fallen.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Accióñ"],
+                size: "undefined",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/19BxdLpiykqNcqygXjDCKeg" }
+                ]
+            },{
+                id: "aoh00268",
+                name: "Five Nights At Freddy's Into the Pit",
+                image: "Five Nights At Freddy's Into the Pit.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Terror"],
+                size: "970.0 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/14gM3T5rAJRO9dkXyZTwfeQ" }
+                ]
+            },{
+                id: "h8fcFB8E",
+                name: "Help Wanted ",
+                image: "Help Wanted .jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Terror"],
+                size: "10.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1rAPFBRQRQKBQ5oBfZD5XRQ" }
+                ]
+            },{
+                id: "h0_oMVjD",
+                name: "Five nights at freddy's Help Wanted 2",
+                image: "Five nights at freddy's Help Wanted 2.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Terror"],
+                size: "10.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Nw2CItBHeyIMwOBeZQ2sDw" }
+                ]
+            },{
+                id: "q0tZCLwZ",
+                name: "Five Nights At Freddy's Collection [1,2,3,4]",
+                image: "Five Nights At Freddy's Collection [1,2,3,4].jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Terror"],
+                size: "5.02 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1gBpW1p6vY6VFm2WeSs16AQ" }
+                ]
             }];
