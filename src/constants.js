@@ -40,7 +40,9 @@ export const PROPS_REPUESTO= {
 }
 
 export const PROPS_ACTUALIZACION= {
-    
+    name: "Repuesto",
+    icon: "fas fa-file-arrow-up",
+    color: "btn-secondary"
 }
 
 export const PASSWORD_ZIP = 'thecimber';
