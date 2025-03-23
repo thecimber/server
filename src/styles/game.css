@@ -199,6 +199,34 @@
     }
 
   }
+  @keyframes glowingGreen {
+    0% {
+      box-shadow: 0 0 5px rgb(80, 211, 63), 0 0 10px rgb(217, 248, 41);
+    }
+
+    50% {
+      box-shadow: 0 0 15px rgb(80, 211, 63), 0 0 20px rgb(80, 211, 63);
+    }
+
+    100% {
+      box-shadow: 0 0 5px rgb(217, 248, 41), 0 0 10px rgb(217, 248, 41);
+    }
+  }
+
+  @keyframes borderMoveGreen {
+    0% {
+      border-color: rgb(217, 248, 41);
+    }
+
+    50% {
+      border-color: rgb(80, 211, 63);
+    }
+
+    100% {
+      border-color: rgb(217, 248, 41);
+    }
+
+  }
 
 
   .btn-animated-blue {
@@ -210,6 +238,16 @@
 
   .btn-animated-blue:hover {
     background: linear-gradient(45deg, rgb(211, 63, 186), rgb(0, 174, 255), rgb(211, 63, 186));
+  }
+
+  .btn-animated-green {
+    background: linear-gradient(45deg, rgb(217, 248, 41), rgb(80, 211, 63), rgb(217, 248, 41));
+    border: 3px solid rgb(217, 248, 41);
+    animation: borderMove2 2s infinite alternate, glowing2 1.5s infinite alternate;
+  }
+
+  .btn-animated-green:hover {
+    background: linear-gradient(45deg, rgb(80, 211, 63), rgb(217, 248, 41), rgb(80, 211, 63));
   }
 
   /* Responsive para tablets */
