@@ -58,7 +58,7 @@
 
 @media (max-width: 480px) {
   .hero-section {
-    height: 250px;
+    height: 310px;
   }
 
   .title-hero-section{
@@ -69,9 +69,13 @@
     font-size: 15px !important;
   }
 
-  .hide-button{
-    display: none !important;
+  .btn-animated{
+    font-size: 1rem !important;
   }
+
+  /* .hide-button{
+    display: none !important;
+  } */
 
   .subtitulo-resultados{
     font-size: 20px !important;
@@ -80,7 +84,7 @@
 
 @media (min-width: 481px) and (max-width: 770px) {
   .hero-section {
-    height: 250px;
+    height: 310px;
   }
 
   .title-hero-section{
@@ -91,7 +95,11 @@
     font-size: 20px !important;
   }
 
-  .hide-button{
-    display: none !important;
+  .btn-animated{
+    font-size: 1rem !important;
   }
+
+  /* .hide-button{
+    display: none !important;
+  } */
 }
