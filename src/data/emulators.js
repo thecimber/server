@@ -34,13 +34,13 @@ export const emulators = [
         image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/wiiu-logo.jpg',
         emulador: 'https://1024terabox.com/s/1ifALCTlRdfYNvCksREvzaA'
     },
-    // {
-    //     id: 8,
-    //     name: 'Nintendo Switch',
-    //     path: 'sw',
-    //     image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/sw-logo.jpeg',
-    //     emulador: ''
-    // },
+     {
+         id: 8,
+         name: 'Nintendo Switch',
+         path: 'sw',
+         image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/sw-logo.jpeg',
+         emulador: ''
+    },
     // {
     //     id: 6,
     //     name: 'Game Cube',
