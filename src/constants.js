@@ -18,7 +18,7 @@ export const PATH_SERVER_GAMECUBE = 'https://raw.githubusercontent.com/thecimber
 
 export const PATH_SERVER_PS2 = 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ps2/';
 
-export const PATH_SERVER_SW = 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/nw/';
+export const PATH_SERVER_SW = 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/sw/';
 
 
 export const PROPS_MEDIFIRE = {
