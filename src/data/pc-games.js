@@ -1275,4 +1275,130 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1gBpW1p6vY6VFm2WeSs16AQ" }
                 ]
+            },{
+                id: "7kLeIdZ9",
+                name: "Subnautica ",
+                image: "Subnautica.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "3.6 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/161hRL2YRf3eGWqvo1rQjeA" }
+                ]
+            },{
+                id: "_Jn6ubKL",
+                name: "Subnautica Below zero",
+                image: "Subnautica Below zero.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "5.6 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/11BlWVSaEgtHyLO41lZHO1w" }
+                ]
+            },{
+                id: "TrSQhiBN",
+                name: "Fallout 76",
+                image: "Fallout 76.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "55.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1hqCKPa8qolnT8VCvcRaftg" }
+                ]
+            },{
+                id: "Bu4ei4AW",
+                name: "Fallout New Vegas ",
+                image: "Fallout New Vegas.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "8.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1BckQd2nuZ_8PmEmHL8EQIQ" }
+                ]
+            },{
+                id: "N2iHiuA6",
+                name: "Fallout 1 ",
+                image: "Fallout 1.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "519.1 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1C9qeNb-Eb3Futrml7iuM4g" }
+                ]
+            },{
+                id: "Tmz_dDWs",
+                name: "Fallout 3",
+                image: "Fallout 3.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "7.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1vewmcvFp0tJiRlQbh_czQg" }
+                ]
+            },{
+                id: "MueosqFw",
+                name: "Day Z",
+                image: "Day Z.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "19.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1s3ggNcP4-EpOr_X5mCRL6w" }
+                ]
+            },{
+                id: "cTjWAFuj",
+                name: "Rayman Legends ",
+                image: "Rayman Legends.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "4.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1eQZUtX9WpdZOAOTNqXJhIQ" }
+                ]
+            },{
+                id: "SF4zqDMw",
+                name: "Rayman Origins",
+                image: "Rayman Origins.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "2.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1KOiNFxUWy33__uJG8wm8pg" }
+                ]
             }];
