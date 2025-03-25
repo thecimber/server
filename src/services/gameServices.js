@@ -1,4 +1,4 @@
-import { PATH_SERVER_PS3,PATH_SERVER_PC, PATH_SERVER_PSP, PATH_SERVER_DS, PATH_SERVER_WIIU, PATH_SERVER_GAMECUBE, PATH_SERVER_PS2, PATH_SERVER_SW } from "../constants";
+import { PATH_SERVER_PS3,PATH_SERVER_PC, PATH_SERVER_PSP, PATH_SERVER_DS, PATH_SERVER_WIIU, PATH_SERVER_GAMECUBE, PATH_SERVER_PS2, PATH_SERVER_SW, PATH_SERVER_XBOX360 } from "../constants";
 import { gamesPs3 } from "../data/ps3-games";
 import { gamesPc } from "../data/pc-games";
 import { gamesPsp } from "../data/psp-games";
@@ -7,6 +7,7 @@ import { gamesWiiu } from "../data/wiiu-games";
 import { gamesPs2 } from "../data/ps2-games";
 import { gamesGameCube } from "../data/gamecube-games";
 import { gamesSw } from "../data/sw-games";
+import { gamesXbox360 } from "../data/xbox360-games";
 
 export const getGameByEmulator = ({emulator}) => {
     switch (emulator) {
@@ -26,6 +27,8 @@ export const getGameByEmulator = ({emulator}) => {
             return getGamesPs2().map(game => ({...game,console: 'Ps2',image: PATH_SERVER_PS2 + game.image}));
         case 'sw':
             return getGamesSw().map(game => ({...game,console: 'Switch',image: PATH_SERVER_SW + game.image}));
+        case '360':
+            return getGamesXbox360().map(game => ({...game,console: 'Xbox 360',image: PATH_SERVER_XBOX360 + game.image}));
         default:
             return []
     }
@@ -40,6 +43,7 @@ export const getGamesBySearch = ({search}) => {
     const gamesGameCube = getGamesGameCube().map(game => ({...game,console: 'Game Cube',image: PATH_SERVER_GAMECUBE + game.image}));
     const gamesPs2= getGamesPs2().map(game => ({...game,console: 'Ps2',image: PATH_SERVER_PS2 + game.image}));
     const gamesNw = getGamesSw().map(game => ({...game,console: 'Switch',image: PATH_SERVER_SW + game.image}));
+    const gamesXbox360 = getGamesXbox360().map(game => ({...game,console: 'Xbox 360',image: PATH_SERVER_XBOX360 + game.image}));
 
 
     const games = [...gamesPs3,...gamesPc, ...gamesPsp, ...gamesDs,...gamesWiiu, ...gamesGameCube, ...gamesPs2, ...gamesNw];
@@ -74,4 +78,7 @@ const getGamesGameCube= () => {
 }
 const getGamesSw= () => {
     return gamesSw;
+}
+const getGamesXbox360= () => {
+    return gamesXbox360;
 }

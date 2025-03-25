@@ -20,6 +20,8 @@ export const PATH_SERVER_PS2 = 'https://raw.githubusercontent.com/thecimber/serv
 
 export const PATH_SERVER_SW = 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/sw/';
 
+export const PATH_SERVER_XBOX360 = 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/xbox360/';
+
 
 export const PROPS_MEDIFIRE = {
     name: "Mediafire",
@@ -40,7 +42,7 @@ export const PROPS_REPUESTO= {
 }
 
 export const PROPS_ACTUALIZACION= {
-    name: "Repuesto",
+    name: "Actualización",
     icon: "fas fa-file-arrow-up",
     color: "btn-secondary"
 }
