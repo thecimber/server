@@ -742,4 +742,18 @@ export const gamesSw = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1jjkxIqEG5HfBjIufGKp4YQ" }
                 ]
+            },{
+                id: "gNf0spPT",
+                name: "Resident Evil Revelations 2",
+                image: "Resident Evil Revelations 2.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "24.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/102eaJLMzzLjwKWO1OSra-g" }
+                ]
             }];
