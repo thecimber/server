@@ -13,7 +13,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/Kjk47DVXv7" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/15Ru-qoPs8sTZebGOux0E6Q" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/15Ru-qoPs8sTZebGOux0E6Q" }
                 ]
             },{
                 id: "431095",
@@ -27,7 +27,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/d8IXWYcjDI" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/16TFdRP-SS6x6Vq9lGLTTLQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/16TFdRP-SS6x6Vq9lGLTTLQ" }
                 ]
             },{
                 id: "948741",
@@ -41,7 +41,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/95QvVXT0" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1D-A5-hG6v2XMmKUdpL7G5w" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1D-A5-hG6v2XMmKUdpL7G5w" }
                 ]
             },{
                 id: "886589",
@@ -55,7 +55,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/R6KbjpkSjRm" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1oLPTbjewvxvwJlufkbsBbA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1oLPTbjewvxvwJlufkbsBbA" }
                 ]
             },{
                 id: "601510",
@@ -69,7 +69,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ugz3YVe" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DV6BVIeZeKPQfEG4Kp3QIQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DV6BVIeZeKPQfEG4Kp3QIQ" }
                 ]
             },{
                 id: "575759",
@@ -83,7 +83,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/FcKcMxF" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1jZrlwOl701eqPJqGVerfZw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1jZrlwOl701eqPJqGVerfZw" }
                 ]
             },{
                 id: "765813",
@@ -97,7 +97,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/sjVUE" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1GR2-VLI2bNLb3AU_owY6GA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1GR2-VLI2bNLb3AU_owY6GA" }
                 ]
             },{
                 id: "723297",
@@ -111,7 +111,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/snO9qu" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1NCIZ8lMWh7JmwA344Khqzg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1NCIZ8lMWh7JmwA344Khqzg" }
                 ]
             },{
                 id: "840928",
@@ -125,7 +125,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/I1snET9Kb" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1EPy2XXvLppaA0qpQUCbKOQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1EPy2XXvLppaA0qpQUCbKOQ" }
                 ]
             },{
                 id: "641601",
@@ -139,7 +139,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/FPk0" },{ ...PROPS_MEDIFIRE , link: "https://1024terabox.com/s/1BfwdfijK8BSgnJOwhpautw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1BfwdfijK8BSgnJOwhpautw" }
                 ]
             },{
                 id: "849499",
@@ -153,7 +153,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/vhbDCAMI" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1YphiIxTLiSDBFhI_VsD_Hg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1YphiIxTLiSDBFhI_VsD_Hg" }
                 ]
             },{
                 id: "551670",
@@ -167,7 +167,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/S28sRI" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1kJO9UAaFzJj-nSRVW9f76A" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1kJO9UAaFzJj-nSRVW9f76A" }
                 ]
             },{
                 id: "230240",
@@ -181,7 +181,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/bVV6Dx" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1irChPZYL4b5dHY4GtWDmHw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1irChPZYL4b5dHY4GtWDmHw" }
                 ]
             },{
                 id: "625482",
@@ -195,7 +195,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/SP3CbyNtM" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ezcMhILcH07eDKL3ufrXNA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ezcMhILcH07eDKL3ufrXNA" }
                 ]
             },{
                 id: "27752",
@@ -209,7 +209,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/zDiqkTT1KnqZ" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DpGXCoZgFkMUCe9b_jWbAQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DpGXCoZgFkMUCe9b_jWbAQ" }
                 ]
             },{
                 id: "238195",
@@ -223,7 +223,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/zOKbbZbcLi" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1wcNbjD5y-HWwgaACRFy05A" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1wcNbjD5y-HWwgaACRFy05A" }
                 ]
             },{
                 id: "131229",
@@ -237,7 +237,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/WDt87" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/169jb2FzKrcC4kXTT2j66jg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/169jb2FzKrcC4kXTT2j66jg" }
                 ]
             },{
                 id: "782351",
@@ -251,7 +251,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/AfAv1" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1h0pPGNclMXEXDe0yFZ53pA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1h0pPGNclMXEXDe0yFZ53pA" }
                 ]
             },{
                 id: "915844",
@@ -265,7 +265,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/B0XuYpIo" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1JHn5onbzOtFGK-Dmud_ljg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1JHn5onbzOtFGK-Dmud_ljg" }
                 ]
             },{
                 id: "565965",
@@ -279,7 +279,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/28zbt" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1fg-wqSHgcA2lrQHcXVw7WA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1fg-wqSHgcA2lrQHcXVw7WA" }
                 ]
             },{
                 id: "103462",
@@ -293,7 +293,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/cxbbv0D54z9" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1RpjLqdxYoajpVnOMjyJeig" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1RpjLqdxYoajpVnOMjyJeig" }
                 ]
             },{
                 id: "762969",
@@ -307,7 +307,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/CZdiWUiEaC" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1do0d89aBfh9UzDBL5F4i7g" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1do0d89aBfh9UzDBL5F4i7g" }
                 ]
             },{
                 id: "67765",
@@ -321,7 +321,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/Vd7JBTCeel" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1TekdJvPK5p9_W2gQn2iWvA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1TekdJvPK5p9_W2gQn2iWvA" }
                 ]
             },{
                 id: "168633",
@@ -335,7 +335,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/4CKFoI6" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1FaqNLPBJIcLTjDEjsnfa4A" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1FaqNLPBJIcLTjDEjsnfa4A" }
                 ]
             },{
                 id: "139220",
@@ -349,7 +349,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ALvJ73" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1zx02F95vLLIql-cUU0IiDw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1zx02F95vLLIql-cUU0IiDw" }
                 ]
             },{
                 id: "887265",
@@ -363,7 +363,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/Lp8ivs" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1sX_3eh2ZlomWZx0OP3AXrA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1sX_3eh2ZlomWZx0OP3AXrA" }
                 ]
             },{
                 id: "140429",
@@ -377,7 +377,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/hjDS0j" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1T0vSlXmQDe4CBY5WLaHWKA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1T0vSlXmQDe4CBY5WLaHWKA" }
                 ]
             },{
                 id: "949811",
@@ -391,7 +391,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ToSGrpyJ1Xh" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/19iaiJ-0raWq4H1aHKnAHOw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/19iaiJ-0raWq4H1aHKnAHOw" }
                 ]
             },{
                 id: "295523",
@@ -405,7 +405,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/Q9zlq3" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1xJs3D9IGZqj4ReATVDRfLw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1xJs3D9IGZqj4ReATVDRfLw" }
                 ]
             },{
                 id: "778698",
@@ -419,7 +419,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/KsiXe7ny" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1zU4Uc1i1tCjQ7pcbPZojiA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1zU4Uc1i1tCjQ7pcbPZojiA" }
                 ]
             },{
                 id: "93320",
@@ -433,7 +433,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/EYeKuhksRT" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/11Mz3VtJj5Yoa7KcpUm8vVw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/11Mz3VtJj5Yoa7KcpUm8vVw" }
                 ]
             },{
                 id: "768848",
@@ -447,7 +447,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/yPgLu" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1lxoM2JjDCFRz6mfxqRFQFw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1lxoM2JjDCFRz6mfxqRFQFw" }
                 ]
             },{
                 id: "366556",
@@ -461,7 +461,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/iu9YnHasM" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1iVnzXGLt3m-4sTVXYcB3nA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1iVnzXGLt3m-4sTVXYcB3nA" }
                 ]
             },{
                 id: "881969",
@@ -475,7 +475,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/hH61I6SceotG" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1d2rqb_w_hWnuI_nn6rR5YQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1d2rqb_w_hWnuI_nn6rR5YQ" }
                 ]
             },{
                 id: "142702",
@@ -489,7 +489,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/51Fx" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DvIE3EpeutR3_thiCSHFzw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DvIE3EpeutR3_thiCSHFzw" }
                 ]
             },{
                 id: "315474",
@@ -503,7 +503,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/12Ry0awynhG" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1vY5HlUZdPVnPm4-nM_w08g" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1vY5HlUZdPVnPm4-nM_w08g" }
                 ]
             },{
                 id: "69270",
@@ -517,7 +517,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/FkFzrm" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1mMZF6NyFX94FYzdxTMYzAg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1mMZF6NyFX94FYzdxTMYzAg" }
                 ]
             },{
                 id: "59749",
@@ -531,7 +531,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/NnFXVVmNwUB" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1mGZk--WEUqjJpzs5GAW-FA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1mGZk--WEUqjJpzs5GAW-FA" }
                 ]
             },{
                 id: "546819",
@@ -545,7 +545,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/MKqqR" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Z-nWGaeSWoeHEVS3HGyJ0A" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Z-nWGaeSWoeHEVS3HGyJ0A" }
                 ]
             },{
                 id: "317978",
@@ -559,7 +559,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/966NWABoEv" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1NK8_FaTOkpUoGOrp7WbAAw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1NK8_FaTOkpUoGOrp7WbAAw" }
                 ]
             },{
                 id: "594100",
@@ -573,7 +573,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/3lD7Z" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1dzkT-CV4vzkqabZn3rpxXg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1dzkT-CV4vzkqabZn3rpxXg" }
                 ]
             },{
                 id: "558769",
@@ -587,7 +587,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/IsvGbZUJN" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1cT4FyubaUszzhwU9tQA2ZQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1cT4FyubaUszzhwU9tQA2ZQ" }
                 ]
             },{
                 id: "881477",
@@ -601,7 +601,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/uud1Rzse" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/13gTKp0naXbAc-2t5MWBjww" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/13gTKp0naXbAc-2t5MWBjww" }
                 ]
             },{
                 id: "106918",
@@ -615,7 +615,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ogJbvy8J1" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/123rmbyMOZ0_cf-g-qQ4l2Q" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/123rmbyMOZ0_cf-g-qQ4l2Q" }
                 ]
             },{
                 id: "488742",
@@ -629,7 +629,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/UimF" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/17sIzn5CXAISIivOSkvsq2Q" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/17sIzn5CXAISIivOSkvsq2Q" }
                 ]
             },{
                 id: "457901",
@@ -643,7 +643,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/eNxQG" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DncBPpUlSqzTJaR6r_SeBQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DncBPpUlSqzTJaR6r_SeBQ" }
                 ]
             },{
                 id: "55374",
@@ -657,7 +657,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/tKsthR6Tr" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1uzSVgxpwjSVfKEEa6or0xg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1uzSVgxpwjSVfKEEa6or0xg" }
                 ]
             },{
                 id: "834855",
@@ -671,7 +671,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/G1rFajk" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1LVHN4BKQMGrvkaZdE63oyA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1LVHN4BKQMGrvkaZdE63oyA" }
                 ]
             },{
                 id: "271999",
@@ -685,7 +685,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/9RtGN9KA" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1WC2anyRmGMi2to_dZ8_M8w" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1WC2anyRmGMi2to_dZ8_M8w" }
                 ]
             },{
                 id: "656781",
@@ -699,7 +699,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/hOtXhxW" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Th7ZnZNXSrNrhl-ke4s8Ow" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Th7ZnZNXSrNrhl-ke4s8Ow" }
                 ]
             },{
                 id: "822436",
@@ -713,7 +713,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/Z0RdsZPd" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1IGao5cMsY5V-QMBbhzaiIg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1IGao5cMsY5V-QMBbhzaiIg" }
                 ]
             },{
                 id: "863355",
@@ -727,7 +727,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/h3T7oCEh1oQ" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1u5-KxUaexxWVax2FAFG5OQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1u5-KxUaexxWVax2FAFG5OQ" }
                 ]
             },{
                 id: "521090",
@@ -741,7 +741,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/Ij8fTV0d" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/10sIVLjBopITcZmbqPYa76g" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/10sIVLjBopITcZmbqPYa76g" }
                 ]
             },{
                 id: "270336",
@@ -755,7 +755,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/0SjCpqyp7Au" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1yXu3DPi6qAvc48Z4GdJc-w" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1yXu3DPi6qAvc48Z4GdJc-w" }
                 ]
             },{
                 id: "373450",
@@ -769,7 +769,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/9kkW6rg" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1sT8DJmzmOb1dfFAD-x4olA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1sT8DJmzmOb1dfFAD-x4olA" }
                 ]
             },{
                 id: "612968",
@@ -783,7 +783,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/oH1j" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1fZ0T8-FNT6Dczj9q-10YaQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1fZ0T8-FNT6Dczj9q-10YaQ" }
                 ]
             },{
                 id: "94437",
@@ -797,7 +797,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/AH9bzE4D" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ZOYpaASJL2OQQWnRsDnsag" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ZOYpaASJL2OQQWnRsDnsag" }
                 ]
             },{
                 id: "90685",
@@ -811,7 +811,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/R7PJ" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/16EBvAYmpJ0JkjQnm_DfroQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/16EBvAYmpJ0JkjQnm_DfroQ" }
                 ]
             },{
                 id: "902916",
@@ -825,7 +825,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/Q9sSHhK9NgWN" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1d6qTQL7_FvnCF2VO5S62Gg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1d6qTQL7_FvnCF2VO5S62Gg" }
                 ]
             },{
                 id: "115205",
@@ -839,7 +839,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/J8n89bOtJ" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1JeSxrkhZkXOJQ30tzskphw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1JeSxrkhZkXOJQ30tzskphw" }
                 ]
             },{
                 id: "506554",
@@ -853,7 +853,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/nF0RIoRH" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/15_ezTRa_QZZ5Q1Nd54VDPA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/15_ezTRa_QZZ5Q1Nd54VDPA" }
                 ]
             },{
                 id: "694697",
@@ -867,7 +867,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/kubSJgmL" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1N7AiTJ00PO-JmPNKvGBpbA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1N7AiTJ00PO-JmPNKvGBpbA" }
                 ]
             },{
                 id: "759626",
@@ -881,7 +881,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/W9iXB" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1sX8pFD79LYvYrDF442KVTw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1sX8pFD79LYvYrDF442KVTw" }
                 ]
             },{
                 id: "352348",
@@ -895,7 +895,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/hpnDv" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1e_PlK0ykZWoQORXFtVhRkA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1e_PlK0ykZWoQORXFtVhRkA" }
                 ]
             },{
                 id: "904005",
@@ -909,7 +909,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/pdix4YAqa0" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1IY5TIJXLox7uO7yICkHSjA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1IY5TIJXLox7uO7yICkHSjA" }
                 ]
             },{
                 id: "843638",
@@ -923,7 +923,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/CoXzO2m9l" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/19Tn185XfyiGyFZZ9LmkgfQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/19Tn185XfyiGyFZZ9LmkgfQ" }
                 ]
             },{
                 id: "678756",
@@ -937,7 +937,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/6namUTAR2D" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1OqlkV3kBIHYuu2vIUQDlZw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1OqlkV3kBIHYuu2vIUQDlZw" }
                 ]
             },{
                 id: "966554",
@@ -951,7 +951,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/3LuXp" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1GWk55EpVtLIocQK6djbIYw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1GWk55EpVtLIocQK6djbIYw" }
                 ]
             },{
                 id: "76469",
@@ -965,7 +965,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/cyiGeXJG1Z" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1E1QuVdxtyIBaIyGfNHB5wA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1E1QuVdxtyIBaIyGfNHB5wA" }
                 ]
             },{
                 id: "427114",
@@ -979,7 +979,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/I0K7rKgUEKix" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1zRPZ3ZdZy4OdtC3yaxpxCw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1zRPZ3ZdZy4OdtC3yaxpxCw" }
                 ]
             },{
                 id: "935209",
@@ -993,7 +993,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ChJPE" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1NIx8oe8E1Tevpp3ko10CJA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1NIx8oe8E1Tevpp3ko10CJA" }
                 ]
             },{
                 id: "234320",
@@ -1007,7 +1007,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/SVP19yCM0u" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1drl52uOzCnJt2v9VMKkYOQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1drl52uOzCnJt2v9VMKkYOQ" }
                 ]
             },{
                 id: "109868",
@@ -1021,7 +1021,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/z7pxgI" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1gdDtWten0ORmmADB1fVOOw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1gdDtWten0ORmmADB1fVOOw" }
                 ]
             },{
                 id: "805215",
@@ -1035,7 +1035,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/kfBCD" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1CwJrD0RudfOV_KdZHj6mOg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1CwJrD0RudfOV_KdZHj6mOg" }
                 ]
             },{
                 id: "255254",
@@ -1049,7 +1049,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/fhRNcqkjp" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1gCMPv1xdC4VWVPggAlEW9w" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1gCMPv1xdC4VWVPggAlEW9w" }
                 ]
             },{
                 id: "693826",
@@ -1063,7 +1063,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/WeZx" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1QpTeBzBr7J0_GP3Lfhfmpw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1QpTeBzBr7J0_GP3Lfhfmpw" }
                 ]
             },{
                 id: "937293",
@@ -1077,7 +1077,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/bKLaLsGLJF" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1i2UqbUtep8J1h1LjJlob_Q" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1i2UqbUtep8J1h1LjJlob_Q" }
                 ]
             },{
                 id: "354900",
@@ -1091,7 +1091,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ZXEvL88" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1nDH3EtjQ9nb3JaOexG6LsA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1nDH3EtjQ9nb3JaOexG6LsA" }
                 ]
             },{
                 id: "129107",
@@ -1105,7 +1105,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/FqHUO" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DC4pJ6W1g3IzIiuF16G1cw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DC4pJ6W1g3IzIiuF16G1cw" }
                 ]
             },{
                 id: "830318",
@@ -1119,7 +1119,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/N2hW" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1OOIub6uIZJjBEM_5zSKGXQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1OOIub6uIZJjBEM_5zSKGXQ" }
                 ]
             },{
                 id: "826585",
@@ -1133,7 +1133,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/b6MVD2Va" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Sr2kM8v08Q8QHItE_dMvWg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Sr2kM8v08Q8QHItE_dMvWg" }
                 ]
             },{
                 id: "741821",
@@ -1147,7 +1147,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/NPyH" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1s0HymHhOchxGhlMBsyUTDQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1s0HymHhOchxGhlMBsyUTDQ" }
                 ]
             },{
                 id: "ZBdjzWIU",
@@ -1161,7 +1161,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/OfoeZ23FV8w" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1rsojYLOdf85YRRgAd5AT_A" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1rsojYLOdf85YRRgAd5AT_A" }
                 ]
             },{
                 id: "ExKJbpoH",
@@ -1175,7 +1175,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/k7Snq7" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1NdyjO5xBuhQHgzCqP701_Q" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1NdyjO5xBuhQHgzCqP701_Q" }
                 ]
             },{
                 id: "IL3hdXEw",
@@ -1189,7 +1189,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/3o71bEWOq4j" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/19edz3PsybbksyWEzksi5ng" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/19edz3PsybbksyWEzksi5ng" }
                 ]
             },{
                 id: "mNGSc5JH",
@@ -1203,7 +1203,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/qwViIOfz" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1jqpWe0rq2Ki0cSEjjeZ6pw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1jqpWe0rq2Ki0cSEjjeZ6pw" }
                 ]
             },{
                 id: "RIE4hrPo",
@@ -1217,7 +1217,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/j4Nj5Ip9yo" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/17j_pi8BAzgOb5Iy3R_6IxQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/17j_pi8BAzgOb5Iy3R_6IxQ" }
                 ]
             },{
                 id: "MuUtDNh6",
@@ -1231,7 +1231,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/hXw3o" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1WxDbFK_Ehcgt3M8DJi_kfQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1WxDbFK_Ehcgt3M8DJi_kfQ" }
                 ]
             },{
                 id: "TevRI8am",
@@ -1245,7 +1245,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/K364" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/14CCCXcmbryQCnAFd8Sp7dg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/14CCCXcmbryQCnAFd8Sp7dg" }
                 ]
             },{
                 id: "MnjbVeoh",
@@ -1259,7 +1259,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/1vkXSUYY4Dx" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1rlUiFZ86GF-c4ZuwdorT4g" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1rlUiFZ86GF-c4ZuwdorT4g" }
                 ]
             },{
                 id: "nmhqYHdW",
@@ -1273,7 +1273,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/aHdZ" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1P3tUzo2nE6TcxIMq5UpDcg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1P3tUzo2nE6TcxIMq5UpDcg" }
                 ]
             },{
                 id: "1xKxA5xC",
@@ -1287,7 +1287,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/gI6lIh" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1vbWXuMUW_Fug8VykzlgfoQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1vbWXuMUW_Fug8VykzlgfoQ" }
                 ]
             },{
                 id: "erizIKCr",
@@ -1301,7 +1301,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ylhWh" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1IGQBpzvgMkH3SVXZ0FJr6g" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1IGQBpzvgMkH3SVXZ0FJr6g" }
                 ]
             },{
                 id: "0F8Ch1tO",
@@ -1315,7 +1315,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/q1Vp1TR" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1p2Ha00Auv-JiRBc-ZCJ2rQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1p2Ha00Auv-JiRBc-ZCJ2rQ" }
                 ]
             },{
                 id: "VxAg-TNk",
@@ -1329,7 +1329,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/rCBNzj3" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Bwcx8i8xMAa5i1k__wPWMw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Bwcx8i8xMAa5i1k__wPWMw" }
                 ]
             },{
                 id: "NzOAc2V-",
@@ -1343,7 +1343,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/uTuv2d" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1EJnZUe-Qy-eCIREpEMbyVQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1EJnZUe-Qy-eCIREpEMbyVQ" }
                 ]
             },{
                 id: "DYLXkVV3",
@@ -1357,7 +1357,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/CCPjuBAs" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1B3kxYYv7y_vgAyQVsygKHw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1B3kxYYv7y_vgAyQVsygKHw" }
                 ]
             },{
                 id: "VMcK4ANB",
@@ -1371,7 +1371,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/CuXPbFJdLA" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/13TwDEdBQl3bHFoe8ZlBF-g" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/13TwDEdBQl3bHFoe8ZlBF-g" }
                 ]
             },{
                 id: "Dm7a1tTp",
@@ -1385,7 +1385,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/GbbXILCf9uvy" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1efjXvw1qQLhRJ28tRJaIdQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1efjXvw1qQLhRJ28tRJaIdQ" }
                 ]
             },{
                 id: "yF9eTwsz",
@@ -1399,7 +1399,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://1024terabox.com/s/1_Lo7dRfRV1HT5qIXGPL58g" },{ ...PROPS_TERABOX , link: "https://cuty.io/v1ZEVl" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1_Lo7dRfRV1HT5qIXGPL58g" }
                 ]
             },{
                 id: "sheY0e0G",
@@ -1413,7 +1413,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/isN3U" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1pQbXWMsIWeZl1G6Jmtz-Vg " }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1pQbXWMsIWeZl1G6Jmtz-Vg " }
                 ]
             },{
                 id: "QXGa3Siy",
@@ -1427,7 +1427,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/fDwvGzAkU" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1sAfOuZCr33lAw2MguIcTqA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1sAfOuZCr33lAw2MguIcTqA" }
                 ]
             },{
                 id: "Jnfk1_hA",
@@ -1441,7 +1441,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/N8hfb6QZDh" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1XEU5KwMkrYCWSqnH4rZ74A" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1XEU5KwMkrYCWSqnH4rZ74A" }
                 ]
             },{
                 id: "N4OVXzcd",
@@ -1455,7 +1455,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/2BtLu" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1pdHGWp4wKwyenRO3enZLUw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1pdHGWp4wKwyenRO3enZLUw" }
                 ]
             },{
                 id: "Q4Mnwoqo",
@@ -1469,7 +1469,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/SEWwFWhNHcB" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1SHA4Ciw0t-01hsB5GFLsaQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1SHA4Ciw0t-01hsB5GFLsaQ" }
                 ]
             },{
                 id: "0xcafb41",
@@ -1483,7 +1483,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/rMCgB" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1rTNwIPGUPnWqnZJ66CmN5Q" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1rTNwIPGUPnWqnZJ66CmN5Q" }
                 ]
             },{
                 id: "uFBt6VUe",
@@ -1497,7 +1497,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ymNSz6GAu" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1BoffE4fFbaTxvEpTiDpENw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1BoffE4fFbaTxvEpTiDpENw" }
                 ]
             },{
                 id: "YGgFtVlg",
@@ -1511,7 +1511,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/MHqkF" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1RtKGmjHdvjCk9X8f4JHcVg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1RtKGmjHdvjCk9X8f4JHcVg" }
                 ]
             },{
                 id: "ITUptjb7",
@@ -1525,7 +1525,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/HBPdH93fB" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1nTIccSIrU1nSa-HqBAsSJA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1nTIccSIrU1nSa-HqBAsSJA" }
                 ]
             },{
                 id: "Z6h-mBNx",
@@ -1539,7 +1539,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/2o2Mxw" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1FaL5GCVcuiLkPfb07WRzCA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1FaL5GCVcuiLkPfb07WRzCA" }
                 ]
             },{
                 id: "LxAfHzre",
@@ -1553,7 +1553,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/unNa9bkEXfd" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1S04Dj5Z0OC0Y_4vzkHP9ww" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1S04Dj5Z0OC0Y_4vzkHP9ww" }
                 ]
             },{
                 id: "O3RCVoUu",
@@ -1567,7 +1567,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/BYbpaw" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1kKTqJFvDtZ7EARGIuhDcMw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1kKTqJFvDtZ7EARGIuhDcMw" }
                 ]
             },{
                 id: "9Om7qC6x",
@@ -1581,7 +1581,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/9aytj" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Cdt0K0YOkZg9d0VpIxPSgg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Cdt0K0YOkZg9d0VpIxPSgg" }
                 ]
             },{
                 id: "Xq40SXKY",
@@ -1595,7 +1595,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ch5QGdNIfg" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1TY2iiXXG8PJKI9-i72L64w" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1TY2iiXXG8PJKI9-i72L64w" }
                 ]
             },{
                 id: "xJUERsGv",
@@ -1609,7 +1609,7 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/hSawHo" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1mdWWRG10MjGaY9wm2taxTw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1mdWWRG10MjGaY9wm2taxTw" }
                 ]
             },{
                 id: "HPXpIZVS",
@@ -1623,6 +1623,6 @@ export const gamesPs3 =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/qokE" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1IFfEvKT062eRcRHGVFpYYQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1IFfEvKT062eRcRHGVFpYYQ" }
                 ]
             }];
