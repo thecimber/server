@@ -129,7 +129,7 @@ export const gamesPs3 =
                 ]
             },{
                 id: "641601",
-                name: "Stake 3",
+                name: "Skate 3",
                 image: "Skate-3-ps3.jpg",
                 format: ["ISO/PKG"],
                 language: ["Español"],
@@ -1473,7 +1473,7 @@ export const gamesPs3 =
                 ]
             },{
                 id: "0xcafb41",
-                name: "Stake 2",
+                name: "Skate 2",
                 image: "Stake 2.jpg",
                 format: ["ISO"],
                 language: ["Multi-Idioma"],
@@ -1624,5 +1624,19 @@ export const gamesPs3 =
                 date: "",
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1IFfEvKT062eRcRHGVFpYYQ" }
+                ]
+            },{
+                id: "yRMiBI75",
+                name: "Skate 1",
+                image: "Skate 1 (Europe).jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Deporte"],
+                size: "8.1 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DfhKcxkUzulIMtRxZx0hLA" }
                 ]
             }];
