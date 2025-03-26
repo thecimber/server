@@ -1639,4 +1639,172 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DfhKcxkUzulIMtRxZx0hLA" }
                 ]
+            },{
+                id: "X1F_-Vrn",
+                name: "GTA 5 [Grand Theft Auto 5]",
+                image: "GTA 5 [Grand Theft Auto 5].jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "17.3 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1_HlXDBq1o2TjcOgA0ixScA" }
+                ]
+            },{
+                id: "rKgbFYFG",
+                name: "The Last Of Us Link",
+                image: "The Last Of Us Link.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting"],
+                size: "35.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1c0V_5qCkkX6R_reMcUqVLQ" }
+                ]
+            },{
+                id: "IxXdghhf",
+                name: "WWE Legends of WrestleMania",
+                image: "WWE Legends of WrestleMania.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting"],
+                size: "15.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1B3ZlsptFlnzSxZhCWDxWvw" }
+                ]
+            },{
+                id: "Sg8cTUHo",
+                name: "Wwe SmackDown vs Raw 2009 Link ",
+                image: "Wwe SmackDown vs Raw 2009 Link.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting"],
+                size: "12.8 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1R4LEL7kGLaCACohZ7mFkVA" }
+                ]
+            },{
+                id: "Vxp1zhgR",
+                name: "Wwe SmackDown vs Raw 2010",
+                image: "Wwe SmackDown vs Raw 2010.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting"],
+                size: "6.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1OuLNc_vC18lMw0E6Ukmz4Q" }
+                ]
+            },{
+                id: "edjXy0s_",
+                name: "Wwe 2k15",
+                image: "Wwe 2k15.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting"],
+                size: "14.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1qCzbPuPNXVPl9DAJ5h4BEw" }
+                ]
+            },{
+                id: "B7r66HHf",
+                name: "Wwe 2013",
+                image: "Wwe 2013.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting"],
+                size: "13.8 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Kq4ImUfH1qfNDHXN6RLNAA" }
+                ]
+            },{
+                id: "5JLPys_l",
+                name: "Wwe 2016",
+                image: "Wwe 2016.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting"],
+                size: "16.01 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1mnL4I5Vx6aoWGNNYGcz7Yg" }
+                ]
+            },{
+                id: "oVqsLfwa",
+                name: "Wwe SmackDown vs Raw 2008",
+                image: "Wwe SmackDown vs Raw 2008.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting"],
+                size: "7.1 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1VPVylxCcJ-9CDwsqfuKrqw" }
+                ]
+            },{
+                id: "gmJbVM-y",
+                name: "Wwe All Stars",
+                image: "Wwe All Stars.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: [""],
+                size: "7.6 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1TfYtXrajY7AeJhL4_yITQQ" }
+                ]
+            },{
+                id: "gz0O2KEt",
+                name: "Wwe 2012",
+                image: "Wwe 2012.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting"],
+                size: "7.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1fy78jqB3FyKijl7c_D7N3A" }
+                ]
+            },{
+                id: "0CpspLC8",
+                name: "Wwe 2k17",
+                image: "Wwe 2k17.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting"],
+                size: "9.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1G6vj6VX-Kv2kM8YePxAUJw" }
+                ]
             }];
