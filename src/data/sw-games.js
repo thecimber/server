@@ -756,4 +756,74 @@ export const gamesSw = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/102eaJLMzzLjwKWO1OSra-g" }
                 ]
+            },{
+                id: "JD29BF45",
+                name: "Nekopara Volumen 2",
+                image: "Nekopara Volumen 2.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "2.3 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1vaLkVUTE5e7hFWpFcNLTtw" }
+                ]
+            },{
+                id: "GSIyKLKd",
+                name: "Nekopara Volumen 3",
+                image: "Nekopara Volumen 3.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "2.8 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1snLjyWJtSgIug_pqPL2-Gg" }
+                ]
+            },{
+                id: "-JqbjqC5",
+                name: "Nekopara Volumen 4",
+                image: "Nekopara Volumen 4.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "2.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1vbpbyq_jVnNNJuaQZ2XxAg" }
+                ]
+            },{
+                id: "uU7SBDV6",
+                name: "Metro Redux 2033",
+                image: "Metro Redux 2033.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "6.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1XR7VBWWrJQhyCl1raFKaLQ" }
+                ]
+            },{
+                id: "39Bo5fRt",
+                name: "Metro Light Redux ",
+                image: "Metro Light Redux.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "8.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1U9jWSLIM-0BJaXb_p6Ys0g" }
+                ]
             }];
