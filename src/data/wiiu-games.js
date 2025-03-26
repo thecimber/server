@@ -26,7 +26,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/hwJzg" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1JTz4R4jZ2AeyzAnNSK0oCg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1JTz4R4jZ2AeyzAnNSK0oCg" }
                 ]
             },{
                 id: "AhgVyn4y",
@@ -40,7 +40,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/P2hNaP" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1gsfJm4xBQnyTrn1wGrFn0g" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1gsfJm4xBQnyTrn1wGrFn0g" }
                 ]
             },{
                 id: "-BZ29AvR",
@@ -54,7 +54,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/jsjG" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1vHDDITQ1H0anjbmNNaMalw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1vHDDITQ1H0anjbmNNaMalw" }
                 ]
             },{
                 id: "_20mVo60",
@@ -68,7 +68,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/d30R" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1jIoAu4nPTaiJPdl3Pbr6-g" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1jIoAu4nPTaiJPdl3Pbr6-g" }
                 ]
             },{
                 id: "8pLeS64h",
@@ -82,7 +82,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/BicTV" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1a0tIOZPJ8KhrMLKoqKhzdA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1a0tIOZPJ8KhrMLKoqKhzdA" }
                 ]
             },{
                 id: "Ng4hUg-Q",
@@ -96,7 +96,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/C9aZA7nX" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DidaLiAOea0piErfsdVqkQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DidaLiAOea0piErfsdVqkQ" }
                 ]
             },{
                 id: "GESVd1mK",
@@ -110,7 +110,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/LUaUyGFE" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1onm-tktkhor9w81zCpURPA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1onm-tktkhor9w81zCpURPA" }
                 ]
             },{
                 id: "AsGC1pGi",
@@ -124,7 +124,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/LGDaw" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1GS257NJmrzazq4gqfXjvMQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1GS257NJmrzazq4gqfXjvMQ" }
                 ]
             },{
                 id: "_yrvfOAn",
@@ -138,7 +138,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/R726p9g" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1MUxWLRP6VNuk2Smes3Y7IA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1MUxWLRP6VNuk2Smes3Y7IA" }
                 ]
             },{
                 id: "I24Dg-GL",
@@ -152,7 +152,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/MXsoFiuk0zzG" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1GpGw5EqECL5mAUuVoIEXVg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1GpGw5EqECL5mAUuVoIEXVg" }
                 ]
             },{
                 id: "-g73LHA1",
@@ -166,7 +166,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/JGOJiDY" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Frz1GPtDePut2ePWjcjoLg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Frz1GPtDePut2ePWjcjoLg" }
                 ]
             },{
                 id: "MjxKI1o4",
@@ -180,7 +180,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/LjmyBD1B" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ZLSjeU2XEE8qc0PeB9MGUg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ZLSjeU2XEE8qc0PeB9MGUg" }
                 ]
             },{
                 id: "4LJQx9j6",
@@ -194,7 +194,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/5VogAVP" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1HTI_PJwbUAg0GG1PV0Y9ew" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1HTI_PJwbUAg0GG1PV0Y9ew" }
                 ]
             },{
                 id: "OagICodT",
@@ -208,7 +208,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/ZYjc3Gb" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1nmomIUqFEIk1j_A4MK93xg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1nmomIUqFEIk1j_A4MK93xg" }
                 ]
             },{
                 id: "Xfyf6tUp",
@@ -222,7 +222,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/hSuDe7ASL" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1WDqdzpbOzqkTokPgXmovEg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1WDqdzpbOzqkTokPgXmovEg" }
                 ]
             },{
                 id: "Kq2QjEIP",
@@ -236,7 +236,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/rMLm" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1HIlA_c1NpZGf2l-4EraRNw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1HIlA_c1NpZGf2l-4EraRNw" }
                 ]
             },{
                 id: "GZ5pFl3Y",
@@ -250,7 +250,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/mG6vEFguy9ni" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1q4WNQXMG02SCyEr8tKuSOw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1q4WNQXMG02SCyEr8tKuSOw" }
                 ]
             },{
                 id: "uaJdU58O",
@@ -264,7 +264,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/qgHv2y" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1pUoZs98nkpw2U3B4oMfXEw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1pUoZs98nkpw2U3B4oMfXEw" }
                 ]
             },{
                 id: "q5k22_lZ",
@@ -278,7 +278,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/9nUgeUks" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1l7y4Qx6a6TIsJVdhmYnLcQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1l7y4Qx6a6TIsJVdhmYnLcQ" }
                 ]
             },{
                 id: "ooouPKlS",
@@ -292,7 +292,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/6xAFTC" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1bRedHbthKyPaQKGa2fWu9Q" }
+                   { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1bRedHbthKyPaQKGa2fWu9Q" }
                 ]
             },{
                 id: "BRkmF97C",
@@ -306,7 +306,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/XPa3Bj1" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ErnC9ixNtGl8d2vAIfIzsQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ErnC9ixNtGl8d2vAIfIzsQ" }
                 ]
             },{
                 id: "_zqglHOv",
@@ -320,7 +320,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/FcVjUihMY" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1-lIIVJfxRk_Qp7EJAl5kUA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1-lIIVJfxRk_Qp7EJAl5kUA" }
                 ]
             },{
                 id: "aEkfVfVB",
@@ -334,7 +334,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/Ec03OUOg6J" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1KehlxIM7Vkwrh_MmIZ4xRg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1KehlxIM7Vkwrh_MmIZ4xRg" }
                 ]
             },{
                 id: "0u3ncY-e",
@@ -348,7 +348,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/p1vHWoNAD5" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Em5l4l-WOVqo1cqgrKY79Q" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Em5l4l-WOVqo1cqgrKY79Q" }
                 ]
             },{
                 id: "wps6Z3St",
@@ -362,7 +362,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/cNID1" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1XjcKt8MY6KXdcphyGZugtA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1XjcKt8MY6KXdcphyGZugtA" }
                 ]
             },{
                 id: "-NbifF13",
@@ -376,7 +376,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/MGGu4h9uo5U5" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/12xXPDOs7xza0hX8OrEIA-w" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/12xXPDOs7xza0hX8OrEIA-w" }
                 ]
             },{
                 id: "Xz2kL28g",
@@ -390,7 +390,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/v8WCRMIDBV7O" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1b99UrATIQ1BJjEpFpOHRpg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1b99UrATIQ1BJjEpFpOHRpg" }
                 ]
             },{
                 id: "CcR_TuTr",
@@ -404,7 +404,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/6Aw2tMiKq" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1npzWOnP8KgVDieTISBRAPw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1npzWOnP8KgVDieTISBRAPw" }
                 ]
             },{
                 id: "HRIb8IEI",
@@ -418,7 +418,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/RV1Zq" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1hm4IxsebrnyEVZNVpEg_pA" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1hm4IxsebrnyEVZNVpEg_pA" }
                 ]
             },{
                 id: "XMH8RDkC",
@@ -432,7 +432,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/bCdLz8y6" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1wbjgJs_mIQ7hO_KQW9gujQ" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1wbjgJs_mIQ7hO_KQW9gujQ" }
                 ]
             },{
                 id: "nGHer8zj",
@@ -446,7 +446,7 @@ export const gamesWiiu = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/Ss03gWUStb2r" },{ ...PROPS_TERABOX , link: "https://1024terabox.com/s/1SuCIyU3_O_LJUnWPVVmXrg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1SuCIyU3_O_LJUnWPVVmXrg" }
                 ]
             },{
                 id: "bP2zakq0",
