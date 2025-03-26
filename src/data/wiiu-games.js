@@ -826,4 +826,32 @@ export const gamesWiiu = [{
                 downloadMethods: [
                     { ...PROPS_MEDIFIRE , link: "https://cuty.io/EN4MlcVqpNf7" }
                 ]
+            },{
+                id: "wy6RD0mO",
+                name: "The Legend of Zelda breath Of the wild  (Europe)",
+                image: "The Legend of Zelda breath Of the wild.jpeg",
+                format: ["WUA"],
+                language: ["MUlti-Idioma"],
+                genre: ["Aventura"],
+                size: "13.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1AMMYV4d2krq6HmZCRgQQBQ" }
+                ]
+            },{
+                id: "0lpdr8Cf",
+                name: "The Legend of Zelda - Twilight Princess HD",
+                image: "The Legend of Zelda - Twilight Princess HD.jpeg",
+                format: ["WUA"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "4.8 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1-tj2sLNA1CoruQ7InXaWVg" }
+                ]
             }];
