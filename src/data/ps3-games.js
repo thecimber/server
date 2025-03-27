@@ -1793,4 +1793,32 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1G6vj6VX-Kv2kM8YePxAUJw" }
                 ]
+            },{
+                id: "XLvVZO4x",
+                name: "Prototype",
+                image: "Prototype (Europe).jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "13.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1w5-cxhBsv9fejnXhe_BtPA" }
+                ]
+            },{
+                id: "glbEABWn",
+                name: "Prototype 2",
+                image: "Prototype 2.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "13.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1uPDyTrREyaUcmqc4E7g9fw" }
+                ]
             }];
