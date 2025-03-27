@@ -107,6 +107,10 @@
 
   .pc {
     font-size: .8rem !important;
+    background-color: rgb(226, 212, 12) !important;
+  }
+  .switch {
+    font-size: .8rem !important;
     background-color: red !important;
   }
 
