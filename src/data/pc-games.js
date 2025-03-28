@@ -1401,4 +1401,18 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1KOiNFxUWy33__uJG8wm8pg" }
                 ]
+            },{
+                id: "IYjT5I5y",
+                name: "Resident Evil 4 hd ultimate edition ",
+                image: "Resident Evil 4 hd ultimate edition.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "11.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1yX0BGCCUl5gQ0Hrx-i5Xxg" }
+                ]
             }];
