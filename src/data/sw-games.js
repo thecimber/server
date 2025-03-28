@@ -826,4 +826,18 @@ export const gamesSw = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1U9jWSLIM-0BJaXb_p6Ys0g" }
                 ]
+            },{
+                id: "shbHnvvc",
+                name: "Dragon Ball FighterZ",
+                image: "Dragon Ball FighterZ.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Fighting"],
+                size: "10.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Stm_2ZcwdTUhHhINr7RJVg" }
+                ]
             }];
