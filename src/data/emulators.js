@@ -10,7 +10,7 @@ export const emulators = [
         id: 8,
         name: 'Nintendo Switch',
         path: 'sw',
-        image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/sw-logo.jpeg',
+        image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/switch-logo-2.webp',
         emulador: ''
     },
     {
@@ -60,6 +60,13 @@ export const emulators = [
     //     name: 'PS2',
     //     path: 'ps2',
     //     image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ps2-logo.webp',
+    //     emulador: ''
+    // },
+    // {
+    //     id: 10,
+    //     name: 'Android',
+    //     path: 'android',
+    //     image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/android-logo.jpg',
     //     emulador: ''
     // },
 ];
