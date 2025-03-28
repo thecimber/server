@@ -54,7 +54,7 @@ export const gamesSw = [{
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_MEDIFIRE , link: "https://cuty.io/GTwP8u0qE1q" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1eV43tn69yzB_tK0PKIOgTg" }
                 ]
             },{
                 id: "cSm3YeBG",
