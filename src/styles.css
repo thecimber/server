@@ -8,7 +8,19 @@ body {
     border-radius: 50%;
 }
 
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    /* Ocupa toda la altura de la pantalla */
+}
+
+.main-content {
+    flex: 1;
+}
+
 .container-dmca {
+
     color: white;
     text-align: justify;
 }
@@ -27,7 +39,8 @@ body {
 .pagination {
     gap: 7px !important;
 }
-.footer-dark{
+
+.footer-dark {
     background-color: #212529 !important;
     color: white !important;
     margin-bottom: 0px !important;
@@ -36,6 +49,7 @@ body {
 .social-media {
     font-size: 1.7rem !important;
 }
+
 @media (max-width: 480px) {
     .pagination {
         gap: 4px !important;

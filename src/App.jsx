@@ -13,19 +13,21 @@ function App() {
   return (
     <>
       <Navbar />
-      
-      <Routes>
-        <Route path="/" element={<>
-          <HeroSection/>
-          <Home />
-        </>} />
-        <Route path="/emulador/:emulatorGame" element={<EmulatorDetails />} />
-        <Route path="/games" element={<GamesSearch />} />
-        <Route path="/dmca" element={<Dmca />} />
-        <Route path="*" element={<Navigate to="/" />} />
 
-      </Routes>
-      <Footer/>
+      <main className="main-content">
+        <Routes>
+          <Route path="/" element={<>
+            <HeroSection />
+            <Home />
+          </>} />
+          <Route path="/emulador/:emulatorGame" element={<EmulatorDetails />} />
+          <Route path="/games" element={<GamesSearch />} />
+          <Route path="/dmca" element={<Dmca />} />
+          <Route path="*" element={<Navigate to="/" />} />
+
+        </Routes>
+      </main>
+      <Footer />
     </>
   )
 }
