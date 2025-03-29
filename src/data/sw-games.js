@@ -1232,4 +1232,18 @@ export const gamesSw = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1uzSJS3oR4ttAHcobJMfLyw" }
                 ]
+            },{
+                id: "8zXfr0UK",
+                name: "Dark Souls Remastered ",
+                image: "Dark Souls Remastered.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "4.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/19b2O46-ez_YpLDRbJCfm7A" }
+                ]
             }];
