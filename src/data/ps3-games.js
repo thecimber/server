@@ -1821,4 +1821,18 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1uPDyTrREyaUcmqc4E7g9fw" }
                 ]
+            },{
+                id: "9aZi6bNN",
+                name: "Dragon ball Z burst Limit",
+                image: "Dragon ball Z burst Limit.jpeg",
+                format: ["ISO"],
+                language: ["Español"],
+                genre: ["Acción","Fighting"],
+                size: "3.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: " https://1024terabox.com/s/1ky-gRgdqvhIxUq4fRarihQ" }
+                ]
             }];
