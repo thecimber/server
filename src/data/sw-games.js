@@ -1218,4 +1218,18 @@ export const gamesSw = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1NHymOr5nC3KLrRcNh5YvYA" }
                 ]
+            },{
+                id: "32Ob4lFX",
+                name: "Xenoblade Chronicles X Definitive Edition",
+                image: "Xenoblade Chronicles X Definitive Edition.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "15.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1uzSJS3oR4ttAHcobJMfLyw" }
+                ]
             }];
