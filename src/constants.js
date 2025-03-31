@@ -22,6 +22,8 @@ export const PATH_SERVER_SW = 'https://raw.githubusercontent.com/thecimber/serve
 
 export const PATH_SERVER_XBOX360 = 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/xbox360/';
 
+export const PATH_SERVER_ANDROID = 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/android/';
+
 
 export const PROPS_MEDIFIRE = {
     name: "Mediafire",

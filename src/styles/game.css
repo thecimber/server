@@ -116,6 +116,10 @@
 
   .wii {
     font-size: .8rem !important;
+    background-color: rgb(255, 166, 0) !important;
+  }
+  .android {
+    font-size: .8rem !important;
     background-color: rgb(77, 255, 0) !important;
   }
 

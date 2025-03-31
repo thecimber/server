@@ -66,7 +66,7 @@ export const emulators = [
     //     id: 10,
     //     name: 'Android',
     //     path: 'android',
-    //     image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/android-logo.jpg',
+    //     image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/android-logo.avif',
     //     emulador: ''
     // },
 ];
