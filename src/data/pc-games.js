@@ -605,7 +605,7 @@ export const gamesPc =
                 ]
             },{
                 id: "6qAbRjJW",
-                name: "R.E.P.O ",
+                name: "R.E.P.O [REPO]",
                 image: "repo.jpeg",
                 format: ["PREINSTALADO"],
                 language: ["Multi-Idioma"],
