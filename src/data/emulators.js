@@ -62,13 +62,13 @@ export const emulators = [
     //     image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ps2-logo.webp',
     //     emulador: ''
     // },
-    // {
-    //     id: 10,
-    //     name: 'Android',
-    //     path: 'android',
-    //     image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/android-logo.avif',
-    //     emulador: ''
-    // },
+    {
+        id: 10,
+        name: 'Android',
+        path: 'android',
+        image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/android-logo.avif',
+        emulador: ''
+    },
 ];
 
 
