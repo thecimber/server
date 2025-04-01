@@ -1246,4 +1246,116 @@ export const gamesSw = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/19b2O46-ez_YpLDRbJCfm7A" }
                 ]
+            },{
+                id: "BPeGxE5R",
+                name: "Resident Evil Revelations ",
+                image: "Resident Evil Revelations .jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "13.1 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/12jDgzr-N5ciR4EFc8HKiJg" }
+                ]
+            },{
+                id: "229BGqfy",
+                name: "Resident Evil Zero 0",
+                image: "Resident Evil Zero 0.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "14.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1B4yqFD3YVSekSd8bR0KLcQ" }
+                ]
+            },{
+                id: "5GnI3ip-",
+                name: "Resident Evil HD Remastered ",
+                image: "Resident Evil HD Remastered.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "15.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/14___6YeGxx_uTbLf2VJUnQ" }
+                ]
+            },{
+                id: "zPSnGAaz",
+                name: "Resident Evil 5",
+                image: "Resident Evil 5.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "20.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1AxNOr2WTs_F4ujwsTKEkPQ" }
+                ]
+            },{
+                id: "oyI4pimb",
+                name: "Resident Evil 4 HD",
+                image: "Resident Evil 4 HD.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "13.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1WTD7tWZygMCfivf2_0W3Pg" }
+                ]
+            },{
+                id: "6zV-EARS",
+                name: "Resident Evil 6",
+                image: "Resident Evil 6.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "18.9 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1K0hDrg5MI94QUcnyoMTMpw" }
+                ]
+            },{
+                id: "qqjRYNUK",
+                name: "EA SPORTS FC 24",
+                image: "EA SPORTS FC 24.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Deportes"],
+                size: "25.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/19qa8LE9ttaJ-uAPohFedcQ" }
+                ]
+            },{
+                id: "mcFOwDnA",
+                name: "EA SPORTS FC 25",
+                image: "EA SPORTS FC 25.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Deportes"],
+                size: "32.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Y7trO0RUMq0FWb2W2dknqw" }
+                ]
             }];
