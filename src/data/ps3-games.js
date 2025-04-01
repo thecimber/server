@@ -1835,4 +1835,88 @@ export const gamesPs3 =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: " https://1024terabox.com/s/1ky-gRgdqvhIxUq4fRarihQ" }
                 ]
+            },{
+                id: "lxR949sW",
+                name: "Pes 2012 Pro Evolution Soccer",
+                image: "Pes 2012 Pro Evolution Soccer.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Deportes"],
+                size: "6.09 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1eTDu9tyXS86hPDgvi8w9Sw" }
+                ]
+            },{
+                id: "bHYcp0h6",
+                name: "Pes 2014 Pro Evolution Soccer",
+                image: "Pes 2014 Pro Evolution Soccer.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Deportes"],
+                size: "6.53 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/12qgkspM9gcEvZnYpiwVGeQ" }
+                ]
+            },{
+                id: "iwnlsA1L",
+                name: "Pes 2010 Pro Evolution Soccer",
+                image: "Pes 2010 Pro Evolution Soccer.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Deportes"],
+                size: "5.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1McW09aQ3SWFWTrd1UnJ9bg" }
+                ]
+            },{
+                id: "yAGay37d",
+                name: "Pes 2017 Pro Evolution Soccer",
+                image: "Pes 2017 Pro Evolution Soccer.jpg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Deportes"],
+                size: "7.63 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1HyK7FjyYAMZjDzUGAjgWVA" }
+                ]
+            },{
+                id: "3C2_Fxbf",
+                name: "Pes 2011 Pro Evolution Soccer",
+                image: "Pes 2011 Pro Evolution Soccer.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Deportes"],
+                size: "6.81 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1rnRX-dwhkC08mS_nMIXHCA" }
+                ]
+            },{
+                id: "dahiCNrP",
+                name: "Pes 2016 Pro Evolution Soccer",
+                image: "Pes 2016 Pro Evolution Soccer.jpeg",
+                format: ["ISO"],
+                language: ["Multi-Idioma"],
+                genre: ["Deportes"],
+                size: "7.22 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1_O0LgOaWRrX9LcTtZQr_Yw" }
+                ]
             }];
