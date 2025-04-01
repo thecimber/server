@@ -11,7 +11,7 @@ export const emulators = [
         name: 'Nintendo Switch',
         path: 'sw',
         image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/switch-logo-2.webp',
-        emulador: ''
+        emulador: 'https://1024terabox.com/s/1ogEVXmweTj7eIBz39NecJw'
     },
     {
         id: 2,
