@@ -17,7 +17,7 @@ export const emulators = [
         id: 2,
         name: 'PC',
         path: 'pc',
-        image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/pc-logo3.jpeg',
+        image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/pc-logo4.jpeg',
         emulador: 'https://1024terabox.com/s/1Ainl5j7PkM_lOMHdhWZSxQ'
     },
     {
