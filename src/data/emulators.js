@@ -32,7 +32,7 @@ export const emulators = [
         name: 'DS',
         path: 'ds',
         image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ds-logo.jpeg',
-        emulador: ''
+        emulador: 'https://1024terabox.com/s/1SchDFVvXaL4PcH9ABEk3Og'
     },
     {
         id: 5,
