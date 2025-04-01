@@ -4,7 +4,7 @@ export const emulators = [
         name: 'PS3',
         path: 'ps3',
         image: 'https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ps3-png.png',
-        emulador: 'https://1024terabox.com/s/1RMMUOHAekKUO6zZN6bTpsQ'
+        emulador: 'https://1024terabox.com/s/1azjkPBpQkY0Am2OcA67TJQ'
     },
     {
         id: 8,
