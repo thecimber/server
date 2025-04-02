@@ -53,7 +53,7 @@ export const GameGrid = ({ games }) => {
                         </div>
                         :
                         (
-                            gamesPaginaton.map(({ id, name,console ,image, format, language, size, downloadFormat, link, downloadTutorial, date, genre, downloadMethods }) => {
+                            gamesPaginaton.map(({ id, name,console ,image, format, language, size, downloadFormat, link, downloadTutorial, date, genre, downloadMethods,linkEmulator }) => {
                                 return (
                                     <GameCard
                                         key={id}
@@ -68,6 +68,7 @@ export const GameGrid = ({ games }) => {
                                         downloadTutorial={downloadTutorial}
                                         date={date}
                                         genre={genre}
+                                        linkEmulator = {linkEmulator}
                                         downloadMethods={downloadMethods}
                                         handleDetailsGame={openModal}
                                     />

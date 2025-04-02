@@ -1,12 +1,12 @@
 import React from 'react';
 import '../styles/modal.css';
 import { DownloadButtons } from './DownloadButtons';
-import { DOWNLOAD_TUTORIAL, TELEGRAM_CHANEL,PASSWORD_ZIP } from '../constants';
+import { DOWNLOAD_TUTORIAL, TELEGRAM_CHANEL, PASSWORD_ZIP } from '../constants';
 
-export const ModalDetailsGame = ({ game, onClose}) => {
+export const ModalDetailsGame = ({ game, onClose }) => {
   if (!game) return null;
 
-  const { id, name, image,console, format, language, size, downloadFormat, link, downloadTutorial, date, genre, downloadMethods } = game;
+  const { id, name, image, console, format, language, size, downloadFormat, link, downloadTutorial, date, genre, linkEmulator, downloadMethods } = game;
 
   return (
     <div className="abrir-modal animacion fadeIn">
@@ -19,7 +19,15 @@ export const ModalDetailsGame = ({ game, onClose}) => {
             <div className="modal-body custom-modal-body">
               <div className="modal-body-content">
                 <div className="modal-image">
-                  <img src={image} alt="Captain Quazar" />
+                  <img src={image} alt="Imagen" />
+                  {
+                    linkEmulator != '' &&
+                    <div className="text-center my-3">
+                      <a href={linkEmulator} target='_blank' className="btn-animated btn-animated-green">
+                         Emulador</a>
+                    </div>
+                  }
+
                 </div>
                 <div className="modal-info">
                   <p><strong>Consola: </strong> {console}</p>
@@ -39,8 +47,8 @@ export const ModalDetailsGame = ({ game, onClose}) => {
                     {/* <span>★★★★★</span> 2.55 (0 votes) */}
                   </div>
                   <div>
-                    <p className='' style={{color: 'white', fontSize: '1.1rem'}}>Mediafire: <span style={{color: '#ffff00'}}>Mucha publicidad.</span></p>
-                    <p className='' style={{color: 'white', fontSize: '1.1rem'}}>Terabox: <span style={{color: '#bfff00'}}>Poca publicidad.</span></p>
+                    <p className='' style={{ color: 'white', fontSize: '1.1rem' }}>Mediafire: <span style={{ color: '#ffff00' }}>Mucha publicidad.</span></p>
+                    <p className='' style={{ color: 'white', fontSize: '1.1rem' }}>Terabox: <span style={{ color: '#bfff00' }}>Poca publicidad.</span></p>
                   </div>
                   <div className="help-users row mx-1">
                     <a

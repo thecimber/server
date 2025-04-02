@@ -9,8 +9,10 @@ import { gamesGameCube } from "../data/gamecube-games";
 import { gamesSw } from "../data/sw-games";
 import { gamesXbox360 } from "../data/xbox360-games";
 import { gamesAndroid } from "../data/android-games";
+import { emulators } from "../data/emulators";
 
 export const getGameByEmulator = ({emulator}) => {
+    const linkEmulator = getLinkEmulator(emulator);
     switch (emulator) {
         case 'ps3':
             return getGamesPs3().map(game => ({...game,console: 'Ps3',image: PATH_SERVER_PS3 + game.image}));
@@ -60,32 +62,46 @@ export const getGamesBySearch = ({search}) => {
 
 
 const getGamesPs3 = () => {
-    return gamesPs3;
+    const linkEmulator = getLinkEmulator('ps3');
+    return gamesPs3.map(game => ({...game, linkEmulator:linkEmulator}));
 }
 const getGamesPc = () => {
-    return gamesPc;
+    const linkEmulator = getLinkEmulator('pc');
+    return gamesPc.map(game => ({...game, linkEmulator:linkEmulator}));
 }
 const getGamesPsp = () => {
-    return gamesPsp;
+    const linkEmulator = getLinkEmulator('psp');
+    return gamesPsp.map(game => ({...game, linkEmulator:linkEmulator}));
 }
 const getGamesDs = () => {
-    return gamesDs;
+    const linkEmulator = getLinkEmulator('ds');
+    return gamesDs.map(game => ({...game, linkEmulator:linkEmulator}));
 }
 const getGamesWiiu = () => {
-    return gamesWiiu;
+    const linkEmulator = getLinkEmulator('wiiu');
+    return gamesWiiu.map(game => ({...game, linkEmulator:linkEmulator}));
 }
 const getGamesPs2= () => {
-    return gamesPs2;
+    const linkEmulator = getLinkEmulator('ps2');
+    return gamesPs2.map(game => ({...game, linkEmulator:linkEmulator}));
 }
 const getGamesGameCube= () => {
-    return gamesGameCube;
+    const linkEmulator = getLinkEmulator('gamecube');
+    return gamesGameCube.map(game => ({...game, linkEmulator:linkEmulator}));
 }
 const getGamesSw= () => {
-    return gamesSw;
+    const linkEmulator = getLinkEmulator('sw');
+    return gamesSw.map(game => ({...game, linkEmulator:linkEmulator}));
 }
 const getGamesXbox360= () => {
-    return gamesXbox360;
+    const linkEmulator = getLinkEmulator('360');
+    return gamesXbox360.map(game => ({...game, linkEmulator:linkEmulator}));
 }
 const getGamesAndroid= () => {
-    return gamesAndroid;
+    const linkEmulator = getLinkEmulator('android');
+    return gamesAndroid.map(game => ({...game, linkEmulator:linkEmulator}));
+}
+
+const getLinkEmulator = (emulator) => {
+    return emulators.find(e =>  e.path == emulator)?.emulador ?? '';
 }
