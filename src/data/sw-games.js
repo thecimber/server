@@ -1358,4 +1358,18 @@ export const gamesSw = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Y7trO0RUMq0FWb2W2dknqw" }
                 ]
+            },{
+                id: "f0w4YSIQ",
+                name: "Kimetsu no Yaiba the Hinokami Chronicles [Demon Slayer] ",
+                image: "Kimetsu no Yaiba the Hinokami Chronicles [Demon Slayer] .jpeg",
+                format: ["NSP/XCI"],
+                language: ["MULTI-IDIOMA"],
+                genre: ["Fighting","Acción"],
+                size: "9.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Lb3sT1-nQrPGpNXaad3kVg" }
+                ]
             }];

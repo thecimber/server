@@ -1415,4 +1415,18 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1yX0BGCCUl5gQ0Hrx-i5Xxg" }
                 ]
+            },{
+                id: "cnvVwf54",
+                name: "Tomb Raider Remastered [1,2,3] ",
+                image: "Tomb Raider Remastered [1,2,3].jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "3.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DY2cGllAwDiP0tmov-L9Hg" }
+                ]
             }];
