@@ -91,7 +91,7 @@ export const gamesAndroid = [{
                 format: ["APK"],
                 language: ["Multi-Idioma"],
                 genre: ["Suspenso","Acción","2D"],
-                size: "905 Mb [8,1 Mb]",
+                size: "1.50 Gb [8,1 Mb]",
                 link: "",
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
