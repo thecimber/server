@@ -86,7 +86,7 @@ export const gamesAndroid = [{
                 ]
             },{
                 id: "B2abiMQo",
-                name: "Blasphemous v1.2.0",
+                name: "Blasphemous v1.50",
                 image: "Blasphemous v1.2.0.jpeg",
                 format: ["APK"],
                 language: ["Multi-Idioma"],
