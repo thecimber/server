@@ -1372,4 +1372,578 @@ export const gamesSw = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Lb3sT1-nQrPGpNXaad3kVg" }
                 ]
+            },{
+                id: "h0WyZDG5",
+                name: "Virche Evermore -ErroR: Salvation",
+                image: "Virche Evermore -ErroR: Salvation.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "7.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/181JmEiKoo0eLVfQz7e8rxQ" }
+                ]
+            },{
+                id: "B6Bb5InW",
+                name: "Virche Evermore -EpiC Lycoris",
+                image: "Virche Evermore -EpiC Lycoris.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "16 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1iqDDk3EGrh5apo2PZS0pDA" }
+                ]
+            },{
+                id: "cjBPpuea",
+                name: "Wild Bastards",
+                image: "Wild Bastards.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "2.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1F2PEzGA8To315r6ZvTovZw" }
+                ]
+            },{
+                id: "C7JKOMWy",
+                name: "Windbound",
+                image: "Windbound.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "1.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1JMoidSfXSfOIm0BupFCz6g" }
+                ]
+            },{
+                id: "GKT6YUZe",
+                name: "XIII",
+                image: "XIII.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "7.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Hizpg61Gy_44rBRfigtqmA" }
+                ]
+            },{
+                id: "5dRzLLiw",
+                name: "The Plucky Squire",
+                image: "The Plucky Squire.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "11.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1GN2r5licn4Cn6UFVoPCjEQ" }
+                ]
+            },{
+                id: "uxKbcB7s",
+                name: "Touhou Spell Carnival",
+                image: "Touhou Spell Carnival.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "4.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1iJ7740AErw6SWe2DEYs1fQ" }
+                ]
+            },{
+                id: "oNSZHl0Z",
+                name: "TRIANGLE STRATEGY ",
+                image: "TRIANGLE STRATEGY.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "7.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1claZwwBCvswSi2wd31YIIw" }
+                ]
+            },{
+                id: "d7XeWY5R",
+                name: "Yu-Gi-Oh! EARLY DAYS COLLECTION",
+                image: "Yu-Gi-Oh! EARLY DAYS COLLECTION.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "8.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1808a4wSP5vY4CJ4fqlABOg" }
+                ]
+            },{
+                id: "ODkIqDWo",
+                name: "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
+                image: "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "7.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1pR9SvRFtQtz1aWFRPa4Lhw" }
+                ]
+            },{
+                id: "JUTQrPVb",
+                name: "The Legend of Heroes: Trails through Daybreak II ",
+                image: "The Legend of Heroes: Trails through Daybreak II.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "19.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ByB7cGLHqrpx7kBsJqCxbg" }
+                ]
+            },{
+                id: "fTQ0tNZ1",
+                name: "MONOPOLY Madness",
+                image: "MONOPOLY Madness.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "4.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1w1xji4QydcniuvSXKshz2w" }
+                ]
+            },{
+                id: "ml4rNq07",
+                name: "Neva",
+                image: "Neva.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "6.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1gUPJatxxQRjinZfeS7sJpg" }
+                ]
+            },{
+                id: "JaBm7h94",
+                name: "Rift of the NecroDancer",
+                image: "Rift of the NecroDancer.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "3.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1px82RijEPPbpbCuoctyIjQ" }
+                ]
+            },{
+                id: "H1u6nqVm",
+                name: "Magical Bakery",
+                image: "Magical Bakery.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "1.3 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1bos0fijHnDSS_8rKfGuYeg" }
+                ]
+            },{
+                id: "lBBRaAo8",
+                name: "Minecraft  v1.21.60",
+                image: "Minecraft  v1.21.60.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura","Construcción"],
+                size: "1.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1PqWqcwYazdqJIvsPzNwZnA" }
+                ]
+            },{
+                id: "sjWY9vLE",
+                name: "Kirby and the Forgotten Land",
+                image: "Kirby and the Forgotten Land.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "6.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/18sTacmt2kq4GSXJwDbnxyw" }
+                ]
+            },{
+                id: "rYnmYQy0",
+                name: "Kirby’s Dream Buffet",
+                image: "Kirbys Dream Buffet.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "1.3 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DjwLDheI8MLtarq-ey-13w" }
+                ]
+            },{
+                id: "K5TFXBih",
+                name: "Kirby Fighters 2",
+                image: "Kirby Fighters 2.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "1.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1uTsLmaRmHaNiIbDTGYWbBg" }
+                ]
+            },{
+                id: "AhB0i6OI",
+                name: "Kirby’s Return to Dream Land Deluxe",
+                image: "Kirby’s Return to Dream Land Deluxe.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "5.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/184YYOzrjKaP5i13-7dLtyg" }
+                ]
+            },{
+                id: "tAmP8mQb",
+                name: "Gimmick! 2",
+                image: "Gimmick! 2.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "2.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1eAVwQen-qX961AD4jYAqXg" }
+                ]
+            },{
+                id: "HV4hEmJy",
+                name: "FAIRY TAIL 2",
+                image: "FAIRY TAIL 2.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "5.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1FtiRMoudZteyhxPvzCwWFg" }
+                ]
+            },{
+                id: "H5_5GGJo",
+                name: "Factorio",
+                image: "Factorio.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "2.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1MwNA5PJ24x69shsGEVgcqA" }
+                ]
+            },{
+                id: "oalyg0op",
+                name: "Gift",
+                image: "Gift.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "1,3 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Oon8a5qM_zi11VtgXRRDNA" }
+                ]
+            },{
+                id: "WtHjlQJf",
+                name: "Exographer",
+                image: "Exographer.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "800 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1xlYtB1fbU-NIXAzboh3N8Q" }
+                ]
+            },{
+                id: "tz2aCBrJ",
+                name: "Exhausted Man",
+                image: "Exhausted Man.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "800 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1z9m1r0VQqUdhF0-TmJrZsA" }
+                ]
+            },{
+                id: "Feze6cEj",
+                name: "Elsie",
+                image: "Elsie.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "628 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DXINdhzkHwI0NdwzYZxBrw" }
+                ]
+            },{
+                id: "byPGnlLg",
+                name: "DRAGON QUEST III HD-2D Remake ",
+                image: "DRAGON QUEST III HD-2D Remake.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "7.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1KFOxexhpNTNGPwKDazWdrA" }
+                ]
+            },{
+                id: "kJO-OWDH",
+                name: "DRAGON QUEST BUILDERS 2",
+                image: "DRAGON QUEST BUILDERS 2.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "1.8 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1OQsNcu5crEw8BL8YnECpCQ" }
+                ]
+            },{
+                id: "t_o8ia2A",
+                name: "DRAGON QUEST MONSTERS: The Dark Prince",
+                image: "DRAGON QUEST MONSTERS: The Dark Prince.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "5.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/13S5zLUKkbaetw_w6xNDlFA" }
+                ]
+            },{
+                id: "gAQTZW6e",
+                name: "Diablo II: Resurrected",
+                image: "Diablo II: Resurrected.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "8.9 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/17WEMsKK2QyB8-U7JXAXLdA" }
+                ]
+            },{
+                id: "jtCSZnPE",
+                name: "CRYPT CUSTODIAN",
+                image: "CRYPT CUSTODIAN.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "568 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1UUiNLdfe-hWkDF9BDXUnRA" }
+                ]
+            },{
+                id: "nSRTzCWc",
+                name: "Caravan SandWitch",
+                image: "Caravan SandWitch.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "1.2 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1u82Yts7OfZ3OOgyvgQndXg" }
+                ]
+            },{
+                id: "QWzTYNJa",
+                name: "Beyond the Ice Palace 2",
+                image: "Beyond the Ice Palace 2.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "750 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1xt-rldGjejM6zYWflTAzqg" }
+                ]
+            },{
+                id: "gH1lqai9",
+                name: "Capes",
+                image: "Capes.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "2.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DxOUzVmMn6Wipmov9FcCVw" }
+                ]
+            },{
+                id: "TXzjP7WH",
+                name: "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
+                image: "Atelier Yumia: The Alchemist of Memories & the Envisioned Land.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "4.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/11oYoJy7LSDApi42TFK7R_g" }
+                ]
+            },{
+                id: "SLExjf-J",
+                name: "AK-xolotl",
+                image: "AK-xolotl.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura"],
+                size: "790 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1eMmXBzt3WmSgim709jh8VQ" }
+                ]
+            },{
+                id: "qI9spmqm",
+                name: "A Little to the Left",
+                image: "A Little to the Left.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "1.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1BhHarcDygNL2LX-1L5uNsQ" }
+                ]
+            },{
+                id: "zFPBeSun",
+                name: "Alien: Isolation",
+                image: "Alien: Isolation.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "19 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DQR89RpRM0IMBkuQesvIYA" }
+                ]
+            },{
+                id: "ZR4_45Pf",
+                name: "13 Sentinels: Aegis Rim",
+                image: "13 Sentinels: Aegis Rim.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "4.6 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1sTd5D64J6t_Q2WvCC8XhPA" }
+                ]
+            },{
+                id: "-1Q7_7iU",
+                name: "9 R.I.P [9 RIP]",
+                image: "9 R.I.P [9 RIP].jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "5.6 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/11Xg9BpW3xRd6vF95P0zxqQ" }
+                ]
             }];
