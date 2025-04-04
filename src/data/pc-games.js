@@ -1429,4 +1429,21 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DY2cGllAwDiP0tmov-L9Hg" }
                 ]
-            }];
+            },
+
+{
+                id: "n6gr4LbT",
+                name: "SCHEDULE 1",
+                image: "SCHEDULE 1.jpg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "2.0 GB",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/15-O2C7Wo-HVOHfCwEncAiQ" }
+                ]
+            }
+];
