@@ -112,4 +112,102 @@ export const gamesAndroid = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ISLbV7CeMdlsGe_kcrkGNg" }
                 ]
+            },{
+                id: "xf1L52IQ",
+                name: "SpongeBob Cosmic Shake v1.1.2",
+                image: "SpongeBob Cosmic Shake.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "5.1 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/17hw8Xd5jz8vvHBYtO3Cvyw" }
+                ]
+            },{
+                id: "5bDFQ_i6",
+                name: "DREDGE v1.5.12",
+                image: "DREDGE .jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "649 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1NG93hYMu-JPGCkTRBBL7aA" }
+                ]
+            },{
+                id: "yduy8Hya",
+                name: "Magical Drop IV v1.0",
+                image: "Magical Drop IV v1.0.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "224 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1yhpiLBPyuDOEAbG_8yY0dA" }
+                ]
+            },{
+                id: "lBoqSTB9",
+                name: "Naruto Ultimate Ninja Storm",
+                image: "Naruto Ultimate Ninja Storm.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Fighting","Acción"],
+                size: "3.21 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1YhxhrceRKp4yHzQFPjEYvQ" }
+                ]
+            },{
+                id: "SD1up3Ja",
+                name: "Bully v1.4.277",
+                image: "Bully v1.4.277.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "3.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1KF9XR2-1LWgj1wpTzNDzEA" }
+                ]
+            },{
+                id: "iBRaEYUp",
+                name: "Ark Ultimate Mobile Edition v1.0B16",
+                image: "Ark Ultimate Mobile Edition v1.0B16.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura"],
+                size: "2.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1AvBDxClHXkNyyvYmkk1xWQ" }
+                ]
+            },{
+                id: "BD7Q1iG0",
+                name: "Minecraft Version: v1.21.70.24 Beta",
+                image: "Minecraft Version: v1.21.70.24 Beta.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Supervivencia"],
+                size: "819 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1TMIGdKMXCibDJq0lYakv2Q" }
+                ]
             }];
