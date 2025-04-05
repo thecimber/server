@@ -1946,4 +1946,32 @@ export const gamesSw = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/11Xg9BpW3xRd6vF95P0zxqQ" }
                 ]
+            },{
+                id: "Ykr7I2Cw",
+                name: "Outlast",
+                image: "Outlast.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Terror"],
+                size: "6.1 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1YQrepXtNT3yE8PC6Ih76Zg" }
+                ]
+            },{
+                id: "ozcLtyhT",
+                name: "Outlast 2",
+                image: "Outlast 2.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Terror"],
+                size: "10.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Ep9q_tN-XwIyjbj15on-tA" }
+                ]
             }];
