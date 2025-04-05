@@ -1527,4 +1527,32 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Gn8vcFKSTLUtkkGnkN5SPQ" }
                 ]
+            },{
+                id: "VWbY1fNR",
+                name: "The Binding Isaac Repentance",
+                image: "The Binding Isaac Repentance.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "1,5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1tX6QFyV4R-PfegPgeAn6iA" }
+                ]
+            },{
+                id: "z0eD0123",
+                name: "The Binding Of Isaac Afterbirth",
+                image: "The Binding Of Isaac Afterbirthpc.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Terror"],
+                size: "1.9 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1kyKkk96vA4l2xeJ9Bmjziw" }
+                ]
             }];

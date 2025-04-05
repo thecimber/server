@@ -1974,4 +1974,18 @@ export const gamesSw = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Ep9q_tN-XwIyjbj15on-tA" }
                 ]
+            },{
+                id: "0HvMkyN6",
+                name: "The Binding Of Isaac Afterbirth",
+                image: "The Binding Of Isaac Afterbirth.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "1,6 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1tUXTvG59uIl620qTtqI2Rg" }
+                ]
             }];
