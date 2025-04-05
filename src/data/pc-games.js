@@ -1429,9 +1429,7 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DY2cGllAwDiP0tmov-L9Hg" }
                 ]
-            },
-
-{
+            },{
                 id: "n6gr4LbT",
                 name: "SCHEDULE 1",
                 image: "SCHEDULE 1.jpg",
@@ -1445,5 +1443,88 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/15-O2C7Wo-HVOHfCwEncAiQ" }
                 ]
-            }
-];
+            },{
+                id: "QUjjpJ9g",
+                name: "Left 4 Dead 1",
+                image: "Left 4 Dead 1.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "4.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/11L32BLVfCdj6bmm8dMlUZQ" }
+                ]
+            },{
+                id: "WZhxe600",
+                name: "Left 4 Dead 2",
+                image: "Left 4 Dead 2.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "8.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1zo5yrLtrZQOdnzeymIw80Q" }
+                ]
+            },{
+                id: "bR3iynW8",
+                name: "The Evil Within ",
+                image: "The Evil Within.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "54.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1qwp8INiQQxiwK2SO2D-3IA" }
+                ]
+            },{
+                id: "K85PEWXg",
+                name: "Boomerang X",
+                image: "Boomerang X.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "8,7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1WTeUWfvVdmk2Gap9kzzl4w" }
+                ]
+            },{
+                id: "iIMU-id2",
+                name: "Weird West Definitive Edition ",
+                image: "Weird West Definitive Edition.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "7.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Q-sS_9bDUbrRHasMjoS1wg" }
+                ]
+            },{
+                id: "OnSaxpiV",
+                name: "Outlast 2",
+                image: "Outlast 2.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Terror"],
+                size: "23.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Gn8vcFKSTLUtkkGnkN5SPQ" }
+                ]
+            }];
