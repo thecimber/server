@@ -2,7 +2,7 @@ import { DOWNLOAD_TUTORIAL, PROPS_ACTUALIZACION, PROPS_MEDIFIRE, PROPS_TERABOX }
 
 export const gamesAndroid = [{
                 id: "HY0P0sGh",
-                name: "R.E.P.O v1.0.1 [REPO]",
+                name: "R.E.P.O v1.0.9 [REPO]",
                 image: "repo.jpeg",
                 format: ["APK"],
                 language: ["Español"],
