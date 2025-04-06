@@ -1988,4 +1988,18 @@ export const gamesSw = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1tUXTvG59uIl620qTtqI2Rg" }
                 ]
+            },{
+                id: "thbY3hxy",
+                name: "Cuphead v1.3.7",
+                image: "Cuphead.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "5.8 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1LbWfpe5Nhj2u8lKKYgPICg" }
+                ]
             }];
