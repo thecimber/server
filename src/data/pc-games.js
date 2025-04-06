@@ -969,7 +969,7 @@ export const gamesPc =
                 ]
             },{
                 id: "_4j6F9WP",
-                name: "Factorio",
+                name: "Factorio v2.0.43",
                 image: "Factorio.jpeg",
                 format: ["PREINSTALADO"],
                 language: ["Multi-Idioma"],
