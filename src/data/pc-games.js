@@ -1555,4 +1555,200 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1kyKkk96vA4l2xeJ9Bmjziw" }
                 ]
+            },{
+                id: "oRpWtUa1",
+                name: "Haste Broken Worlds",
+                image: "Haste Broken Worlds.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "1.9 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/15FwylmEvt-9UOoc9QjM0MQ" }
+                ]
+            },{
+                id: "KEWBoSXF",
+                name: "Ambidextro",
+                image: "Ambidextro.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "168 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/15Akk1uAefOB6SXoPLhbcyw" }
+                ]
+            },{
+                id: "58M9JL8I",
+                name: "From Glory To Goo",
+                image: "From Glory To Goo.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "197 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1S_b3phcgOtCxqRCmnnl_nw" }
+                ]
+            },{
+                id: "Ycth9S-V",
+                name: "Gibbon Beyond The Trees",
+                image: "Gibbon Beyond The Trees.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "730 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Q7sRHYewhQW0KuORURqriw" }
+                ]
+            },{
+                id: "cuxXVlFO",
+                name: "Rogue Loops",
+                image: "Rogue Loops.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "1.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/10Tl941yi4iSjN6949-KL_g" }
+                ]
+            },{
+                id: "EGODnQsC",
+                name: "House Party",
+                image: "House Party.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "5.1 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DCghapryeNdpz5azQhjiVA" }
+                ]
+            },{
+                id: "xPTa9mgU",
+                name: "Uncle Chop's Rocket Shop",
+                image: "Uncle Chop's Rocket Shop.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "1.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1aXSqRVqCwfJLlvuk29VKew" }
+                ]
+            },{
+                id: "j9kTe4rJ",
+                name: "Back Pack Battles ",
+                image: "Back Pack Battles.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "246 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1qjMdsOgcLRVONsocObrOvA" }
+                ]
+            },{
+                id: "vdM8ULFr",
+                name: "Bleach Rebirth of souls",
+                image: "Bleach Rebirth of souls.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "68 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Ms9KV1H6RBHxnjFkPOKWjg" }
+                ]
+            },{
+                id: "5x0p3IpP",
+                name: "Rain World Remix Now Available",
+                image: "Rain World Remix Now Available.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "5.3 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ZIBWdYJjWBXDyXWBr1oGyQ" }
+                ]
+            },{
+                id: "mBeDgDzU",
+                name: "Marvel Spider-man 2",
+                image: "Marvel Spider-man 2.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "102.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1H1_AnSFxAYS-3QvuMGmUNA" }
+                ]
+            },{
+                id: "qxQQEPov",
+                name: "Cafemart Simulator Early",
+                image: "Cafemart Simulator Early.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "3.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1v4tdPh2fRQyOr8II49kcHQ" }
+                ]
+            },{
+                id: "TjLhplhK",
+                name: "Reventure",
+                image: "Reventure.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "217.0 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1sAbTsxFLBRFBIPSKhBgAkQ" }
+                ]
+            },{
+                id: "yPlZmPi1",
+                name: "Dungreed",
+                image: "Dungreed.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura","Acción"],
+                size: "236 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1pLpErMzVeKi6z9QSmufzRQ" }
+                ]
             }];
