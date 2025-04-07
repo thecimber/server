@@ -210,4 +210,186 @@ export const gamesAndroid = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1TMIGdKMXCibDJq0lYakv2Q" }
                 ]
+            },{
+                id: "zjYRYr9P",
+                name: "Sonic Mania Plus v5.2.2",
+                image: "Sonic Mania Plus v5.2.2.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "236 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/17XtWn21QmJW8MLc6L8J7XQ" }
+                ]
+            },{
+                id: "JgKaio8Z",
+                name: "Sonic The Hedgehog 2 Classic v2.0.2",
+                image: "Sonic The Hedgehog 2 Classic v2.0.2.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "103 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1SpCuRfuqf2sJ1u9PF-Snvw" }
+                ]
+            },{
+                id: "26MSIW9q",
+                name: "Sonic The Hedgehog Classic v4.0.2",
+                image: "Sonic The Hedgehog Classic v4.0.2.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "95 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1gxCmeL5_K03pc5QzVZAetQ" }
+                ]
+            },{
+                id: "U9qr0nRN",
+                name: "Sonic Runners Adventure v1.0.3",
+                image: "Sonic Runners Adventure v1.0.3.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "34 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1anLz1bLOZs-UECDV4noUMQ" }
+                ]
+            },{
+                id: "MNzDReLC",
+                name: "Sonic Prime Dash v1.12.0",
+                image: "Sonic Prime Dash v1.12.0.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "348 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1E8wLfQQtsqbkFuQhD5_dxA" }
+                ]
+            },{
+                id: "uWHDzvqC",
+                name: "Sonic The Hedgehog Absolute 2",
+                image: "Sonic The Hedgehog Absolute 2.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "269 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ePsK4o4fbv6oh3VoE82h_w" }
+                ]
+            },{
+                id: "3v-EJtv1",
+                name: "Sonic Maps",
+                image: "Sonic Maps.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "100 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Fdb1pSVm3hroyBty54QEDg" }
+                ]
+            },{
+                id: "52VWjqNJ",
+                name: "Sonic GT",
+                image: "Sonic GT.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "1.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/12vmmDS35EWdR1Cp1ARpx7w" }
+                ]
+            },{
+                id: "PTp-CLyH",
+                name: "Sonic 3 A.I.R [AIR]",
+                image: "Sonic 3 A.I.R [AIR].jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "170 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1fDMUT0IB5h0ffbwSwOmh9w" }
+                ]
+            },{
+                id: "ta63KeFg",
+                name: "Sonic Momentum",
+                image: "Sonic Momentum.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "54 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1PpofipxdomEC3OZL1LbZEQ" }
+                ]
+            },{
+                id: "o1Yj-wWf",
+                name: "Sonic SMS Remake 2",
+                image: "Sonic SMS Remake 2.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "57 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/15O5iw5dDbve24tG0NrzcGQ" }
+                ]
+            },{
+                id: "ZSZ0YBm7",
+                name: "Sonic Unleashed",
+                image: "Sonic Unleashed.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "598 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/11X56XfbBTMb8YKXoQgyrHw" }
+                ]
+            },{
+                id: "cm0qy3hD",
+                name: "Sonic The Hedgehog Triple Trouble 16-BIT",
+                image: "Sonic The Hedgehog Triple Trouble 16-BIT.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "113 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/11Mw3E_ln38JLvlYKAvoSKA" }
+                ]
             }];
