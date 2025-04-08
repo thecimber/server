@@ -367,7 +367,7 @@ export const gamesPc =
                 ]
             },{
                 id: "5Ztkm0_z",
-                name: "Grand Theft auto 5",
+                name: "Grand Theft auto 5 [GTA 5, GTA V]",
                 image: "Grand Theft auto 5.jpeg",
                 format: ["PREINSTALADO"],
                 language: ["Multi-Idioma"],
