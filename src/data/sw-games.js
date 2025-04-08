@@ -2002,4 +2002,18 @@ export const gamesSw = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1LbWfpe5Nhj2u8lKKYgPICg" }
                 ]
+            },{
+                id: "u785cl6d",
+                name: "Captain Tsubasa Rise of New Champions",
+                image: "Captain Tsubasa Rise of New Champions.jpeg",
+                format: ["NSP/XCI"],
+                language: ["Multi-Idioma"],
+                genre: ["Deportes"],
+                size: "16.6 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/17q-0KrqPEMOYPRT83ac3pw" }
+                ]
             }];
