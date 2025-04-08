@@ -335,7 +335,7 @@ export const gamesPc =
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1XgXW7Lfn-cG7w6YewlLjxg" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1elBAPOuZByRBTsymrUO42A" }
                 ]
             },{
                 id: "KLeQOzJI",
