@@ -1751,4 +1751,144 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1pLpErMzVeKi6z9QSmufzRQ" }
                 ]
+            },{
+                id: "tZsA_klg",
+                name: "Minecraft Story Mode The Complete Adventure ",
+                image: "Minecraft Story Mode The Complete Adventure.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "5.8 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Z4wT4fG5AGi_InKgbizioA" }
+                ]
+            },{
+                id: "domp5rX_",
+                name: "Minecraft Story Mode Season Two The Complete Adventure (2)",
+                image: "Minecraft Story Mode Season Two The Complete Adventure (2).jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "6.6 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1RTO26gFYR9geUBmdmXK5mQ" }
+                ]
+            },{
+                id: "_7l3mXoP",
+                name: "Minecraft Dungeons",
+                image: "Minecraft Dungeons.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "2.3 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1bfhmnScbtRm8CYUsRRk2yg" }
+                ]
+            },{
+                id: "pmzoLl0a",
+                name: "Guilty Gear Strive",
+                image: "Guilty Gear Strive.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "31.8 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/10dOdA3B9XKyQs9frwHzARA" }
+                ]
+            },{
+                id: "0Fw1oanr",
+                name: "Sengoku Dynasty ",
+                image: "Sengoku Dynasty.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "11.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1TTCvLFT4Y1ahIxNkdeTOqA" }
+                ]
+            },{
+                id: "7SqHMOcu",
+                name: "Stellaris v3.14.15",
+                image: "Stellaris v3.14.15.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "14.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1WBFJWPQqrYjhwN4bl7i5SA" }
+                ]
+            },{
+                id: "8DxoHQr_",
+                name: "TheoTown v1.10.89",
+                image: "TheoTown v1.10.89.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "172 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/12bBwPF0-VAD-Hv2WpOXFdQ" }
+                ]
+            },{
+                id: "4K7XVhLa",
+                name: "Heavenly Bodies Cleanup dlc Edition ",
+                image: "Heavenly Bodies Cleanup dlc Edition.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "836 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1YeUPRxGu5PZu2ohiV4azkw" }
+                ]
+            },{
+                id: "-0O3djkU",
+                name: "Cities Skylines Deluxe Edition ",
+                image: "Cities Skylines Deluxe Edition.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "9.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1pNdAqKlFg0Zb9FCgubpEUQ" }
+                ]
+            },{
+                id: "9KMWN1Fs",
+                name: "UltraKill",
+                image: "UltraKill.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "2.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Oqj8MUIX3janjGwTIqIOuQ" }
+                ]
             }];
