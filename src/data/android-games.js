@@ -100,7 +100,7 @@ export const gamesAndroid = [{
                 ]
             },{
                 id: "dkVSYFub",
-                name: "Cuphead v1.50",
+                name: "Cuphead v1.60",
                 image: "Cuphead v1.50.jpeg",
                 format: ["APK"],
                 language: ["Multi-Idioma"],
