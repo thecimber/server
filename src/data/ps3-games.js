@@ -1627,8 +1627,8 @@ export const gamesPs3 =
                 ]
             },{
                 id: "X1F_-Vrn",
-                name: "GTA 5 [Grand Theft Auto 5]",
-                image: "Grand Theft Auto 5 [GTA 5, GTA V].jpeg",
+                name: "Grand Theft Auto 5 [GTA 5, GTA V]",
+                image: "GTA 5 [Grand Theft Auto 5].jpeg",
                 format: ["ISO"],
                 language: ["Multi-Idioma"],
                 genre: ["Acción"],
