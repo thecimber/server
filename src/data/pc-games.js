@@ -1891,4 +1891,382 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Oqj8MUIX3janjGwTIqIOuQ" }
                 ]
+            },{
+                id: "c1U25b6K",
+                name: "Going Medieval ",
+                image: "Going Medieval.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "425 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1xXUfZ7BByathfm7b5iAD1g" }
+                ]
+            },{
+                id: "oeNcli7Y",
+                name: "Sun Haven",
+                image: "Sun Haven.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "1.1 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1UzuXHZOPWZI3FqUkN8fW-Q" }
+                ]
+            },{
+                id: "dR5ytbtp",
+                name: "Fabledom",
+                image: "Fabledom.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "1.6 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/16csd-azE3bhxiIaw33rf6g" }
+                ]
+            },{
+                id: "OWVgWOr_",
+                name: "Grand Theft Auto San Andreas The Definitive Edition [GTA]",
+                image: "Grand Theft Auto San Andreas The Definitive Edition.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "19.3 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1zJgm1-DRMpHhxM2Rfamt3A" }
+                ]
+            },{
+                id: "EESwV3NJ",
+                name: "Grand Theft Auto 3 The Definitive Edition [GTA]",
+                image: "Grand Theft Auto 3 The Definitive Edition (GTA).jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "4.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/133-fYc2XX5kJTFmMUQnntA" }
+                ]
+            },{
+                id: "wCHzTamN",
+                name: "Foundation",
+                image: "Foundation.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "2.5 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1US-l2BzLzETCjmQGXZ-xag" }
+                ]
+            },{
+                id: "G4Sc93og",
+                name: "Grand Theft Auto Vice City",
+                image: "Grand Theft Auto Vice City.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "9.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1wb7oXMjL9X3HeGB5-UofqQ" }
+                ]
+            },{
+                id: "IcygTGE-",
+                name: "SNUFKIN MELODY OF MOOMINVALLEY",
+                image: "SNUFKIN MELODY OF MOOMINVALLEY.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "4.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Kqxkdgxt-FG3bHVlBTRN6A" }
+                ]
+            },{
+                id: "yjRhNxjp",
+                name: "Hearts Of Iron IV",
+                image: "Hearts Of Iron IV.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Guerra"],
+                size: "5.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Ezoiw92qth_Q8KQjR478lQ" }
+                ]
+            },{
+                id: "FgNI4fN6",
+                name: "Definitely Not Fried Chicken",
+                image: "Definitely Not Fried Chicken.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "462 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1l8MoIGda3kmxAkIS8Gsndg" }
+                ]
+            },{
+                id: "2_59HPEw",
+                name: "The Simpsons Hit and Run",
+                image: "The Simpsons Hit and Run.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventura"],
+                size: "1.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/19zUOcXDymNDhkK0qcbXydw" }
+                ]
+            },{
+                id: "etPT4rMO",
+                name: "Gorn",
+                image: "Gorn.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "1.6 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/14t90Y-3qIuSUUAxkclIVYg" }
+                ]
+            },{
+                id: "zE9sb737",
+                name: "The Coin Game ",
+                image: "The Coin Game.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "1.6 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/10y49TZblJbJ3zniGSP7o9w" }
+                ]
+            },{
+                id: "LsASoo3S",
+                name: "SoulStone Survivors ",
+                image: "SoulStone Survivors.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "1.6 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/11crLRlWmsnBL4IMigl2vNg" }
+                ]
+            },{
+                id: "g1VdY5sk",
+                name: "Shadow Gate 2",
+                image: "Shadow Gate 2.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "7.6 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ICiX1Lq37QfMjrBRGFBXDA" }
+                ]
+            },{
+                id: "lpt2sQvJ",
+                name: "Huntdown",
+                image: "Huntdown.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "421 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1x1LMYnQsA1Gu1PQwgwyPrg" }
+                ]
+            },{
+                id: "wK-myRAk",
+                name: "Sanctum 2 Complete Pack",
+                image: "Sanctum 2 Complete Pack.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "2.9 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1svou0mlw6PiuQad7KxL6rw" }
+                ]
+            },{
+                id: "ThF15nWO",
+                name: "VISAGE",
+                image: "VISAGE.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Terror"],
+                size: "8.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1FqFeFONMm_Dhb_ootvNrVQ" }
+                ]
+            },{
+                id: "NAcjzGTX",
+                name: "Stationeers",
+                image: "Stationeers.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Aventura"],
+                size: "1.7 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1jg3jisclAIUF7WQqz5gf1g" }
+                ]
+            },{
+                id: "1tfmlF2z",
+                name: "The Crush House",
+                image: "The Crush House.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "672 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1rbGOHKqi-xKMeSpe7FvEzg" }
+                ]
+            },{
+                id: "IgnMN9sD",
+                name: "Pepper Grinder",
+                image: "Pepper Grinder.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción","Aventutra"],
+                size: "1.4 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1V1qLWhx43rdDdb8Mq-PRvw" }
+                ]
+            },{
+                id: "Sk120LP7",
+                name: "High Hell",
+                image: "High Hell.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "237 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1nxjJVdYw4fIbmKfkLEeoXw" }
+                ]
+            },{
+                id: "bzDGXan0",
+                name: "Look Outside",
+                image: "Look Outside.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Terror"],
+                size: "812 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1t4QEx8TfgeIlMFyENyCMoQ" }
+                ]
+            },{
+                id: "NTntFSmz",
+                name: "Karma Zoo",
+                image: "Karma Zoo.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "405 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1pRmdWdQ7oAs4dqCHeju1bg" }
+                ]
+            },{
+                id: "_hpWUd-c",
+                name: "Gunbrella",
+                image: "Gunbrella.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "320 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1qNDTECUFYIV7_ItbBzAUAQ" }
+                ]
+            },{
+                id: "jSlz9PnO",
+                name: "Crossing Souls",
+                image: "Crossing Souls.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "920 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1334cg4fbQxUNp8bk2BH0jA" }
+                ]
+            },{
+                id: "_zB0saOZ",
+                name: "Card Shark",
+                image: "Card Shark.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "1.2 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1H6jVRZl5_scyGEfgSDTxog" }
+                ]
             }];
