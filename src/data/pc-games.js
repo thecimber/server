@@ -2269,4 +2269,74 @@ export const gamesPc =
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1H6jVRZl5_scyGEfgSDTxog" }
                 ]
+            },{
+                id: "Vyf1k1kA",
+                name: "WereWolf The Apocalypse Earthblood",
+                image: "WereWolf The Apocalypse Earthblood.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "10.8 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/160d_2gZ5h-T_AwTf08b5Cw" }
+                ]
+            },{
+                id: "Twq32qVR",
+                name: "Blur",
+                image: "Blur.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Carreras"],
+                size: "4.9 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1eJpvRXLrP6belkAAeI4CyQ" }
+                ]
+            },{
+                id: "zCHGbCOF",
+                name: "BioShock The Collection Remastered [1 y 2]",
+                image: "BioShock The Collection Remastered [1 y 2].jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "25.3 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1likSpWmpzIA4BVK7MEI4LA" }
+                ]
+            },{
+                id: "DgohfHWa",
+                name: "Portal 2",
+                image: "Portal 2.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "15.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1DUk58VbtKFE-ALDyOIHu4Q" }
+                ]
+            },{
+                id: "6cAToSLm",
+                name: "Call Of Duty Modern Warfare Remastered",
+                image: "Call Of Duty Modern Warfare Remastered.jpeg",
+                format: ["PREINSTALADO"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "55.8 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1QLJQJ3v5z1-6nPF5-rKC0Q" }
+                ]
             }];
