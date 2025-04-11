@@ -198,7 +198,7 @@ export const gamesAndroid = [{
                 ]
             },{
                 id: "BD7Q1iG0",
-                name: "Minecraft Version: v1.21.70.24 Beta",
+                name: "Minecraft Version: v1.21.80.25 Beta",
                 image: "Minecraft Version: v1.21.70.24 Beta.jpeg",
                 format: ["APK"],
                 language: ["Multi-Idioma"],
