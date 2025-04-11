@@ -105,12 +105,12 @@ export const gamesSw = [{
                 format: ["NSP/XCI"],
                 language: ["5.0 Gb"],
                 genre: ["Acción","Fighting"],
-                size: "undefined",
+                size: "0",
                 link: "",
                 downloadTutorial: DOWNLOAD_TUTORIAL,
                 date: "",
                 downloadMethods: [
-                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1jcxNUK66dGf6HGwDCa7vzw" }
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1n_Es4UThzOd6H4yghbLnug" }
                 ]
             },{
                 id: "xdHTEBar",
