@@ -420,4 +420,46 @@ export const gamesAndroid = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/19nbpbnv-Rz8PxQzo-Z09tg" }
                 ]
+            },{
+                id: "Ms9jPOi8",
+                name: "Carrion Mobile",
+                image: "Carrion Mobile.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Otros"],
+                size: "166 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1jfotJdkjNksZXAJMSYko1g" }
+                ]
+            },{
+                id: "gY2_RF-T",
+                name: "Hitman Blood Money reprisal",
+                image: "Hitman Blood Money reprisal.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "686 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1g0jVbEc3BZdJJ6flUpXYbg" }
+                ]
+            },{
+                id: "2twv-x_Y",
+                name: "Shredder’s Revenge Version: v1.2.4",
+                image: "Shredder’s Revenge Version: v1.2.4.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "2.0 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1Oboe64nJX1VRIzWiVAXRFA" }
+                ]
             }];
