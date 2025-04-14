@@ -406,4 +406,18 @@ export const gamesAndroid = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ad0zUwic1cW-aYwTcyym-Q" }
                 ]
+            },{
+                id: "qtO25Xtc",
+                name: "Resident Evil 4 Mobile Edition ",
+                image: "Resident Evil 4 Mobile Edition.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "200 Mb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/19nbpbnv-Rz8PxQzo-Z09tg" }
+                ]
             }];
