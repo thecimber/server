@@ -392,4 +392,18 @@ export const gamesAndroid = [{
                 downloadMethods: [
                     { ...PROPS_TERABOX , link: "https://1024terabox.com/s/11Mw3E_ln38JLvlYKAvoSKA" }
                 ]
+            },{
+                id: "QetUEruQ",
+                name: "Prince of Persia: Lost Crown",
+                image: "Prince of Persia: Lost Crown.jpeg",
+                format: ["APK"],
+                language: ["Multi-Idioma"],
+                genre: ["Acción"],
+                size: "2.22 Gb",
+                link: "",
+                downloadTutorial: DOWNLOAD_TUTORIAL,
+                date: "",
+                downloadMethods: [
+                    { ...PROPS_TERABOX , link: "https://1024terabox.com/s/1ad0zUwic1cW-aYwTcyym-Q" }
+                ]
             }];
