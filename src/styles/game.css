@@ -1,0 +1,313 @@
+  .juegos-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    justify-content: center;
+  }
+
+  .subtitulo {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #fcfafa;
+    width: 100%;
+  }
+
+  .juego-card:hover {
+    cursor: pointer;
+    transform: translateY(-10px);
+    box-shadow: 0 0 15px 7px rgba(249, 13, 194, 0.6),
+      0 0 15px 8px rgba(0, 255, 140, 0.6),
+      0 0 15px 10px rgba(0, 191, 255, 0.6);
+    background: linear-gradient(45deg, rgb(255, 0, 106), rgb(247, 0, 255), #00ffc8, rgb(0, 77, 128), rgb(211, 145, 219), rgb(92, 226, 121), violet);
+    background-size: 400% 400%;
+    animation: prismaAnim 2s linear infinite;
+
+  }
+
+  @keyframes prismaAnim {
+    0% {
+      background-position: 0% 50%;
+    }
+
+    50% {
+      background-position: 100% 50%;
+    }
+
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+  .juego-card {
+    flex: 1 1 calc(25% - 20px);
+    max-width: calc(25% - 20px);
+    height: 30rem;
+    background-color: #302e2e;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .juego-card img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+
+  .juego-info {
+    padding: 15px;
+    text-align: center;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .juego-info h3 {
+    font-size: 1rem;
+    margin-bottom: 10px;
+  }
+
+  .juego-info p {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 10px;
+  }
+
+  .juego-detalles {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.8rem;
+    color: #888;
+  }
+
+  .ps3 {
+    font-size: .8rem !important;
+    background-color: rgb(0, 30, 255) !important;
+  }
+
+  .psp {
+    font-size: .8rem !important;
+    background-color: rgb(0, 225, 255) !important;
+  }
+
+  .ds {
+    font-size: .8rem !important;
+    background-color: rgb(255, 0, 225) !important;
+  }
+
+  .pc {
+    font-size: .8rem !important;
+    background-color: rgb(226, 212, 12) !important;
+  }
+  .switch {
+    font-size: .8rem !important;
+    background-color: red !important;
+  }
+
+  .wii {
+    font-size: .8rem !important;
+    background-color: rgb(255, 166, 0) !important;
+  }
+  .android {
+    font-size: .8rem !important;
+    background-color: rgb(77, 255, 0) !important;
+  }
+
+
+  @keyframes glowingRed {
+    0% {
+      box-shadow: 0 0 5px #ff0, 0 0 10px #ff0;
+    }
+
+    50% {
+      box-shadow: 0 0 15px #f00, 0 0 20px #f00;
+    }
+
+    100% {
+      box-shadow: 0 0 5px #ff0, 0 0 10px #ff0;
+    }
+  }
+
+  @keyframes borderMoveRed {
+    0% {
+      border-color: #ff0;
+    }
+
+    50% {
+      border-color: #f00;
+    }
+
+    100% {
+      border-color: #ff0;
+    }
+
+  }
+
+  .btn-animated {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .btn-animated:hover {
+    color: #000;
+    transform: scale(1.1);
+  }
+
+  .btn-animated-red{
+    background: linear-gradient(45deg, #ff0, #f00, #ff0);
+    border: 3px solid #ff0;
+    animation: borderMoveRed 2s infinite alternate, glowingRed 1.5s infinite alternate;
+
+  }
+  .btn-animated-red:hover {
+    background: linear-gradient(45deg, #f00, #ff0, #f00);
+  }
+  @keyframes glowing2 {
+    0% {
+      box-shadow: 0 0 5px rgb(211, 63, 186), 0 0 10px rgb(0, 174, 255);
+    }
+
+    50% {
+      box-shadow: 0 0 15px rgb(211, 63, 186), 0 0 20px rgb(211, 63, 186);
+    }
+
+    100% {
+      box-shadow: 0 0 5px rgb(0, 174, 255), 0 0 10px rgb(0, 174, 255);
+    }
+  }
+
+  @keyframes borderMove2 {
+    0% {
+      border-color: rgb(0, 174, 255);
+    }
+
+    50% {
+      border-color: rgb(211, 63, 186);
+    }
+
+    100% {
+      border-color: rgb(0, 174, 255);
+    }
+
+  }
+  @keyframes glowingGreen {
+    0% {
+      box-shadow: 0 0 5px rgb(80, 211, 63), 0 0 10px rgb(217, 248, 41);
+    }
+
+    50% {
+      box-shadow: 0 0 15px rgb(80, 211, 63), 0 0 20px rgb(80, 211, 63);
+    }
+
+    100% {
+      box-shadow: 0 0 5px rgb(217, 248, 41), 0 0 10px rgb(217, 248, 41);
+    }
+  }
+
+  @keyframes borderMoveGreen {
+    0% {
+      border-color: rgb(217, 248, 41);
+    }
+
+    50% {
+      border-color: rgb(80, 211, 63);
+    }
+
+    100% {
+      border-color: rgb(217, 248, 41);
+    }
+
+  }
+
+
+  .btn-animated-blue {
+
+    background: linear-gradient(45deg, rgb(0, 174, 255), rgb(211, 63, 186), rgb(0, 174, 255));
+    border: 3px solid rgb(0, 174, 255);
+    animation: borderMove2 2s infinite alternate, glowing2 1.5s infinite alternate;
+  }
+
+  .btn-animated-blue:hover {
+    background: linear-gradient(45deg, rgb(211, 63, 186), rgb(0, 174, 255), rgb(211, 63, 186));
+  }
+
+  .btn-animated-green {
+    background: linear-gradient(45deg, rgb(217, 248, 41), rgb(80, 211, 63), rgb(217, 248, 41));
+    border: 3px solid rgb(217, 248, 41);
+    animation: borderMove2 2s infinite alternate, glowing2 1.5s infinite alternate;
+  }
+
+  .btn-animated-green:hover {
+    background: linear-gradient(45deg, rgb(80, 211, 63), rgb(217, 248, 41), rgb(80, 211, 63));
+  }
+
+  /* Responsive para tablets */
+  @media (max-width: 768px) {
+    .juego-card {
+      flex: 2 2 calc(50% - 20px);
+      /* 2 cards por fila */
+      max-width: calc(50% - 20px);
+    }
+  }
+
+  /* Responsive para móviles */
+  @media (max-width: 480px) {
+    .juego-card {
+      flex: 1 1 calc(50% - 10px);
+      /* 2 cards por fila en móviles */
+      max-width: calc(50% - 10px);
+      min-height: 300px;
+      max-height: 7rem;
+    }
+
+    .juego-card img {
+      height: 150px;
+    }
+
+    .juego-info {
+      padding: 10px;
+    }
+
+    .juego-info h3 {
+      font-size: 0.9rem;
+      margin-bottom: 10px;
+    }
+
+    .juego-info p {
+      font-size: 0.7rem;
+      margin-bottom: 10px;
+    }
+
+    .juego-detalles {
+      font-size: 0.7rem;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .w-md-50 {
+      width: 75% !important;
+    }
+  }
+
+  @media (max-width: 576px) {
+    .w-md-50 {
+      width: 100% !important;
+    }
+  }

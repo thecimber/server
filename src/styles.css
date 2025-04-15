@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(45, 43, 43) !important;
+}
+
+.logo-navbar {
+    width: 4rem;
+    margin: 5px;
+    border-radius: 50%;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    /* Ocupa toda la altura de la pantalla */
+}
+
+.main-content {
+    flex: 1;
+}
+
+.container-dmca {
+
+    color: white;
+    text-align: justify;
+}
+
+.active>.page-link,
+.page-link.active {
+    background-color: blueviolet !important;
+    border-color: black !important;
+}
+
+.page-link {
+    background-color: rgb(59, 59, 59) !important;
+    color: white !important;
+}
+
+.pagination {
+    gap: 7px !important;
+}
+
+.footer-dark {
+    background-color: #212529 !important;
+    color: white !important;
+    margin-bottom: 0px !important;
+}
+
+.social-media {
+    font-size: 1.7rem !important;
+}
+
+@media (max-width: 480px) {
+    .pagination {
+        gap: 4px !important;
+    }
+
+}
+
+/* .bg-deku{
+    background-color: rgb(55, 2, 55);
+} */
