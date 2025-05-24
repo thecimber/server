@@ -1,0 +1,43 @@
+[{
+                "id": "576867",
+                "name": "Minecraft PlayStation 3 Edition",
+                "image": "Minecraft-PlayStation-3-Edition.webp",
+                "format": ["ISO/PKG"],
+                "language": ["Español"],
+                "genre": [1,2,3],
+                "size": "238mb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "date": "",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://www.1024tera.com/spanish/sharing/link?surl=5Ru-qoPs8sTZebGOux0E6Q" }
+                ],
+                "emulator": 1
+            },{
+                "id": "431095",
+                "name": "DuckTales: Remasterizado",
+                "image": "DuckTales-Remastered-ps3-300x355.jpg",
+                "format": ["ISO/PKG"],
+                "language": ["Español"],
+                "genre": [1,2,3],
+                "size": "670MB",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "date": "",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/16TFdRP-SS6x6Vq9lGLTTLQ" }
+                ],
+                "emulator": 1
+            },{
+                "id": "948741",
+                "name": "Need for Speed: Most Wanted",
+                "image": "Most-Wanted-ps3.webp",
+                "format": ["ISO/PKG"],
+                "language": ["Español"],
+                "genre": [1,2,3],
+                "size": "4.39 GB",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "date": "",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1D-A5-hG6v2XMmKUdpL7G5w" }
+                ],
+                "emulator": 1
+            }]
