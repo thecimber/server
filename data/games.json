@@ -11,7 +11,7 @@
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://www.1024tera.com/spanish/sharing/link?surl=5Ru-qoPs8sTZebGOux0E6Q" }
                 ],
-                "emulator": 1
+                "emulatorId": 1
             },{
                 "id": "431095",
                 "name": "DuckTales: Remasterizado",
@@ -25,7 +25,7 @@
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/16TFdRP-SS6x6Vq9lGLTTLQ" }
                 ],
-                "emulator": 1
+                "emulatorId": 1
             },{
                 "id": "948741",
                 "name": "Need for Speed: Most Wanted",
@@ -39,5 +39,5 @@
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1D-A5-hG6v2XMmKUdpL7G5w" }
                 ],
-                "emulator": 1
+                "emulatorId": 1
             }]
