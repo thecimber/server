@@ -4,7 +4,7 @@
                 "image": "Afro-Samurai-ps3.webp",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [1,2],
                 "size": "3,64 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
@@ -1844,8 +1844,7 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1GWk55EpVtLIocQK6djbIYw" }],
                 "popular": 0,
                 "emulatorId": 1
-            },
-            {
+            },{
                 "id": "vlHB-X0u",
                 "name": "2010 FIFA World Cup South Africa ",
                 "image": "2010 FIFA World Cup South Africa.jpeg",
@@ -2456,8 +2455,7 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1cg6uVLte4miY0JKYQlc02w" }],
                 "popular": 0,
                 "emulatorId": 3
-            },
-            {
+            },{
                 "id": "ttNpgLht",
                 "name": "Assassin's Creed 2 Discovery",
                 "image": "Assassin's-Creed-2-Discovery.jpg",
@@ -3055,8 +3053,7 @@
                     { "type" : "Mediafire" , "link": "https://cuty.io/tsdXemgH" }],
                 "popular": 0,
                 "emulatorId": 4
-            },
-            {
+            },{
                 "id": "tynMFupk",
                 "name": "007 LEGENDS",
                 "image": "007-LEGENDS.jpg",
@@ -4330,8 +4327,7 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Oboe64nJX1VRIzWiVAXRFA" }],
                 "popular": 0,
                 "emulatorId": 10
-            },
-            {
+            },{
                 "id": "ZR4_45Pf",
                 "name": "13 Sentinels: Aegis Rim",
                 "image": "13 Sentinels: Aegis Rim.jpeg",
@@ -6242,8 +6238,7 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1808a4wSP5vY4CJ4fqlABOg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },
-            {
+            },{
                 "id": "tq2y2LLk",
                 "name": "Abiotic Factor ",
                 "image": "Abiotic Factor.jpeg",
@@ -9545,8 +9540,7 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1bfEs75tQGgmKgVolBb9WiA" }],
                 "popular": 0,
                 "emulatorId": 10
-            },
-            {
+            },{
                 "id": "OujQwqD7",
                 "name": "20 Minutes Till Dawn APK v5.3",
                 "image": "O46zCCGDQT.jpg",
