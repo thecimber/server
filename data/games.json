@@ -316,7 +316,7 @@
                 "image": "Diablo-3.jpg",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [16,27],
                 "size": "22.21 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
