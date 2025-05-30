@@ -9696,4 +9696,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1VcdXy9MM8RUAxKFhzEUw3g" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "jvdZ9MlF",
+                "name": "METAL GEAR SOLID 3: Snake Eater – Master Collection (v2.0.1)",
+                "image": "tAkdun9zfG.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,8,21],
+                "size": "19.3 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1VApU0eUprLWGCip8Lq-ESw" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
