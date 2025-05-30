@@ -9722,4 +9722,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1lox-Df2v9H7BxnqyV1EOsQ" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "8KLkSECq",
+                "name": "Metal Gear Rising: Revengeance",
+                "image": "UsOR_wdmos.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,8],
+                "size": "25.3 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1w_9B-Ls15VxImc3eh5AjPw" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
