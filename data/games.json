@@ -9735,4 +9735,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1w_9B-Ls15VxImc3eh5AjPw" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "Y0gfYqgF",
+                "name": "Resident Evil 2 Remake Directx12",
+                "image": "b7WKp2R0iA.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [14,7],
+                "size": "24.1 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1rYY9dEuIlaarMUG2XG5B5w" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
