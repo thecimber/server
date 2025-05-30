@@ -9683,4 +9683,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Dwhm-OlCriZVJlUg_1G5rg" }],
                 "popular": 0,
                 "emulatorId": 8
+            },{
+                "id": "QiY-Lj2L",
+                "name": "METAL GEAR SOLID 2: Sons of Liberty – Master Collection (v2.0.1)",
+                "image": "v9uCELFr0a.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,8],
+                "size": "22.3 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1VcdXy9MM8RUAxKFhzEUw3g" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
