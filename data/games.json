@@ -778,7 +778,7 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1JeSxrkhZkXOJQ30tzskphw" }],
                 "popular": 0,
                 "emulatorId": 1
-            },[
+            },
                 {
                     "id": "546819",
                     "name": "Midnight Club: Los Angeles",
@@ -1129,7 +1129,7 @@
                     "popular": 0,
                     "emulatorId": 1
                 }
-            ],{
+            ,{
                 "id": "3C2_Fxbf",
                 "name": "Pes 2011 Pro Evolution Soccer",
                 "image": "Pes 2011 Pro Evolution Soccer.jpeg",
