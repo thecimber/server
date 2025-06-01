@@ -4857,453 +4857,488 @@
                 "image": "Diablo II: Resurrected.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [16, 41],
                 "size": "8.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/17WEMsKK2QyB8-U7JXAXLdA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/17WEMsKK2QyB8-U7JXAXLdA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "kKanZM95",
                 "name": "Donkey Kong Country Returns HD",
                 "image": "Donkey Kong Country Returns HD.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 32],
                 "size": "8.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1NHymOr5nC3KLrRcNh5YvYA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1NHymOr5nC3KLrRcNh5YvYA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "BCFEBRxZ",
                 "name": "Donkey Kong Country Tropical Freeze",
                 "image": "Donkey Kong Country Tropical Freeze.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 32],
                 "size": "7.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/13bMLY3j6OqBlDWxeMdQzSA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/13bMLY3j6OqBlDWxeMdQzSA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "shbHnvvc",
                 "name": "Dragon Ball FighterZ",
                 "image": "Dragon Ball FighterZ.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 22, 24],
                 "size": "10.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Stm_2ZcwdTUhHhINr7RJVg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1Stm_2ZcwdTUhHhINr7RJVg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "B34TSIBH",
                 "name": "Dragon Ball Z Kakarot [Versión 1.52]",
                 "image": "Dragon Ball Z Kakarot [Versión 1.52].jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [7, 16, 22],
                 "size": "24.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1o4an9zMFbSyqS3cEd76Deg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1o4an9zMFbSyqS3cEd76Deg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "kJO-OWDH",
                 "name": "DRAGON QUEST BUILDERS 2",
                 "image": "DRAGON QUEST BUILDERS 2.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [12, 39, 41],
                 "size": "1.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1OQsNcu5crEw8BL8YnECpCQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1OQsNcu5crEw8BL8YnECpCQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "byPGnlLg",
-                "name": "DRAGON QUEST III HD-2D Remake ",
+                "name": "DRAGON QUEST III HD-2D Remake",
                 "image": "DRAGON QUEST III HD-2D Remake.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [16, 32, 41],
                 "size": "7.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1KFOxexhpNTNGPwKDazWdrA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1KFOxexhpNTNGPwKDazWdrA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "t_o8ia2A",
                 "name": "DRAGON QUEST MONSTERS: The Dark Prince",
                 "image": "DRAGON QUEST MONSTERS: The Dark Prince.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [16, 41],
                 "size": "5.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/13S5zLUKkbaetw_w6xNDlFA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/13S5zLUKkbaetw_w6xNDlFA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "qqjRYNUK",
                 "name": "EA SPORTS FC 24",
                 "image": "EA SPORTS FC 24.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 6],
                 "size": "25.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/19qa8LE9ttaJ-uAPohFedcQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/19qa8LE9ttaJ-uAPohFedcQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "mcFOwDnA",
                 "name": "EA SPORTS FC 25",
                 "image": "EA SPORTS FC 25.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 6],
                 "size": "32.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Y7trO0RUMq0FWb2W2dknqw" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1Y7trO0RUMq0FWb2W2dknqw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "Feze6cEj",
                 "name": "Elsie",
                 "image": "Elsie.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [3, 34],
                 "size": "628 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1DXINdhzkHwI0NdwzYZxBrw" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1DXINdhzkHwI0NdwzYZxBrw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "tz2aCBrJ",
                 "name": "Exhausted Man",
                 "image": "Exhausted Man.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 36],
                 "size": "800 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1z9m1r0VQqUdhF0-TmJrZsA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1z9m1r0VQqUdhF0-TmJrZsA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "WtHjlQJf",
                 "name": "Exographer",
                 "image": "Exographer.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [3, 9],
                 "size": "800 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1xlYtB1fbU-NIXAzboh3N8Q" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1xlYtB1fbU-NIXAzboh3N8Q" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "H5_5GGJo",
                 "name": "Factorio",
                 "image": "Factorio.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [28, 40],
                 "size": "2.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1MwNA5PJ24x69shsGEVgcqA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1MwNA5PJ24x69shsGEVgcqA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "HV4hEmJy",
                 "name": "FAIRY TAIL 2",
                 "image": "FAIRY TAIL 2.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [16, 22, 41],
                 "size": "5.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1FtiRMoudZteyhxPvzCwWFg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1FtiRMoudZteyhxPvzCwWFg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "FDVKa85o",
                 "name": "Fire Emblem Engage",
                 "image": "Fire Emblem Engage.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [16, 28, 41],
                 "size": "17.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/11AM3M5Lo-YL1K-u7QTduJQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/11AM3M5Lo-YL1K-u7QTduJQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "8xhttJTv",
                 "name": "Fire Emblem Three houses",
                 "image": "Fire Emblem Three houses.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [16, 28, 41],
                 "size": "13.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1H0eyjnP51McJYL3h7nhDGg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1H0eyjnP51McJYL3h7nhDGg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "6Wao1fqu",
-                "name": "Fire Emblem Warriors ",
+                "name": "Fire Emblem Warriors",
                 "image": "Fire Emblem Warriors.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 27, 28],
                 "size": "14.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1HErchG7BS-TW4WWPmwuf-A" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1HErchG7BS-TW4WWPmwuf-A" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "xI3ZSNJo",
                 "name": "Fire Emblem Warriors Three Hopes",
                 "image": "Fire Emblem Warriors Three Hopes.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 27, 28],
                 "size": "14.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1hDe4xI1KWjsK_svcHHm7ig" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1hDe4xI1KWjsK_svcHHm7ig" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "oalyg0op",
                 "name": "Gift",
                 "image": "Gift.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [3, 34],
                 "size": "1,3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Oon8a5qM_zi11VtgXRRDNA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1Oon8a5qM_zi11VtgXRRDNA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "tAmP8mQb",
                 "name": "Gimmick! 2",
                 "image": "Gimmick! 2.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 32],
                 "size": "2.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1eAVwQen-qX961AD4jYAqXg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1eAVwQen-qX961AD4jYAqXg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "Z_SqENC1",
                 "name": "Guilty Gear Strive",
                 "image": "Guilty Gear Strive.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 22, 24],
                 "size": "14.01 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1jcxNUK66dGf6HGwDCa7vzw" },{ "type" : "Actualizacion" , "link": "https://cuty.io/fg1OP45f7I" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1jcxNUK66dGf6HGwDCa7vzw" },
+                    { "type": "Actualizacion", "link": "https://cuty.io/fg1OP45f7I" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "EJ9-CxbS",
-                "name": "Hyrule Warriors Age of Calamity ",
+                "name": "Hyrule Warriors Age of Calamity",
                 "image": "Hyrule Warriors Age of Calamity.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 27],
                 "size": "13.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1CF6b40OQaDGTFThJyUj1RQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1CF6b40OQaDGTFThJyUj1RQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "mzxL3zdx",
                 "name": "Hyrule Warriors Definitive Edition",
                 "image": "Hyrule Warriors Definitive Edition.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 27],
                 "size": "13.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1nASTIhYsetBn6Oh7Jf3Fpg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1nASTIhYsetBn6Oh7Jf3Fpg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "f0w4YSIQ",
-                "name": "Kimetsu no Yaiba the Hinokami Chronicles [Demon Slayer] ",
+                "name": "Kimetsu no Yaiba the Hinokami Chronicles [Demon Slayer]",
                 "image": "Kimetsu no Yaiba the Hinokami Chronicles [Demon Slayer] .jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 22, 24],
                 "size": "9.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Lb3sT1-nQrPGpNXaad3kVg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1Lb3sT1-nQrPGpNXaad3kVg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "sjWY9vLE",
                 "name": "Kirby and the Forgotten Land",
                 "image": "Kirby and the Forgotten Land.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 3],
                 "size": "6.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/18sTacmt2kq4GSXJwDbnxyw" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/18sTacmt2kq4GSXJwDbnxyw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "K5TFXBih",
                 "name": "Kirby Fighters 2",
                 "image": "Kirby Fighters 2.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 24],
                 "size": "1.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1uTsLmaRmHaNiIbDTGYWbBg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1uTsLmaRmHaNiIbDTGYWbBg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "rYnmYQy0",
-                "name": "Kirby’s Dream Buffet",
+                "name": "Kirby's Dream Buffet",
                 "image": "Kirbys Dream Buffet.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [25, 19],
                 "size": "1.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1DjwLDheI8MLtarq-ey-13w" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1DjwLDheI8MLtarq-ey-13w" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "AhB0i6OI",
-                "name": "Kirby’s Return to Dream Land Deluxe",
-                "image": "Kirby’s Return to Dream Land Deluxe.jpeg",
+                "name": "Kirby's Return to Dream Land Deluxe",
+                "image": "Kirby's Return to Dream Land Deluxe.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 3],
                 "size": "5.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/184YYOzrjKaP5i13-7dLtyg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/184YYOzrjKaP5i13-7dLtyg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "0yP8qWFm",
                 "name": "Luigi's Mansion 3",
                 "image": "Luigis Mansion 3.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [3, 7],
                 "size": "8.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1JtBFu8zLEq2nwhYPZJmrfQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1JtBFu8zLEq2nwhYPZJmrfQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "H1u6nqVm",
                 "name": "Magical Bakery",
                 "image": "Magical Bakery.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [19, 40],
                 "size": "1.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1bos0fijHnDSS_8rKfGuYeg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1bos0fijHnDSS_8rKfGuYeg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "0ynI5kf8",
-                "name": "Mario + Rabbids Kingdom Battle ",
+                "name": "Mario + Rabbids Kingdom Battle",
                 "image": "Mario + Rabbids Kingdom Battle.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [28, 41],
                 "size": "4.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/17w84mO5UY8g650KcIVCFbA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/17w84mO5UY8g650KcIVCFbA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "utjwILsG",
-                "name": "Mario + Rabbids Sparks of Hope ",
+                "name": "Mario + Rabbids Sparks of Hope",
                 "image": "Mario + Rabbids Sparks of Hope.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [28, 41],
                 "size": "9.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1KvJcaYaTydJjd-OVSc71DA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1KvJcaYaTydJjd-OVSc71DA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "Gek_FPtk",
-                "name": "Mario and Luigi's BrotherShip ",
+                "name": "Mario and Luigi's BrotherShip",
                 "image": "Mario and Luigis BrotherShip.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 3],
                 "size": "10.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1ExiNzNGPBpyRW-NY7dwKiQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1ExiNzNGPBpyRW-NY7dwKiQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "9bONH8Wo",
                 "name": "Mario and Sonic at the Olympic Games Tokyo",
                 "image": "Mario and Sonic at the Olympic Games Tokyo.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 19],
                 "size": "6.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1KRWBLVwgJ6xe8l_FvMerrQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1KRWBLVwgJ6xe8l_FvMerrQ" }],
                 "popular": 0,
                 "emulatorId": 8
             },{
