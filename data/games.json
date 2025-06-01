@@ -2297,202 +2297,217 @@
                 "image": "Naruto Ultimate Ninja Heroes.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 22, 24],
                 "size": "500 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/18Oevx_t5rtd0PwNi-hbB9A" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "SneUELth",
                 "name": "Naruto Ultimate Ninja Heroes 2",
                 "image": "Naruto Ultimate Ninja Heroes 2.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 22, 24],
                 "size": "1.27 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/15E-DpGrTBdvW28Gmhdz6yA" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "sFrvmBl0",
                 "name": "Pes Pro evolution Soccer 6",
                 "image": "Pes Pro evolution Soccer 6.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 6],
                 "size": "849 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1zldHiV27PWRBgTuo9QCtxA" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "uGS3A1cQ",
                 "name": "Prince of Persia – Boukyaku no Suna",
                 "image": "Prince of Persia – Boukyaku no Suna.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 7, 15],
                 "size": "483 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/10ZCHAa76QpeTUKvvUDz8LQ" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "2FVW2KT6",
                 "name": "Prince of Persia – The Forgotten Sands",
                 "image": "Prince of Persia – The Forgotten Sands.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 7, 15],
                 "size": "529 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1JPISX9la_y_vW9cr0i6wsw" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "duVXCSPy",
                 "name": "Prince Of Persia Revelations",
                 "image": "Prince Of Persia Revelations.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 7, 15],
                 "size": "1.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/15TX7xVgbM6dLx-o0QGicVQ" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "Orf80BsC",
                 "name": "Prince Of Persia Rival Swords",
                 "image": "Prince Of Persia Rival Swords.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 7, 15],
                 "size": "811 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1NZaVYxB6bVag96iC9CQtFw" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "jWTUQVm_",
                 "name": "Sonic Rivals",
                 "image": "Sonic Rivals.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 13],
                 "size": "113 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1yXv7NXlbxgBJghv1EuqVrg" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "vo1hM5Gr",
                 "name": "Sonic Rivals 2",
                 "image": "Sonic Rivals 2.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 13],
                 "size": "240 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1AeRfCRvvhlVVuF8jGa-8qA" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "fErxdplC",
-                "name": "Star Wars - Battlefront II ",
+                "name": "Star Wars - Battlefront II",
                 "image": "Star Wars - Battlefront II.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 12, 35],
                 "size": "1.13 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1FQ9qCK4fY968sOETEiqP-w" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "vJwKhHKL",
-                "name": "Star Wars - Lethal Alliance ",
+                "name": "Star Wars - Lethal Alliance",
                 "image": "Star Wars - Lethal Alliance.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 7, 35],
                 "size": "730 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1qVAXJoJ0aTXiErx6T4norw" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "KsN97421",
                 "name": "Star Wars - The Clone Wars - Republic Heroes",
                 "image": "Star Wars - The Clone Wars - Republic Heroes.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 7, 35],
                 "size": "1.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1pVIwkIEGlmPL-1LfHw8LSw" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "DfNQ7PgO",
                 "name": "Star Wars - The Force Unleashed",
                 "image": "Star Wars - The Force Unleashed.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 7, 35],
                 "size": "829 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1sBrVONFbRXQSEAzo21UfSw" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "ampVnULe",
-                "name": "Star Wars Battlefront - Elite Squadron ",
+                "name": "Star Wars Battlefront - Elite Squadron",
                 "image": "Star Wars Battlefront - Elite Squadron.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 12, 35],
                 "size": "1.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1vXynjl2FW0C2HwltB_lMMQ" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "a-dM1lLl",
-                "name": "Star Wars Battlefront - Renegade Squadron ",
+                "name": "Star Wars Battlefront - Renegade Squadron",
                 "image": "Star Wars Battlefront - Renegade Squadron.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 12, 35],
                 "size": "1.1 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1tMcNSSV0rTYvPpTtHjVPbQ" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "78tMI0F6",
                 "name": "UEFA champions league 2006-2007",
                 "image": "UEFA champions league 2006-2007.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 6],
                 "size": "0",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
