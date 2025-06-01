@@ -3142,7 +3142,7 @@
                     { "type" : "Mediafire" , "link": "https://cuty.io/4LP71Vk9a" }],
                 "popular": 0,
                 "emulatorId": 4
-            },[
+            },
                 {
                     "id": "IU_2EPSi",
                     "name": "Ultimate spider-man",
@@ -3549,7 +3549,7 @@
                     "popular": 0,
                     "emulatorId": 5
                 }
-            ],[
+            ,
                 {
                     "id": "Xz2kL28g",
                     "name": "Deus ex Human revolution",
@@ -3816,7 +3816,7 @@
                     "popular": 0,
                     "emulatorId": 5
                 }
-            ],{
+            ,{
                 "id": "ZIZ3Bsg9",
                 "name": "Hot Wheels - World’s Best Driver",
                 "image": "photo_5100582605748809407_x.jpg",
