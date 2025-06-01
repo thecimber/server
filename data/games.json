@@ -2827,293 +2827,315 @@
                 "image": "Pokémon-Black-and-White-2.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [41, 16],
                 "size": "141 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/E9kir" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "UL4xA8qW",
                 "name": "Pokemon Conquest",
                 "image": "Pokemon-Conquest.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [41, 28],
                 "size": "72 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/gdqSHHjIf9iS" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "o1eLRNAQ",
                 "name": "Pokemon Diamond & Pearl",
                 "image": "Pokemon-Diamond-&-Pearl.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [41, 16],
                 "size": "27 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/tVbCEkDOWg" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "Uwpk1EXV",
                 "name": "Pokemon Diamond Sun and Moon",
                 "image": "Pokemon-Diamond-Sun-and-Moon.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [41, 16],
                 "size": "26 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/xTQhw2dUqjk" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "vfsXb7kS",
                 "name": "Pokémon Fire Red",
                 "image": "Pokemon-Fire-Red.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [41, 16],
                 "size": "60 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/rIuk" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "jPTd4cwe",
                 "name": "Pokemon Fusion Platinum",
                 "image": "Pokemon-Fusion-Platinum.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [41, 16],
                 "size": "40 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/caXy3jbCPsqm" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "2MS1r9uh",
                 "name": "Pokemon HeartGold & SoulSilver 2010",
                 "image": "Pokemon-HeartGold-&-SoulSilver-2010.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [41, 16],
                 "size": "54.72 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/AuPq2eTFaJ" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "bwjH3WP6",
                 "name": "Pokemon Mega Platinum",
                 "image": "Pokemon-Mega-Platinum.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [41, 16],
                 "size": "43 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/bmhCv8Md0" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "I4D_dhRa",
                 "name": "Pokemon Moon Black 2",
                 "image": "Pokemon-Moon-Black-2.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [41, 16],
                 "size": "142 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/AuPq2eTFaJ" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "IgoOsAcT",
                 "name": "Pokemon Mystery Dungeon: Explorers of Sky",
                 "image": "Pokémon Mystery-Dungeon:Explorers-of-Sky.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [41, 16, 9],
                 "size": "26 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/ha9fl76" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "YvRpYaQF",
                 "name": "Pokemon Platinum",
                 "image": "Pokemon-Fusion-Platinum.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [41, 16],
                 "size": "50 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/zbCTBAek9" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "dtZAtneD",
                 "name": "Pokemon Ranger: Shadows of Almia",
                 "image": "Pokemon-Ranger:Shadows-of-Almia.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [41, 7],
                 "size": "17 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/ce89ggnmDg" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "S724sYyr",
                 "name": "Pokemon Sacred Gold",
                 "image": "Pokemon-Sacred-Gold.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [41, 16],
                 "size": "64 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/ktBx5u3QsT" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "RmJHay1b",
                 "name": "Pokemon Silver Yellow",
                 "image": "Pokemon-Silver-Yellow.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [41, 16],
                 "size": "57 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/xSbkVK1MOhnw" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "7fmedSSc",
                 "name": "Sonic Classic Collection",
                 "image": "Sonic-Classic-Collection.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [1, 32],
                 "size": "31 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/cAZz0e" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "JKuVB6G_",
                 "name": "Sonic Rush",
                 "image": "Sonic-Rush.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [1, 13],
                 "size": "42 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/Fx2QbuoJoRfW" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "ojHzE7Uc",
                 "name": "Sonic Rush Adventure",
                 "image": "Sonic-Rush-Adventure.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [1, 13, 7],
                 "size": "39 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/xiTBOWwx" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "cs_txUUF",
                 "name": "Spider-Man 3",
                 "image": "Spider-Man-3.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [2, 7, 12],
                 "size": "37 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/qMbyw" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "NJ0qEgvt",
                 "name": "Super Princess Peach",
                 "image": "Super-Princess-Peach.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [1, 32],
                 "size": "13 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/hvyB7lsZj" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "O200Cjjp",
                 "name": "Tetris DS",
                 "image": "Tetris-DS.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [25],
                 "size": "9 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/MTUz3" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "tguWk44_",
                 "name": "The Legend of Zelda: Phantom Hourglass",
                 "image": "The Legend-of-Zelda:Phantom-Hourglass.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [7, 16],
                 "size": "50 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/3QscDSYx" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "4YT84T3N",
                 "name": "The Legend of Zelda: Spirit Tracks",
                 "image": "The-Legend-of-Zelda:Spirit-Tracks.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [7, 16],
                 "size": "40 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/3EE5GSBPx0pV" }],
                 "popular": 0,
                 "emulatorId": 4
-            },{
+            },
+            {
                 "id": "jhlfqTxY",
                 "name": "Transformers: Autobots",
                 "image": "Transformers:Autobots.jpg",
                 "format": ["nds"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [2, 7, 12],
                 "size": "49 mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
