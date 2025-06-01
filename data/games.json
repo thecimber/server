@@ -5343,288 +5343,312 @@
                 "emulatorId": 8
             },{
                 "id": "yaGIfMZ-",
-                "name": "Mario Golf Super Rush ",
+                "name": "Mario Golf Super Rush",
                 "image": "Mario Golf Super Rush.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 19],
                 "size": "1.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1LIm2n1Acu8N2Br3toYN0qg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1LIm2n1Acu8N2Br3toYN0qg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "_RZIq1io",
                 "name": "Mario Kart 8 Deluxe 3.0.5",
                 "image": "Mario Kart 8 Deluxe.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [13, 42, 25],
                 "size": "14 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1eV43tn69yzB_tK0PKIOgTg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1eV43tn69yzB_tK0PKIOgTg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "yTR1nj-V",
-                "name": "Mario Party Superstars ",
+                "name": "Mario Party Superstars",
                 "image": "Mario Party Superstars .jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [25, 19],
                 "size": "3.1 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1dVl8gEeiFf7y71Y6UIyygg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1dVl8gEeiFf7y71Y6UIyygg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "7xrpJg0P",
-                "name": "Mario Strikers Battle League ",
+                "name": "Mario Strikers Battle League",
                 "image": "Mario Strikers Battle League.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 6],
                 "size": "3.00 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1spXoLu2tsQpMsRmePWluaQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1spXoLu2tsQpMsRmePWluaQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "slh1JqPQ",
-                "name": "Mario Tennis Aces ",
+                "name": "Mario Tennis Aces",
                 "image": "Mario Tennis Aces.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 19],
                 "size": "2.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1A1io-x1H1C1B3XEyu5cM6g" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1A1io-x1H1C1B3XEyu5cM6g" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "IRENdK_4",
-                "name": "Mario vs. Donkey Kong v1.0.0 ",
+                "name": "Mario vs. Donkey Kong v1.0.0",
                 "image": "Mario vs. Donkey Kong v1.0.0 .jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 32],
                 "size": "1.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1zWO29eeluF4FYGyjvo6nYw" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1zWO29eeluF4FYGyjvo6nYw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "39Bo5fRt",
-                "name": "Metro Light Redux ",
+                "name": "Metro Light Redux",
                 "image": "Metro Light Redux.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 11, 14],
                 "size": "8.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1U9jWSLIM-0BJaXb_p6Ys0g" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1U9jWSLIM-0BJaXb_p6Ys0g" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "uU7SBDV6",
                 "name": "Metro Redux 2033",
                 "image": "Metro Redux 2033.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 11, 14],
                 "size": "6.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1XR7VBWWrJQhyCl1raFKaLQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1XR7VBWWrJQhyCl1raFKaLQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "UGea305V",
-                "name": "Metroid Dread ",
+                "name": "Metroid Dread",
                 "image": "Metroid Dread.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 7, 38],
                 "size": "4.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/11FbiYV6sUbzCABk30boCOg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/11FbiYV6sUbzCABk30boCOg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "C-Qkt2_b",
-                "name": "Metroid Prime Remastered ",
+                "name": "Metroid Prime Remastered",
                 "image": "Metroid Prime Remastered.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 7, 11],
                 "size": "7.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1ctA79PiMIovlakvbxo_Png" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1ctA79PiMIovlakvbxo_Png" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "lBBRaAo8",
-                "name": "Minecraft  v1.21.60",
-                "image": "Minecraft  v1.21.60.jpeg",
+                "name": "Minecraft v1.21.60",
+                "image": "Minecraft v1.21.60.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [12, 39, 41],
                 "size": "1.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1PqWqcwYazdqJIvsPzNwZnA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1PqWqcwYazdqJIvsPzNwZnA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "fTQ0tNZ1",
                 "name": "MONOPOLY Madness",
                 "image": "MONOPOLY Madness.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [25, 19],
                 "size": "4.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1w1xji4QydcniuvSXKshz2w" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1w1xji4QydcniuvSXKshz2w" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "NlL5QfPS",
                 "name": "Mortal Kombat 1",
                 "image": "Mortal Kombat 1.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 24],
                 "size": "51.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1qPSqKrCM7zi2aDi94pDILA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1qPSqKrCM7zi2aDi94pDILA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "KLgJFJAY",
-                "name": "Mortal Kombat 11 Ultimate ",
+                "name": "Mortal Kombat 11 Ultimate",
                 "image": "Mortal Kombat 11 Ultimate.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 24],
                 "size": "35.01 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/16PNkYv4-Tr6BeeveDN1_lg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/16PNkYv4-Tr6BeeveDN1_lg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "xdHTEBar",
-                "name": "Naruto Shippuden ultimate ninja Storm ",
+                "name": "Naruto Shippuden ultimate ninja Storm",
                 "image": "Naruto Shippuden ultimate ninja Storm.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 22, 24],
                 "size": "4.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Mediafire" , "link": "https://cuty.io/EdVsnLdJdV" }],
+                    { "type": "Mediafire", "link": "https://cuty.io/EdVsnLdJdV" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "OveoK8c2",
                 "name": "Naruto Shippuden ultimate ninja Storm 2",
                 "image": "Naruto Shippuden ultimate ninja Storm 2.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["5.0 Gb"],
-                "genre": [1],
+                "genre": [10, 22, 24],
                 "size": "0",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1n_Es4UThzOd6H4yghbLnug" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1n_Es4UThzOd6H4yghbLnug" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "dLxUn-Zf",
                 "name": "Naruto Ultimate Ninja storm 3",
                 "image": "Naruto Ultimate Ninja storm 3.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 22, 24],
                 "size": "7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/15AH3BMpUhEW7OTJPwUcdOQ" },{ "type" : "Actualizacion" , "link": "https://cuty.io/2836U3Ml" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/15AH3BMpUhEW7OTJPwUcdOQ" },
+                    { "type": "Actualizacion", "link": "https://cuty.io/2836U3Ml" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "AFSR-rFH",
                 "name": "Naruto Ultimate Ninja Storm 4",
                 "image": "Naruto Ultimate Ninja Storm 4.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 22, 24],
                 "size": "14 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1pxbqldEweYdtAVucTtU4yg" },{ "type" : "Actualizacion" , "link": "https://cuty.io/D4i7AkhOK" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1pxbqldEweYdtAVucTtU4yg" },
+                    { "type": "Actualizacion", "link": "https://cuty.io/D4i7AkhOK" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "nYZPicf8",
-                "name": "Naruto x Boruto Ultimate ninja storm Connections ",
+                "name": "Naruto x Boruto Ultimate ninja storm Connections",
                 "image": "Naruto x Boruto Ultimate ninja storm Connections.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 22, 24],
                 "size": "17 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/13j8rVFkxArljWw48Lg_njQ" },{ "type" : "Actualizacion" , "link": "https://cuty.io/3gsie8Z4kbiD" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/13j8rVFkxArljWw48Lg_njQ" },
+                    { "type": "Actualizacion", "link": "https://cuty.io/3gsie8Z4kbiD" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "_Oibue1K",
-                "name": "Nekopara vol.1 ",
+                "name": "Nekopara vol.1",
                 "image": "gikAoXMT_K.jpg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [23, 22],
                 "size": "2.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1thgvJ95Kh_zqo4iejArpzA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1thgvJ95Kh_zqo4iejArpzA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "JD29BF45",
                 "name": "Nekopara Volumen 2",
                 "image": "Nekopara Volumen 2.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [23, 22],
                 "size": "2.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1vaLkVUTE5e7hFWpFcNLTtw" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1vaLkVUTE5e7hFWpFcNLTtw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "GSIyKLKd",
                 "name": "Nekopara Volumen 3",
                 "image": "Nekopara Volumen 3.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [23, 22],
                 "size": "2.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1snLjyWJtSgIug_pqPL2-Gg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1snLjyWJtSgIug_pqPL2-Gg" }],
                 "popular": 0,
                 "emulatorId": 8
             },{
