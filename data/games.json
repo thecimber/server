@@ -667,189 +667,203 @@
                 "image": "June-7-2011.jpg",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [2, 7, 12, 15],
                 "size": "13,93 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1yXu3DPi6qAvc48Z4GdJc-w" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "488742",
                 "name": "J-STARS Victory Vs+",
                 "image": "J-Stars-Victory-VS-ps3.jpg",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [10,22,24,18],
+                "genre": [10, 22, 24, 18],
                 "size": "3,46 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/17sIzn5CXAISIivOSkvsq2Q" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "317978",
-                "name": "Jojo’s Bizarre Adventure: All-Star Battle",
+                "name": "Jojo's Bizarre Adventure: All-Star Battle",
                 "image": "Jojos-Bizarre-Adventure-All-Star-Battle.jpg",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [1,10,18,24,22],
+                "genre": [10, 18, 24, 22],
                 "size": "2,66 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1NK8_FaTOkpUoGOrp7WbAAw" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "805215",
                 "name": "Little big planet 2",
                 "image": "littlebigplanet-2-ps3.webp",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [1,7],
+                "genre": [1, 7, 39],
                 "size": "18,39 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1CwJrD0RudfOV_KdZHj6mOg" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "IL3hdXEw",
                 "name": "Little big planet 3",
                 "image": "Little-big-planet-3-(Europe).jpg",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [1,7],
+                "genre": [1, 7, 39],
                 "size": "7.8 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/19edz3PsybbksyWEzksi5ng" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "HPXpIZVS",
                 "name": "Lollipop Chainsaw",
                 "image": "Lollipop Chainsaw.jpg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [2,14],
+                "genre": [2, 10, 27, 20],
                 "size": "4.91 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1IFfEvKT062eRcRHGVFpYYQ" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "656781",
                 "name": "Mafia 2",
                 "image": "24-August-2010.jpg",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [2,3,29],
+                "genre": [2, 3, 29, 12],
                 "size": "7,24 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Th7ZnZNXSrNrhl-ke4s8Ow" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "826585",
                 "name": "Marvel vs Capcom fate of two worlds 3",
                 "image": "Fate-of-Two-Worlds-ps3.webp",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [24,1],
+                "genre": [24, 10],
                 "size": "3,02",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Sr2kM8v08Q8QHItE_dMvWg" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "115205",
                 "name": "Max payne 3",
                 "image": "max-payne-3-ps3.jpg",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [7,11,29],
+                "genre": [2, 11, 29, 35],
                 "size": "13,8 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1JeSxrkhZkXOJQ30tzskphw" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "546819",
                 "name": "Midnight Club: Los Angeles",
                 "image": "midnight-club-los-angeles-ps3.webp",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [13,12],
+                "genre": [13, 12, 42],
                 "size": "4 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Z-nWGaeSWoeHEVS3HGyJ0A" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "576867",
                 "name": "Minecraft PlayStation 3 Edition",
                 "image": "Minecraft-PlayStation-3-Edition.webp",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [39,19,9],
+                "genre": [39, 19, 9],
                 "size": "238mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/15Ru-qoPs8sTZebGOux0E6Q" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "168633",
                 "name": "MLB 16: The Show",
                 "image": "mlb-the-show-16-ps3.jpg",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [4,19],
+                "genre": [4, 19],
                 "size": "17,93 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1FaqNLPBJIcLTjDEjsnfa4A" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "765813",
                 "name": "Mortal Kombat",
                 "image": "mortal-kombat-x-ps3.jpg",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [24,10],
+                "genre": [24, 10],
                 "size": "9,80 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1GR2-VLI2bNLb3AU_owY6GA" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "937293",
                 "name": "Mortal Kombat 2011",
                 "image": "Mortal-Kombat-2011-ps3.jpg",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [24,10],
+                "genre": [24, 10],
                 "size": "8,77 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1i2UqbUtep8J1h1LjJlob_Q" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "904005",
                 "name": "Mortal Kombat vs DC universe",
                 "image": "mortal-kombat-vs-dc-universe-ps3.webp",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [24,10],
+                "genre": [24, 10],
                 "size": "5,59",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
@@ -1655,319 +1669,343 @@
                 "image": "WRC-5-ps3.jpg",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [13, 42],
                 "size": "4,49 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1IGao5cMsY5V-QMBbhzaiIg" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "gz0O2KEt",
                 "name": "Wwe 2012",
                 "image": "Wwe 2012.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 10, 24],
                 "size": "7.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1fy78jqB3FyKijl7c_D7N3A" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "B7r66HHf",
                 "name": "Wwe 2013",
                 "image": "Wwe 2013.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 10, 24],
                 "size": "13.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Kq4ImUfH1qfNDHXN6RLNAA" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "5JLPys_l",
                 "name": "Wwe 2016",
                 "image": "Wwe 2016.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 10, 24],
                 "size": "16.01 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1mnL4I5Vx6aoWGNNYGcz7Yg" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "843638",
                 "name": "Wwe 2k14",
                 "image": "wwe-2k14-ps3.jpg",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [4, 10, 24],
                 "size": "13,04 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/19Tn185XfyiGyFZZ9LmkgfQ" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "edjXy0s_",
                 "name": "Wwe 2k15",
                 "image": "Wwe 2k15.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 10, 24],
                 "size": "14.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1qCzbPuPNXVPl9DAJ5h4BEw" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "0CpspLC8",
                 "name": "Wwe 2k17",
                 "image": "Wwe 2k17.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 10, 24],
                 "size": "9.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1G6vj6VX-Kv2kM8YePxAUJw" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "gmJbVM-y",
                 "name": "Wwe All Stars",
                 "image": "Wwe All Stars.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 10, 24],
                 "size": "7.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1TfYtXrajY7AeJhL4_yITQQ" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "IxXdghhf",
                 "name": "WWE Legends of WrestleMania",
                 "image": "WWE Legends of WrestleMania.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 10, 24],
                 "size": "15.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1B3ZlsptFlnzSxZhCWDxWvw" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "678756",
                 "name": "Wwe SmackDown vs Raw",
                 "image": "wwe-smackdown-vs-raw-2011-ps3.jpg",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [4, 10, 24],
                 "size": "4,81 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1OqlkV3kBIHYuu2vIUQDlZw" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "oVqsLfwa",
                 "name": "Wwe SmackDown vs Raw 2008",
                 "image": "Wwe SmackDown vs Raw 2008.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 10, 24],
                 "size": "7.1 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1VPVylxCcJ-9CDwsqfuKrqw" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "Sg8cTUHo",
                 "name": "Wwe SmackDown vs Raw 2009",
                 "image": "Wwe SmackDown vs Raw 2009 Link.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 10, 24],
                 "size": "12.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1R4LEL7kGLaCACohZ7mFkVA" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "Vxp1zhgR",
                 "name": "Wwe SmackDown vs Raw 2010",
                 "image": "Wwe SmackDown vs Raw 2010.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 10, 24],
                 "size": "6.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1OuLNc_vC18lMw0E6Ukmz4Q" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "59749",
                 "name": "www 2k17",
                 "image": "wwe-2k17-ps3.jpg",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [4, 10, 24],
                 "size": "8,13 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1mGZk--WEUqjJpzs5GAW-FA" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "966554",
                 "name": "Zen pinball",
                 "image": "Zen-Pinball-2.webp",
                 "format": ["ISO/PKG"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [25, 19],
                 "size": "388,36 MB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1GWk55EpVtLIocQK6djbIYw" }],
                 "popular": 0,
                 "emulatorId": 1
-            },{
+            },
+            {
                 "id": "vlHB-X0u",
-                "name": "2010 FIFA World Cup South Africa ",
+                "name": "2010 FIFA World Cup South Africa",
                 "image": "2010 FIFA World Cup South Africa.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 6],
                 "size": "859 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1v0ByhwB5-gZxXzhQMFnNsg" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "A41iI9ad",
                 "name": "Assassin's Creed Bloodlines",
                 "image": "Assassins-Creed-Bloodlines.jpg",
                 "format": ["ISO"],
                 "language": ["Español","Inglés"],
-                "genre": [1],
+                "genre": [2, 7, 8, 9],
                 "size": "554.1 MB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/16EOcwETGDj-fV5WC1reV2Q" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "iqB6q8ko",
                 "name": "Crash of the Titans",
                 "image": "Crash of the Titans.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 7, 10],
                 "size": "819 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1jj4oJ-1WgfRU0NyEyxljbQ" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "Sf2teo6A",
                 "name": "Crash Tag Team Racing",
                 "image": "Crash Tag Team Racing.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [13, 39, 10],
                 "size": "959 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/18-pEtOwpJn5EqfwTrybpxA" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "XJlZMJwt",
                 "name": "Dragon ball z Shin Budokai",
                 "image": "Dragon ball z Shin Budokai.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 24, 22],
                 "size": "500 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/10fiu5Tl5zinwskkXU9GY0A" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "FK0hh7Hr",
                 "name": "Dragon Ball z Shin Budokai 2",
                 "image": "Dragon Ball z Shin Budokai 2.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 24, 22],
                 "size": "540 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/11eQh6yYKtEcFBosiBUsamQ" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "5j9_JgO-",
                 "name": "Dragon Ball Z Tenkaichi Tag team",
                 "image": "Dragon Ball Z Tenkaichi Tag team.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 24, 22],
                 "size": "1.09 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1jHb_vRSPFgilYsBCvm0hgA" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "MKR58pKB",
                 "name": "FIFA 06",
                 "image": "FIFA 06.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 6],
                 "size": "644 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1zs4j05JiYaxUiTIgAeIlvA" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "ew__Qvkl",
                 "name": "FIFA 07",
                 "image": "FIFA 07.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 6],
                 "size": "838 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1GsZQmd5xvcyaWTE0cHOksQ" }],
                 "popular": 0,
                 "emulatorId": 3
-            },{
+            },
+            {
                 "id": "48eMVtVD",
                 "name": "FIFA 08",
                 "image": "FIFA 08.jpeg",
                 "format": ["ISO"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 6],
                 "size": "848 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
