@@ -4117,232 +4117,249 @@
                 "image": "Carrion Mobile.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [14, 20, 31],
                 "size": "166 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1jfotJdkjNksZXAJMSYko1g" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1jfotJdkjNksZXAJMSYko1g" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "dkVSYFub",
                 "name": "Cuphead v1.60",
                 "image": "Cuphead v1.50.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 32, 36],
                 "size": "1,7 Gb [8,1 Mb]",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1ISLbV7CeMdlsGe_kcrkGNg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1ISLbV7CeMdlsGe_kcrkGNg" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "5bDFQ_i6",
                 "name": "DREDGE v1.5.13",
                 "image": "DREDGE .jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [14, 21, 34],
                 "size": "649 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1NG93hYMu-JPGCkTRBBL7aA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1NG93hYMu-JPGCkTRBBL7aA" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "jQouugKB",
                 "name": "Elemental Dungeon: Roguelike APK v2.0.1",
                 "image": "ODUpCesnc7.jpg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [16, 41],
                 "size": "95 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1jAtmbtuyl2P35tgDEuo1Gw" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1jAtmbtuyl2P35tgDEuo1Gw" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "P85PNZuh",
                 "name": "Five Nights At Freddy's 2 v2.0.6",
                 "image": "Five Nights At Freddys 2 v2.0.6.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [14, 20, 31],
                 "size": "115 Mb [8,1 Mb]",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1TffdCq8LXqgudkcHkGhCWQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1TffdCq8LXqgudkcHkGhCWQ" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "zOuiR3eo",
                 "name": "Five Nights At Freddy's 3 v2.0.3",
                 "image": "Five Nights At Freddys 3 v2.0.3.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [14, 20, 31],
                 "size": "105 Mb [8,1 Mb]",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1xnQRmNdB4eYbe8qiejFXrw" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1xnQRmNdB4eYbe8qiejFXrw" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "gI2Bc7IZ",
                 "name": "Five Nights At Freddy's 4 v2.0.3",
                 "image": "Five Nights At Freddys 4 v2.0.3.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [14, 20, 31],
                 "size": "55,6 Mb [8,1 Mb]",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1rSrEp9k-byh01bzHC3nDtQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1rSrEp9k-byh01bzHC3nDtQ" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "_Sw8suwF",
                 "name": "Five Nights At Freddy's v2.0.6",
                 "image": "Five Nights At Freddys v2.0.6.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [14, 20, 31],
                 "size": "154 Mb [8.1 Mb]",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1jAis7orroWZgZKaIWsy2Vw" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1jAis7orroWZgZKaIWsy2Vw" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "bwUQysgR",
                 "name": "Five Nights At Freddy's: sister location v2.0.4",
                 "image": "Five Nights At Freddy's: sister location v2.0.4.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [14, 20, 31],
                 "size": "296MB [8,1MB]",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1x0lS_9_VY8SI9ACyUxyFpw" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1x0lS_9_VY8SI9ACyUxyFpw" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "gY2_RF-T",
                 "name": "Hitman Blood Money reprisal",
                 "image": "Hitman Blood Money reprisal.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 8, 30],
                 "size": "686 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1g0jVbEc3BZdJJ6flUpXYbg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1g0jVbEc3BZdJJ6flUpXYbg" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "yduy8Hya",
                 "name": "Magical Drop IV v1.0",
                 "image": "Magical Drop IV v1.0.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [25, 28],
                 "size": "224 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1yhpiLBPyuDOEAbG_8yY0dA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1yhpiLBPyuDOEAbG_8yY0dA" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "BD7Q1iG0",
                 "name": "Minecraft Version: v1.21.80.25 Beta",
                 "image": "Minecraft Version: v1.21.70.24 Beta.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [12, 39, 41],
                 "size": "819 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1TMIGdKMXCibDJq0lYakv2Q" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1TMIGdKMXCibDJq0lYakv2Q" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "lBoqSTB9",
                 "name": "Naruto Ultimate Ninja Storm",
                 "image": "Naruto Ultimate Ninja Storm.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [10, 22, 24],
                 "size": "3.21 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1YhxhrceRKp4yHzQFPjEYvQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1YhxhrceRKp4yHzQFPjEYvQ" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "QetUEruQ",
                 "name": "Prince of Persia: Lost Crown",
                 "image": "Prince of Persia: Lost Crown.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 7, 38],
                 "size": "2.22 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1ad0zUwic1cW-aYwTcyym-Q" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1ad0zUwic1cW-aYwTcyym-Q" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "HY0P0sGh",
                 "name": "R.E.P.O v1.0.9 [REPO]",
                 "image": "repo.jpeg",
                 "format": ["APK"],
                 "language": ["Español"],
-                "genre": [1],
+                "genre": [28, 40],
                 "size": "8.01 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1EktatH2Fg0sLGR93H3M0SA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1EktatH2Fg0sLGR93H3M0SA" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "qtO25Xtc",
-                "name": "Resident Evil 4 Mobile Edition ",
+                "name": "Resident Evil 4 Mobile Edition",
                 "image": "Resident Evil 4 Mobile Edition.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 14, 30],
                 "size": "200 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/19nbpbnv-Rz8PxQzo-Z09tg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/19nbpbnv-Rz8PxQzo-Z09tg" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "PTp-CLyH",
                 "name": "Sonic 3 A.I.R [AIR]",
                 "image": "Sonic 3 A.I.R [AIR].jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 32, 33],
                 "size": "170 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1fDMUT0IB5h0ffbwSwOmh9w" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1fDMUT0IB5h0ffbwSwOmh9w" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "52VWjqNJ",
                 "name": "Sonic GT",
                 "image": "Sonic GT.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [13, 42],
                 "size": "1.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/12vmmDS35EWdR1Cp1ARpx7w" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/12vmmDS35EWdR1Cp1ARpx7w" }],
                 "popular": 0,
                 "emulatorId": 10
             },{
