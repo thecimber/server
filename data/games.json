@@ -4368,453 +4368,487 @@
                 "image": "Sonic Mania Plus v5.2.2.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 32, 33],
                 "size": "236 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/17XtWn21QmJW8MLc6L8J7XQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/17XtWn21QmJW8MLc6L8J7XQ" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "3v-EJtv1",
                 "name": "Sonic Maps",
                 "image": "Sonic Maps.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 32],
                 "size": "100 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Fdb1pSVm3hroyBty54QEDg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1Fdb1pSVm3hroyBty54QEDg" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "ta63KeFg",
                 "name": "Sonic Momentum",
                 "image": "Sonic Momentum.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 32],
                 "size": "54 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1PpofipxdomEC3OZL1LbZEQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1PpofipxdomEC3OZL1LbZEQ" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "MNzDReLC",
                 "name": "Sonic Prime Dash v1.16.0",
                 "image": "Sonic Prime Dash v1.12.0.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 13],
                 "size": "348 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1E8wLfQQtsqbkFuQhD5_dxA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1E8wLfQQtsqbkFuQhD5_dxA" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "U9qr0nRN",
                 "name": "Sonic Runners Adventure v1.0.3",
                 "image": "Sonic Runners Adventure v1.0.3.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 13],
                 "size": "34 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1anLz1bLOZs-UECDV4noUMQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1anLz1bLOZs-UECDV4noUMQ" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "o1Yj-wWf",
                 "name": "Sonic SMS Remake 2",
                 "image": "Sonic SMS Remake 2.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 32],
                 "size": "57 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/15O5iw5dDbve24tG0NrzcGQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/15O5iw5dDbve24tG0NrzcGQ" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "JgKaio8Z",
                 "name": "Sonic The Hedgehog 2 Classic v2.0.2",
                 "image": "Sonic The Hedgehog 2 Classic v2.0.2.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 32, 33],
                 "size": "103 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1SpCuRfuqf2sJ1u9PF-Snvw" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1SpCuRfuqf2sJ1u9PF-Snvw" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "uWHDzvqC",
                 "name": "Sonic The Hedgehog Absolute 2",
                 "image": "Sonic The Hedgehog Absolute 2.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 32],
                 "size": "269 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1ePsK4o4fbv6oh3VoE82h_w" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1ePsK4o4fbv6oh3VoE82h_w" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "26MSIW9q",
                 "name": "Sonic The Hedgehog Classic v4.0.2",
                 "image": "Sonic The Hedgehog Classic v4.0.2.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 32, 33],
                 "size": "95 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1gxCmeL5_K03pc5QzVZAetQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1gxCmeL5_K03pc5QzVZAetQ" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "cm0qy3hD",
                 "name": "Sonic The Hedgehog Triple Trouble 16-BIT",
                 "image": "Sonic The Hedgehog Triple Trouble 16-BIT.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 32],
                 "size": "113 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/11Mw3E_ln38JLvlYKAvoSKA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/11Mw3E_ln38JLvlYKAvoSKA" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "ZSZ0YBm7",
                 "name": "Sonic Unleashed",
                 "image": "Sonic Unleashed.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 13],
                 "size": "598 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/11X56XfbBTMb8YKXoQgyrHw" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/11X56XfbBTMb8YKXoQgyrHw" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "xf1L52IQ",
                 "name": "SpongeBob Cosmic Shake v1.1.2",
                 "image": "SpongeBob Cosmic Shake.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 3],
                 "size": "5.1 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/17hw8Xd5jz8vvHBYtO3Cvyw" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/17hw8Xd5jz8vvHBYtO3Cvyw" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "2twv-x_Y",
-                "name": "Tmnt Shredder’s Revenge Version: v1.2.13",
-                "image": "Shredder’s Revenge Version: v1.2.4.jpeg",
+                "name": "Tmnt Shredder's Revenge Version: v1.2.13",
+                "image": "Shredder's Revenge Version: v1.2.4.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 10, 43],
                 "size": "2.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Oboe64nJX1VRIzWiVAXRFA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1Oboe64nJX1VRIzWiVAXRFA" }],
                 "popular": 0,
                 "emulatorId": 10
-            },{
+            },
+            {
                 "id": "ZR4_45Pf",
                 "name": "13 Sentinels: Aegis Rim",
                 "image": "13 Sentinels: Aegis Rim.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [3, 23, 28],
                 "size": "4.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1sTd5D64J6t_Q2WvCC8XhPA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1sTd5D64J6t_Q2WvCC8XhPA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "-1Q7_7iU",
                 "name": "9 R.I.P [9 RIP]",
                 "image": "9 R.I.P [9 RIP].jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [14, 20, 31],
                 "size": "5.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/11Xg9BpW3xRd6vF95P0zxqQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/11Xg9BpW3xRd6vF95P0zxqQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "qI9spmqm",
                 "name": "A Little to the Left",
                 "image": "A Little to the Left.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [19, 25],
                 "size": "1.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1BhHarcDygNL2LX-1L5uNsQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1BhHarcDygNL2LX-1L5uNsQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "SLExjf-J",
                 "name": "AK-xolotl",
                 "image": "AK-xolotl.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 10],
                 "size": "790 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1eMmXBzt3WmSgim709jh8VQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1eMmXBzt3WmSgim709jh8VQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "zFPBeSun",
                 "name": "Alien: Isolation",
                 "image": "Alien: Isolation.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [14, 20, 31],
                 "size": "19 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1DQR89RpRM0IMBkuQesvIYA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1DQR89RpRM0IMBkuQesvIYA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "4CagF1mx",
                 "name": "Assassin's Creed 3 remastered (Europe)",
                 "image": "Assassin's Creed 3 remastered (Europe).jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 7, 12],
                 "size": "21.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1pfuU0XnjiCT0vxNaUC-fvQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1pfuU0XnjiCT0vxNaUC-fvQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "BRCOOZb1",
                 "name": "Assassin's Creed The ezio collection (Europe)",
                 "image": "Assassin's Creed The ezio collection (Europe).jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 7, 12],
                 "size": "37 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1eonobpREldPngI98e91mbw" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1eonobpREldPngI98e91mbw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "TzilDgho",
                 "name": "Assassin's Creed The Rebel Collection (Europe)",
                 "image": "Assassin's Creed The Rebel Collection (Europe).jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 7, 12],
                 "size": "24.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1jg0VCImBxeF8b-XVin9E-g" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1jg0VCImBxeF8b-XVin9E-g" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "TXzjP7WH",
                 "name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
                 "image": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [16, 41],
                 "size": "4.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/11oYoJy7LSDApi42TFK7R_g" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/11oYoJy7LSDApi42TFK7R_g" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "DOYR9CVu",
                 "name": "Bayonetta 1",
                 "image": "Bayonetta 1.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 10, 27],
                 "size": "9.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1a-4pj3BdngRbvuyCP4BSdw" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1a-4pj3BdngRbvuyCP4BSdw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "MWftFCAy",
                 "name": "Bayonetta 2",
                 "image": "Bayonetta 2.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 10, 27],
                 "size": "1.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1wegm1vKX4dnSLrjGnm-9lQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1wegm1vKX4dnSLrjGnm-9lQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "aQwixjAq",
                 "name": "Bayonetta 3",
                 "image": "Bayonetta 3.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 10, 27],
                 "size": "17.1 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Ol78qo0APbqzDUw6eX-SdQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1Ol78qo0APbqzDUw6eX-SdQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "QWzTYNJa",
                 "name": "Beyond the Ice Palace 2",
                 "image": "Beyond the Ice Palace 2.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 32],
                 "size": "750 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1xt-rldGjejM6zYWflTAzqg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1xt-rldGjejM6zYWflTAzqg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "ooLu_6Ek",
                 "name": "Blasphemous",
                 "image": "Blasphemous.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 16, 37],
                 "size": "7.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/176RXYlSA3PveA-lrgGFiKQ" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/176RXYlSA3PveA-lrgGFiKQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "K7rTrpjS",
                 "name": "Blasphemous 2",
                 "image": "Blasphemous 2.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 16, 37],
                 "size": "2.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1LOAgdE-eI0Lio7MaWR4Idg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1LOAgdE-eI0Lio7MaWR4Idg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "gH1lqai9",
                 "name": "Capes",
                 "image": "Capes.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [2, 10, 28],
                 "size": "2.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1DxOUzVmMn6Wipmov9FcCVw" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1DxOUzVmMn6Wipmov9FcCVw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "u785cl6d",
                 "name": "Captain Tsubasa Rise of New Champions",
                 "image": "Captain Tsubasa Rise of New Champions.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [4, 6],
                 "size": "16.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/17q-0KrqPEMOYPRT83ac3pw" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/17q-0KrqPEMOYPRT83ac3pw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "nSRTzCWc",
                 "name": "Caravan SandWitch",
                 "image": "Caravan SandWitch.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [3, 12],
                 "size": "1.2 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1u82Yts7OfZ3OOgyvgQndXg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1u82Yts7OfZ3OOgyvgQndXg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "jtCSZnPE",
                 "name": "CRYPT CUSTODIAN",
                 "image": "CRYPT CUSTODIAN.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 16],
                 "size": "568 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1UUiNLdfe-hWkDF9BDXUnRA" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1UUiNLdfe-hWkDF9BDXUnRA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "thbY3hxy",
                 "name": "Cuphead v1.3.7",
                 "image": "Cuphead.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [1, 32, 36],
                 "size": "5.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1LbWfpe5Nhj2u8lKKYgPICg" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/1LbWfpe5Nhj2u8lKKYgPICg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "8zXfr0UK",
-                "name": "Dark Souls Remastered ",
+                "name": "Dark Souls Remastered",
                 "image": "Dark Souls Remastered.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [16, 36, 37],
                 "size": "4.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/19b2O46-ez_YpLDRbJCfm7A" }],
+                    { "type": "Terabox", "link": "https://1024terabox.com/s/19b2O46-ez_YpLDRbJCfm7A" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "0TCOW1wh",
                 "name": "Darkwood",
                 "image": "ed33de9b-033f-484d-9019-fefda2bd712a.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [1],
+                "genre": [14, 20, 21],
                 "size": "undefined",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Mediafire" , "link": "https://cuty.io/iGf6WX34xux" }],
+                    { "type": "Mediafire", "link": "https://cuty.io/iGf6WX34xux" }],
                 "popular": 0,
                 "emulatorId": 8
             },{
