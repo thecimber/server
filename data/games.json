@@ -9826,4 +9826,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/18AyxWknf4jlqlF4PGOgAmA" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "gAIEsehj",
+                "name": "Dark Souls: Remastered PC Full Español",
+                "image": "QqzTmHguya.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [10,16,34,37],
+                "size": "7.2 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/19mPzR7dCpn9viJ81Gjqgzg" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
