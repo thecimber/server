@@ -9813,4 +9813,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1JLcNmjR9mG50l7Om30-qKw" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "ooOzkmv8",
+                "name": "Dark Souls: Prepare To Die Edition PC",
+                "image": "a_MnlN5lWC.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [10,16,37,34],
+                "size": "3.8 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/18AyxWknf4jlqlF4PGOgAmA" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
