@@ -9870,12 +9870,12 @@
                 "name": "Teenage Mutant Ninja Turtles Splintered Fate PC Full Español",
                 "image": "OLsLY3n7bC.jpg",
                 "format": ["PREINSTALADO"],
-                "language": [],
-                "genre": [],
-                "size": "undefined",
+                "language": ["Multi-Idioma"],
+                "genre": [2,10,17],
+                "size": "1.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    ],
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/14_HFQLvqCkkIhL_TdCMPmw" }],
                 "popular": 0,
                 "emulatorId": 2
             }]
