@@ -4069,7 +4069,7 @@
                 "emulatorId": 10
             },{
                 "id": "BD7Q1iG0",
-                "name": "Minecraft Version: v1.21.100.20 Beta",
+                "name": "Minecraft Version: v1.21.80.25 Beta",
                 "image": "Minecraft Version: v1.21.70.24 Beta.jpeg",
                 "format": ["APK"],
                 "language": ["Multi-Idioma"],
@@ -9944,16 +9944,16 @@
                 "popular": 0,
                 "emulatorId": 2
             },{
-                "id": "HIFpmlww",
-                "name": "Xenoblade Chronicles Definitive Edition ",
-                "image": "1_m9_VAeYn.jpg",
+                "id": "Zwl3sS0D",
+                "name": "Xenoblade Chronicles 2 ",
+                "image": "h06bc6qbB-.jpg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [16],
-                "size": "14.8 Gb",
+                "genre": [9,12,16,10],
+                "size": "16 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
-                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1zleYXls8vBUca_As1qe0vA" }],
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/14YcLy74iqflUBjuB6HDQfw" }],
                 "popular": 0,
                 "emulatorId": 8
             }]
