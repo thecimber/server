@@ -9943,4 +9943,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1J41vT8obvZNQamXL-ON36g" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "HIFpmlww",
+                "name": "Xenoblade Chronicles Definitive Edition ",
+                "image": "1_m9_VAeYn.jpg",
+                "format": ["NSP/XCI"],
+                "language": ["Multi-Idioma"],
+                "genre": [16],
+                "size": "14.8 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1zleYXls8vBUca_As1qe0vA" }],
+                "popular": 0,
+                "emulatorId": 8
             }]
