@@ -10034,4 +10034,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1F2EKAXDec0lHX0cuk95lmA" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "C7uAEnX9",
+                "name": "Far Cry 5 Gold Edition",
+                "image": "ErMEDU32Iq.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,12,11],
+                "size": "82.5 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1O7fX5HIXNsw4Uy-O8Wd2RA" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
