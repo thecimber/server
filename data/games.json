@@ -10021,4 +10021,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1974tbYYvYmUKBqmKa0J32g" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "qJ9_FHO7",
+                "name": "Far Cry 4",
+                "image": "GZ_ofbyeMq.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,11,12],
+                "size": "25 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1F2EKAXDec0lHX0cuk95lmA" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
