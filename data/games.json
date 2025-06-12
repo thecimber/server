@@ -10060,4 +10060,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/170C4UhRS1fFhJVgsS_cn-Q" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "vNFd_y57",
+                "name": "Far Cry New Dawn",
+                "image": "EieEGzfPku.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,12,11],
+                "size": "32.5 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1RKB3GjL8ZYlu5jk4KpCLlg" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
