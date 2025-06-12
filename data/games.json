@@ -10008,4 +10008,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1SiSA_bjG2qFOUupc01Q3Fg" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "N3Ac5bVw",
+                "name": "Far Cry 3",
+                "image": "nA6eBQZeDr.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,11,12],
+                "size": "7.9 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1974tbYYvYmUKBqmKa0J32g" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
