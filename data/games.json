@@ -10047,4 +10047,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1O7fX5HIXNsw4Uy-O8Wd2RA" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "cZjZq6V2",
+                "name": "Far Cry 6 ",
+                "image": "h6FX4Fcm-9.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,12,11],
+                "size": "140 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/170C4UhRS1fFhJVgsS_cn-Q" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
