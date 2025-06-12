@@ -9995,4 +9995,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1WoJxwCNxTR7aCPSKfOU4cw" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "Y_bGuiUo",
+                "name": "Far cry 2",
+                "image": "BWJG-WMpbH.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,11,12,3],
+                "size": "2.5 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1SiSA_bjG2qFOUupc01Q3Fg" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
