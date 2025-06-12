@@ -9969,4 +9969,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1zleYXls8vBUca_As1qe0vA" }],
                 "popular": 0,
                 "emulatorId": 8
+            },{
+                "id": "iHUEyzu5",
+                "name": "Far Cry Primal",
+                "image": "pe3jhFU4Co.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,21,12],
+                "size": "17,8 GB",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/18S-DNRvxMPTiVS5g_TxQVw" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
