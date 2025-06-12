@@ -9982,4 +9982,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/18S-DNRvxMPTiVS5g_TxQVw" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "7fA15HwI",
+                "name": "Far cry",
+                "image": "xa3_bIGinG.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,11,12,21,3],
+                "size": "2.6 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1WoJxwCNxTR7aCPSKfOU4cw" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
