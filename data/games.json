@@ -10086,4 +10086,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Cgvzv12o2yDPc48hArVZBg" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "VCQ4nqFK",
+                "name": "RED DEAD REDEMPTION 2",
+                "image": "8BsCFT5m1R.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,12,17],
+                "size": "122 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1fqlxcaWxIqVmafQw63MvVA" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
