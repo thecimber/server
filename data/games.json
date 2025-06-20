@@ -10268,4 +10268,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1ve9WiiqTcp66Iv9VKGE1IQ" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "T18ZVjv4",
+                "name": "LEGO Batman The Videogame",
+                "image": "XWuJ5jNuRu.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,45,44],
+                "size": "4.1 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Men29Fkh5_xDpUMGDGyNEg" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
