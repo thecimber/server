@@ -10125,4 +10125,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1-Eg_eiJZSrELiVgK0MOgnQ" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "1z3sFaqo",
+                "name": "LEGO MARVEL SUPER HEROES ",
+                "image": "hy-N6ftTEp.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,44,45,7],
+                "size": "5.9 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1sqtn0zHZ2jNV4fEKW4vFMw" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
