@@ -10320,4 +10320,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1u4qIe6C0ANDiryT8xEvqRg" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "Qisn9j2M",
+                "name": "LEGO The Lord Of The Rings",
+                "image": "9B6ypJwO0K.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,12,44],
+                "size": "5.8 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1b7oa8MuOvZ2dYaGbuEXY1Q" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
