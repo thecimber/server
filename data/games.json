@@ -10372,4 +10372,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1hTy-V-F7xqxgEVn393QEgQ" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "-n42v4Im5n",
+                "name": "NINE SOLS",
+                "image": "8CBsgsu43sguyO.jpg",
+                "format": ["NSP/XCI"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,32],
+                "size": "2.3 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1IzzLaSO3z2eW4YdT5QjtvA" }],
+                "popular": 0,
+                "emulatorId": 8
             }]
