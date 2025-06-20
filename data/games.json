@@ -10359,4 +10359,17 @@
                     { "type" : "Repuesto" , "link": "https://1024terabox.com/s/1wlhoIxrZ3qtNwJeo4qTgYw" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "-g4hlIIL",
+                "name": "LEGO MARVEL AVENGERS",
+                "image": "8CB8u30uyO.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,12,44,45],
+                "size": "15.4 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1hTy-V-F7xqxgEVn393QEgQ" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
