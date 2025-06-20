@@ -10151,4 +10151,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1rVuMtjEluVQ-n-wCnWKI0w" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "nm_Vjo5X",
+                "name": "LEGO MARVEL SUPER HEROES 2",
+                "image": "04UygABmaj.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,44,45,12],
+                "size": "24.0 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Ded4xUDOZMhczwFotvovww" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
