@@ -10242,4 +10242,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1V94d5G42gHfDzzbMEmBpAA" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "4F40y8Bd",
+                "name": "LEGO Horizon Adventures ",
+                "image": "gKCqTlOWkm.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [3,44,2],
+                "size": "13.8 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1tcKoN1PquQrG8jB86e06Tg" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
