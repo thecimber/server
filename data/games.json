@@ -10346,4 +10346,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1bJGG8IKoerzE4oWr3_dqYQ" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "k1T0Y9Gj",
+                "name": "LEGO DC SUPER VILLAINS ",
+                "image": "a9QYQ37GLF.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,12,44],
+                "size": "19.5 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Repuesto" , "link": "https://1024terabox.com/s/1wlhoIxrZ3qtNwJeo4qTgYw" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
