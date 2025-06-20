@@ -10307,4 +10307,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/12UWfO6CzM6VxKijhtjGlpA" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "NYf5Q7Ld",
+                "name": "DOOM 2016",
+                "image": "OOvlCqvgKg.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [11,31,2],
+                "size": "65.8 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1u4qIe6C0ANDiryT8xEvqRg" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
