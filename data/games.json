@@ -10333,4 +10333,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1b7oa8MuOvZ2dYaGbuEXY1Q" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "Akl-wFN8",
+                "name": "LEGO The Hobbit ",
+                "image": "eE3VU48QqY.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,12,44],
+                "size": "7.3 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1bJGG8IKoerzE4oWr3_dqYQ" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
