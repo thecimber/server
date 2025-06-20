@@ -10294,4 +10294,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1mOevCsmqm-qhUkCgGKVDtg" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "nwjO7MgN",
+                "name": "DOOM ETERNAL ",
+                "image": "G7eHri7c_B.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,11,31],
+                "size": "90.1 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/12UWfO6CzM6VxKijhtjGlpA" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
