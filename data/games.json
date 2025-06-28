@@ -10502,4 +10502,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1k7jfnG4sPpoHr_fG2tfqfA" }],
                 "popular": 0,
                 "emulatorId": 3
+            },{
+                "id": "uG9aawfB",
+                "name": "BlazBlue Continuum shift",
+                "image": "Sma8jD7eI6.jpg",
+                "format": ["ISO"],
+                "language": ["Español"],
+                "genre": [32,7],
+                "size": "1.3 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1CH5tNC3rBtDWkXELto8e0A" }],
+                "popular": 0,
+                "emulatorId": 3
             }]
