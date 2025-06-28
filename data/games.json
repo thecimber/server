@@ -10515,4 +10515,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1CH5tNC3rBtDWkXELto8e0A" }],
                 "popular": 0,
                 "emulatorId": 3
+            },{
+                "id": "sztm_0Ol",
+                "name": "Bomberman",
+                "image": "AW3zI0Kuod.jpg",
+                "format": ["ISO"],
+                "language": ["Español"],
+                "genre": [2,28],
+                "size": "156 Mb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1hr74C2cDUbk106j81aIzSA" }],
+                "popular": 0,
+                "emulatorId": 3
             }]
