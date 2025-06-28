@@ -10489,4 +10489,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1MfoVwA-xCoXLiibFkHBCgw" }],
                 "popular": 0,
                 "emulatorId": 3
+            },{
+                "id": "19P2Z17Y",
+                "name": "BlazBlue Calamity trigger",
+                "image": "HzoEOjHpqj.jpg",
+                "format": ["ISO"],
+                "language": ["Español"],
+                "genre": [32,7],
+                "size": "936 Mb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1k7jfnG4sPpoHr_fG2tfqfA" }],
+                "popular": 0,
+                "emulatorId": 3
             }]
