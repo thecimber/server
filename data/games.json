@@ -10411,4 +10411,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1PGlAA7J0OtN-cR3gj5UzyQ" }],
                 "popular": 0,
                 "emulatorId": 8
+            },{
+                "id": "RO6o9VId",
+                "name": "Astro Boy The Video Game ",
+                "image": "qHSAHFlhBz.jpg",
+                "format": ["ISO"],
+                "language": ["Español"],
+                "genre": [1,32,45],
+                "size": "1.2 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1fssXxPmIpHxi6B7xyu6qDQ" }],
+                "popular": 0,
+                "emulatorId": 3
             }]
