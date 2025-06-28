@@ -10528,4 +10528,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1hr74C2cDUbk106j81aIzSA" }],
                 "popular": 0,
                 "emulatorId": 3
+            },{
+                "id": "MGVHga6i",
+                "name": "Bomberman Land ",
+                "image": "TfxUzF-wXH.jpg",
+                "format": ["ISO"],
+                "language": ["Español"],
+                "genre": [2,28],
+                "size": "510 Mb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1810wNfDQWIBen-x9cfk7Jg" }],
+                "popular": 0,
+                "emulatorId": 3
             }]
