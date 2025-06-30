@@ -10606,4 +10606,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1q06CJQEfQgqy9BgyDSa10g" }],
                 "popular": 0,
                 "emulatorId": 3
+            },{
+                "id": "5-Mibwea",
+                "name": "Little Big planet [Special Edition]",
+                "image": "tJWspsw8Vg.jpg",
+                "format": ["ISO"],
+                "language": ["Español"],
+                "genre": [1,3,17],
+                "size": "1.3 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    ],
+                "popular": 0,
+                "emulatorId": 3
             }]
