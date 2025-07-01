@@ -10632,4 +10632,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1D8E8ZKqmZBuw0Mz5r17X8A" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "j4y9LPrn",
+                "name": "Mortal Kombat X ",
+                "image": "OcYHveTuPl.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,24],
+                "size": "33.8 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1y3aglj0FrLrqb8nPiTF2IA" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
