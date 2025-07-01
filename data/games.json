@@ -10619,4 +10619,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1m7XKBUaHScCHHbu5plIEPg" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "anmMjLBk",
+                "name": "The Elder Scrolls V: Skyrim Special Edition",
+                "image": "5E0wY-YtzO.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,12,16],
+                "size": "11.2 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1D8E8ZKqmZBuw0Mz5r17X8A" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
