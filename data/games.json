@@ -10671,4 +10671,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1PqW3YAp7eLelIYovdpKhCw" }],
                 "popular": 0,
                 "emulatorId": 5
+            },{
+                "id": "pXazO5lz",
+                "name": "LEGO Jurassic World ",
+                "image": "78iZn_DxkM.jpg",
+                "format": ["WUA"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3,44],
+                "size": "5.9 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1S-IC5k-HkGA7Z7tisG9klw" }],
+                "popular": 0,
+                "emulatorId": 5
             }]
