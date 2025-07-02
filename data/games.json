@@ -6362,476 +6362,512 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/15Akk1uAefOB6SXoPLhbcyw" }],
                 "popular": 0,
                 "emulatorId": 2
-            }
-            ,{
+            },
+            {
                 "id": "Qd_RVyKi",
                 "name": "Ancient Cities v1.0.6.6",
                 "image": "14dWnlPjRj.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 28],
                 "size": "1.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/16Q1P_ZgNQhiRKF_qfqFMmQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "6ETspZhv",
                 "name": "ANNO MUTATIONEM",
                 "image": "ANNO MUTATIONEM.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 16],
                 "size": "8.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1a9-PY1V32M3_ZQbtZRS3FQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "JXGhRd3A",
                 "name": "Another Crab's Treasure v2.0.000",
                 "image": "94y7yDh3Jj.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 7, 16],
                 "size": "2.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1i15ZpsglQnOZZ91mipb5sQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "ogiyC67_",
                 "name": "Assassin's creed Brotherhood",
                 "image": "Assassins-creed-Brotherhood.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 8],
                 "size": "5,2GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1JnNyBw-y_-eLeEtAgMtO9A" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "D8_ktB85",
                 "name": "Assassin's Creed Chronicles China ",
                 "image": "Assassins-Creed-Chronicles-China.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 8, 32],
                 "size": "3.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/180FQHCpXLBD9kSwfLXsRaQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "Wm9Zzj8f",
                 "name": "Assassin's Creed Chronicles India",
                 "image": "Assassins-Creed-Chronicles-India.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 8, 32],
                 "size": "3.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1fFcrIRSAC0dEvmkFAWH6jA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "tuhovOgd",
                 "name": "Assassin's Creed Chronicles Russia",
                 "image": "Assassins-Creed-Chronicles-Russia .jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 8, 32],
                 "size": "5.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Q6GHhwuTac6u1sPh7EFwKQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "qsDPxyJa",
                 "name": "Assassin's Creed Origins",
                 "image": "Assassins-Creed-Origins.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 12],
                 "size": "46.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1rDc45r40UmIrq1jo_XHvBA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "_zJtiFhh",
                 "name": "Assassin's Creed Rogue",
                 "image": "Assassins-Creed-Rogue.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 12],
                 "size": "8.80 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/115TQ9zbCCyoayvGf-buaJw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "w6I6ZLbT",
                 "name": "Assassin's Creed Unity",
                 "image": "Assassins-Creed-Unity.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 12],
                 "size": "32.01 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1BTobX03XktQkFbSC0T7RlA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "j9kTe4rJ",
                 "name": "Back Pack Battles ",
                 "image": "Back Pack Battles.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [28, 40],
                 "size": "246 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1qjMdsOgcLRVONsocObrOvA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "r0XoD7Gu",
                 "name": "Baldi Basics Plus v0.10.1",
                 "image": "SwEQxUgCM7.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [14, 20],
                 "size": "112 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1siSty0jZYU9QRwISGsMi-Q" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "JidwcSBR",
                 "name": "Barony v4.3.1",
                 "image": "LzIAbFEmZR.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 41],
                 "size": "643 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "ttps://1024terabox.com/s/1Dp30oB56RENsCw5k7qOopA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "N3keaVAF",
                 "name": "Batman Arkham City ",
                 "image": "Batman Arkham City.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 45],
                 "size": "16.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/16OUDbYpi9OmpskmNNFkmzQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "wzTqK0gR",
                 "name": "Batman Arkham Knight ",
                 "image": "Batman Arkham Knight .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 45],
                 "size": "52.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1n4AehpO9dJbvB-0RJ_t6xA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "fXpCeuI0",
                 "name": "Batman Arkham Origins ",
                 "image": "Batman Arkham Origins .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 45],
                 "size": "16.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/17Xv2ToUiBORvcNP5fP75Ow" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "P68MNAWw",
                 "name": "Batman The Enemy Within ",
                 "image": "Batman The Enemy Within .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 23],
                 "size": "34.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/16M2Iv0xAE8yNN7tYZsVXag" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "LN0tR8Yd",
                 "name": "Bioshock",
                 "image": "27tlCs70PZ.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 14, 31],
                 "size": "4.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1cdLaOxAVBlM49DFvXQbGNw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "zCHGbCOF",
                 "name": "BioShock The Collection Remastered [1 y 2]",
                 "image": "BioShock The Collection Remastered [1 y 2].jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 14, 31],
                 "size": "25.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1likSpWmpzIA4BVK7MEI4LA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "vg78txVS",
                 "name": "Bioweaver",
                 "image": "Bioweaver.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 14],
                 "size": "511.02 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1q4lmq6nf_OMSZ9hHleJ_AQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "vdM8ULFr",
                 "name": "Bleach Rebirth of souls",
                 "image": "Bleach Rebirth of souls.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [10, 24, 22],
                 "size": "68 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Ms9KV1H6RBHxnjFkPOKWjg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "Twq32qVR",
                 "name": "Blur",
                 "image": "Blur.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [13, 42],
                 "size": "4.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1eJpvRXLrP6belkAAeI4CyQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "K85PEWXg",
                 "name": "Boomerang X",
                 "image": "Boomerang X.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 11],
                 "size": "8,7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1WTeUWfvVdmk2Gap9kzzl4w" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "-BOl37PG",
                 "name": "Brotato",
                 "image": "Brotato.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 36],
                 "size": "228.1 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1QrUi00MGyjI48d3qCAsjAw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "qxQQEPov",
                 "name": "Cafemart Simulator Early",
                 "image": "Cafemart Simulator Early.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 40],
                 "size": "3.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1v4tdPh2fRQyOr8II49kcHQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "taCIdDrF",
                 "name": "Call Of Cthulhu ",
                 "image": "Call Of Cthulhu .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [14, 31],
                 "size": "12.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1wwu374BZO0rSxqGyqMH1hg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "QTTgMXbs",
                 "name": "Call Of Duty Advanced Warfare ",
                 "image": "Call Of Duty Advanced Warfare .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 11],
                 "size": "30.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1G6KLN1CGDkaxV01exOQzkQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "G3wWCgcY",
                 "name": "Call Of Duty Black Ops ",
                 "image": "Call Of Duty Black Ops .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 11],
                 "size": "11.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1odwD9HUudW7mB00r8hTDfw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "KIciMSRh",
                 "name": "Call Of Duty Ghosts ",
                 "image": "Call Of Duty Ghosts .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 11],
                 "size": "30.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1rByx32Us-KQKAp-I8BoB6A" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "ps0RGXbb",
                 "name": "Call Of Duty Modern Warfare ",
                 "image": "Call Of Duty Modern Warfare .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 11],
                 "size": "5.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/10pj7xxgfUfNxZEah9GSQkA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "IWWaYcT3",
                 "name": "Call Of Duty Modern Warfare 2",
                 "image": "Call Of Duty Modern Warfare 2.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 11],
                 "size": "12.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1elBAPOuZByRBTsymrUO42A" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "SPq1xfFl",
                 "name": "Call Of Duty Modern Warfare 3 bunble",
                 "image": "Call Of Duty Modern Warfare 3 bunble.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 11],
                 "size": "14.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1UwqZZ3ycwwKH-mbxwR5X2Q" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "6cAToSLm",
                 "name": "Call Of Duty Modern Warfare Remastered",
                 "image": "Call Of Duty Modern Warfare Remastered.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 11],
                 "size": "55.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1QLJQJ3v5z1-6nPF5-rKC0Q" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "_zB0saOZ",
                 "name": "Card Shark",
                 "image": "Card Shark.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [25, 28],
                 "size": "1.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1H6jVRZl5_scyGEfgSDTxog" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "J7JLzopc",
                 "name": "Cataclismo",
                 "image": "uTwVzRjOBO.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [28, 41],
                 "size": "2.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1boDCmEMZXyVESuy0sEt-yg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "3LEDjD-A",
                 "name": "Chains Of Freedom v1.0.2",
                 "image": "YkhP4QQpia.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 7],
                 "size": "2.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Nu_OTDyDK3l7rXPRRdENIg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            }
+            ,{
                 "id": "-0O3djkU",
                 "name": "Cities Skylines Deluxe Edition ",
                 "image": "Cities Skylines Deluxe Edition.jpeg",
