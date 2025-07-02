@@ -6873,352 +6873,379 @@
                 "image": "Cities Skylines Deluxe Edition.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 40],
                 "size": "9.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1pNdAqKlFg0Zb9FCgubpEUQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "jSlz9PnO",
                 "name": "Crossing Souls",
                 "image": "Crossing Souls.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 7, 32],
                 "size": "920 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1334cg4fbQxUNp8bk2BH0jA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "Lq37QdxC",
                 "name": "Crusader Kings 3",
                 "image": "uMMJqDPvuh.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [28, 41],
                 "size": "4.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Eg56yTjgYjjjG1UuYG1YPA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "GlNKLVWP",
                 "name": "Cuphead [Todos los DLC]",
                 "image": "Cuphead [Todos los DLC].jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [1, 32, 36],
                 "size": "4.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1VSERnXUcaoG7c5AIahZdvQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "i0Wl4-ig",
                 "name": "DAVE THE DIVER ",
                 "image": "DAVE THE DIVER.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 39],
                 "size": "3.1 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1HqsHuydEI33JQHcpiUvq4g" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "MueosqFw",
                 "name": "Day Z",
                 "image": "Day Z.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [21, 31],
                 "size": "19.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1s3ggNcP4-EpOr_X5mCRL6w" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "qu2y1ejx",
                 "name": "Dead Rising ",
                 "image": "Dead Rising.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 14, 21],
                 "size": "8.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1bCXYi6xYqGb9t7GJPkEUTg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "eaTMSp_B",
                 "name": "Dead Space ",
                 "image": "Dead Space .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 14, 31],
                 "size": "6.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Q-rLQGZO_Hez0bBzAaLocg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "Xs043bzC",
                 "name": "Dead Space 2",
                 "image": "Dead Space 2.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 14, 31],
                 "size": "6.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1fPn_-rQKTIhGP9ev4E_Icw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "GrtAs9Kx",
                 "name": "Dead Space 3",
                 "image": "Dead Space 3.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 14, 31],
                 "size": "8.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1TkJZtFfhmKKVz6t8frejsg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "A2I3i89X",
                 "name": "Deadpool",
                 "image": "Deadpool.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 45],
                 "size": "6.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1l8RawxKYWMVsV2ZT3V9_rQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "XaWPU2Nf",
                 "name": "Death Must Die v0.8.1",
                 "image": "p_qe44UsF2.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 36],
                 "size": "527.0 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1JT0sqFJilwF3wFWWcJnujg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "FgNI4fN6",
                 "name": "Definitely Not Fried Chicken",
                 "image": "Definitely Not Fried Chicken.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 40],
                 "size": "462 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1l8MoIGda3kmxAkIS8Gsndg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "a3hNal6i",
                 "name": "Devil May Cry 3",
                 "image": "Devil May Cry 3.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 27],
                 "size": "3.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/18nPvNCqKILizvIxi1UJP7A" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "I4K1g9IG",
                 "name": "Devil May Cry 4 Special Edition",
                 "image": "Devil May Cry 4 Special Edition.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 27],
                 "size": "26.2 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1bE3XHoa9jwISIvdG92oVuQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "0pEIkPrt",
                 "name": "Devil May Cry 5 ",
                 "image": "Devil May Cry 5.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 27],
                 "size": "42.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1jXNfyZUadqaL0wmK_le3yQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "nNRK-_PL",
                 "name": "Devil May Cry HD Collection ",
                 "image": "Devil May Cry HD Collection .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 27],
                 "size": "11.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1fstU0IzX9PnqTyQJjAmASw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "X_lSXy9v",
                 "name": "Devil May Cry Reloaded ",
                 "image": "Devil May Cry Reloaded .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 27],
                 "size": "8.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Gq7r1wrIwAe0XuIRRWEt_w" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "ngvc_xcs",
                 "name": "Digimon Story Cyber Sleuth",
                 "image": "Digimon Story Cyber Sleuth.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 41, 22],
                 "size": "5.80 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1wVGSQeNa50KxxKygs-wlag" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "A26lyLES",
                 "name": "Door kickers 2 Tast force North v1.0",
                 "image": "KzbxI_0u1q.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 28],
                 "size": "1.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/12VKLUC3h2cDtIpkAVE9TGg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "3KktHLYI",
                 "name": "Dragon Ball Sparking Zero",
                 "image": "Dragon Ball Sparking Zero.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [10, 24, 22],
                 "size": "28.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1-UbtrITwiWsnq1lLi_2dBw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "xZO0r-E_",
                 "name": "Dragon ball xenoverse ",
                 "image": "Dragon ball xenoverse.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [10, 24, 22],
                 "size": "10.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1s43STFoamUZ3avEmo0bWbA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "skkUxNmj",
                 "name": "Dragon Ball Z Kakarot [Ultima Actualización]",
                 "image": "Dragon Ball Z Kakarot [Ultima Actualización].jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [7, 16, 22],
                 "size": "50.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1zuuCECoi4dOCSSTq5vpRSQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "yPlZmPi1",
                 "name": "Dungreed",
                 "image": "Dungreed.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 36],
                 "size": "236 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1pLpErMzVeKi6z9QSmufzRQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "nhV30qdd",
                 "name": "dwarves glory death and loot",
                 "image": "aPNbsinRNR.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 36],
                 "size": "234 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1GexAFCF-Rc0UoHZ9MSfKgQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "avnkKslA",
                 "name": "Echoes of Yi Samsara",
                 "image": "-2Qq5dNJIU.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 7],
                 "size": "26.0 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1zaBv2K7iGsffjbD9-oamww" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "AjWy4Bmb",
                 "name": "Emissary Zero",
                 "image": "Emissary Zero.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7],
                 "size": "4.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1HQDfpglBb25vReWBL4zVWQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            }
+            ,{
                 "id": "14Q0OTJT",
                 "name": "Escape the backrooms ",
                 "image": "Escape the backrooms .jpeg",
