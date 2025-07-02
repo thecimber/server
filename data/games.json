@@ -9980,40 +9980,43 @@
                 "image": "tOgpfZIUAS.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 8, 29],
                 "size": "3.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1UsyE5M9xTNV7KhhsLcms_w" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "ZSSRUE2k",
                 "name": "Dying Light ",
                 "image": "Dying Light.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 12, 14, 21],
                 "size": "26.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1s-yYPqW4_xJfgtoqpqxBzA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "eVWsF1bq",
                 "name": "Bread & Fred ",
                 "image": "PriUjr24N6.jpg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [1, 3, 17],
                 "size": "406.0 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Dwhm-OlCriZVJlUg_1G5rg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            }
+            ,{
                 "id": "QiY-Lj2L",
                 "name": "METAL GEAR SOLID 2: Sons of Liberty – Master Collection (v2.0.1)",
                 "image": "v9uCELFr0a.jpg",
