@@ -8581,651 +8581,701 @@
                 "image": "Resident Evil 2 DirectX11.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 14, 31],
                 "size": "27.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1q_5lTJrZ0FKN5nYlZzOxMQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "hyeG7Rag",
                 "name": "Resident Evil 3 DirectX11",
                 "image": "Resident Evil 3 DirectX11.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 14, 31],
                 "size": "21.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1G36EwB-apfdgKuyPxSfR1Q" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "IYjT5I5y",
                 "name": "Resident Evil 4 hd ultimate edition ",
                 "image": "Resident Evil 4 hd ultimate edition.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 14, 31],
                 "size": "11.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1yX0BGCCUl5gQ0Hrx-i5Xxg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "UuTphJIP",
                 "name": "Resident evil 5 ",
                 "image": "Resident evil 5.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 14, 17],
                 "size": "6.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Rf4U3KejjauXRG9fkI_YKQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "5fJxMl-g",
                 "name": "Resident Evil 6",
                 "image": "Resident Evil 6.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 14, 17],
                 "size": "17.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Mrz7sDSP63aF-xtlj1xV3g" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "Kq4leJwy",
                 "name": "Resident Evil Biohazard",
                 "image": "Resident Evil Biohazard.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 14, 31],
                 "size": "35.1 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1aekQYTJ2BnzeYV-jKZyQKQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "2PC5MXyS",
                 "name": "Resident evil village",
                 "image": "Resident evil village.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 14, 31],
                 "size": "34.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/14MN2ZHOInqsE7bLLMJh8NQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "TjLhplhK",
                 "name": "Reventure",
                 "image": "Reventure.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 32],
                 "size": "217.0 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1sAbTsxFLBRFBIPSKhBgAkQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "hz29Jppe",
                 "name": "Risk of Rain 2",
                 "image": "Risk of Rain 2.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 16, 27],
                 "size": "2.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1zmRp0k-8K9Enh4M4GX5SXQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "N-aMpvSx",
                 "name": "RiwWorld v1.5.4409",
                 "image": "txnwcfLKOQ.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 39],
                 "size": "451 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1jnEIerCKjGL9CBqVZD5N6w" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "thRcYTio",
                 "name": "Rogue Genesia",
                 "image": "Rogue Genesia.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 27],
                 "size": "1.1 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/11fOnMRYtioBVYlauNdoElg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "cuxXVlFO",
                 "name": "Rogue Loops",
                 "image": "Rogue Loops.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 27],
                 "size": "1.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/10Tl941yi4iSjN6949-KL_g" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "_s9Om_O8",
                 "name": "Roots of pacha v1.3.0.2",
                 "image": "dvdPtRp76R.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 39],
                 "size": "911 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1K8wRUFN91dp-iWEtaKpcKw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "j_PDrMq9",
                 "name": "Runescape DragonWilds",
                 "image": "Runescape DragonWilds.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 41],
                 "size": "9.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1fBV349-eZdfjb6q2wQ3EKA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "TlEq8wIV",
                 "name": "Saints Row 2 (2008)",
                 "image": "aints Row 2 (2008).jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 12, 39],
                 "size": "undefined",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1ezUOeBijgAFkMzHZJ_h51w" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "2MspWjMh",
                 "name": "Saints Row Gat Out Of Hell",
                 "image": "Saints Row Gat Out Of Hell.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 12, 39],
                 "size": "4.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1HPi_Kmwi82AyI3gyP0mT_w" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "K3EpaS71",
                 "name": "Saints Row IV: Game Of The Century Edition",
                 "image": "0wqhe0qIsE.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 12, 39],
                 "size": "8.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1I8EoNRIiszl_Y7pJ6-Aotw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "ChWprumq",
                 "name": "Saints Row The Third",
                 "image": "Saints Row The Third.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 12, 39],
                 "size": "6.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/14NQgL5t-plVWidn297iKAA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "TZXOVLOW",
                 "name": "Saints Row The Third Remastered ",
                 "image": "mChfeTZyN_.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 12, 39],
                 "size": "40.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Qff4JUk3vWQXEPTH6y_hHw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "wK-myRAk",
                 "name": "Sanctum 2 Complete Pack",
                 "image": "Sanctum 2 Complete Pack.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 28],
                 "size": "2.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1svou0mlw6PiuQad7KxL6rw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "n6gr4LbT",
                 "name": "Schedule 1 v0.3.6F6 (online)",
                 "image": "SCHEDULE 1.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 40],
                 "size": "2.0 GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/15-O2C7Wo-HVOHfCwEncAiQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "0Fw1oanr",
                 "name": "Sengoku Dynasty ",
                 "image": "Sengoku Dynasty.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [12, 19, 21],
                 "size": "11.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1TTCvLFT4Y1ahIxNkdeTOqA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "bllsAycU",
                 "name": "Sephiria",
                 "image": "Sephiria.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 23],
                 "size": "186 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1tMUe_N1M3ydZkaDXBtSnDA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "g1VdY5sk",
                 "name": "Shadow Gate 2",
                 "image": "Shadow Gate 2.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 34],
                 "size": "7.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1ICiX1Lq37QfMjrBRGFBXDA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "KLeQOzJI",
                 "name": "Silent Hill 2",
                 "image": "Silent Hill 2.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [14, 20, 31],
                 "size": "6.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1p_T_XikQX8-T3S1IPbEsHQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "qwAjkEN2",
                 "name": "Slay The Princess v2025.03.05",
                 "image": "Wjw8VlAfjg.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [23, 34],
                 "size": "12.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1fhnMzwMKpgPfd0j-l9JjZg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "uDjex69j",
                 "name": "Slime Rancher 2",
                 "image": "Slime Rancher .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 9, 19],
                 "size": "2.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Tmh7wQftFspDmCsCHv2-mQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "IcygTGE-",
                 "name": "SNUFKIN MELODY OF MOOMINVALLEY",
                 "image": "SNUFKIN MELODY OF MOOMINVALLEY.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 9],
                 "size": "4.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Kqxkdgxt-FG3bHVlBTRN6A" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "LsASoo3S",
                 "name": "SoulStone Survivors ",
                 "image": "SoulStone Survivors.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 27],
                 "size": "1.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/11crLRlWmsnBL4IMigl2vNg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "BXSmEPuq",
                 "name": "Startup Company v1.24",
                 "image": "xtA7pBqhIq.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 40],
                 "size": "332 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1EbOr64Rqi2hGtJHqfgAzAw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "NAcjzGTX",
                 "name": "Stationeers",
                 "image": "Stationeers.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 21],
                 "size": "1.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1jg3jisclAIUF7WQqz5gf1g" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "7SqHMOcu",
                 "name": "Stellaris v3.14.15",
                 "image": "Stellaris v3.14.15.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 28],
                 "size": "14.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1WBFJWPQqrYjhwN4bl7i5SA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "3nt98w6J",
                 "name": "Stone Hard ",
                 "image": "Stone Hard .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 10],
                 "size": "357 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1xTPIv-W1bhjgnK4y6sYhFg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "01YPfOzm",
                 "name": "Street fighter V Champion Edition ",
                 "image": "Street fighter V Champion Edition.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [10, 24],
                 "size": "49.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1sIe4kB8Hrz8sV7VL_Pc-fA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "7kLeIdZ9",
                 "name": "Subnautica ",
                 "image": "Subnautica.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 9, 21],
                 "size": "3.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/161hRL2YRf3eGWqvo1rQjeA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "_Jn6ubKL",
                 "name": "Subnautica Below zero",
                 "image": "Subnautica Below zero.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 9, 21],
                 "size": "5.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/11BlWVSaEgtHyLO41lZHO1w" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "oeNcli7Y",
                 "name": "Sun Haven",
                 "image": "Sun Haven.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 19, 39],
                 "size": "1.1 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1UzuXHZOPWZI3FqUkN8fW-Q" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "pjGfvH3v",
                 "name": "Sunset Motel v1.0",
                 "image": "yrUN8wEXNP.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [14, 20, 31],
                 "size": "4.1 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/13q5RowwqFa393XjpAlM7fg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "Hfl-6aQm",
                 "name": "super Market simulator ",
                 "image": "uper Market simulator .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 40],
                 "size": "2.1 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Y0f-9RRSfcZfdFiQBiU6eg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "TfYxwjRF",
                 "name": "Tactical Breach wizards",
                 "image": "Tactical Breach wizards.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 28],
                 "size": "1.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1btMYhHKcKdjVNuNuTeG_RQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "kdbayr9l",
                 "name": "Terratech Worlds",
                 "image": "n5nZh44aE5.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 39],
                 "size": "2.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1BNsrHti83NkwPkFHGvs87A" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "S7YwGDYT",
                 "name": "Thank Goodness You're Here! v1.6.1",
                 "image": "1od0pZtdKN.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 7],
                 "size": "686 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1BOyjE_AKAFRhzzM7K6y9sw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "ppiXlBvw",
                 "name": "That's not my neighbor ",
                 "image": "That's not my neighbor .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [14, 20, 31],
                 "size": "229.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1OucOxXAkEBLPiVevwStNjw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "VWbY1fNR",
                 "name": "The Binding Isaac Repentance",
                 "image": "The Binding Isaac Repentance.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 27],
                 "size": "1,5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1tX6QFyV4R-PfegPgeAn6iA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "z0eD0123",
                 "name": "The Binding Of Isaac Afterbirth",
                 "image": "The Binding Of Isaac Afterbirthpc.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 27],
                 "size": "1.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1kyKkk96vA4l2xeJ9Bmjziw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "zE9sb737",
                 "name": "The Coin Game ",
                 "image": "The Coin Game.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 39],
                 "size": "1.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/10y49TZblJbJ3zniGSP7o9w" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "1tfmlF2z",
                 "name": "The Crush House",
                 "image": "The Crush House.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 23],
                 "size": "672 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1rbGOHKqi-xKMeSpe7FvEzg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "bR3iynW8",
                 "name": "The Evil Within ",
                 "image": "The Evil Within.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 14, 31],
                 "size": "54.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1qwp8INiQQxiwK2SO2D-3IA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "HiBA9hEH",
                 "name": "The Last Of us PART 1",
                 "image": "BVm-L8pnvz.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 14],
                 "size": "72.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1gzKPzatnhJoN0EJcihL70w" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "hBNT7gms",
                 "name": "The Last Of Us PART 2 Remastered ",
                 "image": "V2JOLKlCmG.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 14],
                 "size": "150.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1fcaWFZCxYpwDHriZwpCZ0w" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            }
+            ,{
                 "id": "xxEXqyHC",
                 "name": "The Last Spell v1.2.18.7",
                 "image": "Sv-fNvGReN.jpg",
