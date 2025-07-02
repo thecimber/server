@@ -5746,294 +5746,316 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1B4yqFD3YVSekSd8bR0KLcQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            }
-            ,{
+            },
+            {
                 "id": "JaBm7h94",
                 "name": "Rift of the NecroDancer",
                 "image": "Rift of the NecroDancer.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 41, 36],
                 "size": "3.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1px82RijEPPbpbCuoctyIjQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "MRpCRtOv",
                 "name": "Shin Megami Tensei III Nocturne HD Remaster",
                 "image": "e-nJIDOmwZ.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 41],
                 "size": "16.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1-5JZ-K9y41Mkfz8NW80leA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "xReTsPsp",
                 "name": "Shin Megami Tensei V",
                 "image": "quhsNb7KxC.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 41],
                 "size": "17.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1fznVawSU3VZ_L-0PZnxKTA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "OA0hAofp",
                 "name": "Sonic Forces ",
                 "image": "Sonic Forces.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [1, 2, 15],
                 "size": "7.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Wj8K8iJEHHCUS5nRA66Vqw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "iVWP4xIK",
                 "name": "Sonic Frontiers",
                 "image": "Sonic Frontiers.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [1, 2, 12],
                 "size": "16.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1dAcF9j_j7nw_ReUlXfuKOQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "AcpeDDOX",
                 "name": "Sonic Mania Plus",
                 "image": "Sonic Mania Plus.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [1, 32],
                 "size": "400 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1ZiVfjDvgWj3DcZBOg9znQA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "iewRn_0a",
                 "name": "Sonic Origins ",
                 "image": "Sonic Origins.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [1, 32],
                 "size": "4.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1858yJAke2Ap1BzyXZ4-mZw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "Csrr1w2s",
                 "name": "Sonic Superstars ",
                 "image": "Sonic Superstars.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [1, 32],
                 "size": "9.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/16_tCGbQy6CvwMbKG-2Yz9w" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "RS7DKin7",
                 "name": "Sonic x Shadow Generations ",
                 "image": "Sonic x Shadow Generations.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [1, 2, 15],
                 "size": "19.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1zXt8Gru3J8GHnaoBLRssrQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "qt0MER03",
                 "name": "Stardew Valley",
                 "image": "Stardew Valley.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [39, 40, 41],
                 "size": "0",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1ABppndMYf7XS-6T95QS51A" },{ "type" : "Actualizacion" , "link": "https://cuty.io/vUXE" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "bct_32Fs",
                 "name": "Stray",
                 "image": "Stray.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 7, 9],
                 "size": "6.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1fYua-3S9d6UqDn2W0RyQVA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "ODkIqDWo",
                 "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
                 "image": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [41],
                 "size": "7.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1pR9SvRFtQtz1aWFRPa4Lhw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "8d9JF9wq",
                 "name": "Super Mario 3D All-Stars",
                 "image": "Super Mario 3D All-Stars.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [1, 3],
                 "size": "5.1 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1xhqjN4D44bYw5qU3h6zdRw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "ymO-tivN",
                 "name": "Super Mario 3D World Bowser's Fury ",
                 "image": "Super Mario 3D World Bowser's Fury .jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [1, 3],
                 "size": "3.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1KpZP6bi2NlackWfHQHAaGA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "hp9xGqeP",
                 "name": "Super Mario Bros. Wonder ",
                 "image": "Super Mario Bros. Wonder.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [1, 32],
                 "size": "3.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/17PBajp9IF-t-aBHHEbSBiQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "aYn5K5Vh",
                 "name": "Super Mario Bros.U Deluxe ",
                 "image": "Super Mario Bros.U Deluxe.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [1, 32],
                 "size": "3.1 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1gcoI00afvNCWMw8m9tZgWw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "xcepxNxB",
                 "name": "SUPER MARIO MAKER 2 ",
                 "image": "SUPER MARIO MAKER 2 .jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [1, 39],
                 "size": "3.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1jy-WtX9MW2QFPw4gGuhBlA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "3WRbQLNg",
                 "name": "SUPER MARIO ODYSSEY ",
                 "image": "SUPER MARIO ODYSSEY.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [1, 3, 12],
                 "size": "6.01 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/18BiChGkxM1IN0zj71xABfg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "32ZIjJEG",
                 "name": "Super Mario Party Jamboree",
                 "image": "Super Mario Party Jamboree.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [25],
                 "size": "8.01 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1tFerCm7X7i786jaMVnHP1A" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "GvrZYEZZ",
                 "name": "Super Mario RPG ",
                 "image": "Super Mario RPG.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [41],
                 "size": "7.02 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Oqe8uWfaHzQkrnLx1oSomQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "95251Atz",
                 "name": "Super Smash bros Ultimate",
                 "image": "Super Smash bros Ultimate.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [10, 24],
                 "size": "18.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1IywPLt4rFuIFJ21qGALeeA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "0HvMkyN6",
                 "name": "The Binding Of Isaac Afterbirth",
                 "image": "The Binding Of Isaac Afterbirth.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 36, 37],
                 "size": "1,6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1tUXTvG59uIl620qTtqI2Rg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            }
+            ,{
                 "id": "JUTQrPVb",
                 "name": "The Legend of Heroes: Trails through Daybreak II ",
                 "image": "The Legend of Heroes: Trails through Daybreak II.jpeg",
