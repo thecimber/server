@@ -5354,371 +5354,400 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1snLjyWJtSgIug_pqPL2-Gg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },  
+            {
                 "id": "-JqbjqC5",
                 "name": "Nekopara Volumen 4",
                 "image": "Nekopara Volumen 4.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [23, 26],
                 "size": "2.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1vbpbyq_jVnNNJuaQZ2XxAg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "ml4rNq07",
                 "name": "Neva",
                 "image": "Neva.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 7, 34],
                 "size": "6.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1gUPJatxxQRjinZfeS7sJpg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "Ykr7I2Cw",
                 "name": "Outlast",
                 "image": "Outlast.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [14, 20, 31],
                 "size": "6.1 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1YQrepXtNT3yE8PC6Ih76Zg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "ozcLtyhT",
                 "name": "Outlast 2",
                 "image": "Outlast 2.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [14, 20, 31],
                 "size": "10.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Ep9q_tN-XwIyjbj15on-tA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "Ob2KzJ-6",
                 "name": "Paper Mario The Origami King",
                 "image": "Paper Mario The Origami King.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 7, 41],
                 "size": "8.01 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1eJXBBeFqAhzTDctZsRLmIw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "1lXxfmol",
                 "name": "Pikmin 1",
                 "image": "Pikmin 1.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 7, 28],
                 "size": "1.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1YbBahSu3eWuoBwiTx-Q3ug" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "9QsXNnds",
                 "name": "Pikmin 2 ",
                 "image": "Pikmin 2.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 7, 28],
                 "size": "1.1 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1HHHTnunp4Rj5zwuypBScHw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "e2IV1n03",
                 "name": "Pikmin 3 Deluxe",
                 "image": "Pikmin 3 Deluxe.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 7, 28],
                 "size": "7.01 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/15PaT8jtRf46wVWghQv0UEQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "nkizTJmV",
                 "name": "Pikmin 4",
                 "image": "Pikmin 4.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 7, 28],
                 "size": "11.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/15zgYYGQM2gfha0bPHOQPEg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "zcVE1IhZ",
                 "name": "Platform 8 ",
                 "image": "Platform 8.jpeg",
                 "format": ["Platform 8"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [1],
                 "size": "undefined",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Mediafire" , "link": "https://cuty.io/nqIVqOBPz2Mj" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "TtfRBJnR",
                 "name": "Pokemon Diamante brillante ",
                 "image": "Pokemon Diamante brillante.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 41],
                 "size": "6.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/12UXbqHq3hPlZPd6j9V3ADw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "IAbX59hV",
                 "name": "Pokemon Escarlata ",
                 "image": "Pokemon Escarlata.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 12, 41],
                 "size": "13.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1jjkxIqEG5HfBjIufGKp4YQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "JYooPDxN",
                 "name": "Pokemon Legends Arceus ",
                 "image": "Pokemon Legends Arceus .jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 12, 41],
                 "size": "6.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1sMDseZHiZ_AjSfQ9LcNXzg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "ngJ_6iUy",
                 "name": "Pokemon Let's go pikachu ",
                 "image": "Pokemon Let's go pikachu.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 41],
                 "size": "4.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1dBgzKtfg19SMrRzhKoJB8w" },{ "type" : "Actualizacion" , "link": "https://cuty.io/cTxXNIVg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "Wjx9l2j1",
                 "name": "Pokemon Lets Go Eevee [v1.0.2] ",
                 "image": "Pokemon Lets Go Eevee [v1.0.2].jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 41],
                 "size": "4.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1ShyATS9aIoERkbzgJjkiZw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "e6WrtOrq",
                 "name": "Pokemon Mystery Dungeon Rescue Team DX ",
                 "image": "Pokemon Mystery Dungeon Rescue Team DX.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 41],
                 "size": "2.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1k5goT1rLdVWI26wLQx6tHQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "ossct0fn",
                 "name": "Pokemon shield",
                 "image": "Pokemon Escudo.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 41],
                 "size": "13.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1w7wCZv1-p4dbka9kLgdMKQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "9s9zcg-O",
                 "name": "Pokemon shining pearl",
                 "image": "Pokemon shining pearl.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 41],
                 "size": "6.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/194YuN1mWQ_hTgTmhlnYlQw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "m5dU1zSC",
                 "name": "Pokemon Sword ",
                 "image": "Pokemon Sword.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 41],
                 "size": "13.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/10zAK9SloV5Z1gwhNBr6nsQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "6NY85iJ8",
                 "name": "Pokemon violeta ",
                 "image": "Pokemon violeta.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 12, 41],
                 "size": "13.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1OBCwuhRF8GA0XI3tc5MIEQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "rHjc9U2I",
                 "name": "Pokken Tournament DX",
                 "image": "Pokken Tournament DX.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [10, 24],
                 "size": "4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1b7BHu7JereYUeQDPrKM1DA" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "oyI4pimb",
                 "name": "Resident Evil 4 HD",
                 "image": "Resident Evil 4 HD.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 14],
                 "size": "13.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1WTD7tWZygMCfivf2_0W3Pg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "zPSnGAaz",
                 "name": "Resident Evil 5",
                 "image": "Resident Evil 5.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 14],
                 "size": "20.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1AxNOr2WTs_F4ujwsTKEkPQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "6zV-EARS",
                 "name": "Resident Evil 6",
                 "image": "Resident Evil 6.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 14],
                 "size": "18.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1K0hDrg5MI94QUcnyoMTMpw" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "5GnI3ip-",
                 "name": "Resident Evil HD Remastered ",
                 "image": "Resident Evil HD Remastered.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [14, 20, 31],
                 "size": "15.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/14___6YeGxx_uTbLf2VJUnQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "BPeGxE5R",
                 "name": "Resident Evil Revelations ",
                 "image": "Resident Evil Revelations .jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [14, 20, 31],
                 "size": "13.1 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/12jDgzr-N5ciR4EFc8HKiJg" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "gNf0spPT",
                 "name": "Resident Evil Revelations 2",
                 "image": "Resident Evil Revelations 2.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [14, 20, 31],
                 "size": "24.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/102eaJLMzzLjwKWO1OSra-g" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            },
+            {
                 "id": "229BGqfy",
                 "name": "Resident Evil Zero 0",
                 "image": "Resident Evil Zero 0.jpeg",
                 "format": ["NSP/XCI"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [14, 20, 31],
                 "size": "14.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1B4yqFD3YVSekSd8bR0KLcQ" }],
                 "popular": 0,
                 "emulatorId": 8
-            },{
+            }
+            ,{
                 "id": "JaBm7h94",
                 "name": "Rift of the NecroDancer",
                 "image": "Rift of the NecroDancer.jpeg",
