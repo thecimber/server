@@ -10775,4 +10775,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1AJ4YZU2rj09XOZpFni8Efw" }],
                 "popular": 0,
                 "emulatorId": 5
+            },{
+                "id": "w1VoOMQH",
+                "name": "Mario Party 10 ",
+                "image": "0bj3Z6enwh.jpg",
+                "format": ["WUA"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3],
+                "size": "2.8 gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1JXlgNcd14fnZFJkjPX4SnA" }],
+                "popular": 0,
+                "emulatorId": 5
             }]
