@@ -7251,391 +7251,421 @@
                 "image": "Escape the backrooms .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [14, 20, 31],
                 "size": "9.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1pYoxbt5Bi01NtKMSACBiAA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "dR5ytbtp",
                 "name": "Fabledom",
                 "image": "Fabledom.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 28, 40],
                 "size": "1.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/16csd-azE3bhxiIaw33rf6g" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "_4j6F9WP",
                 "name": "Factorio v2.0.43",
                 "image": "Factorio.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 28, 39],
                 "size": "4.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/11HgjC5kexN_2BFVbTNUhnw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "N2iHiuA6",
                 "name": "Fallout 1 ",
                 "image": "Fallout 1.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [41, 12, 16],
                 "size": "519.1 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1C9qeNb-Eb3Futrml7iuM4g" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "Tmz_dDWs",
                 "name": "Fallout 3",
                 "image": "Fallout 3.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [12, 16, 41],
                 "size": "7.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1vewmcvFp0tJiRlQbh_czQg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "TrSQhiBN",
                 "name": "Fallout 76",
                 "image": "Fallout 76.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [12, 16, 41, 17],
                 "size": "55.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1hqCKPa8qolnT8VCvcRaftg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "Bu4ei4AW",
                 "name": "Fallout New Vegas ",
                 "image": "Fallout New Vegas.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [12, 16, 41],
                 "size": "8.2 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1BckQd2nuZ_8PmEmHL8EQIQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "K_G0S93v",
                 "name": "Finding Paradise",
                 "image": "bzpuFouX3-.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 23, 34],
                 "size": "334 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1MIBaJBR_9RIIM88ACq-QFQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "q0tZCLwZ",
                 "name": "Five Nights At Freddy's Collection [1,2,3,4]",
                 "image": "Five Nights At Freddy's Collection [1,2,3,4]2.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [14, 20, 31],
                 "size": "5.02 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1gBpW1p6vY6VFm2WeSs16AQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "h0_oMVjD",
                 "name": "Five nights at freddy's Help Wanted 2",
                 "image": "Five nights at freddy's Help Wanted 2.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [14, 20, 31],
                 "size": "10.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Nw2CItBHeyIMwOBeZQ2sDw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "aoh00268",
                 "name": "Five Nights At Freddy's Into the Pit",
                 "image": "Five Nights At Freddy's Into the Pit.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [14, 20, 31],
                 "size": "970.0 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/14gM3T5rAJRO9dkXyZTwfeQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "XSZVKrqI",
                 "name": "Fnaf sister location ",
                 "image": "Fnaf sister location.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [14, 20, 31],
                 "size": "926.7 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/17IZxBMsPcY6R-nSlj9jYnw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "wCHzTamN",
                 "name": "Foundation",
                 "image": "Foundation.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 28, 40],
                 "size": "2.5 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1US-l2BzLzETCjmQGXZ-xag" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "58M9JL8I",
                 "name": "From Glory To Goo",
                 "image": "From Glory To Goo.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [28, 39],
                 "size": "197 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1S_b3phcgOtCxqRCmnnl_nw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "czRaFfIW",
                 "name": "Geometry Dash ",
                 "image": "Geometry Dash .jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [1, 32, 33],
                 "size": "273.2 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1nL7gSHLgBg-hbty_ndt6Zw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "Ycth9S-V",
                 "name": "Gibbon Beyond The Trees",
                 "image": "Gibbon Beyond The Trees.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [3, 9, 15],
                 "size": "730 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Q7sRHYewhQW0KuORURqriw" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "vvz263DP",
                 "name": "Goat Simulator 3 goat in a box edition",
                 "image": "Goat Simulator 3 goat in a box edition.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 39],
                 "size": "4.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1h_jayvodlQ50zLTAkw3eYA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "c1U25b6K",
                 "name": "Going Medieval ",
                 "image": "Going Medieval.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [19, 28, 40],
                 "size": "425 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1xXUfZ7BByathfm7b5iAD1g" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "etPT4rMO",
                 "name": "Gorn",
                 "image": "Gorn.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [10, 24, 43],
                 "size": "1.6 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/14t90Y-3qIuSUUAxkclIVYg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "EESwV3NJ",
                 "name": "Grand Theft Auto 3 The Definitive Edition [GTA]",
                 "image": "Grand Theft Auto 3 The Definitive Edition (GTA).jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 12, 39],
                 "size": "4.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/133-fYc2XX5kJTFmMUQnntA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "5Ztkm0_z",
                 "name": "Grand Theft auto 5 [GTA 5, GTA V]",
                 "image": "Grand Theft auto 5.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 12, 39],
                 "size": "72 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1SW-ZycA-qjIbbSFIjEKobg" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "CIFgV6AV",
                 "name": "Grand theft auto IV (GTA IV)",
                 "image": "CKPD9foI5F.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 12, 39],
                 "size": "20 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1k9_LQ0fShZVP33HubivPsA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "_vTCmq9Q",
                 "name": "Grand Theft Auto IV (GTA IV)",
                 "image": "BbNrkRlvgx.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 12, 39],
                 "size": "20GB",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1k9_LQ0fShZVP33HubivPsA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "OWVgWOr_",
                 "name": "Grand Theft Auto San Andreas The Definitive Edition [GTA]",
                 "image": "Grand Theft Auto San Andreas The Definitive Edition.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 12, 39],
                 "size": "19.3 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1zJgm1-DRMpHhxM2Rfamt3A" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "G4Sc93og",
                 "name": "Grand Theft Auto Vice City",
                 "image": "Grand Theft Auto Vice City.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 12, 39],
                 "size": "9.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1wb7oXMjL9X3HeGB5-UofqQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "pmzoLl0a",
                 "name": "Guilty Gear Strive",
                 "image": "Guilty Gear Strive.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [10, 24, 22],
                 "size": "31.8 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/10dOdA3B9XKyQs9frwHzARA" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "_hpWUd-c",
                 "name": "Gunbrella",
                 "image": "Gunbrella.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 32],
                 "size": "320 Mb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1qNDTECUFYIV7_ItbBzAUAQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "Qkix-nai",
                 "name": "Hades v1.38290",
                 "image": "bnk9fDd9xt.jpg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [16, 27, 36],
                 "size": "11.0 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/18rIinvh8gEvIxnEV-_fL-Q" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "oRpWtUa1",
                 "name": "Haste Broken Worlds v1.2",
                 "image": "Haste Broken Worlds.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [2, 7, 10],
                 "size": "1.9 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/15FwylmEvt-9UOoc9QjM0MQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            },
+            {
                 "id": "yjRhNxjp",
                 "name": "Hearts Of Iron IV",
                 "image": "Hearts Of Iron IV.jpeg",
                 "format": ["PREINSTALADO"],
                 "language": ["Multi-Idioma"],
-                "genre": [0],
+                "genre": [28, 19],
                 "size": "5.4 Gb",
                 "downloadTutorial": "DOWNLOAD_TUTORIAL",
                 "downloadMethods": [
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1Ezoiw92qth_Q8KQjR478lQ" }],
                 "popular": 0,
                 "emulatorId": 2
-            },{
+            }
+            ,{
                 "id": "4K7XVhLa",
                 "name": "Heavenly Bodies Cleanup dlc Edition ",
                 "image": "Heavenly Bodies Cleanup dlc Edition.jpeg",
