@@ -10944,4 +10944,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/13weJ3rzZx2Jd_HuwnOeBtw" }],
                 "popular": 0,
                 "emulatorId": 5
+            },{
+                "id": "H4uDlA5j",
+                "name": "RESIDENT EVIL REVELATIONS (USA) (DLC) (v16)",
+                "image": "GpCwDD-3Ri.jpg",
+                "format": ["WUA"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,14,9],
+                "size": "12,7 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/15pxY7dV3x5zlRE4jVPavpA" }],
+                "popular": 0,
+                "emulatorId": 5
             }]
