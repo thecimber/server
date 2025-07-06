@@ -10983,4 +10983,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/10U-jKo4D6dbzDL2FXoK-rg" }],
                 "popular": 0,
                 "emulatorId": 5
+            },{
+                "id": "3sMCS9q7",
+                "name": "POKKÉN TOURNAMENT (USA) (v64)",
+                "image": "namzdn2clR.jpg",
+                "format": ["WUA"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,24],
+                "size": "3.5 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/17Y0OY-qVrKPH8DvCb-0HHw" }],
+                "popular": 0,
+                "emulatorId": 5
             }]
