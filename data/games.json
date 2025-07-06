@@ -11009,4 +11009,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1qDwYti6PWcNUCvRdbVDCmg" }],
                 "popular": 0,
                 "emulatorId": 5
+            },{
+                "id": "nrjtR9YC",
+                "name": "PAPER MARIO Color Splash (USA)",
+                "image": "eyNJoMCYkD.jpg",
+                "format": ["WUA"],
+                "language": ["Multi-Idioma"],
+                "genre": [7,16],
+                "size": "6,7 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1pCLTTzcI7ZKn7BT6MLLc-Q" }],
+                "popular": 0,
+                "emulatorId": 5
             }]
