@@ -11035,4 +11035,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1WfSjiTp8UHUNgIa1MAZTUw" }],
                 "popular": 0,
                 "emulatorId": 5
+            },{
+                "id": "wfwPBu4U",
+                "name": "PAC-MAN and the Ghostly Adventures",
+                "image": "m7HIsc2t1x.jpg",
+                "format": ["WUA"],
+                "language": ["Multi-Idioma"],
+                "genre": [1],
+                "size": "2,9 gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1R5_VQnmJ6mt4-y6UnsonRA" }],
+                "popular": 0,
+                "emulatorId": 5
             }]
