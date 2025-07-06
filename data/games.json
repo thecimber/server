@@ -10970,4 +10970,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1W_rfTiO6_iKWl_p7R9VE7A" }],
                 "popular": 0,
                 "emulatorId": 5
+            },{
+                "id": "m8DI3foo",
+                "name": "Penguins of Madagascar (USA)",
+                "image": "bG9m6t-wKE.jpg",
+                "format": ["WUA"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,3],
+                "size": "281 Mb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/10U-jKo4D6dbzDL2FXoK-rg" }],
+                "popular": 0,
+                "emulatorId": 5
             }]
