@@ -11165,4 +11165,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1d5qgNDuIId5dt2ATbsuA4A" }],
                 "popular": 0,
                 "emulatorId": 5
+            },{
+                "id": "EAwwkWf6",
+                "name": "Scribblenauts Unmasked (USA)",
+                "image": "77K6kgppFO.jpg",
+                "format": ["WUA"],
+                "language": ["Multi-Idioma"],
+                "genre": [7,39],
+                "size": "981 Mb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/18RkthFvs4ZKwC8YU3V4HmQ" }],
+                "popular": 0,
+                "emulatorId": 5
             }]
