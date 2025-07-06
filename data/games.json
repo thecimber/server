@@ -11152,4 +11152,17 @@
                     { "type" : "Repuesto" , "link": "https://1024terabox.com/s/1Kw7bPZMyKFJwdTU_8DzWQw" }],
                 "popular": 0,
                 "emulatorId": 5
+            },{
+                "id": "0TJbTU3T",
+                "name": "Scribblenauts Unlimited (USA)",
+                "image": "OtIXREsooE.jpg",
+                "format": ["WUA"],
+                "language": ["Multi-Idioma"],
+                "genre": [2,39],
+                "size": "1,2 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1d5qgNDuIId5dt2ATbsuA4A" }],
+                "popular": 0,
+                "emulatorId": 5
             }]
