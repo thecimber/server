@@ -11139,4 +11139,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1li1DuSofBF8YLRYuTBS8Vg" }],
                 "popular": 0,
                 "emulatorId": 5
+            },{
+                "id": "1LvWLfpn",
+                "name": "SONIC LOST WORLD (USA) (DLC) (v48)",
+                "image": "zGSxPN8DeE.jpg",
+                "format": ["WUA"],
+                "language": ["Multi-Idioma"],
+                "genre": [13,7],
+                "size": "6,6 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Repuesto" , "link": "https://1024terabox.com/s/1Kw7bPZMyKFJwdTU_8DzWQw" }],
+                "popular": 0,
+                "emulatorId": 5
             }]
