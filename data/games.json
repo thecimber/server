@@ -11126,4 +11126,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1POMwL9sxh8O22w0VYvYlDg" }],
                 "popular": 0,
                 "emulatorId": 5
+            },{
+                "id": "3rEJdOo4",
+                "name": "Runbow Deluxe (USA)",
+                "image": "4msru_Bwoy.jpg",
+                "format": ["WUA"],
+                "language": ["Multi-Idioma"],
+                "genre": [13,1],
+                "size": "226 Mb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1li1DuSofBF8YLRYuTBS8Vg" }],
+                "popular": 0,
+                "emulatorId": 5
             }]
