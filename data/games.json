@@ -11022,4 +11022,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1pCLTTzcI7ZKn7BT6MLLc-Q" }],
                 "popular": 0,
                 "emulatorId": 5
+            },{
+                "id": "_djkBr-v",
+                "name": "PAC-MAN and the Ghostly Adventures 2 (USA)",
+                "image": "NbD2q5QAhn.jpg",
+                "format": ["WUA"],
+                "language": ["Multi-Idioma"],
+                "genre": [1],
+                "size": "3,2 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1WfSjiTp8UHUNgIa1MAZTUw" }],
+                "popular": 0,
+                "emulatorId": 5
             }]
