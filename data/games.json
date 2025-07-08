@@ -11243,4 +11243,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1F0fePixvY_y2dgNqxViNcw" }],
                 "popular": 0,
                 "emulatorId": 8
+            },{
+                "id": "Fzey-12J",
+                "name": "Persona 5 Tactica",
+                "image": "aVCSxixmqo.jpg",
+                "format": ["NSP/XCI"],
+                "language": ["Multi-Idioma"],
+                "genre": [16],
+                "size": "7,5 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1oM5wJrFMmur1-6VOlaVZuQ" }],
+                "popular": 0,
+                "emulatorId": 8
             }]
