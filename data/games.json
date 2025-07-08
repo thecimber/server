@@ -11217,4 +11217,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1IATbYj9bVVROxSg1WvsQ5g" }],
                 "popular": 0,
                 "emulatorId": 8
+            },{
+                "id": "yCN_jNhw",
+                "name": "Persona 5 Royal",
+                "image": "C-16R8eLBu.jpg",
+                "format": ["NSP/XCI"],
+                "language": ["Multi-Idioma"],
+                "genre": [16,19],
+                "size": "15,2 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1O_r3LfEmPCXeajy8j2Du6Q" }],
+                "popular": 0,
+                "emulatorId": 8
             }]
