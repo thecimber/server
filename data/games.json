@@ -11230,4 +11230,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1O_r3LfEmPCXeajy8j2Du6Q" }],
                 "popular": 0,
                 "emulatorId": 8
+            },{
+                "id": "gZITCQMN",
+                "name": "Persona 5 Strikers ",
+                "image": "1rrKc_aAWz.jpg",
+                "format": ["NSP/XCI"],
+                "language": ["Multi-Idioma"],
+                "genre": [16,19],
+                "size": "15,1 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1F0fePixvY_y2dgNqxViNcw" }],
+                "popular": 0,
+                "emulatorId": 8
             }]
