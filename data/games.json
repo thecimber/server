@@ -11503,4 +11503,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/193LE3yNYquu7EWY26ORoPg" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "3lsgWRaY",
+                "name": "Darksiders 3 ",
+                "image": "OQ-EyUm_nH.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [3,9,16],
+                "size": "23,8 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1_QtfZvpNZ4LyOIvgMwahuA" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
