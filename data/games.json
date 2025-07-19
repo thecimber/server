@@ -11425,4 +11425,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/12XNXLeRpDqaWZXwKgMMFGQ" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "Exy190Oj",
+                "name": "Hitman Absolution ",
+                "image": "dPVJkMICsh.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [7,8,30],
+                "size": "15,9 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1ItQgCCu_YRICSmSFbEoH3g" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
