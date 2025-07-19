@@ -11438,4 +11438,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1ItQgCCu_YRICSmSFbEoH3g" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "L3BHagb6",
+                "name": "Hitman 2 ",
+                "image": "FzMV69PJNo.jpg",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [7,8,30],
+                "size": "74,1 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/1xMtUDs6Y8NgodfSV9-jDUg" }],
+                "popular": 0,
+                "emulatorId": 2
             }]
