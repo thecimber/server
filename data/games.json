@@ -11516,4 +11516,17 @@
                     { "type" : "Terabox" , "link": "https://1024terabox.com/s/1_QtfZvpNZ4LyOIvgMwahuA" }],
                 "popular": 0,
                 "emulatorId": 2
+            },{
+                "id": "HaS_CAky",
+                "name": "Transformers Prime",
+                "image": "O0TulmC5AJ.jpg",
+                "format": ["WUA"],
+                "language": ["Multi-Idioma"],
+                "genre": [7,30,28],
+                "size": "1,9 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://terabox.com/s/1yARy93TT7grBYCKk2tK8Rw" }],
+                "popular": 0,
+                "emulatorId": 5
             }]
