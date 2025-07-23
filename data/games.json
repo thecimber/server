@@ -11529,4 +11529,17 @@
                     { "type" : "Terabox" , "link": "https://terabox.com/s/1yARy93TT7grBYCKk2tK8Rw" }],
                 "popular": 0,
                 "emulatorId": 5
+            },{
+                "id": "-gSD1um-",
+                "name": "Dragon Ball Z: Kakarot Daima Edition ",
+                "image": "4HCdVgXpmc.jpg",
+                "format": ["NSP/XCI"],
+                "language": ["Multi-Idioma"],
+                "genre": [9,10,12,22,7],
+                "size": "28GB",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://1024terabox.com/s/14XKG11npUj3aJY6rntcc3Q" }],
+                "popular": 0,
+                "emulatorId": 8
             }]
