@@ -11543,5 +11543,19 @@
                     { "type" : "Terabox" , "link": "https://terabox.com/s/15Xi2g1LCywKwhe4dZGzMrA" }],
                 "popular": 0,
                 "emulatorId": 2
+            },
+              {
+                "id": "HfgSrewpd",
+                "name": "Hollow Knight SILKSONG",
+                "image": "hol34221423.png",
+                "format": ["PREINSTALADO"],
+                "language": ["Multi-Idioma"],
+                "genre": [1,2,9],
+                "size": "1.9 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://terabox.com/s/1EZOSJFrJC7jM0cq_9Mm-9Q" }],
+                "popular": 0,
+                "emulatorId": 2
             }
         ]
