@@ -11557,5 +11557,19 @@
                     { "type" : "Terabox" , "link": "https://terabox.com/s/1EZOSJFrJC7jM0cq_9Mm-9Q" }],
                 "popular": 0,
                 "emulatorId": 2
+            },
+            {
+                "id": "HSwsoC80sX",
+                "name": "Hollow Knight SILKSONG",
+                "image": "holsw62672vs.jpeg",
+                "format": ["NSP/XCI"],
+                "language": ["Multi-Idioma"],
+                "genre": [1,2,9],
+                "size": "2.4 Gb",
+                "downloadTutorial": "DOWNLOAD_TUTORIAL",
+                "downloadMethods": [
+                    { "type" : "Terabox" , "link": "https://terabox.com/s/1RYIdloBkAMq_9UR42Q1Qtg" }],
+                "popular": 0,
+                "emulatorId": 8
             }
         ]
