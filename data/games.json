@@ -11572,21 +11572,19 @@
                 "popular": 0,
                 "emulatorId": 8
             },
-            {
-            "id": "riyLrs1T",
-            "name": "hollow knight silksong",
-            "image": "1759155363188-3c71e339.jpg",
-            "format": ["APK"],
-            "language": ["Multi-Idioma"],
-            "genre": [7,9],
-            "size": "1.2 Gb",
-            "downloadTutorial": "DOWNLOAD_TUTORIAL",
-            "downloadMethods": [
               {
-                "type": "Terabox",
-                "link": "https://1024terabox.com/s/1961LDBiaZ2A-5gxWEUKJRw"
-              }
-            ],
-            "emulatorId": 10,
-          }
+    "id": "riyLrs1T",
+    "name": "hollow knight silksong",
+    "image": "1759155363188-3c71e339.jpg",
+    "format": ["APK"],
+    "language": ["Multi-Idioma"],
+    "genre": [7, 9],
+    "size": "1.2 Gb",
+    "downloadTutorial": "DOWNLOAD_TUTORIAL",
+    "downloadMethods": [
+      { "type": "Terabox", "link": "https://1024terabox.com/s/1961LDBiaZ2A-5gxWEUKJRw" }
+    ],
+    "popular": 0,
+    "emulatorId": 10
+  }
         ]
