@@ -25,7 +25,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-03T03:28:25.481Z",
-      "updatedAt": "2025-10-03T03:40:01.966Z"
+      "updatedAt": "2025-10-03T04:17:47.173Z"
     },
     {
       "_id": "68df42d9b47c0e2cc6e8ca51",
@@ -22845,10 +22845,10 @@
       "path": "xbox360",
       "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/xbox360-logo.png",
       "index": 0,
-      "active": true,
+      "active": false,
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.755Z",
-      "updatedAt": "2025-09-27T19:29:51.985Z",
+      "updatedAt": "2025-10-03T04:17:30.614Z",
       "deleted": false,
       "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/wiiu/"
     },
@@ -22862,7 +22862,7 @@
       "active": false,
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.755Z",
-      "updatedAt": "2025-09-27T03:53:26.906Z",
+      "updatedAt": "2025-10-03T04:17:37.401Z",
       "deleted": false,
       "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/dev/ps3/"
     },
