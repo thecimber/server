@@ -22820,12 +22820,13 @@
       "language": "Multi-Idioma",
       "genre": [
         7,
-        9
+        9,
+        46
       ],
       "size": "1.2 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://terabox.com/s/1HbZK4pFSCtzxkTZhFua-jw",
           "_id": "68e08df89e798a708ef8caa7"
         }
@@ -22834,7 +22835,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-10-04T03:01:12.243Z"
+      "updatedAt": "2025-10-04T03:04:38.396Z"
     }
   ],
   "emulators": [
@@ -23347,6 +23348,14 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:00:30.138Z",
       "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08eb69e798a708ef8d1b9",
+      "id": 46,
+      "name": "Metroidvania",
+      "createdAt": "2025-10-04T03:04:22.994Z",
+      "updatedAt": "2025-10-04T03:04:22.994Z",
+      "__v": 0
     }
   ],
   "formats": [
