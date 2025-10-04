@@ -25,7 +25,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:07.481Z",
-      "updatedAt": "2025-10-04T03:53:53.706Z"
+      "updatedAt": "2025-10-04T04:07:24.589Z"
     },
     {
       "_id": "68e08df39e798a708ef8c3a5",
@@ -22840,6 +22840,7 @@
   ],
   "emulators": [
     {
+      "emulator": "",
       "_id": "68bd12b9df3315fccb1e9423",
       "id": 9,
       "name": "Xbox 360",
@@ -22854,6 +22855,7 @@
       "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/wiiu/"
     },
     {
+      "emulator": "",
       "_id": "68bd12b9df3315fccb1e9424",
       "id": 6,
       "name": "Game Cube",
@@ -22894,9 +22896,11 @@
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.755Z",
       "updatedAt": "2025-09-07T05:06:01.755Z",
-      "deleted": false
+      "deleted": false,
+      "emulator": "https://1024terabox.com/s/1VvGcTl9TJ31Nji9RucXHdQ"
     },
     {
+      "emulator": "",
       "_id": "68bd12b9df3315fccb1e9426",
       "id": 10,
       "name": "Android",
@@ -22911,6 +22915,7 @@
       "deleted": false
     },
     {
+      "emulator": "",
       "_id": "68bd12b9df3315fccb1e9425",
       "id": 7,
       "name": "PS2",
@@ -22936,7 +22941,8 @@
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.755Z",
       "updatedAt": "2025-09-07T05:06:01.755Z",
-      "deleted": false
+      "deleted": false,
+      "emulator": "https://1024terabox.com/s/1ogEVXmweTj7eIBz39NecJw"
     },
     {
       "_id": "68bd12b9df3315fccb1e9421",
@@ -22950,7 +22956,8 @@
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.755Z",
       "updatedAt": "2025-09-07T05:06:01.755Z",
-      "deleted": false
+      "deleted": false,
+      "emulator": "https://1024terabox.com/s/1SchDFVvXaL4PcH9ABEk3Og"
     },
     {
       "_id": "68bd12b9df3315fccb1e9420",
@@ -22964,7 +22971,8 @@
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.755Z",
       "updatedAt": "2025-09-07T05:06:01.755Z",
-      "deleted": false
+      "deleted": false,
+      "emulator": ""
     },
     {
       "_id": "68bd12b9df3315fccb1e9422",
@@ -22978,7 +22986,8 @@
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.755Z",
       "updatedAt": "2025-09-07T05:06:01.755Z",
-      "deleted": false
+      "deleted": false,
+      "emulator": "https://1024terabox.com/s/1ifALCTlRdfYNvCksREvzaA"
     }
   ],
   "genres": [
