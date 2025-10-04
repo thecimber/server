@@ -22915,11 +22915,12 @@
       "path": "ps2",
       "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/ps2-logo.webp",
       "index": 0,
-      "active": true,
+      "active": false,
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.756Z",
-      "updatedAt": "2025-09-07T05:06:01.756Z",
-      "deleted": false
+      "updatedAt": "2025-10-04T03:02:22.924Z",
+      "deleted": false,
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/android/"
     },
     {
       "_id": "68bd12b9df3315fccb1e941e",
