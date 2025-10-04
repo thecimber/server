@@ -22980,17 +22980,17 @@
       "deleted": false
     },
     {
-      "_id": "68e08f949e798a708ef8f16f",
+      "_id": "68e09289f67f62df981f74ae",
       "id": 11,
       "name": "consola portatil",
-      "path": "clp",
-      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/dev/emulators/1759547284228-9c18ee72.jpg",
-      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/clp/",
+      "path": "portatil",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/1759548040599-1787d135.jpg",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/portatil/",
       "index": 0,
       "active": true,
       "deleted": false,
-      "createdAt": "2025-10-04T03:08:04.957Z",
-      "updatedAt": "2025-10-04T03:08:04.957Z",
+      "createdAt": "2025-10-04T03:20:41.682Z",
+      "updatedAt": "2025-10-04T03:20:41.682Z",
       "__v": 0
     }
   ],
