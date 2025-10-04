@@ -22836,6 +22836,30 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2025-10-04T03:04:38.396Z"
+    },
+    {
+      "_id": "68e08f159e798a708ef8dfd2",
+      "id": "MSCZ51bb",
+      "name": "Juego de prueba",
+      "image": "1759547156952-89c61cdc.png",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        46
+      ],
+      "size": "122 mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1nTIccSIrU1nSa-HqBAsSJA",
+          "_id": "68e08f159e798a708ef8dfd3"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "createdAt": "2025-10-04T03:05:57.766Z",
+      "updatedAt": "2025-10-04T03:05:57.766Z",
+      "__v": 0
     }
   ],
   "emulators": [
