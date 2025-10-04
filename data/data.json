@@ -16,7 +16,7 @@
       "size": "3,64 GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1xJs3D9IGZqj4ReATVDRfLw",
           "_id": "68e08df39e798a708ef8c3a4"
         }
@@ -25,7 +25,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:07.481Z",
-      "updatedAt": "2025-10-04T03:01:07.481Z"
+      "updatedAt": "2025-10-04T03:10:01.270Z"
     },
     {
       "_id": "68e08df39e798a708ef8c3a5",
@@ -22978,6 +22978,20 @@
       "createdAt": "2025-09-07T05:06:01.755Z",
       "updatedAt": "2025-09-07T05:06:01.755Z",
       "deleted": false
+    },
+    {
+      "_id": "68e08f949e798a708ef8f16f",
+      "id": 11,
+      "name": "consola portatil",
+      "path": "clp",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/dev/emulators/1759547284228-9c18ee72.jpg",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/clp/",
+      "index": 0,
+      "active": true,
+      "deleted": false,
+      "createdAt": "2025-10-04T03:08:04.957Z",
+      "updatedAt": "2025-10-04T03:08:04.957Z",
+      "__v": 0
     }
   ],
   "genres": [
