@@ -22860,6 +22860,32 @@
       "createdAt": "2025-10-09T19:37:03.967Z",
       "updatedAt": "2025-10-09T19:37:03.967Z",
       "__v": 0
+    },
+    {
+      "_id": "68e8798015c995261125795c",
+      "id": "YUfcWbKG",
+      "name": "Little Nightmares 3 ",
+      "image": "1760065919404-fe7fed30.jpg",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        31,
+        1
+      ],
+      "size": "8 GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://terabox.com/s/1F_1oZO9qH9OKruzCM7sMoQ",
+          "_id": "68e8798015c995261125795d"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "createdAt": "2025-10-10T03:12:00.266Z",
+      "updatedAt": "2025-10-10T03:12:00.266Z",
+      "__v": 0
     }
   ],
   "emulators": [
