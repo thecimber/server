@@ -22886,6 +22886,31 @@
       "createdAt": "2025-10-10T03:12:00.266Z",
       "updatedAt": "2025-10-10T03:12:00.266Z",
       "__v": 0
+    },
+    {
+      "_id": "68f132426336ec46e64ed5b5",
+      "id": "3HhPjM-d",
+      "name": "Pokémon Legends Z-A",
+      "image": "1760637505724-f2d9687d.jpg",
+      "format": 9,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        12
+      ],
+      "size": "4.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://terabox.com/s/15Z7_AmGd4HvnGJ9YgFu6jA",
+          "_id": "68f132426336ec46e64ed5b6"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "createdAt": "2025-10-16T17:58:26.541Z",
+      "updatedAt": "2025-10-16T17:58:26.541Z",
+      "__v": 0
     }
   ],
   "emulators": [
