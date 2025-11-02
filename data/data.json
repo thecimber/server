@@ -10330,7 +10330,7 @@
       "id": "8d9JF9wq",
       "name": "Super Mario 3D All-Stars",
       "image": "Super Mario 3D All-Stars.jpeg",
-      "format": 2,
+      "format": 8,
       "language": "Multi-Idioma",
       "genre": [
         1,
@@ -10339,8 +10339,8 @@
       "size": "5.1 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1xhqjN4D44bYw5qU3h6zdRw",
+          "type": "terabox",
+          "link": "https://terabox.com/s/1McW5mjwUusqP2EybK8pntw",
           "_id": "68e08df59e798a708ef8c734"
         }
       ],
@@ -10348,7 +10348,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2025-10-04T03:01:09.887Z"
+      "updatedAt": "2025-11-02T20:34:59.330Z"
     },
     {
       "_id": "68e08df59e798a708ef8c714",
