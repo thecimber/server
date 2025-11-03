@@ -12665,47 +12665,22 @@
       "updatedAt": "2025-10-04T03:01:09.892Z"
     },
     {
-      "_id": "68e08df59e798a708ef8c78c",
-      "id": "JidwcSBR",
-      "name": "Barony v4.3.1",
-      "image": "LzIAbFEmZR.jpg",
+      "_id": "68e08df59e798a708ef8c78a",
+      "id": "r0XoD7Gu",
+      "name": "Baldi Basics Plus v0.10.1",
+      "image": "SwEQxUgCM7.jpg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        41
+        14,
+        20
       ],
-      "size": "643 Mb",
+      "size": "112 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "ttps://1024terabox.com/s/1Dp30oB56RENsCw5k7qOopA",
-          "_id": "68e08df59e798a708ef8c78d"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:09.892Z",
-      "updatedAt": "2025-10-04T03:01:09.892Z"
-    },
-    {
-      "_id": "68e08df59e798a708ef8c788",
-      "id": "j9kTe4rJ",
-      "name": "Back Pack Battles ",
-      "image": "Back Pack Battles.jpeg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        28,
-        40
-      ],
-      "size": "246 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1qjMdsOgcLRVONsocObrOvA",
-          "_id": "68e08df59e798a708ef8c789"
+          "link": "https://1024terabox.com/s/1siSty0jZYU9QRwISGsMi-Q",
+          "_id": "68e08df59e798a708ef8c78b"
         }
       ],
       "emulatorId": 2,
@@ -12793,22 +12768,22 @@
       "updatedAt": "2025-10-04T03:01:09.892Z"
     },
     {
-      "_id": "68e08df59e798a708ef8c78a",
-      "id": "r0XoD7Gu",
-      "name": "Baldi Basics Plus v0.10.1",
-      "image": "SwEQxUgCM7.jpg",
+      "_id": "68e08df59e798a708ef8c78c",
+      "id": "JidwcSBR",
+      "name": "Barony v4.3.1",
+      "image": "LzIAbFEmZR.jpg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        14,
-        20
+        16,
+        41
       ],
-      "size": "112 Mb",
+      "size": "643 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1siSty0jZYU9QRwISGsMi-Q",
-          "_id": "68e08df59e798a708ef8c78b"
+          "link": "ttps://1024terabox.com/s/1Dp30oB56RENsCw5k7qOopA",
+          "_id": "68e08df59e798a708ef8c78d"
         }
       ],
       "emulatorId": 2,
@@ -14086,23 +14061,23 @@
       "updatedAt": "2025-10-04T03:01:10.636Z"
     },
     {
-      "_id": "68e08df69e798a708ef8c809",
-      "id": "XSZVKrqI",
-      "name": "Fnaf sister location ",
-      "image": "Fnaf sister location.jpeg",
+      "_id": "68e08df69e798a708ef8c80b",
+      "id": "wCHzTamN",
+      "name": "Foundation",
+      "image": "Foundation.jpeg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        14,
-        20,
-        31
+        19,
+        28,
+        40
       ],
-      "size": "926.7 Gb",
+      "size": "2.5 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/17IZxBMsPcY6R-nSlj9jYnw",
-          "_id": "68e08df69e798a708ef8c80a"
+          "link": "https://1024terabox.com/s/1US-l2BzLzETCjmQGXZ-xag",
+          "_id": "68e08df69e798a708ef8c80c"
         }
       ],
       "emulatorId": 2,
@@ -14579,6 +14554,32 @@
       "updatedAt": "2025-10-04T03:01:10.637Z"
     },
     {
+      "_id": "68e08df69e798a708ef8c809",
+      "id": "XSZVKrqI",
+      "name": "Fnaf sister location ",
+      "image": "Fnaf sister location.jpeg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        14,
+        20,
+        31
+      ],
+      "size": "926.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/17IZxBMsPcY6R-nSlj9jYnw",
+          "_id": "68e08df69e798a708ef8c80a"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.637Z",
+      "updatedAt": "2025-10-04T03:01:10.637Z"
+    },
+    {
       "_id": "68e08df69e798a708ef8c7fb",
       "id": "Tmz_dDWs",
       "name": "Fallout 3",
@@ -14596,32 +14597,6 @@
           "type": "Terabox",
           "link": "https://1024terabox.com/s/1vewmcvFp0tJiRlQbh_czQg",
           "_id": "68e08df69e798a708ef8c7fc"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.637Z",
-      "updatedAt": "2025-10-04T03:01:10.637Z"
-    },
-    {
-      "_id": "68e08df69e798a708ef8c80b",
-      "id": "wCHzTamN",
-      "name": "Foundation",
-      "image": "Foundation.jpeg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        19,
-        28,
-        40
-      ],
-      "size": "2.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1US-l2BzLzETCjmQGXZ-xag",
-          "_id": "68e08df69e798a708ef8c80c"
         }
       ],
       "emulatorId": 2,
