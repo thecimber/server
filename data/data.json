@@ -22919,7 +22919,7 @@
       "format": 9,
       "language": "Multi-Idioma",
       "genre": [
-        2
+        47
       ],
       "size": "7.0 Gb",
       "downloadMethods": [
@@ -22932,7 +22932,7 @@
       "emulatorId": 8,
       "captures": [],
       "createdAt": "2025-11-12T18:47:36.832Z",
-      "updatedAt": "2025-11-12T18:47:36.832Z",
+      "updatedAt": "2025-11-12T18:48:23.268Z",
       "__v": 0
     }
   ],
@@ -23463,6 +23463,14 @@
       "name": "Metroidvania",
       "createdAt": "2025-10-04T03:04:22.994Z",
       "updatedAt": "2025-10-04T03:04:22.994Z",
+      "__v": 0
+    },
+    {
+      "_id": "6914d6566336ec46e6510300",
+      "id": 47,
+      "name": "Lucha-anime",
+      "createdAt": "2025-11-12T18:47:50.525Z",
+      "updatedAt": "2025-11-12T18:47:50.525Z",
       "__v": 0
     }
   ],
