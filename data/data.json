@@ -17172,6 +17172,32 @@
       "updatedAt": "2025-10-04T03:01:11.296Z"
     },
     {
+      "_id": "68e08df79e798a708ef8c8e6",
+      "id": "uDjex69j",
+      "name": "Slime Rancher 2",
+      "image": "Slime Rancher .jpeg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        9,
+        19
+      ],
+      "size": "2.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1Tmh7wQftFspDmCsCHv2-mQ",
+          "_id": "68e08df79e798a708ef8c8e7"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.296Z",
+      "updatedAt": "2025-10-04T03:01:11.296Z"
+    },
+    {
       "_id": "68e08df79e798a708ef8c918",
       "id": "kIPKx4K1",
       "name": "The Longing v1.8.0",
@@ -17188,31 +17214,6 @@
           "type": "Terabox",
           "link": "https://1024terabox.com/s/1sRWugUZtKwHKu_QZHwlYig",
           "_id": "68e08df79e798a708ef8c919"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2025-10-04T03:01:11.296Z"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c8e4",
-      "id": "qwAjkEN2",
-      "name": "Slay The Princess v2025.03.05",
-      "image": "Wjw8VlAfjg.jpg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        23,
-        34
-      ],
-      "size": "12.2 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1fhnMzwMKpgPfd0j-l9JjZg",
-          "_id": "68e08df79e798a708ef8c8e5"
         }
       ],
       "emulatorId": 2,
@@ -17629,23 +17630,22 @@
       "updatedAt": "2025-10-04T03:01:11.296Z"
     },
     {
-      "_id": "68e08df79e798a708ef8c8e6",
-      "id": "uDjex69j",
-      "name": "Slime Rancher 2",
-      "image": "Slime Rancher .jpeg",
+      "_id": "68e08df79e798a708ef8c8e4",
+      "id": "qwAjkEN2",
+      "name": "Slay The Princess v2025.03.05",
+      "image": "Wjw8VlAfjg.jpg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        9,
-        19
+        23,
+        34
       ],
-      "size": "2.3 Gb",
+      "size": "12.2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Tmh7wQftFspDmCsCHv2-mQ",
-          "_id": "68e08df79e798a708ef8c8e7"
+          "link": "https://1024terabox.com/s/1fhnMzwMKpgPfd0j-l9JjZg",
+          "_id": "68e08df79e798a708ef8c8e5"
         }
       ],
       "emulatorId": 2,
@@ -20199,31 +20199,6 @@
       "updatedAt": "2025-11-16T00:22:31.773Z"
     },
     {
-      "_id": "68e08df79e798a708ef8c9d9",
-      "id": "dHFFCqeZ",
-      "name": "LEGO Builders Journey",
-      "image": "ty-QUE2AP9.jpg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        44
-      ],
-      "size": "1.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1ve9WiiqTcp66Iv9VKGE1IQ",
-          "_id": "68e08df79e798a708ef8c9da"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2025-10-04T03:01:11.689Z"
-    },
-    {
       "_id": "68e08df79e798a708ef8c9ef",
       "id": "IPjBqOfF",
       "name": "Poppy playtime chapter 4",
@@ -20243,6 +20218,33 @@
         }
       ],
       "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2025-10-04T03:01:11.689Z"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9db",
+      "id": "T18ZVjv4",
+      "name": "LEGO Batman The Videogame",
+      "image": "XWuJ5jNuRu.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        45,
+        44
+      ],
+      "size": "4.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1Men29Fkh5_xDpUMGDGyNEg",
+          "_id": "68e08df79e798a708ef8c9dc"
+        }
+      ],
+      "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.689Z",
@@ -20460,24 +20462,22 @@
       "updatedAt": "2025-10-04T03:01:11.689Z"
     },
     {
-      "_id": "68e08df79e798a708ef8c9db",
-      "id": "T18ZVjv4",
-      "name": "LEGO Batman The Videogame",
-      "image": "XWuJ5jNuRu.jpg",
+      "_id": "68e08df79e798a708ef8c9d9",
+      "id": "dHFFCqeZ",
+      "name": "LEGO Builders Journey",
+      "image": "ty-QUE2AP9.jpg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
         3,
-        45,
         44
       ],
-      "size": "4.1 Gb",
+      "size": "1.5 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Men29Fkh5_xDpUMGDGyNEg",
-          "_id": "68e08df79e798a708ef8c9dc"
+          "link": "https://1024terabox.com/s/1ve9WiiqTcp66Iv9VKGE1IQ",
+          "_id": "68e08df79e798a708ef8c9da"
         }
       ],
       "emulatorId": 2,
@@ -21091,22 +21091,22 @@
       "updatedAt": "2025-10-04T03:01:12.242Z"
     },
     {
-      "_id": "68e08df89e798a708ef8ca4e",
-      "id": "nrjtR9YC",
-      "name": "PAPER MARIO Color Splash (USA)",
-      "image": "eyNJoMCYkD.jpg",
+      "_id": "68e08df89e798a708ef8ca4c",
+      "id": "gFGzVtuv",
+      "name": "PIKMIN 3 (USA) (DLC) (v96)",
+      "image": "flMbLt3sUz.jpg",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        16
+        28,
+        3
       ],
-      "size": "6,7 Gb",
+      "size": "4,2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1pCLTTzcI7ZKn7BT6MLLc-Q",
-          "_id": "68e08df89e798a708ef8ca4f"
+          "link": "https://1024terabox.com/s/1qDwYti6PWcNUCvRdbVDCmg",
+          "_id": "68e08df89e798a708ef8ca4d"
         }
       ],
       "emulatorId": 5,
@@ -21166,22 +21166,22 @@
       "updatedAt": "2025-10-04T03:01:12.242Z"
     },
     {
-      "_id": "68e08df89e798a708ef8ca4c",
-      "id": "gFGzVtuv",
-      "name": "PIKMIN 3 (USA) (DLC) (v96)",
-      "image": "flMbLt3sUz.jpg",
+      "_id": "68e08df89e798a708ef8ca4e",
+      "id": "nrjtR9YC",
+      "name": "PAPER MARIO Color Splash (USA)",
+      "image": "eyNJoMCYkD.jpg",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        28,
-        3
+        7,
+        16
       ],
-      "size": "4,2 Gb",
+      "size": "6,7 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1qDwYti6PWcNUCvRdbVDCmg",
-          "_id": "68e08df89e798a708ef8ca4d"
+          "link": "https://1024terabox.com/s/1pCLTTzcI7ZKn7BT6MLLc-Q",
+          "_id": "68e08df89e798a708ef8ca4f"
         }
       ],
       "emulatorId": 5,
@@ -22506,109 +22506,10 @@
       "updatedAt": "2025-10-04T03:01:12.243Z"
     },
     {
-      "_id": "68e08df89e798a708ef8ca7a",
-      "id": "BHMQxwyy",
-      "name": "Poppy PlayTime Chapter 4 ",
-      "image": "NY3m_pruuU.jpg",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        31
-      ],
-      "size": "1,9 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/1Fx0hATvzSH8RMGHXkI4vUA",
-          "_id": "68e08df89e798a708ef8ca7b"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-10-04T03:01:12.243Z"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca7e",
-      "id": "YYdMuJcq",
-      "name": "Poppy PlayTime Chapter 2",
-      "image": "apmgtzCkfW.jpg",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        31
-      ],
-      "size": "1,2 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://terabox.com/s/1o-a_yJJxVJmBn9mV7OKuYg",
-          "_id": "68e08df89e798a708ef8ca7f"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-11-02T21:12:09.910Z"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca80",
-      "id": "JN8QRODn",
-      "name": "Poppy PlayTime Chapter 3",
-      "image": "D3b1as4L9L.jpg",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        31
-      ],
-      "size": "2,2 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://terabox.com/s/1kpUZsaLn6fvJEx2vSkQxPw",
-          "_id": "68e08df89e798a708ef8ca81"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-11-02T21:12:42.866Z"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca82",
-      "id": "1TZgK5O4",
-      "name": "Hitman Blood Money ",
-      "image": "-ZBnAHt_tj.jpg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        8,
-        30
-      ],
-      "size": "4,0 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1N5hEg8Ubab3XJY71uJtTWQ",
-          "_id": "68e08df89e798a708ef8ca83"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-10-04T03:01:12.243Z"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca84",
-      "id": "zZp_A7gq",
-      "name": "Hitman Contracts",
-      "image": "1WPPkqVdpB.jpg",
+      "_id": "68e08df89e798a708ef8ca8a",
+      "id": "yKaYhI6Z",
+      "name": "Hitman 2016 ",
+      "image": "hMLJrAJP7G.jpg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
@@ -22616,38 +22517,12 @@
         8,
         30
       ],
-      "size": "900 Mb",
+      "size": "45,2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1uk9gD5YuuTEh694IeCUMQQ",
-          "_id": "68e08df89e798a708ef8ca85"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-10-04T03:01:12.243Z"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca86",
-      "id": "78bizS1b",
-      "name": "Hitman 3 Deluxe Edition ",
-      "image": "kulOXyZgfk.jpg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8,
-        30
-      ],
-      "size": "72 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1RwlfjP6wgd19dZUErwp1sw",
-          "_id": "68e08df89e798a708ef8ca87"
+          "link": "https://1024terabox.com/s/1lv1oerJC-k99TIntc7ZhIA",
+          "_id": "68e08df89e798a708ef8ca8b"
         }
       ],
       "emulatorId": 2,
@@ -22683,10 +22558,10 @@
       "updatedAt": "2025-10-04T03:01:12.243Z"
     },
     {
-      "_id": "68e08df89e798a708ef8ca8a",
-      "id": "yKaYhI6Z",
-      "name": "Hitman 2016 ",
-      "image": "hMLJrAJP7G.jpg",
+      "_id": "68e08df89e798a708ef8ca86",
+      "id": "78bizS1b",
+      "name": "Hitman 3 Deluxe Edition ",
+      "image": "kulOXyZgfk.jpg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
@@ -22694,15 +22569,140 @@
         8,
         30
       ],
-      "size": "45,2 Gb",
+      "size": "72 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1lv1oerJC-k99TIntc7ZhIA",
-          "_id": "68e08df89e798a708ef8ca8b"
+          "link": "https://1024terabox.com/s/1RwlfjP6wgd19dZUErwp1sw",
+          "_id": "68e08df89e798a708ef8ca87"
         }
       ],
       "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2025-10-04T03:01:12.243Z"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca84",
+      "id": "zZp_A7gq",
+      "name": "Hitman Contracts",
+      "image": "1WPPkqVdpB.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        8,
+        30
+      ],
+      "size": "900 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1uk9gD5YuuTEh694IeCUMQQ",
+          "_id": "68e08df89e798a708ef8ca85"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2025-10-04T03:01:12.243Z"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca82",
+      "id": "1TZgK5O4",
+      "name": "Hitman Blood Money ",
+      "image": "-ZBnAHt_tj.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        8,
+        30
+      ],
+      "size": "4,0 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1N5hEg8Ubab3XJY71uJtTWQ",
+          "_id": "68e08df89e798a708ef8ca83"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2025-10-04T03:01:12.243Z"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca80",
+      "id": "JN8QRODn",
+      "name": "Poppy PlayTime Chapter 3",
+      "image": "D3b1as4L9L.jpg",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        31
+      ],
+      "size": "2,2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://terabox.com/s/1kpUZsaLn6fvJEx2vSkQxPw",
+          "_id": "68e08df89e798a708ef8ca81"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2025-11-02T21:12:42.866Z"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca7e",
+      "id": "YYdMuJcq",
+      "name": "Poppy PlayTime Chapter 2",
+      "image": "apmgtzCkfW.jpg",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        31
+      ],
+      "size": "1,2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://terabox.com/s/1o-a_yJJxVJmBn9mV7OKuYg",
+          "_id": "68e08df89e798a708ef8ca7f"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2025-11-02T21:12:09.910Z"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca7a",
+      "id": "BHMQxwyy",
+      "name": "Poppy PlayTime Chapter 4 ",
+      "image": "NY3m_pruuU.jpg",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        31
+      ],
+      "size": "1,9 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://terabox.com/s/1Fx0hATvzSH8RMGHXkI4vUA",
+          "_id": "68e08df89e798a708ef8ca7b"
+        }
+      ],
+      "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
@@ -22761,32 +22761,6 @@
       "updatedAt": "2025-10-04T03:01:12.243Z"
     },
     {
-      "_id": "68e08df89e798a708ef8caa4",
-      "id": "HSwsoC80sX",
-      "name": "Hollow Knight SILKSONG",
-      "image": "holsw62672vs.jpeg",
-      "format": 2,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        2,
-        9
-      ],
-      "size": "2.4 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/1aH-LFyRqL9i2CZkRwicpEQ",
-          "_id": "68e08df89e798a708ef8caa5"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-08T03:01:12.243Z",
-      "updatedAt": "2025-10-04T03:01:12.243Z"
-    },
-    {
       "_id": "68e08df89e798a708ef8caa6",
       "id": "riyLrs1T",
       "name": "hollow knight silksong (1.1.5)",
@@ -22811,6 +22785,32 @@
       "__v": 0,
       "createdAt": "2025-10-08T03:01:12.243Z",
       "updatedAt": "2025-11-02T17:29:35.475Z"
+    },
+    {
+      "_id": "68e08df89e798a708ef8caa4",
+      "id": "HSwsoC80sX",
+      "name": "Hollow Knight SILKSONG",
+      "image": "holsw62672vs.jpeg",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        2,
+        9
+      ],
+      "size": "2.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://terabox.com/s/1aH-LFyRqL9i2CZkRwicpEQ",
+          "_id": "68e08df89e798a708ef8caa5"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-08T03:01:12.243Z",
+      "updatedAt": "2025-10-04T03:01:12.243Z"
     },
     {
       "_id": "68e80edf15c9952611256608",
@@ -22958,6 +22958,31 @@
       "captures": [],
       "createdAt": "2025-11-17T23:53:40.598Z",
       "updatedAt": "2025-11-17T23:53:40.598Z",
+      "__v": 0
+    },
+    {
+      "_id": "691c9d9b6336ec46e651c5df",
+      "id": "ovoBUNbw",
+      "name": "Fallout 2",
+      "image": "1763483034838-9bf33a28.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        16,
+        3
+      ],
+      "size": "650 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1NXMc7_pIFO0ZxGVEzqdpsA",
+          "_id": "691c9d9b6336ec46e651c5e0"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "createdAt": "2025-11-18T16:23:55.578Z",
+      "updatedAt": "2025-11-18T16:23:55.578Z",
       "__v": 0
     }
   ],
