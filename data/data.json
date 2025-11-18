@@ -22245,30 +22245,6 @@
       "updatedAt": "2025-10-04T03:01:12.243Z"
     },
     {
-      "_id": "68e08df89e798a708ef8ca7c",
-      "id": "PmhZyr0j",
-      "name": "Poppy PlayTime Chapter 1",
-      "image": "lnutX8xxdn.jpg",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        31
-      ],
-      "size": "1,0 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/160kQ0cilicGPsMgrHBwl9g",
-          "_id": "68e08df89e798a708ef8ca7d"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-10-04T03:01:12.243Z"
-    },
-    {
       "_id": "68e08df89e798a708ef8ca9e",
       "id": "-gSD1um-",
       "name": "Dragon Ball Z: Kakarot Daima Edition ",
@@ -22295,6 +22271,30 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2025-10-04T03:01:12.243Z"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca7e",
+      "id": "YYdMuJcq",
+      "name": "Poppy PlayTime Chapter 2",
+      "image": "apmgtzCkfW.jpg",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        31
+      ],
+      "size": "1,2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://terabox.com/s/1o-a_yJJxVJmBn9mV7OKuYg",
+          "_id": "68e08df89e798a708ef8ca7f"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2025-11-02T21:12:09.910Z"
     },
     {
       "_id": "68e08df89e798a708ef8ca9c",
@@ -22661,28 +22661,28 @@
       "updatedAt": "2025-11-02T21:12:42.866Z"
     },
     {
-      "_id": "68e08df89e798a708ef8ca7e",
-      "id": "YYdMuJcq",
-      "name": "Poppy PlayTime Chapter 2",
-      "image": "apmgtzCkfW.jpg",
+      "_id": "68e08df89e798a708ef8ca7c",
+      "id": "PmhZyr0j",
+      "name": "Poppy PlayTime Chapter 1",
+      "image": "lnutX8xxdn.jpg",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
         31
       ],
-      "size": "1,2 Gb",
+      "size": "1,0 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://terabox.com/s/1o-a_yJJxVJmBn9mV7OKuYg",
-          "_id": "68e08df89e798a708ef8ca7f"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/160kQ0cilicGPsMgrHBwl9g",
+          "_id": "68e08df89e798a708ef8ca7d"
         }
       ],
       "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-11-02T21:12:09.910Z"
+      "updatedAt": "2025-10-04T03:01:12.243Z"
     },
     {
       "_id": "68e08df89e798a708ef8ca7a",
@@ -22983,6 +22983,33 @@
       "captures": [],
       "createdAt": "2025-11-18T16:23:55.578Z",
       "updatedAt": "2025-11-18T16:23:55.578Z",
+      "__v": 0
+    },
+    {
+      "_id": "691c9e1b6336ec46e651db22",
+      "id": "B681ADvm",
+      "name": "Fallout 4 ",
+      "image": "1763483162531-f04ed1eb.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        11,
+        12,
+        16,
+        30
+      ],
+      "size": "34 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/14G3lKH_AVmohxVw50k8xIQ",
+          "_id": "691c9e1b6336ec46e651db23"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "createdAt": "2025-11-18T16:26:03.297Z",
+      "updatedAt": "2025-11-18T16:26:03.297Z",
       "__v": 0
     }
   ],
