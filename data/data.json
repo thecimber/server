@@ -23317,6 +23317,28 @@
       "createdAt": "2025-09-07T05:06:01.756Z",
       "updatedAt": "2025-09-07T05:06:01.756Z",
       "deleted": false
+    },
+    {
+      "_id": "68e02df79e798o508ef8d3d1",
+      "id": "dL1kFBPd",
+      "name": "ManEater",
+      "image": "maneater.jpeg",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [2, 12, 19],
+      "size": "3.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://terabox.com/s/1Ysj6fgrCTB8R0_G-OKiHpQ",
+          "_id": "68i08df71e728e608ef7c9d2"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-12-15T00:00:00.000Z",
+      "updatedAt": "2025-12-15T00:00:00.000Z"
     }
   ],
   "genres": [
