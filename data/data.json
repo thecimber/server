@@ -12050,22 +12050,22 @@
       "updatedAt": "2025-10-04T03:01:09.887Z"
     },
     {
-      "_id": "68e08df59e798a708ef8c760",
-      "id": "cjBPpuea",
-      "name": "Wild Bastards",
-      "image": "Wild Bastards.jpeg",
+      "_id": "68e08df59e798a708ef8c768",
+      "id": "GKT6YUZe",
+      "name": "XIII",
+      "image": "XIII.jpeg",
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        30
+        11
       ],
-      "size": "2.4 Gb",
+      "size": "7.7 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1F2PEzGA8To315r6ZvTovZw",
-          "_id": "68e08df59e798a708ef8c761"
+          "link": "https://1024terabox.com/s/1Hizpg61Gy_44rBRfigtqmA",
+          "_id": "68e08df59e798a708ef8c769"
         }
       ],
       "emulatorId": 8,
@@ -12462,22 +12462,22 @@
       "updatedAt": "2025-10-04T03:01:09.891Z"
     },
     {
-      "_id": "68e08df59e798a708ef8c768",
-      "id": "GKT6YUZe",
-      "name": "XIII",
-      "image": "XIII.jpeg",
+      "_id": "68e08df59e798a708ef8c760",
+      "id": "cjBPpuea",
+      "name": "Wild Bastards",
+      "image": "Wild Bastards.jpeg",
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        11
+        30
       ],
-      "size": "7.7 Gb",
+      "size": "2.4 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Hizpg61Gy_44rBRfigtqmA",
-          "_id": "68e08df59e798a708ef8c769"
+          "link": "https://1024terabox.com/s/1F2PEzGA8To315r6ZvTovZw",
+          "_id": "68e08df59e798a708ef8c761"
         }
       ],
       "emulatorId": 8,
@@ -15562,32 +15562,6 @@
       "updatedAt": "2025-10-04T03:01:11.293Z"
     },
     {
-      "_id": "68e08df79e798a708ef8c8be",
-      "id": "2PC5MXyS",
-      "name": "Resident evil village",
-      "image": "Resident evil village.jpeg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        14,
-        31
-      ],
-      "size": "34.2 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/14MN2ZHOInqsE7bLLMJh8NQ",
-          "_id": "68e08df79e798a708ef8c8bf"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2025-10-04T03:01:11.293Z"
-    },
-    {
       "_id": "68e08df79e798a708ef8c89a",
       "id": "DgohfHWa",
       "name": "Portal 2",
@@ -15605,6 +15579,32 @@
           "type": "Terabox",
           "link": "https://1024terabox.com/s/1DUk58VbtKFE-ALDyOIHu4Q",
           "_id": "68e08df79e798a708ef8c89b"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2025-10-04T03:01:11.293Z"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c8be",
+      "id": "2PC5MXyS",
+      "name": "Resident evil village",
+      "image": "Resident evil village.jpeg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        14,
+        31
+      ],
+      "size": "34.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/14MN2ZHOInqsE7bLLMJh8NQ",
+          "_id": "68e08df79e798a708ef8c8bf"
         }
       ],
       "emulatorId": 2,
@@ -16176,23 +16176,22 @@
       "updatedAt": "2025-10-04T03:01:11.293Z"
     },
     {
-      "_id": "68e08df79e798a708ef8c8aa",
-      "id": "5x0p3IpP",
-      "name": "Rain World Remix Now Available",
-      "image": "Rain World Remix Now Available.jpeg",
+      "_id": "68e08df79e798a708ef8c8a4",
+      "id": "9Nz5zX2x",
+      "name": "Pushing it! Together - Sisyphus Co-op",
+      "image": "Pushing it! Together - Sisyphus Co-op.jpeg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         1,
-        3,
-        32
+        17
       ],
-      "size": "5.3 Gb",
+      "size": "1.4 gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1ZIBWdYJjWBXDyXWBr1oGyQ",
-          "_id": "68e08df79e798a708ef8c8ab"
+          "link": "https://1024terabox.com/s/1qByLgEz3BMaGMoWFlpYn5A",
+          "_id": "68e08df79e798a708ef8c8a5"
         }
       ],
       "emulatorId": 2,
@@ -16227,22 +16226,23 @@
       "updatedAt": "2025-10-04T03:01:11.293Z"
     },
     {
-      "_id": "68e08df79e798a708ef8c8a4",
-      "id": "9Nz5zX2x",
-      "name": "Pushing it! Together - Sisyphus Co-op",
-      "image": "Pushing it! Together - Sisyphus Co-op.jpeg",
+      "_id": "68e08df79e798a708ef8c8aa",
+      "id": "5x0p3IpP",
+      "name": "Rain World Remix Now Available",
+      "image": "Rain World Remix Now Available.jpeg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         1,
-        17
+        3,
+        32
       ],
-      "size": "1.4 gb",
+      "size": "5.3 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1qByLgEz3BMaGMoWFlpYn5A",
-          "_id": "68e08df79e798a708ef8c8a5"
+          "link": "https://1024terabox.com/s/1ZIBWdYJjWBXDyXWBr1oGyQ",
+          "_id": "68e08df79e798a708ef8c8ab"
         }
       ],
       "emulatorId": 2,
@@ -20972,33 +20972,6 @@
       "updatedAt": "2025-10-04T03:01:12.242Z"
     },
     {
-      "_id": "68e08df89e798a708ef8ca76",
-      "id": "zTUu_RIg",
-      "name": "Red dead Redemption ",
-      "image": "As0l6mqezX.jpg",
-      "format": 2,
-      "language": "Multi-Idioma",
-      "genre": [
-        9,
-        12,
-        35,
-        7
-      ],
-      "size": "12,5 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1nkbH9Et7bSbwbmlofcVgAA",
-          "_id": "68e08df89e798a708ef8ca77"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
       "_id": "68e08df89e798a708ef8ca26",
       "id": "xBDsf7px",
       "name": "Monster Hunter 3 Ultimate",
@@ -21018,6 +20991,32 @@
         }
       ],
       "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca78",
+      "id": "RyNm0snU",
+      "name": "Subnautica ",
+      "image": "w2E-3pN4Sp.jpg",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        12,
+        31,
+        9
+      ],
+      "size": "2,3 Gb [8,1 Mb]",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1ULXowHtpA_23vTrR-yRfkQ",
+          "_id": "68e08df89e798a708ef8ca79"
+        }
+      ],
+      "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
@@ -21619,26 +21618,27 @@
       "updatedAt": "2025-10-04T03:01:12.242Z"
     },
     {
-      "_id": "68e08df89e798a708ef8ca78",
-      "id": "RyNm0snU",
-      "name": "Subnautica ",
-      "image": "w2E-3pN4Sp.jpg",
-      "format": 6,
+      "_id": "68e08df89e798a708ef8ca76",
+      "id": "zTUu_RIg",
+      "name": "Red dead Redemption ",
+      "image": "As0l6mqezX.jpg",
+      "format": 2,
       "language": "Multi-Idioma",
       "genre": [
+        9,
         12,
-        31,
-        9
+        35,
+        7
       ],
-      "size": "2,3 Gb [8,1 Mb]",
+      "size": "12,5 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1ULXowHtpA_23vTrR-yRfkQ",
-          "_id": "68e08df89e798a708ef8ca79"
+          "link": "https://1024terabox.com/s/1nkbH9Et7bSbwbmlofcVgAA",
+          "_id": "68e08df89e798a708ef8ca77"
         }
       ],
-      "emulatorId": 10,
+      "emulatorId": 8,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
@@ -23241,6 +23241,32 @@
       "captures": [],
       "createdAt": "2025-12-30T03:33:33.116Z",
       "updatedAt": "2025-12-30T03:33:33.116Z",
+      "__v": 0
+    },
+    {
+      "_id": "69534870bfae0fe5e82a2bd8",
+      "id": "KZDYmmHL",
+      "name": "Car Dealer Simulator ",
+      "image": "1767065712276-da15699e.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        19,
+        12,
+        42
+      ],
+      "size": "16 GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://terabox.com/s/1LUg8xBCAt-ZSfAz6jXk_qg",
+          "_id": "69534870bfae0fe5e82a2bd9"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "createdAt": "2025-12-30T03:35:12.846Z",
+      "updatedAt": "2025-12-30T03:35:12.846Z",
       "__v": 0
     }
   ],
