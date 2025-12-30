@@ -23277,7 +23277,8 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        30
+        30,
+        48
       ],
       "size": "6.5 Gb",
       "downloadMethods": [
@@ -23290,7 +23291,7 @@
       "emulatorId": 2,
       "captures": [],
       "createdAt": "2025-12-30T18:11:34.752Z",
-      "updatedAt": "2025-12-30T18:11:34.752Z",
+      "updatedAt": "2025-12-30T18:12:36.543Z",
       "__v": 0
     }
   ],
@@ -23829,6 +23830,14 @@
       "name": "Lucha-anime",
       "createdAt": "2025-11-12T18:47:50.525Z",
       "updatedAt": "2025-11-12T18:47:50.525Z",
+      "__v": 0
+    },
+    {
+      "_id": "69541606bfae0fe5e82a46e6",
+      "id": 48,
+      "name": "zombies",
+      "createdAt": "2025-12-30T18:12:22.897Z",
+      "updatedAt": "2025-12-30T18:12:22.897Z",
       "__v": 0
     }
   ],
