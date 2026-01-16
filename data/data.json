@@ -15552,30 +15552,31 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c85d",
-      "id": "d907BFHK",
-      "name": "Manhunt 2",
-      "image": "Manhunt 2.jpeg",
+      "_id": "68e08df69e798a708ef8c84f",
+      "id": "xRQbzVMa",
+      "name": "Lego Batman 2 Dc Super Heroes ",
+      "image": "Lego Batman 2 Dc Super Heroes.jpeg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        8,
-        31
+        3,
+        7,
+        44,
+        45
       ],
-      "size": "5.0 Gb",
+      "size": "3.2 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/13P7xdFcaSWUFieuKuWAVFg",
-          "_id": "68e08df69e798a708ef8c85e"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1KYwOLeuyuSIa-t7f0Ta41A",
+          "_id": "68e08df69e798a708ef8c850"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2025-10-04T03:01:10.638Z"
+      "updatedAt": "2026-01-13T22:13:47.572Z"
     },
     {
       "isUpdate": false,
@@ -15656,34 +15657,6 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
       "updatedAt": "2025-11-24T05:50:42.631Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c84f",
-      "id": "xRQbzVMa",
-      "name": "Lego Batman 2 Dc Super Heroes ",
-      "image": "Lego Batman 2 Dc Super Heroes.jpeg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        7,
-        44,
-        45
-      ],
-      "size": "3.2 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1KYwOLeuyuSIa-t7f0Ta41A",
-          "_id": "68e08df69e798a708ef8c850"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-01-13T22:13:47.572Z"
     },
     {
       "isUpdate": false,
@@ -15794,30 +15767,30 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c827",
-      "id": "_hpWUd-c",
-      "name": "Gunbrella",
-      "image": "Gunbrella.jpeg",
+      "_id": "68e08df69e798a708ef8c84b",
+      "id": "QUjjpJ9g",
+      "name": "Left 4 Dead 1",
+      "image": "Left 4 Dead 1.jpeg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        7,
-        32
+        11,
+        17
       ],
-      "size": "320 Mb",
+      "size": "4.0 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1kk-K2mHTcVrATXqumTizRw",
-          "_id": "68e08df69e798a708ef8c828"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/11L32BLVfCdj6bmm8dMlUZQ",
+          "_id": "68e08df69e798a708ef8c84c"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2025-11-24T05:45:48.774Z"
+      "updatedAt": "2025-10-04T03:01:10.638Z"
     },
     {
       "isUpdate": false,
@@ -15848,63 +15821,10 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c859",
-      "id": "LD86uZ3H",
-      "name": "Lords of the Fallen ",
-      "image": "Lords of the Fallen.jpeg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        16,
-        36,
-        37
-      ],
-      "size": "undefined",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/19BxdLpiykqNcqygXjDCKeg",
-          "_id": "68e08df69e798a708ef8c85a"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2025-10-04T03:01:10.638Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c82d",
-      "id": "yjRhNxjp",
-      "name": "Hearts Of Iron IV",
-      "image": "Hearts Of Iron IV.jpeg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        28,
-        19
-      ],
-      "size": "5.4 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1k6lg6Q52gsVA012mOweeKA",
-          "_id": "68e08df69e798a708ef8c82e"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2025-11-24T05:49:57.419Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c85b",
-      "id": "fytMiaO2",
-      "name": "Manhunt 1",
-      "image": "Manhunt 1.jpeg",
+      "_id": "68e08df69e798a708ef8c85d",
+      "id": "d907BFHK",
+      "name": "Manhunt 2",
+      "image": "Manhunt 2.jpeg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
@@ -15917,34 +15837,7 @@
         {
           "type": "Terabox",
           "link": "https://1024terabox.com/s/13P7xdFcaSWUFieuKuWAVFg",
-          "_id": "68e08df69e798a708ef8c85c"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2025-10-04T03:01:10.638Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c83b",
-      "id": "6LVGEIcv",
-      "name": "How To Survive 2",
-      "image": "GEnKOviTuI.jpeg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        14,
-        21
-      ],
-      "size": "2.7 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Ys8bPLCllgOQt9Z9c3y1hg",
-          "_id": "68e08df69e798a708ef8c83c"
+          "_id": "68e08df69e798a708ef8c85e"
         }
       ],
       "emulatorId": 2,
@@ -15982,23 +15875,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c84b",
-      "id": "QUjjpJ9g",
-      "name": "Left 4 Dead 1",
-      "image": "Left 4 Dead 1.jpeg",
+      "_id": "68e08df69e798a708ef8c83b",
+      "id": "6LVGEIcv",
+      "name": "How To Survive 2",
+      "image": "GEnKOviTuI.jpeg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        11,
-        17
+        14,
+        21
       ],
-      "size": "4.0 Gb",
+      "size": "2.7 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/11L32BLVfCdj6bmm8dMlUZQ",
-          "_id": "68e08df69e798a708ef8c84c"
+          "link": "https://1024terabox.com/s/1Ys8bPLCllgOQt9Z9c3y1hg",
+          "_id": "68e08df69e798a708ef8c83c"
         }
       ],
       "emulatorId": 2,
@@ -16006,6 +15899,113 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
       "updatedAt": "2025-10-04T03:01:10.638Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c85b",
+      "id": "fytMiaO2",
+      "name": "Manhunt 1",
+      "image": "Manhunt 1.jpeg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        8,
+        31
+      ],
+      "size": "5.0 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/13P7xdFcaSWUFieuKuWAVFg",
+          "_id": "68e08df69e798a708ef8c85c"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.638Z",
+      "updatedAt": "2025-10-04T03:01:10.638Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c82d",
+      "id": "yjRhNxjp",
+      "name": "Hearts Of Iron IV",
+      "image": "Hearts Of Iron IV.jpeg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        28,
+        19
+      ],
+      "size": "5.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1k6lg6Q52gsVA012mOweeKA",
+          "_id": "68e08df69e798a708ef8c82e"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.638Z",
+      "updatedAt": "2025-11-24T05:49:57.419Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c859",
+      "id": "LD86uZ3H",
+      "name": "Lords of the Fallen ",
+      "image": "Lords of the Fallen.jpeg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        16,
+        36,
+        37
+      ],
+      "size": "undefined",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/19BxdLpiykqNcqygXjDCKeg",
+          "_id": "68e08df69e798a708ef8c85a"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.638Z",
+      "updatedAt": "2025-10-04T03:01:10.638Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c827",
+      "id": "_hpWUd-c",
+      "name": "Gunbrella",
+      "image": "Gunbrella.jpeg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        7,
+        32
+      ],
+      "size": "320 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1kk-K2mHTcVrATXqumTizRw",
+          "_id": "68e08df69e798a708ef8c828"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.638Z",
+      "updatedAt": "2025-11-24T05:45:48.774Z"
     },
     {
       "isUpdate": false,
@@ -16064,22 +16064,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c866",
-      "id": "WitqA4DJ",
-      "name": "MechaBellum",
-      "image": "MechaBellum.jpeg",
+      "_id": "68e08df79e798a708ef8c864",
+      "id": "n-3-E_j0",
+      "name": "Marvel vs Capcom Fighting Collection Arcade Classics",
+      "image": "nCgJaZCc3y.jpeg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        28
+        10,
+        24,
+        45
       ],
-      "size": "5.1 Gb",
+      "size": "3.6 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1aKJnDp1n-9-9KNYO_a_gPg",
-          "_id": "68e08df79e798a708ef8c867"
+          "link": "https://1024terabox.com/s/18604YddSTrxusoS6W949TQ",
+          "_id": "68e08df79e798a708ef8c865"
         }
       ],
       "emulatorId": 2,
@@ -16117,23 +16118,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c864",
-      "id": "n-3-E_j0",
-      "name": "Marvel vs Capcom Fighting Collection Arcade Classics",
-      "image": "nCgJaZCc3y.jpeg",
+      "_id": "68e08df79e798a708ef8c866",
+      "id": "WitqA4DJ",
+      "name": "MechaBellum",
+      "image": "MechaBellum.jpeg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        24,
-        45
+        2,
+        28
       ],
-      "size": "3.6 Gb",
+      "size": "5.1 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/18604YddSTrxusoS6W949TQ",
-          "_id": "68e08df79e798a708ef8c865"
+          "link": "https://1024terabox.com/s/1aKJnDp1n-9-9KNYO_a_gPg",
+          "_id": "68e08df79e798a708ef8c867"
         }
       ],
       "emulatorId": 2,
@@ -16141,113 +16141,6 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.292Z",
       "updatedAt": "2025-10-04T03:01:11.292Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c8c2",
-      "id": "hz29Jppe",
-      "name": "Risk of Rain 2",
-      "image": "Risk of Rain 2.jpeg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        16,
-        27
-      ],
-      "size": "2.0 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1zmRp0k-8K9Enh4M4GX5SXQ",
-          "_id": "68e08df79e798a708ef8c8c3"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2025-10-04T03:01:11.293Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c87e",
-      "id": "gMRAjEXC",
-      "name": "Need For Speed Most Wanted 2012",
-      "image": "Need For Speed Most Wanted 2012.jpeg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        13,
-        42
-      ],
-      "size": "7.9 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1dzPzHYtCOYHlyvmCtF1gMQ",
-          "_id": "68e08df79e798a708ef8c87f"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2025-10-04T03:01:11.293Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c89a",
-      "id": "DgohfHWa",
-      "name": "Portal 2",
-      "image": "Portal 2.jpeg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        7,
-        17
-      ],
-      "size": "15.0 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1DUk58VbtKFE-ALDyOIHu4Q",
-          "_id": "68e08df79e798a708ef8c89b"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2025-10-04T03:01:11.293Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c8ac",
-      "id": "cTjWAFuj",
-      "name": "Rayman Legends ",
-      "image": "Rayman Legends.jpeg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        3,
-        32
-      ],
-      "size": "4.0 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1eQZUtX9WpdZOAOTNqXJhIQ",
-          "_id": "68e08df79e798a708ef8c8ad"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2025-10-04T03:01:11.293Z"
     },
     {
       "isUpdate": false,
@@ -16295,6 +16188,113 @@
           "type": "Terabox",
           "link": "https://1024terabox.com/s/1yX0BGCCUl5gQ0Hrx-i5Xxg",
           "_id": "68e08df79e798a708ef8c8b7"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2025-10-04T03:01:11.293Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c89a",
+      "id": "DgohfHWa",
+      "name": "Portal 2",
+      "image": "Portal 2.jpeg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        7,
+        17
+      ],
+      "size": "15.0 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1DUk58VbtKFE-ALDyOIHu4Q",
+          "_id": "68e08df79e798a708ef8c89b"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2025-10-04T03:01:11.293Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c87e",
+      "id": "gMRAjEXC",
+      "name": "Need For Speed Most Wanted 2012",
+      "image": "Need For Speed Most Wanted 2012.jpeg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        42
+      ],
+      "size": "7.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1dzPzHYtCOYHlyvmCtF1gMQ",
+          "_id": "68e08df79e798a708ef8c87f"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2025-10-04T03:01:11.293Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c8c2",
+      "id": "hz29Jppe",
+      "name": "Risk of Rain 2",
+      "image": "Risk of Rain 2.jpeg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        16,
+        27
+      ],
+      "size": "2.0 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1zmRp0k-8K9Enh4M4GX5SXQ",
+          "_id": "68e08df79e798a708ef8c8c3"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2025-10-04T03:01:11.293Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c8ac",
+      "id": "cTjWAFuj",
+      "name": "Rayman Legends ",
+      "image": "Rayman Legends.jpeg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        3,
+        32
+      ],
+      "size": "4.0 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1eQZUtX9WpdZOAOTNqXJhIQ",
+          "_id": "68e08df79e798a708ef8c8ad"
         }
       ],
       "emulatorId": 2,
@@ -16624,22 +16624,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c882",
-      "id": "YcpJhg-Z",
-      "name": "Need For Speed Shift ",
-      "image": "Need For Speed Shift .jpeg",
+      "_id": "68e08df79e798a708ef8c86c",
+      "id": "domp5rX_",
+      "name": "Minecraft Story Mode Season Two The Complete Adventure (2)",
+      "image": "Minecraft Story Mode Season Two The Complete Adventure (2).jpeg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        13,
-        42
+        3,
+        7,
+        23
       ],
-      "size": "5.3 Gb",
+      "size": "6.6 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1jFipCsNTZcgMnDtAqCPaZQ",
-          "_id": "68e08df79e798a708ef8c883"
+          "link": "https://1024terabox.com/s/1RTO26gFYR9geUBmdmXK5mQ",
+          "_id": "68e08df79e798a708ef8c86d"
         }
       ],
       "emulatorId": 2,
@@ -16860,23 +16861,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c86c",
-      "id": "domp5rX_",
-      "name": "Minecraft Story Mode Season Two The Complete Adventure (2)",
-      "image": "Minecraft Story Mode Season Two The Complete Adventure (2).jpeg",
+      "_id": "68e08df79e798a708ef8c882",
+      "id": "YcpJhg-Z",
+      "name": "Need For Speed Shift ",
+      "image": "Need For Speed Shift .jpeg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        7,
-        23
+        13,
+        42
       ],
-      "size": "6.6 Gb",
+      "size": "5.3 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1RTO26gFYR9geUBmdmXK5mQ",
-          "_id": "68e08df79e798a708ef8c86d"
+          "link": "https://1024terabox.com/s/1jFipCsNTZcgMnDtAqCPaZQ",
+          "_id": "68e08df79e798a708ef8c883"
         }
       ],
       "emulatorId": 2,
@@ -20620,31 +20620,30 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c9bd",
-      "id": "gtVZse3P",
-      "name": "RED DEAD REDEMPTION ",
-      "image": "BrCpqqiVum.jpg",
+      "_id": "68e08df79e798a708ef8c9cb",
+      "id": "l7vimg74",
+      "name": "LEGO 2KDRIVE ",
+      "image": "o9rJB4VOR7.jpg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        3,
         12,
-        39
+        13,
+        44
       ],
-      "size": "9 Gb",
+      "size": "12 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Cgvzv12o2yDPc48hArVZBg",
-          "_id": "68e08df79e798a708ef8c9be"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1oShyzPbBm_YHFCTRE3gmcg",
+          "_id": "68e08df79e798a708ef8c9cc"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2025-10-04T03:01:11.688Z"
+      "updatedAt": "2025-11-24T05:57:35.868Z"
     },
     {
       "isUpdate": false,
@@ -20676,30 +20675,31 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c9cb",
-      "id": "l7vimg74",
-      "name": "LEGO 2KDRIVE ",
-      "image": "o9rJB4VOR7.jpg",
+      "_id": "68e08df79e798a708ef8c9bd",
+      "id": "gtVZse3P",
+      "name": "RED DEAD REDEMPTION ",
+      "image": "BrCpqqiVum.jpg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        2,
+        3,
         12,
-        13,
-        44
+        39
       ],
-      "size": "12 Gb",
+      "size": "9 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1oShyzPbBm_YHFCTRE3gmcg",
-          "_id": "68e08df79e798a708ef8c9cc"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1Cgvzv12o2yDPc48hArVZBg",
+          "_id": "68e08df79e798a708ef8c9be"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2025-11-24T05:57:35.868Z"
+      "updatedAt": "2025-10-04T03:01:11.688Z"
     },
     {
       "isUpdate": false,
@@ -23703,33 +23703,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8caa2",
-      "id": "HfgSrewpd",
-      "name": "Hollow Knight SILKSONG",
-      "image": "hol34221423.png",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        2,
-        9
-      ],
-      "size": "1.9 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/1EZOSJFrJC7jM0cq_9Mm-9Q",
-          "_id": "68e08df89e798a708ef8caa3"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-08T03:01:12.243Z",
-      "updatedAt": "2025-10-04T03:01:12.243Z"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8caa4",
       "id": "HSwsoC80sX",
       "name": "Hollow Knight SILKSONG",
@@ -23750,6 +23723,33 @@
         }
       ],
       "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-08T03:01:12.243Z",
+      "updatedAt": "2025-10-04T03:01:12.243Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8caa2",
+      "id": "HfgSrewpd",
+      "name": "Hollow Knight SILKSONG",
+      "image": "hol34221423.png",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        2,
+        9
+      ],
+      "size": "1.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://terabox.com/s/1EZOSJFrJC7jM0cq_9Mm-9Q",
+          "_id": "68e08df89e798a708ef8caa3"
+        }
+      ],
+      "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-08T03:01:12.243Z",
@@ -24366,6 +24366,34 @@
       "updatedAt": "2026-01-16T05:01:36.721Z",
       "__v": 0,
       "isUpdate": true
+    },
+    {
+      "_id": "6969d78fc2b3eda099cb09f5",
+      "id": "zqgqM_rn",
+      "name": "Marvel Spider-Man Miles Morales ",
+      "image": "1768544143114-b963b4df.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        45,
+        12,
+        10
+      ],
+      "size": "38 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/17QswWfCaU9eMXZJAMVpJZQ",
+          "_id": "6969d78fc2b3eda099cb09f6"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-01-16T06:15:43.778Z",
+      "updatedAt": "2026-01-16T06:15:43.778Z",
+      "__v": 0
     }
   ],
   "emulators": [
