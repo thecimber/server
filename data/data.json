@@ -18554,7 +18554,6 @@
       "updatedAt": "2025-10-04T03:01:11.296Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c922",
       "id": "KhTcnOLW",
       "name": "The Walking Dead A New Frontier (The Telltale Series)",
@@ -18577,7 +18576,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2025-11-12T04:31:31.988Z"
+      "updatedAt": "2026-01-18T00:56:53.521Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
