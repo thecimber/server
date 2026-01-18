@@ -24125,7 +24125,6 @@
       "isUpdate": false
     },
     {
-      "isUpdate": false,
       "_id": "69534870bfae0fe5e82a2bd8",
       "id": "KZDYmmHL",
       "name": "Car Dealer Simulator ",
@@ -24148,8 +24147,9 @@
       "emulatorId": 2,
       "captures": [],
       "createdAt": "2025-12-30T03:35:12.846Z",
-      "updatedAt": "2025-12-30T03:35:12.846Z",
-      "__v": 0
+      "updatedAt": "2026-01-18T01:07:31.784Z",
+      "__v": 0,
+      "isUpdate": true
     },
     {
       "isUpdate": false,
