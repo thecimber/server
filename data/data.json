@@ -14800,7 +14800,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c821",
       "id": "OWVgWOr_",
       "name": "Grand Theft Auto San Andreas The Definitive Edition [GTA]",
@@ -14824,7 +14823,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.637Z",
-      "updatedAt": "2025-11-21T08:16:24.518Z"
+      "updatedAt": "2026-01-18T01:03:31.584Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
