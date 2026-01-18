@@ -15068,7 +15068,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c815",
       "id": "c1U25b6K",
       "name": "Going Medieval ",
@@ -15092,7 +15091,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.637Z",
-      "updatedAt": "2025-11-18T16:27:44.613Z"
+      "updatedAt": "2026-01-18T01:02:51.005Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
