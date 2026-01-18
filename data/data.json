@@ -23220,7 +23220,6 @@
       "updatedAt": "2025-10-04T03:01:12.243Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca88",
       "id": "H1J6s4jo",
       "name": "Hitman 2 Silent Assassin ",
@@ -23244,7 +23243,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-11-24T05:51:07.366Z"
+      "updatedAt": "2026-01-18T01:05:15.226Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
