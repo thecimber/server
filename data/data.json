@@ -14610,7 +14610,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7f9",
       "id": "N2iHiuA6",
       "name": "Fallout 1 ",
@@ -14634,7 +14633,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.636Z",
-      "updatedAt": "2025-11-18T16:22:21.881Z"
+      "updatedAt": "2026-01-18T01:01:42.165Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
