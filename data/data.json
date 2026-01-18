@@ -15015,7 +15015,6 @@
       "updatedAt": "2025-11-24T18:18:21.040Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c80b",
       "id": "wCHzTamN",
       "name": "Foundation",
@@ -15039,7 +15038,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.637Z",
-      "updatedAt": "2025-11-18T16:26:39.288Z"
+      "updatedAt": "2026-01-18T01:02:17.937Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
