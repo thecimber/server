@@ -20650,7 +20650,6 @@
       "updatedAt": "2025-10-04T03:01:11.688Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9d1",
       "id": "JL0jFBPg",
       "name": "LEGO HARRY POTTER COLLECTION ",
@@ -20675,7 +20674,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2026-01-13T22:11:58.467Z"
+      "updatedAt": "2026-01-18T01:09:43.514Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
