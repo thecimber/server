@@ -21231,7 +21231,6 @@
       "updatedAt": "2025-10-04T03:01:11.689Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9df",
       "id": "nwjO7MgN",
       "name": "DOOM ETERNAL ",
@@ -21255,7 +21254,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2025-11-12T04:28:48.658Z"
+      "updatedAt": "2026-01-18T00:53:27.479Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
