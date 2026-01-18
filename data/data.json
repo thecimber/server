@@ -20678,7 +20678,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9c9",
       "id": "nm_Vjo5X",
       "name": "LEGO MARVEL SUPER HEROES 2",
@@ -20704,7 +20703,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2026-01-13T22:15:16.874Z"
+      "updatedAt": "2026-01-18T01:11:33.419Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
