@@ -20986,7 +20986,6 @@
       "updatedAt": "2026-01-13T22:13:24.540Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9e9",
       "id": "-g4hlIIL",
       "name": "LEGO MARVEL AVENGERS",
@@ -21012,7 +21011,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-01-13T22:12:59.512Z"
+      "updatedAt": "2026-01-18T01:10:10.601Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c9d9",
