@@ -15605,7 +15605,6 @@
       "updatedAt": "2025-10-04T03:01:10.638Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c829",
       "id": "Qkix-nai",
       "name": "Hades v1.38290",
@@ -15629,7 +15628,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2025-11-24T05:46:15.073Z"
+      "updatedAt": "2026-01-18T01:04:12.316Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
