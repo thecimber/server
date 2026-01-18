@@ -14583,7 +14583,6 @@
       "updatedAt": "2025-10-04T03:01:10.636Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7f5",
       "id": "dR5ytbtp",
       "name": "Fabledom",
@@ -14607,7 +14606,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.636Z",
-      "updatedAt": "2025-11-18T16:22:07.629Z"
+      "updatedAt": "2026-01-18T01:01:33.394Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
