@@ -15122,7 +15122,6 @@
       "updatedAt": "2025-11-18T16:28:59.695Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7ff",
       "id": "Bu4ei4AW",
       "name": "Fallout New Vegas ",
@@ -15146,7 +15145,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.637Z",
-      "updatedAt": "2025-11-18T16:26:24.716Z"
+      "updatedAt": "2026-01-18T01:02:07.880Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
