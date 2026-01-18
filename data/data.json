@@ -23113,7 +23113,6 @@
       "updatedAt": "2025-10-04T03:01:12.242Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca8c",
       "id": "co_-vGVd",
       "name": "Hitman Codename 47 ",
@@ -23137,7 +23136,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-11-24T05:52:31.289Z"
+      "updatedAt": "2026-01-18T01:05:35.463Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
