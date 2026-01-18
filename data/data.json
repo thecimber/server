@@ -20510,7 +20510,6 @@
       "updatedAt": "2025-10-04T03:01:11.680Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9d3",
       "id": "CsIJZJVZ",
       "name": "LEGO Indiana Jones 2: The Adventure Continues",
@@ -20535,7 +20534,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2026-01-13T22:12:22.405Z"
+      "updatedAt": "2026-01-18T01:09:55.025Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c9cb",
