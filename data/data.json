@@ -20929,7 +20929,6 @@
       "updatedAt": "2025-10-04T03:01:11.688Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9d7",
       "id": "4F40y8Bd",
       "name": "LEGO Horizon Adventures ",
@@ -20953,7 +20952,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2025-11-24T05:54:53.813Z"
+      "updatedAt": "2026-01-18T01:06:10.756Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
