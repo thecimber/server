@@ -20046,7 +20046,6 @@
       "updatedAt": "2025-10-04T03:01:11.680Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c98b",
       "id": "1yqSEDqv",
       "name": "Bayonetta",
@@ -20071,7 +20070,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2025-11-05T05:14:48.741Z"
+      "updatedAt": "2026-01-18T00:49:06.926Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
