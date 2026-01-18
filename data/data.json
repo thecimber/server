@@ -20818,7 +20818,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9c3",
       "id": "0dACPbqx",
       "name": "LEGO Piratas del Caribe ",
@@ -20843,7 +20842,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2026-01-13T22:15:38.023Z"
+      "updatedAt": "2026-01-18T01:11:43.514Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c9bb",
