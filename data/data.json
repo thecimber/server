@@ -15442,7 +15442,6 @@
       "updatedAt": "2025-10-04T03:01:10.638Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c851",
       "id": "6TU82Flq",
       "name": "Lego Batman 3 Beyond Gotham ",
@@ -15467,7 +15466,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-01-13T22:14:05.571Z"
+      "updatedAt": "2026-01-18T01:10:56.714Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df69e798a708ef8c82d",
