@@ -23963,7 +23963,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "6923f1846336ec46e652bb13",
       "id": "JMfpAZ_0",
       "name": "Hades 2",
@@ -23986,8 +23985,9 @@
       "emulatorId": 2,
       "captures": [],
       "createdAt": "2025-11-24T05:47:48.728Z",
-      "updatedAt": "2025-11-24T05:47:48.728Z",
-      "__v": 0
+      "updatedAt": "2026-01-18T01:04:16.564Z",
+      "__v": 0,
+      "isUpdate": true
     },
     {
       "isUpdate": false,
