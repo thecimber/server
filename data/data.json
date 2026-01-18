@@ -23990,7 +23990,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "6923f3b86336ec46e65369a3",
       "id": "r8cbueDO",
       "name": "LEGO Party",
@@ -24012,8 +24011,9 @@
       "emulatorId": 2,
       "captures": [],
       "createdAt": "2025-11-24T05:57:12.651Z",
-      "updatedAt": "2025-11-24T05:57:12.651Z",
-      "__v": 0
+      "updatedAt": "2026-01-18T01:06:26.044Z",
+      "__v": 0,
+      "isUpdate": true
     },
     {
       "isUpdate": false,
