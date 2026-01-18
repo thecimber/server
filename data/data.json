@@ -12942,7 +12942,6 @@
       "updatedAt": "2025-10-04T03:01:09.891Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c778",
       "id": "JXGhRd3A",
       "name": "Another Crab's Treasure v2.0.000",
@@ -12966,7 +12965,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2025-11-05T05:13:53.847Z"
+      "updatedAt": "2026-01-18T00:48:13.609Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
