@@ -18051,7 +18051,6 @@
       "updatedAt": "2025-10-04T03:01:11.296Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c920",
       "id": "t-To-zgX",
       "name": "The Walking Dead 400 Days",
@@ -18074,7 +18073,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2025-11-12T04:32:29.346Z"
+      "updatedAt": "2026-01-18T00:58:24.685Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
