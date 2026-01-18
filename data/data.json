@@ -20761,7 +20761,6 @@
       "updatedAt": "2025-11-24T05:55:27.332Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9b9",
       "id": "cZjZq6V2",
       "name": "Far Cry 6 ",
@@ -20786,7 +20785,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2025-11-16T00:22:57.563Z"
+      "updatedAt": "2026-01-18T01:00:57.867Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
