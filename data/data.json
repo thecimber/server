@@ -14962,7 +14962,6 @@
       "updatedAt": "2025-10-04T03:01:10.637Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c813",
       "id": "vvz263DP",
       "name": "Goat Simulator 3 goat in a box edition",
@@ -14985,7 +14984,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.637Z",
-      "updatedAt": "2025-11-18T16:27:30.360Z"
+      "updatedAt": "2026-01-18T01:02:42.600Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
