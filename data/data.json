@@ -23247,7 +23247,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca90",
       "id": "L3BHagb6",
       "name": "Hitman 2 ",
@@ -23271,7 +23270,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-11-24T05:51:21.193Z"
+      "updatedAt": "2026-01-18T01:05:18.998Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca96",
