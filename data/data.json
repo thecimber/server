@@ -21205,7 +21205,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9dd",
       "id": "Civims3f",
       "name": "LIES OF P ",
@@ -21229,7 +21228,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-01-18T19:19:27.684Z"
+      "updatedAt": "2026-01-18T19:19:30.929Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c9db",
