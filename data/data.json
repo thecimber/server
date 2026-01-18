@@ -21123,7 +21123,6 @@
       "updatedAt": "2026-01-13T22:14:27.252Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9e7",
       "id": "k1T0Y9Gj",
       "name": "LEGO DC SUPER VILLAINS ",
@@ -21148,7 +21147,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-01-13T22:11:39.134Z"
+      "updatedAt": "2026-01-18T01:09:35.317Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
