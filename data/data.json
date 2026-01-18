@@ -15418,7 +15418,6 @@
       "updatedAt": "2025-11-24T05:52:57.977Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c825",
       "id": "pmzoLl0a",
       "name": "Guilty Gear Strive",
@@ -15442,7 +15441,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2025-10-04T03:01:10.638Z"
+      "updatedAt": "2026-01-18T01:03:44.800Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
