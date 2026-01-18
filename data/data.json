@@ -14854,7 +14854,6 @@
       "updatedAt": "2025-10-04T03:01:10.637Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c823",
       "id": "G4Sc93og",
       "name": "Grand Theft Auto Vice City",
@@ -14878,7 +14877,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.637Z",
-      "updatedAt": "2025-11-18T16:29:21.007Z"
+      "updatedAt": "2026-01-18T01:03:19.844Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
