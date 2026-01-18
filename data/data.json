@@ -13345,7 +13345,6 @@
       "updatedAt": "2025-10-04T03:01:10.635Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7e3",
       "id": "A26lyLES",
       "name": "Door kickers 2 Tast force North v1.0",
@@ -13368,7 +13367,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2025-11-12T04:29:33.378Z"
+      "updatedAt": "2026-01-18T00:53:49.735Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df69e798a708ef8c797",
