@@ -14452,7 +14452,6 @@
       "updatedAt": "2025-10-04T03:01:10.635Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7d3",
       "id": "XaWPU2Nf",
       "name": "Death Must Die v0.8.1",
@@ -14475,7 +14474,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2025-11-12T04:27:42.421Z"
+      "updatedAt": "2026-01-18T00:52:47.670Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
