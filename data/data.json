@@ -21015,7 +21015,6 @@
       "updatedAt": "2026-01-13T22:12:59.512Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9d9",
       "id": "dHFFCqeZ",
       "name": "LEGO Builders Journey",
@@ -21038,7 +21037,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-01-13T22:10:47.954Z"
+      "updatedAt": "2026-01-18T01:09:18.982Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
