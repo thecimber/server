@@ -23463,7 +23463,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca94",
       "id": "Cf1wEeKn",
       "name": "Darksiders Genesis ",
@@ -23487,7 +23486,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-10-04T03:01:12.243Z"
+      "updatedAt": "2026-01-18T00:50:51.414Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca92",
