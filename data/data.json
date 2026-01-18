@@ -21068,7 +21068,6 @@
       "updatedAt": "2025-10-04T03:01:11.689Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9e3",
       "id": "Qisn9j2M",
       "name": "LEGO The Lord Of The Rings",
@@ -21093,7 +21092,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-01-18T19:19:02.883Z"
+      "updatedAt": "2026-01-18T19:19:05.849Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c9e5",
