@@ -24259,7 +24259,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "6966c47ebfae0fe5e82b5a75",
       "id": "PNBbMdyf",
       "name": "LEGO BRAWLS",
@@ -24283,8 +24282,9 @@
       "emulatorId": 2,
       "captures": [],
       "createdAt": "2026-01-13T22:17:34.516Z",
-      "updatedAt": "2026-01-13T22:17:34.516Z",
-      "__v": 0
+      "updatedAt": "2026-01-18T01:11:23.008Z",
+      "__v": 0,
+      "isUpdate": true
     },
     {
       "_id": "69699926bfae0fe5e82b7e4f",
