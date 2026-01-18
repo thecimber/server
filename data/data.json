@@ -21231,7 +21231,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9db",
       "id": "T18ZVjv4",
       "name": "LEGO Batman The Videogame",
@@ -21256,7 +21255,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-01-13T22:10:25.025Z"
+      "updatedAt": "2026-01-18T01:09:10.532Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
