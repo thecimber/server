@@ -14081,7 +14081,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7d5",
       "id": "FgNI4fN6",
       "name": "Definitely Not Fried Chicken",
@@ -14104,7 +14103,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2025-11-12T04:28:08.483Z"
+      "updatedAt": "2026-01-18T00:53:06.898Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
