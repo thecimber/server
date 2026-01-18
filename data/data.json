@@ -18821,7 +18821,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c92d",
       "id": "7OX9fv4O",
       "name": "The Walking Dead: The Telltale Definitive Series",
@@ -18844,7 +18843,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2025-11-12T04:33:09.643Z"
+      "updatedAt": "2026-01-18T00:58:53.940Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
