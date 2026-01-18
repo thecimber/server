@@ -20565,7 +20565,6 @@
       "updatedAt": "2026-01-13T22:12:22.405Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9cb",
       "id": "l7vimg74",
       "name": "LEGO 2KDRIVE ",
@@ -20589,7 +20588,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2025-11-24T05:57:35.868Z"
+      "updatedAt": "2026-01-18T01:06:32.305Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
