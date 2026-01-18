@@ -23910,7 +23910,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "691c9e1b6336ec46e651db22",
       "id": "B681ADvm",
       "name": "Fallout 4 ",
@@ -23934,8 +23933,9 @@
       "emulatorId": 2,
       "captures": [],
       "createdAt": "2025-11-18T16:26:03.297Z",
-      "updatedAt": "2025-11-18T16:26:03.297Z",
-      "__v": 0
+      "updatedAt": "2026-01-18T01:02:03.326Z",
+      "__v": 0,
+      "isUpdate": true
     },
     {
       "isUpdate": false,
