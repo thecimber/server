@@ -24232,7 +24232,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "696523f0bfae0fe5e82aba8d",
       "id": "CZ7X_w1y",
       "name": "God Of War 2018 LITE",
@@ -24255,8 +24254,9 @@
       "emulatorId": 2,
       "captures": [],
       "createdAt": "2026-01-12T16:40:16.383Z",
-      "updatedAt": "2026-01-12T16:40:16.383Z",
-      "__v": 0
+      "updatedAt": "2026-01-18T01:08:56.563Z",
+      "__v": 0,
+      "isUpdate": true
     },
     {
       "isUpdate": false,
