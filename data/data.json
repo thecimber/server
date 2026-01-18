@@ -13819,7 +13819,6 @@
       "updatedAt": "2025-10-04T03:01:10.635Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7e1",
       "id": "ngvc_xcs",
       "name": "Digimon Story Cyber Sleuth",
@@ -13843,7 +13842,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2025-11-12T04:28:31.067Z"
+      "updatedAt": "2026-01-18T00:53:16.736Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
