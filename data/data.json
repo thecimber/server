@@ -14773,7 +14773,6 @@
       "updatedAt": "2025-10-04T03:01:10.637Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7fb",
       "id": "Tmz_dDWs",
       "name": "Fallout 3",
@@ -14797,7 +14796,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.637Z",
-      "updatedAt": "2025-11-18T16:24:12.257Z"
+      "updatedAt": "2026-01-18T01:01:58.725Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
