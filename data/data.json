@@ -14055,7 +14055,6 @@
       "updatedAt": "2025-10-04T03:01:10.635Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7c5",
       "id": "i0Wl4-ig",
       "name": "DAVE THE DIVER ",
@@ -14078,7 +14077,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2025-11-12T04:27:22.441Z"
+      "updatedAt": "2026-01-18T00:52:30.894Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
