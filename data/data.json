@@ -20873,7 +20873,6 @@
       "updatedAt": "2026-01-13T22:15:38.023Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9b7",
       "id": "C7uAEnX9",
       "name": "Far Cry 5 Gold Edition",
@@ -20898,7 +20897,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2025-11-16T00:22:31.773Z"
+      "updatedAt": "2026-01-18T01:00:32.550Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
