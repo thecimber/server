@@ -21095,7 +21095,6 @@
       "updatedAt": "2025-10-04T03:01:11.689Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9e5",
       "id": "Akl-wFN8",
       "name": "LEGO The Hobbit ",
@@ -21120,7 +21119,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-01-13T22:14:27.252Z"
+      "updatedAt": "2026-01-18T01:11:12.770Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c9e7",
