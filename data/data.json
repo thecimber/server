@@ -20958,7 +20958,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9c5",
       "id": "1z3sFaqo",
       "name": "LEGO MARVEL SUPER HEROES ",
@@ -20983,7 +20982,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2026-01-13T22:13:24.540Z"
+      "updatedAt": "2026-01-18T01:10:20.472Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c9e9",
