@@ -24042,7 +24042,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "6924a1c76336ec46e653a3f0",
       "id": "w1zHynHn",
       "name": "Grand Theft auto V LITE",
@@ -24067,8 +24066,9 @@
       "emulatorId": 2,
       "captures": [],
       "createdAt": "2025-11-24T18:19:51.642Z",
-      "updatedAt": "2025-11-24T18:19:51.642Z",
-      "__v": 0
+      "updatedAt": "2026-01-18T01:07:10.523Z",
+      "__v": 0,
+      "isUpdate": true
     },
     {
       "isUpdate": false,
