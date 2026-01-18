@@ -20817,7 +20817,6 @@
       "updatedAt": "2026-01-13T22:11:58.467Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9bb",
       "id": "vNFd_y57",
       "name": "Far Cry New Dawn",
@@ -20842,7 +20841,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2025-11-16T00:23:41.918Z"
+      "updatedAt": "2026-01-18T01:01:09.100Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
