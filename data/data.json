@@ -23938,7 +23938,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "6923f0f46336ec46e6529b14",
       "id": "8JF9rpBe",
       "name": "Guilty Gear Strive ",
@@ -23959,8 +23958,9 @@
       "emulatorId": 2,
       "captures": [],
       "createdAt": "2025-11-24T05:45:24.890Z",
-      "updatedAt": "2025-11-24T05:45:24.890Z",
-      "__v": 0
+      "updatedAt": "2026-01-18T01:03:47.497Z",
+      "__v": 0,
+      "isUpdate": true
     },
     {
       "isUpdate": false,
