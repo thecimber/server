@@ -17578,7 +17578,6 @@
       "updatedAt": "2025-10-04T03:01:11.296Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c926",
       "id": "EwNHLQYn",
       "name": "The Walking Dead Season Two (A Telltale Game Series)",
@@ -17601,7 +17600,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2025-10-04T03:01:11.296Z"
+      "updatedAt": "2026-01-18T00:58:02.985Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
