@@ -24125,7 +24125,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "695415d6bfae0fe5e82a3c1e",
       "id": "cSn25KN8",
       "name": "Plants Vz Zombies Garden Warfare ",
@@ -24147,8 +24146,9 @@
       "emulatorId": 2,
       "captures": [],
       "createdAt": "2025-12-30T18:11:34.752Z",
-      "updatedAt": "2025-12-30T18:12:36.543Z",
-      "__v": 0
+      "updatedAt": "2026-01-18T01:08:06.168Z",
+      "__v": 0,
+      "isUpdate": true
     },
     {
       "isUpdate": false,
