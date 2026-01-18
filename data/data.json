@@ -24016,7 +24016,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "6923f55e6336ec46e6537f04",
       "id": "dKtycxBs",
       "name": "Bob Esponja Titanes de la Marea",
@@ -24038,8 +24037,9 @@
       "emulatorId": 2,
       "captures": [],
       "createdAt": "2025-11-24T06:04:14.300Z",
-      "updatedAt": "2025-11-24T06:04:14.300Z",
-      "__v": 0
+      "updatedAt": "2026-01-18T01:06:43.882Z",
+      "__v": 0,
+      "isUpdate": true
     },
     {
       "isUpdate": false,
