@@ -13424,7 +13424,6 @@
       "updatedAt": "2025-10-04T03:01:10.635Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7bf",
       "id": "jSlz9PnO",
       "name": "Crossing Souls",
@@ -13448,7 +13447,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2025-11-05T05:18:13.240Z"
+      "updatedAt": "2026-01-18T00:50:18.260Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
