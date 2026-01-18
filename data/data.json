@@ -23884,7 +23884,6 @@
       "__v": 0
     },
     {
-      "isUpdate": false,
       "_id": "691c9d9b6336ec46e651c5df",
       "id": "ovoBUNbw",
       "name": "Fallout 2",
@@ -23906,8 +23905,9 @@
       "emulatorId": 2,
       "captures": [],
       "createdAt": "2025-11-18T16:23:55.578Z",
-      "updatedAt": "2025-11-18T16:23:55.578Z",
-      "__v": 0
+      "updatedAt": "2026-01-18T01:01:50.358Z",
+      "__v": 0,
+      "isUpdate": true
     },
     {
       "isUpdate": false,
