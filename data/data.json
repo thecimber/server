@@ -24124,7 +24124,6 @@
       "__v": 0
     },
     {
-      "isUpdate": false,
       "_id": "6953480dbfae0fe5e82a2115",
       "id": "RkM44GmG",
       "name": "ManEater",
@@ -24147,8 +24146,9 @@
       "emulatorId": 10,
       "captures": [],
       "createdAt": "2025-12-30T03:33:33.116Z",
-      "updatedAt": "2025-12-30T03:33:33.116Z",
-      "__v": 0
+      "updatedAt": "2026-01-18T00:35:43.688Z",
+      "__v": 0,
+      "isUpdate": true
     },
     {
       "isUpdate": false,
