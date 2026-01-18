@@ -19830,7 +19830,6 @@
       "updatedAt": "2025-10-04T03:01:11.680Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9b5",
       "id": "qJ9_FHO7",
       "name": "Far Cry 4",
@@ -19855,7 +19854,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2025-11-16T00:22:10.084Z"
+      "updatedAt": "2026-01-18T01:00:24.280Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
