@@ -23301,7 +23301,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca9a",
       "id": "3lsgWRaY",
       "name": "Darksiders 3 ",
@@ -23325,7 +23324,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-11-12T04:27:05.575Z"
+      "updatedAt": "2026-01-18T00:51:35.045Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
