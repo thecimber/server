@@ -15497,50 +15497,24 @@
       "updatedAt": "2025-10-04T03:01:10.638Z"
     },
     {
-      "_id": "68e08df69e798a708ef8c82d",
-      "id": "yjRhNxjp",
-      "name": "Hearts Of Iron IV",
-      "image": "Hearts Of Iron IV.jpeg",
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c839",
+      "id": "CYQWy8fY",
+      "name": "How To Survive",
+      "image": "_R3c1DGi9-.jpeg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        28,
-        19
+        2,
+        14,
+        21
       ],
-      "size": "5.4 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1k6lg6Q52gsVA012mOweeKA",
-          "_id": "68e08df69e798a708ef8c82e"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-01-18T01:04:39.039Z",
-      "isUpdate": true
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c853",
-      "id": "FaiJCX-7",
-      "name": "Little Kitty Big City",
-      "image": "Little Kitty Big City.jpeg",
-      "format": 0,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        9,
-        39
-      ],
-      "size": "501.3 Mb",
+      "size": "3.8 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1S8mGNT_DauD0W8o0x4zNHw",
-          "_id": "68e08df69e798a708ef8c854"
+          "link": "https://1024terabox.com/s/16l4f5B_O1wZsf5wK7bWGug",
+          "_id": "68e08df69e798a708ef8c83a"
         }
       ],
       "emulatorId": 2,
@@ -15575,6 +15549,33 @@
       "createdAt": "2025-10-04T03:01:10.638Z",
       "updatedAt": "2026-01-18T01:04:12.316Z",
       "isUpdate": true
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c853",
+      "id": "FaiJCX-7",
+      "name": "Little Kitty Big City",
+      "image": "Little Kitty Big City.jpeg",
+      "format": 0,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        9,
+        39
+      ],
+      "size": "501.3 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1S8mGNT_DauD0W8o0x4zNHw",
+          "_id": "68e08df69e798a708ef8c854"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.638Z",
+      "updatedAt": "2025-10-04T03:01:10.638Z"
     },
     {
       "_id": "68e08df69e798a708ef8c833",
@@ -15704,33 +15705,6 @@
           "type": "Terabox",
           "link": "https://1024terabox.com/s/1rAPFBRQRQKBQ5oBfZD5XRQ",
           "_id": "68e08df69e798a708ef8c832"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2025-10-04T03:01:10.638Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c839",
-      "id": "CYQWy8fY",
-      "name": "How To Survive",
-      "image": "_R3c1DGi9-.jpeg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        14,
-        21
-      ],
-      "size": "3.8 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/16l4f5B_O1wZsf5wK7bWGug",
-          "_id": "68e08df69e798a708ef8c83a"
         }
       ],
       "emulatorId": 2,
@@ -15955,6 +15929,32 @@
       "updatedAt": "2025-10-04T03:01:10.638Z"
     },
     {
+      "_id": "68e08df69e798a708ef8c82d",
+      "id": "yjRhNxjp",
+      "name": "Hearts Of Iron IV",
+      "image": "Hearts Of Iron IV.jpeg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        28,
+        19
+      ],
+      "size": "5.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1k6lg6Q52gsVA012mOweeKA",
+          "_id": "68e08df69e798a708ef8c82e"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.638Z",
+      "updatedAt": "2026-01-18T01:04:39.039Z",
+      "isUpdate": true
+    },
+    {
       "isUpdate": false,
       "_id": "68e08df79e798a708ef8c860",
       "id": "oMP1R1DR",
@@ -16011,6 +16011,33 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c864",
+      "id": "n-3-E_j0",
+      "name": "Marvel vs Capcom Fighting Collection Arcade Classics",
+      "image": "nCgJaZCc3y.jpeg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        10,
+        24,
+        45
+      ],
+      "size": "3.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/18604YddSTrxusoS6W949TQ",
+          "_id": "68e08df79e798a708ef8c865"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.292Z",
+      "updatedAt": "2025-10-04T03:01:11.292Z"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c866",
       "id": "WitqA4DJ",
       "name": "MechaBellum",
@@ -16054,33 +16081,6 @@
           "type": "Terabox",
           "link": "https://1024terabox.com/s/116w3CkOq1IYMVIxeOI37yw",
           "_id": "68e08df79e798a708ef8c869"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.292Z",
-      "updatedAt": "2025-10-04T03:01:11.292Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c864",
-      "id": "n-3-E_j0",
-      "name": "Marvel vs Capcom Fighting Collection Arcade Classics",
-      "image": "nCgJaZCc3y.jpeg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        10,
-        24,
-        45
-      ],
-      "size": "3.6 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/18604YddSTrxusoS6W949TQ",
-          "_id": "68e08df79e798a708ef8c865"
         }
       ],
       "emulatorId": 2,
@@ -16198,22 +16198,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c886",
-      "id": "HfaEut5Q",
-      "name": "Orcs must die! ",
-      "image": "Orcs must die! .jpeg",
+      "_id": "68e08df79e798a708ef8c8a8",
+      "id": "5RZAukSX",
+      "name": "Rain On Your Parade ",
+      "image": "Rain On Your Parade.jpeg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        28
+        3,
+        39
       ],
-      "size": "10.2 Gb",
+      "size": "314 MB",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1r_oSp8uMp--WYC_-hz3yvA",
-          "_id": "68e08df79e798a708ef8c887"
+          "link": "https://1024terabox.com/s/1j6L-4Ffg9lOWulsquZtTPw",
+          "_id": "68e08df79e798a708ef8c8a9"
         }
       ],
       "emulatorId": 2,
@@ -16703,6 +16703,32 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c886",
+      "id": "HfaEut5Q",
+      "name": "Orcs must die! ",
+      "image": "Orcs must die! .jpeg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        28
+      ],
+      "size": "10.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1r_oSp8uMp--WYC_-hz3yvA",
+          "_id": "68e08df79e798a708ef8c887"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2025-10-04T03:01:11.293Z"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8aa",
       "id": "5x0p3IpP",
       "name": "Rain World Remix Now Available",
@@ -16798,32 +16824,6 @@
           "type": "Terabox",
           "link": "https://1024terabox.com/s/1cILcgl2LjgqquA5ueDKJ4Q",
           "_id": "68e08df79e798a708ef8c87b"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2025-10-04T03:01:11.293Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c8a8",
-      "id": "5RZAukSX",
-      "name": "Rain On Your Parade ",
-      "image": "Rain On Your Parade.jpeg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        39
-      ],
-      "size": "314 MB",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1j6L-4Ffg9lOWulsquZtTPw",
-          "_id": "68e08df79e798a708ef8c8a9"
         }
       ],
       "emulatorId": 2,
@@ -24498,6 +24498,33 @@
       "captures": [],
       "createdAt": "2026-01-19T06:14:20.664Z",
       "updatedAt": "2026-01-19T06:14:20.664Z",
+      "__v": 0
+    },
+    {
+      "_id": "696e7c58c2b3eda099cf2e3d",
+      "id": "P3xMq7TZ",
+      "name": "Hytale",
+      "image": "1768848471371-df91b886.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        9,
+        12,
+        3
+      ],
+      "size": "3.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1POFs4nqpfyr3FmO3HFy0Zw",
+          "_id": "696e7c58c2b3eda099cf2e3e"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-01-19T18:47:52.601Z",
+      "updatedAt": "2026-01-19T18:47:52.601Z",
       "__v": 0
     }
   ],
