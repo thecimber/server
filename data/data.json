@@ -15955,7 +15955,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c860",
       "id": "oMP1R1DR",
       "name": "Manhunt Collection 1&2",
@@ -15979,7 +15978,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.291Z",
-      "updatedAt": "2026-01-20T04:46:14.731Z"
+      "updatedAt": "2026-01-20T04:46:18.204Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
