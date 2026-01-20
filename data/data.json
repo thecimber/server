@@ -15176,7 +15176,6 @@
       "updatedAt": "2025-10-04T03:01:10.637Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c85d",
       "id": "d907BFHK",
       "name": "Manhunt 2",
@@ -15200,7 +15199,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-01-20T04:45:57.984Z"
+      "updatedAt": "2026-01-20T04:46:02.268Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df69e798a708ef8c857",
