@@ -16010,7 +16010,6 @@
       "updatedAt": "2025-10-04T03:01:11.291Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c864",
       "id": "n-3-E_j0",
       "name": "Marvel vs Capcom Fighting Collection Arcade Classics",
@@ -16034,7 +16033,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.292Z",
-      "updatedAt": "2026-01-20T04:46:39.937Z"
+      "updatedAt": "2026-01-20T04:46:42.874Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
