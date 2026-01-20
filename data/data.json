@@ -20791,7 +20791,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9c7",
       "id": "6ap3nIVV",
       "name": "LEGO STAR WARS The Skywalker Saga ",
@@ -20816,7 +20815,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2026-01-20T04:43:52.752Z"
+      "updatedAt": "2026-01-20T04:43:56.609Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c9bb",
