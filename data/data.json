@@ -16063,7 +16063,6 @@
       "updatedAt": "2025-10-04T03:01:11.292Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c868",
       "id": "vz4lVdLX",
       "name": "Mind Over Magic",
@@ -16087,7 +16086,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.292Z",
-      "updatedAt": "2026-01-21T03:56:10.253Z"
+      "updatedAt": "2026-01-21T03:56:13.074Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
