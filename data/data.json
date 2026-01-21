@@ -19805,7 +19805,6 @@
       "updatedAt": "2025-10-04T03:01:11.680Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9a7",
       "id": "ZfEWs8SF",
       "name": "No Man’s Sky PC Full Español",
@@ -19831,7 +19830,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-01-21T03:57:49.369Z"
+      "updatedAt": "2026-01-21T03:57:52.003Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
