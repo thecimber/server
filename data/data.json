@@ -16755,7 +16755,6 @@
       "updatedAt": "2025-10-04T03:01:11.293Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c86a",
       "id": "_7l3mXoP",
       "name": "Minecraft Dungeons",
@@ -16778,7 +16777,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-01-21T03:55:48.641Z"
+      "updatedAt": "2026-01-21T04:11:24.077Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c86c",
