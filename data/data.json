@@ -17073,7 +17073,6 @@
       "updatedAt": "2025-10-04T03:01:11.293Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c884",
       "id": "0YcSi22n",
       "name": "Northgard",
@@ -17096,7 +17095,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-01-21T03:57:32.055Z"
+      "updatedAt": "2026-01-21T03:58:38.832Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
