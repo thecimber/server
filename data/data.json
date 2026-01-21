@@ -16781,7 +16781,6 @@
       "updatedAt": "2025-10-04T03:01:11.293Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c86c",
       "id": "domp5rX_",
       "name": "Minecraft Story Mode Season Two The Complete Adventure (2)",
@@ -16805,7 +16804,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-01-21T03:55:26.838Z"
+      "updatedAt": "2026-01-21T03:55:29.689Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c86e",
