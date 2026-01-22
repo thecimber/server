@@ -24526,6 +24526,33 @@
       "createdAt": "2026-01-19T18:47:52.601Z",
       "updatedAt": "2026-01-19T18:47:52.601Z",
       "__v": 0
+    },
+    {
+      "_id": "6971a992c2b3eda099d0b46a",
+      "id": "_XLiTT-5",
+      "name": "Halo 2",
+      "image": "1769056657440-f717dc43.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        11,
+        10
+      ],
+      "size": "2,4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1P42LYwPpGVdz5bmzo0QPgg",
+          "_id": "6971a992c2b3eda099d0b46b"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-01-22T04:37:38.150Z",
+      "updatedAt": "2026-01-22T04:37:38.150Z",
+      "__v": 0
     }
   ],
   "emulators": [
