@@ -16676,7 +16676,6 @@
       "updatedAt": "2025-10-04T03:01:11.293Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c888",
       "id": "Kemw555c",
       "name": "Out Of hands v1.0",
@@ -16699,7 +16698,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-01-22T04:38:11.061Z"
+      "updatedAt": "2026-01-22T04:38:13.616Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
