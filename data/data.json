@@ -17125,7 +17125,6 @@
       "updatedAt": "2025-10-04T03:01:11.293Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c88a",
       "id": "oJ7OWdwk",
       "name": "Outlast",
@@ -17149,7 +17148,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-01-22T04:39:29.428Z"
+      "updatedAt": "2026-01-22T04:39:37.355Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
