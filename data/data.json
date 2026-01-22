@@ -17260,7 +17260,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c894",
       "id": "L-szijec",
       "name": "Phasmophobia",
@@ -17284,7 +17283,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-01-22T04:38:56.647Z"
+      "updatedAt": "2026-01-22T04:38:59.532Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
