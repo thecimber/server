@@ -8106,7 +8106,7 @@
       "isUpdate": false,
       "_id": "68e08df59e798a708ef8c607",
       "id": "5bDFQ_i6",
-      "name": "DREDGE v1.5.13",
+      "name": "DREDGE v1.5.18",
       "image": "DREDGE .jpeg",
       "format": 6,
       "language": "Multi-Idioma",
@@ -8118,8 +8118,8 @@
       "size": "649 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1NG93hYMu-JPGCkTRBBL7aA",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1F65NtE7LmmTGLrXGvSW3TA",
           "_id": "68e08df59e798a708ef8c608"
         }
       ],
@@ -8127,7 +8127,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.417Z",
-      "updatedAt": "2025-10-04T03:01:09.417Z"
+      "updatedAt": "2026-01-30T23:42:32.153Z"
     },
     {
       "isUpdate": false,
