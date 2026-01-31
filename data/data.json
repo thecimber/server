@@ -15740,7 +15740,6 @@
       "updatedAt": "2025-10-04T03:01:10.638Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c84b",
       "id": "QUjjpJ9g",
       "name": "Left 4 Dead 1",
@@ -15764,7 +15763,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2025-10-04T03:01:10.638Z"
+      "updatedAt": "2026-01-31T04:52:34.620Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df69e798a708ef8c82d",
