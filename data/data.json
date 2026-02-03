@@ -23806,7 +23806,6 @@
       "__v": 0
     },
     {
-      "isUpdate": false,
       "_id": "6914d6486336ec46e650f865",
       "id": "bn8VvhNf",
       "name": "Dragon Ball Sparking Zero",
@@ -23827,8 +23826,9 @@
       "emulatorId": 8,
       "captures": [],
       "createdAt": "2025-11-12T18:47:36.832Z",
-      "updatedAt": "2026-02-03T21:39:02.468Z",
-      "__v": 0
+      "updatedAt": "2026-02-03T21:39:05.926Z",
+      "__v": 0,
+      "isUpdate": true
     },
     {
       "isUpdate": false,
