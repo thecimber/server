@@ -23755,7 +23755,6 @@
       "__v": 0
     },
     {
-      "isUpdate": false,
       "_id": "68f132426336ec46e64ed5b5",
       "id": "3HhPjM-d",
       "name": "Pokémon Legends Z-A",
@@ -23777,8 +23776,9 @@
       "emulatorId": 8,
       "captures": [],
       "createdAt": "2025-10-16T17:58:26.541Z",
-      "updatedAt": "2026-02-03T21:39:35.088Z",
-      "__v": 0
+      "updatedAt": "2026-02-03T21:39:37.707Z",
+      "__v": 0,
+      "isUpdate": true
     },
     {
       "isUpdate": false,
