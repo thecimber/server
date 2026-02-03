@@ -11320,7 +11320,6 @@
       "updatedAt": "2025-10-04T03:01:09.887Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c737",
       "id": "hp9xGqeP",
       "name": "Super Mario Bros. Wonder ",
@@ -11343,7 +11342,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-02-03T21:40:51.911Z"
+      "updatedAt": "2026-02-03T21:40:55.141Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
