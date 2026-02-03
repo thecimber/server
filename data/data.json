@@ -10893,7 +10893,6 @@
       "updatedAt": "2025-10-04T03:01:09.887Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c73f",
       "id": "32ZIjJEG",
       "name": "Super Mario Party Jamboree",
@@ -10915,7 +10914,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-02-03T21:41:11.658Z"
+      "updatedAt": "2026-02-03T21:41:14.166Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
