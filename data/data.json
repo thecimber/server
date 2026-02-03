@@ -10438,7 +10438,6 @@
       "updatedAt": "2025-10-04T03:01:09.422Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6b8",
       "id": "7xrpJg0P",
       "name": "Mario Strikers Battle League",
@@ -10461,7 +10460,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.422Z",
-      "updatedAt": "2026-02-03T21:41:48.405Z"
+      "updatedAt": "2026-02-03T21:41:51.006Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
