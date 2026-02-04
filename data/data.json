@@ -10464,7 +10464,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6ba",
       "id": "slh1JqPQ",
       "name": "Mario Tennis Aces",
@@ -10487,7 +10486,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.422Z",
-      "updatedAt": "2026-02-04T04:10:56.408Z"
+      "updatedAt": "2026-02-04T04:10:58.934Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
