@@ -10544,7 +10544,6 @@
       "updatedAt": "2025-10-04T03:01:09.425Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6bc",
       "id": "IRENdK_4",
       "name": "Mario vs. Donkey Kong v1.0.0",
@@ -10567,7 +10566,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.425Z",
-      "updatedAt": "2026-02-04T04:12:07.738Z"
+      "updatedAt": "2026-02-04T04:12:11.352Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
