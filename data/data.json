@@ -11584,7 +11584,6 @@
       "updatedAt": "2025-10-04T03:01:09.887Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c735",
       "id": "ymO-tivN",
       "name": "Super Mario 3D World Bowser's Fury ",
@@ -11607,7 +11606,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-02-04T04:07:48.147Z"
+      "updatedAt": "2026-02-04T04:07:51.109Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
