@@ -8343,7 +8343,6 @@
       "updatedAt": "2025-10-04T03:01:09.418Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c619",
       "id": "BD7Q1iG0",
       "name": "Minecraft Version: v1.26.10.21 Beta",
@@ -8367,7 +8366,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.418Z",
-      "updatedAt": "2026-02-04T16:57:32.318Z"
+      "updatedAt": "2026-02-04T16:57:40.164Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
