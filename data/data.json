@@ -8926,7 +8926,6 @@
       "updatedAt": "2025-10-04T03:01:09.421Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6ae",
       "id": "Gek_FPtk",
       "name": "Mario and Luigi's BrotherShip",
@@ -8949,7 +8948,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-02-04T04:15:18.888Z"
+      "updatedAt": "2026-02-04T04:15:21.110Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
