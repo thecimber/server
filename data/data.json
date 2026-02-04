@@ -11860,7 +11860,6 @@
       "updatedAt": "2025-10-04T03:01:09.887Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6e9",
       "id": "Ob2KzJ-6",
       "name": "Paper Mario The Origami King",
@@ -11884,7 +11883,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-02-04T04:08:08.481Z"
+      "updatedAt": "2026-02-04T04:08:15.646Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
