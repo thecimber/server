@@ -10412,7 +10412,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6b6",
       "id": "yTR1nj-V",
       "name": "Mario Party Superstars",
@@ -10435,7 +10434,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.422Z",
-      "updatedAt": "2026-02-04T04:10:22.820Z"
+      "updatedAt": "2026-02-04T04:10:25.660Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c6b8",
