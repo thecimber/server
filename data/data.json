@@ -22537,7 +22537,6 @@
       "updatedAt": "2025-10-04T03:01:12.242Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca78",
       "id": "RyNm0snU",
       "name": "Subnautica ( Nueva Versión)",
@@ -22561,7 +22560,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-02-04T16:47:56.179Z"
+      "updatedAt": "2026-02-04T16:47:59.001Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
