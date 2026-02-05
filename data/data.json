@@ -24630,6 +24630,32 @@
       "createdAt": "2026-02-04T04:14:58.956Z",
       "updatedAt": "2026-02-04T04:14:58.956Z",
       "__v": 0
+    },
+    {
+      "_id": "69843a11d3b75b3e2ac3a7df",
+      "id": "i06Lf4IL",
+      "name": "Marvel Spider-man 2 ",
+      "image": "1770273296933-aadc822e.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        45
+      ],
+      "size": "102 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1_xS8y6neYx4SBwDGpr4FVw",
+          "_id": "69843a11d3b75b3e2ac3a7e0"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-02-05T06:34:57.890Z",
+      "updatedAt": "2026-02-05T06:34:57.890Z",
+      "__v": 0
     }
   ],
   "emulators": [
