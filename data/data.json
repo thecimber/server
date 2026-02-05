@@ -21391,34 +21391,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8c9f8",
-      "id": "JJgh7uMH",
-      "name": "Ben 10 Alien Force Vilgax Attacks ",
-      "image": "ao77IuaL_n.jpg",
-      "format": 4,
-      "language": "Español",
-      "genre": [
-        1,
-        2,
-        3,
-        45
-      ],
-      "size": "1.6 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1p5739nA1bKAWCX0AiTc2Lg",
-          "_id": "68e08df89e798a708ef8c9f9"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2025-10-04T03:01:12.241Z"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca08",
       "id": "STxoLzhR",
       "name": "Burnout Legends ",
@@ -21435,6 +21407,34 @@
           "type": "Terabox",
           "link": "https://1024terabox.com/s/1x96VTWkIysS0Gxj7TGPMMw",
           "_id": "68e08df89e798a708ef8ca09"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2025-10-04T03:01:12.241Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8c9fa",
+      "id": "SSOs9BEz",
+      "name": "Ben 10 Alien Force ",
+      "image": "aP3hyfS2kk.jpg",
+      "format": 4,
+      "language": "Español",
+      "genre": [
+        1,
+        2,
+        3,
+        45
+      ],
+      "size": "774 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1dzxlvXkCjRy1Do4lfTqqFg",
+          "_id": "68e08df89e798a708ef8c9fb"
         }
       ],
       "emulatorId": 3,
@@ -21576,10 +21576,10 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8c9fa",
-      "id": "SSOs9BEz",
-      "name": "Ben 10 Alien Force ",
-      "image": "aP3hyfS2kk.jpg",
+      "_id": "68e08df89e798a708ef8c9f8",
+      "id": "JJgh7uMH",
+      "name": "Ben 10 Alien Force Vilgax Attacks ",
+      "image": "ao77IuaL_n.jpg",
       "format": 4,
       "language": "Español",
       "genre": [
@@ -21588,12 +21588,12 @@
         3,
         45
       ],
-      "size": "774 Mb",
+      "size": "1.6 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1dzxlvXkCjRy1Do4lfTqqFg",
-          "_id": "68e08df89e798a708ef8c9fb"
+          "link": "https://1024terabox.com/s/1p5739nA1bKAWCX0AiTc2Lg",
+          "_id": "68e08df89e798a708ef8c9f9"
         }
       ],
       "emulatorId": 3,
@@ -24681,6 +24681,32 @@
       "captures": [],
       "createdAt": "2026-02-05T06:35:53.599Z",
       "updatedAt": "2026-02-05T06:35:53.599Z",
+      "__v": 0
+    },
+    {
+      "_id": "69852b79d3b75b3e2ac3d1fd",
+      "id": "nqbKSBPV",
+      "name": "Dragon Ball Fighter Z (español latino)",
+      "image": "1770335096018-bd830025.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        47
+      ],
+      "size": "5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1KjCeJ9XpyjFVJDPF3RW7bA",
+          "_id": "69852b79d3b75b3e2ac3d1fe"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-02-05T23:44:57.181Z",
+      "updatedAt": "2026-02-05T23:44:57.181Z",
       "__v": 0
     }
   ],
