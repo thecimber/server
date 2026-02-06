@@ -11443,7 +11443,6 @@
       "updatedAt": "2025-10-04T03:01:09.887Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c74b",
       "id": "FGVWoHUS",
       "name": "The Legend of zelda tears of the kingdom v1.4.0",
@@ -11467,7 +11466,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-02-06T01:01:23.383Z"
+      "updatedAt": "2026-02-06T01:36:42.487Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
