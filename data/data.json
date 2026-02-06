@@ -10703,7 +10703,6 @@
       "updatedAt": "2025-10-04T03:01:09.886Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6cd",
       "id": "KLgJFJAY",
       "name": "Mortal Kombat 11 Ultimate 1.26",
@@ -10726,7 +10725,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.886Z",
-      "updatedAt": "2026-02-06T01:02:21.579Z"
+      "updatedAt": "2026-02-06T01:36:55.900Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
