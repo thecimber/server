@@ -21417,34 +21417,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8c9fa",
-      "id": "SSOs9BEz",
-      "name": "Ben 10 Alien Force ",
-      "image": "aP3hyfS2kk.jpg",
-      "format": 4,
-      "language": "Español",
-      "genre": [
-        1,
-        2,
-        3,
-        45
-      ],
-      "size": "774 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1dzxlvXkCjRy1Do4lfTqqFg",
-          "_id": "68e08df89e798a708ef8c9fb"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2025-10-04T03:01:12.241Z"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca06",
       "id": "QUfMNhpM",
       "name": "Burnout Dominator ",
@@ -21461,6 +21433,33 @@
           "type": "Terabox",
           "link": "https://1024terabox.com/s/142aRMX0U3Dq4U_j7G_STLg",
           "_id": "68e08df89e798a708ef8ca07"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2025-10-04T03:01:12.241Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8c9fc",
+      "id": "bOcEkrqv",
+      "name": "Blade Dancer Lineage Of Light",
+      "image": "xvEPE4-q_n.jpg",
+      "format": 4,
+      "language": "Español",
+      "genre": [
+        2,
+        41,
+        3
+      ],
+      "size": "1.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1MfoVwA-xCoXLiibFkHBCgw",
+          "_id": "68e08df89e798a708ef8c9fd"
         }
       ],
       "emulatorId": 3,
@@ -21549,23 +21548,24 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8c9fc",
-      "id": "bOcEkrqv",
-      "name": "Blade Dancer Lineage Of Light",
-      "image": "xvEPE4-q_n.jpg",
+      "_id": "68e08df89e798a708ef8c9fa",
+      "id": "SSOs9BEz",
+      "name": "Ben 10 Alien Force ",
+      "image": "aP3hyfS2kk.jpg",
       "format": 4,
       "language": "Español",
       "genre": [
+        1,
         2,
-        41,
-        3
+        3,
+        45
       ],
-      "size": "1.4 Gb",
+      "size": "774 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1MfoVwA-xCoXLiibFkHBCgw",
-          "_id": "68e08df89e798a708ef8c9fd"
+          "link": "https://1024terabox.com/s/1dzxlvXkCjRy1Do4lfTqqFg",
+          "_id": "68e08df89e798a708ef8c9fb"
         }
       ],
       "emulatorId": 3,
@@ -24732,6 +24732,32 @@
       "captures": [],
       "createdAt": "2026-02-06T16:56:15.242Z",
       "updatedAt": "2026-02-06T16:56:15.242Z",
+      "__v": 0
+    },
+    {
+      "_id": "69861df6d3b75b3e2ac42120",
+      "id": "xZWgrPO2",
+      "name": "The Elden Scrolls V Skyrim",
+      "image": "1770397173924-c74aea4f",
+      "format": 9,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        12
+      ],
+      "size": "14.88 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1OYI7owoOlKLpKt7BFUfzfA",
+          "_id": "69861df6d3b75b3e2ac42121"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-02-06T16:59:34.719Z",
+      "updatedAt": "2026-02-06T16:59:34.719Z",
       "__v": 0
     }
   ],
