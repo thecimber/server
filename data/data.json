@@ -23087,28 +23087,28 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca7c",
-      "id": "PmhZyr0j",
-      "name": "Poppy PlayTime Chapter 1",
-      "image": "lnutX8xxdn.jpg",
+      "_id": "68e08df89e798a708ef8ca7e",
+      "id": "YYdMuJcq",
+      "name": "Poppy PlayTime Chapter 2",
+      "image": "apmgtzCkfW.jpg",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
         31
       ],
-      "size": "1,0 Gb",
+      "size": "1,2 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/160kQ0cilicGPsMgrHBwl9g",
-          "_id": "68e08df89e798a708ef8ca7d"
+          "type": "terabox",
+          "link": "https://terabox.com/s/1o-a_yJJxVJmBn9mV7OKuYg",
+          "_id": "68e08df89e798a708ef8ca7f"
         }
       ],
       "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-10-04T03:01:12.243Z"
+      "updatedAt": "2025-11-02T21:12:09.910Z"
     },
     {
       "isUpdate": false,
@@ -23437,28 +23437,28 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca7e",
-      "id": "YYdMuJcq",
-      "name": "Poppy PlayTime Chapter 2",
-      "image": "apmgtzCkfW.jpg",
+      "_id": "68e08df89e798a708ef8ca7c",
+      "id": "PmhZyr0j",
+      "name": "Poppy PlayTime Chapter 1",
+      "image": "lnutX8xxdn.jpg",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
         31
       ],
-      "size": "1,2 Gb",
+      "size": "1,0 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://terabox.com/s/1o-a_yJJxVJmBn9mV7OKuYg",
-          "_id": "68e08df89e798a708ef8ca7f"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/160kQ0cilicGPsMgrHBwl9g",
+          "_id": "68e08df89e798a708ef8ca7d"
         }
       ],
       "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-11-02T21:12:09.910Z"
+      "updatedAt": "2025-10-04T03:01:12.243Z"
     },
     {
       "isUpdate": false,
@@ -24758,6 +24758,32 @@
       "captures": [],
       "createdAt": "2026-02-06T16:59:34.719Z",
       "updatedAt": "2026-02-06T16:59:34.719Z",
+      "__v": 0
+    },
+    {
+      "_id": "69861e6ed3b75b3e2ac42fd2",
+      "id": "J9LVt-t3",
+      "name": "Metroid Prime 4 Beyond",
+      "image": "1770397293200-719a66be",
+      "format": 9,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        11
+      ],
+      "size": "28.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/11TPJjq59YgjFXkkNEhQ4tQ",
+          "_id": "69861e6ed3b75b3e2ac42fd3"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-02-06T17:01:34.009Z",
+      "updatedAt": "2026-02-06T17:01:34.009Z",
       "__v": 0
     }
   ],
