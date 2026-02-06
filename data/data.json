@@ -23087,21 +23087,21 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca7a",
-      "id": "BHMQxwyy",
-      "name": "Poppy PlayTime Chapter 4 ",
-      "image": "NY3m_pruuU.jpg",
+      "_id": "68e08df89e798a708ef8ca7c",
+      "id": "PmhZyr0j",
+      "name": "Poppy PlayTime Chapter 1",
+      "image": "lnutX8xxdn.jpg",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
         31
       ],
-      "size": "1,9 Gb",
+      "size": "1,0 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://terabox.com/s/1Fx0hATvzSH8RMGHXkI4vUA",
-          "_id": "68e08df89e798a708ef8ca7b"
+          "link": "https://1024terabox.com/s/160kQ0cilicGPsMgrHBwl9g",
+          "_id": "68e08df89e798a708ef8ca7d"
         }
       ],
       "emulatorId": 10,
@@ -23412,21 +23412,21 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca7c",
-      "id": "PmhZyr0j",
-      "name": "Poppy PlayTime Chapter 1",
-      "image": "lnutX8xxdn.jpg",
+      "_id": "68e08df89e798a708ef8ca7a",
+      "id": "BHMQxwyy",
+      "name": "Poppy PlayTime Chapter 4 ",
+      "image": "NY3m_pruuU.jpg",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
         31
       ],
-      "size": "1,0 Gb",
+      "size": "1,9 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/160kQ0cilicGPsMgrHBwl9g",
-          "_id": "68e08df89e798a708ef8ca7d"
+          "link": "https://terabox.com/s/1Fx0hATvzSH8RMGHXkI4vUA",
+          "_id": "68e08df89e798a708ef8ca7b"
         }
       ],
       "emulatorId": 10,
@@ -24707,6 +24707,31 @@
       "captures": [],
       "createdAt": "2026-02-05T23:44:57.181Z",
       "updatedAt": "2026-02-05T23:44:57.181Z",
+      "__v": 0
+    },
+    {
+      "_id": "69861d2fd3b75b3e2ac41272",
+      "id": "vguB2r5w",
+      "name": "Bayonetta 3",
+      "image": "1770396974094-671a2df0.jpg",
+      "format": 9,
+      "language": "Multi-Idioma",
+      "genre": [
+        2
+      ],
+      "size": "17.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1-U_4bdXByWDYxYJNklvkBQ",
+          "_id": "69861d2fd3b75b3e2ac41273"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-02-06T16:56:15.242Z",
+      "updatedAt": "2026-02-06T16:56:15.242Z",
       "__v": 0
     }
   ],
