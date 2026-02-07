@@ -23087,28 +23087,28 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca7e",
-      "id": "YYdMuJcq",
-      "name": "Poppy PlayTime Chapter 2",
-      "image": "apmgtzCkfW.jpg",
+      "_id": "68e08df89e798a708ef8ca80",
+      "id": "JN8QRODn",
+      "name": "Poppy PlayTime Chapter 3",
+      "image": "D3b1as4L9L.jpg",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
         31
       ],
-      "size": "1,2 Gb",
+      "size": "2,2 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://terabox.com/s/1o-a_yJJxVJmBn9mV7OKuYg",
-          "_id": "68e08df89e798a708ef8ca7f"
+          "link": "https://terabox.com/s/1kpUZsaLn6fvJEx2vSkQxPw",
+          "_id": "68e08df89e798a708ef8ca81"
         }
       ],
       "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-11-02T21:12:09.910Z"
+      "updatedAt": "2025-11-02T21:12:42.866Z"
     },
     {
       "isUpdate": false,
@@ -23462,28 +23462,28 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca80",
-      "id": "JN8QRODn",
-      "name": "Poppy PlayTime Chapter 3",
-      "image": "D3b1as4L9L.jpg",
+      "_id": "68e08df89e798a708ef8ca7e",
+      "id": "YYdMuJcq",
+      "name": "Poppy PlayTime Chapter 2",
+      "image": "apmgtzCkfW.jpg",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
         31
       ],
-      "size": "2,2 Gb",
+      "size": "1,2 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://terabox.com/s/1kpUZsaLn6fvJEx2vSkQxPw",
-          "_id": "68e08df89e798a708ef8ca81"
+          "link": "https://terabox.com/s/1o-a_yJJxVJmBn9mV7OKuYg",
+          "_id": "68e08df89e798a708ef8ca7f"
         }
       ],
       "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-11-02T21:12:42.866Z"
+      "updatedAt": "2025-11-02T21:12:09.910Z"
     },
     {
       "_id": "68e08df89e798a708ef8ca82",
@@ -24811,6 +24811,32 @@
       "captures": [],
       "createdAt": "2026-02-06T17:03:29.949Z",
       "updatedAt": "2026-02-06T17:04:09.203Z",
+      "__v": 0
+    },
+    {
+      "_id": "69879e6bd3b75b3e2ac46ebd",
+      "id": "5n6WV2cj",
+      "name": "My Hero Academia All's Justice ",
+      "image": "1770495594816-90cb2ebe",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        47
+      ],
+      "size": "13 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1oZQpqScumNXotVOz31kF0w",
+          "_id": "69879e6bd3b75b3e2ac46ebe"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-02-07T20:19:55.682Z",
+      "updatedAt": "2026-02-07T20:19:55.682Z",
       "__v": 0
     }
   ],
