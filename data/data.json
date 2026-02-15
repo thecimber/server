@@ -14187,7 +14187,6 @@
       "updatedAt": "2025-10-04T03:01:10.635Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7cd",
       "id": "Xs043bzC",
       "name": "Dead Space 2",
@@ -14211,7 +14210,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-02-15T04:37:12.473Z"
+      "updatedAt": "2026-02-15T04:38:26.043Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
