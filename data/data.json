@@ -18687,6 +18687,32 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c967",
+      "id": "HHfdR20I",
+      "name": "THE GAME OF LIFE 2 APK v1.0.4",
+      "image": "80LwGxXhFM.jpg",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        19,
+        25
+      ],
+      "size": "1.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1_GJjb_qOXqKyUmkukN0WXw",
+          "_id": "68e08df79e798a708ef8c968"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2025-10-04T03:01:11.679Z"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c945",
       "id": "dnrzi0ap",
       "name": "Valheim",
@@ -18707,32 +18733,6 @@
         }
       ],
       "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2025-10-04T03:01:11.679Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c967",
-      "id": "HHfdR20I",
-      "name": "THE GAME OF LIFE 2 APK v1.0.4",
-      "image": "80LwGxXhFM.jpg",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        19,
-        25
-      ],
-      "size": "1.2 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1_GJjb_qOXqKyUmkukN0WXw",
-          "_id": "68e08df79e798a708ef8c968"
-        }
-      ],
-      "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
@@ -19242,23 +19242,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c959",
-      "id": "JX8A1iZY",
-      "name": "Monster Train APK v2.3.5",
-      "image": "LVrJAnSy3h.jpg",
+      "_id": "68e08df79e798a708ef8c96b",
+      "id": "OujQwqD7",
+      "name": "20 Minutes Till Dawn APK v5.3",
+      "image": "O46zCCGDQT.jpg",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        25,
-        28
+        2,
+        16
       ],
-      "size": "369 Mb",
+      "size": "69.5 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1U4xfrv1jd_Rhppv_Q1j6sQ",
-          "_id": "68e08df79e798a708ef8c95a"
+          "link": "https://1024terabox.com/s/1PBd9PeIDzCTWDjXqRUQUaA",
+          "_id": "68e08df79e798a708ef8c96c"
         }
       ],
       "emulatorId": 10,
@@ -19454,22 +19453,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c96b",
-      "id": "OujQwqD7",
-      "name": "20 Minutes Till Dawn APK v5.3",
-      "image": "O46zCCGDQT.jpg",
+      "_id": "68e08df79e798a708ef8c959",
+      "id": "JX8A1iZY",
+      "name": "Monster Train APK v2.3.5",
+      "image": "LVrJAnSy3h.jpg",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        16
+        16,
+        25,
+        28
       ],
-      "size": "69.5 Mb",
+      "size": "369 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1PBd9PeIDzCTWDjXqRUQUaA",
-          "_id": "68e08df79e798a708ef8c96c"
+          "link": "https://1024terabox.com/s/1U4xfrv1jd_Rhppv_Q1j6sQ",
+          "_id": "68e08df79e798a708ef8c95a"
         }
       ],
       "emulatorId": 10,
@@ -24971,6 +24971,32 @@
       "captures": [],
       "createdAt": "2026-02-16T18:39:43.355Z",
       "updatedAt": "2026-02-16T18:39:43.355Z",
+      "__v": 0
+    },
+    {
+      "_id": "699364a9d3b75b3e2ac5ae7c",
+      "id": "SQP4_JW_",
+      "name": "Ninja Gaiden",
+      "image": "1771267241238-91ff8fc9",
+      "format": 11,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        27
+      ],
+      "size": "6.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1GstBZDcQWA8qYfODyFad0g",
+          "_id": "699364a9d3b75b3e2ac5ae7d"
+        }
+      ],
+      "emulatorId": 12,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-02-16T18:40:41.908Z",
+      "updatedAt": "2026-02-16T18:40:41.908Z",
       "__v": 0
     }
   ],
