@@ -11882,6 +11882,33 @@
       "updatedAt": "2025-10-04T03:01:09.887Z"
     },
     {
+      "_id": "68e08df59e798a708ef8c73d",
+      "id": "3WRbQLNg",
+      "name": "SUPER MARIO ODYSSEY ",
+      "image": "SUPER MARIO ODYSSEY.jpeg",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        3,
+        12
+      ],
+      "size": "6.01 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/18BiChGkxM1IN0zj71xABfg",
+          "_id": "68e08df59e798a708ef8c73e"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:09.887Z",
+      "updatedAt": "2026-02-04T04:09:16.259Z",
+      "isUpdate": true
+    },
+    {
       "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6d8",
       "id": "nYZPicf8",
@@ -11912,33 +11939,6 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
       "updatedAt": "2025-10-04T03:01:09.887Z"
-    },
-    {
-      "_id": "68e08df59e798a708ef8c73d",
-      "id": "3WRbQLNg",
-      "name": "SUPER MARIO ODYSSEY ",
-      "image": "SUPER MARIO ODYSSEY.jpeg",
-      "format": 2,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        3,
-        12
-      ],
-      "size": "6.01 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/18BiChGkxM1IN0zj71xABfg",
-          "_id": "68e08df59e798a708ef8c73e"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-02-04T04:09:16.259Z",
-      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -13053,10 +13053,10 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df59e798a708ef8c784",
-      "id": "_zJtiFhh",
-      "name": "Assassin's Creed Rogue",
-      "image": "Assassins-Creed-Rogue.jpg",
+      "_id": "68e08df59e798a708ef8c786",
+      "id": "w6I6ZLbT",
+      "name": "Assassin's Creed Unity",
+      "image": "Assassins-Creed-Unity.jpg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
@@ -13064,12 +13064,12 @@
         7,
         12
       ],
-      "size": "8.80 Gb",
+      "size": "32.01 GB",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/115TQ9zbCCyoayvGf-buaJw",
-          "_id": "68e08df59e798a708ef8c785"
+          "link": "https://1024terabox.com/s/1BTobX03XktQkFbSC0T7RlA",
+          "_id": "68e08df59e798a708ef8c787"
         }
       ],
       "emulatorId": 2,
@@ -13159,10 +13159,10 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df59e798a708ef8c786",
-      "id": "w6I6ZLbT",
-      "name": "Assassin's Creed Unity",
-      "image": "Assassins-Creed-Unity.jpg",
+      "_id": "68e08df59e798a708ef8c784",
+      "id": "_zJtiFhh",
+      "name": "Assassin's Creed Rogue",
+      "image": "Assassins-Creed-Rogue.jpg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
@@ -13170,12 +13170,12 @@
         7,
         12
       ],
-      "size": "32.01 GB",
+      "size": "8.80 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1BTobX03XktQkFbSC0T7RlA",
-          "_id": "68e08df59e798a708ef8c787"
+          "link": "https://1024terabox.com/s/115TQ9zbCCyoayvGf-buaJw",
+          "_id": "68e08df59e798a708ef8c785"
         }
       ],
       "emulatorId": 2,
@@ -21314,52 +21314,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8c9f8",
-      "id": "JJgh7uMH",
-      "name": "Ben 10 Alien Force Vilgax Attacks ",
-      "image": "ao77IuaL_n.jpg",
+      "_id": "68e08df89e798a708ef8ca06",
+      "id": "QUfMNhpM",
+      "name": "Burnout Dominator ",
+      "image": "eRf65rrylI.jpg",
       "format": 4,
       "language": "Español",
       "genre": [
-        1,
-        2,
-        3,
-        45
+        13,
+        42
       ],
-      "size": "1.6 Gb",
+      "size": "777 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1p5739nA1bKAWCX0AiTc2Lg",
-          "_id": "68e08df89e798a708ef8c9f9"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2025-10-04T03:01:12.241Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8c9f6",
-      "id": "H4fK5b6S",
-      "name": "Ben 10 Protector Of Earth ",
-      "image": "glvSu40pXZ.jpg",
-      "format": 4,
-      "language": "Español",
-      "genre": [
-        1,
-        2,
-        3,
-        45
-      ],
-      "size": "647 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1r3IRjIZzXPg0sxFFdOAf_A",
-          "_id": "68e08df89e798a708ef8c9f7"
+          "link": "https://1024terabox.com/s/142aRMX0U3Dq4U_j7G_STLg",
+          "_id": "68e08df89e798a708ef8ca07"
         }
       ],
       "emulatorId": 3,
@@ -21396,23 +21366,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8c9f2",
-      "id": "RO6o9VId",
-      "name": "Astro Boy The Video Game ",
-      "image": "qHSAHFlhBz.jpg",
+      "_id": "68e08df89e798a708ef8c9fe",
+      "id": "19P2Z17Y",
+      "name": "BlazBlue Calamity trigger",
+      "image": "HzoEOjHpqj.jpg",
       "format": 4,
       "language": "Español",
       "genre": [
-        1,
         32,
-        45
+        7
       ],
-      "size": "1.2 Gb",
+      "size": "936 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1fssXxPmIpHxi6B7xyu6qDQ",
-          "_id": "68e08df89e798a708ef8c9f3"
+          "link": "https://1024terabox.com/s/1k7jfnG4sPpoHr_fG2tfqfA",
+          "_id": "68e08df89e798a708ef8c9ff"
         }
       ],
       "emulatorId": 3,
@@ -21423,22 +21392,75 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca06",
-      "id": "QUfMNhpM",
-      "name": "Burnout Dominator ",
-      "image": "eRf65rrylI.jpg",
+      "_id": "68e08df89e798a708ef8ca0e",
+      "id": "MKcPh2xV",
+      "name": "Killzone Liberation ",
+      "image": "CSoJgz1_n2.jpg",
       "format": 4,
       "language": "Español",
       "genre": [
-        13,
-        42
+        30
       ],
-      "size": "777 Mb",
+      "size": "510 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/142aRMX0U3Dq4U_j7G_STLg",
-          "_id": "68e08df89e798a708ef8ca07"
+          "link": "https://1024terabox.com/s/1eQefxjeHChu3m2prikiNrw",
+          "_id": "68e08df89e798a708ef8ca0f"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2025-10-04T03:01:12.241Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8c9f8",
+      "id": "JJgh7uMH",
+      "name": "Ben 10 Alien Force Vilgax Attacks ",
+      "image": "ao77IuaL_n.jpg",
+      "format": 4,
+      "language": "Español",
+      "genre": [
+        1,
+        2,
+        3,
+        45
+      ],
+      "size": "1.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1p5739nA1bKAWCX0AiTc2Lg",
+          "_id": "68e08df89e798a708ef8c9f9"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2025-10-04T03:01:12.241Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca04",
+      "id": "MGVHga6i",
+      "name": "Bomberman Land ",
+      "image": "TfxUzF-wXH.jpg",
+      "format": 4,
+      "language": "Español",
+      "genre": [
+        2,
+        28
+      ],
+      "size": "510 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1810wNfDQWIBen-x9cfk7Jg",
+          "_id": "68e08df89e798a708ef8ca05"
         }
       ],
       "emulatorId": 3,
@@ -21501,62 +21523,10 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8c9fe",
-      "id": "19P2Z17Y",
-      "name": "BlazBlue Calamity trigger",
-      "image": "HzoEOjHpqj.jpg",
-      "format": 4,
-      "language": "Español",
-      "genre": [
-        32,
-        7
-      ],
-      "size": "936 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1k7jfnG4sPpoHr_fG2tfqfA",
-          "_id": "68e08df89e798a708ef8c9ff"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2025-10-04T03:01:12.241Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca02",
-      "id": "sztm_0Ol",
-      "name": "Bomberman",
-      "image": "AW3zI0Kuod.jpg",
-      "format": 4,
-      "language": "Español",
-      "genre": [
-        2,
-        28
-      ],
-      "size": "156 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1hr74C2cDUbk106j81aIzSA",
-          "_id": "68e08df89e798a708ef8ca03"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2025-10-04T03:01:12.241Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8c9fa",
-      "id": "SSOs9BEz",
-      "name": "Ben 10 Alien Force ",
-      "image": "aP3hyfS2kk.jpg",
+      "_id": "68e08df89e798a708ef8c9f6",
+      "id": "H4fK5b6S",
+      "name": "Ben 10 Protector Of Earth ",
+      "image": "glvSu40pXZ.jpg",
       "format": 4,
       "language": "Español",
       "genre": [
@@ -21565,37 +21535,12 @@
         3,
         45
       ],
-      "size": "774 Mb",
+      "size": "647 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1dzxlvXkCjRy1Do4lfTqqFg",
-          "_id": "68e08df89e798a708ef8c9fb"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2025-10-04T03:01:12.241Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca0e",
-      "id": "MKcPh2xV",
-      "name": "Killzone Liberation ",
-      "image": "CSoJgz1_n2.jpg",
-      "format": 4,
-      "language": "Español",
-      "genre": [
-        30
-      ],
-      "size": "510 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1eQefxjeHChu3m2prikiNrw",
-          "_id": "68e08df89e798a708ef8ca0f"
+          "link": "https://1024terabox.com/s/1r3IRjIZzXPg0sxFFdOAf_A",
+          "_id": "68e08df89e798a708ef8c9f7"
         }
       ],
       "emulatorId": 3,
@@ -21623,6 +21568,33 @@
           "type": "Terabox",
           "link": "https://1024terabox.com/s/1MfoVwA-xCoXLiibFkHBCgw",
           "_id": "68e08df89e798a708ef8c9fd"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2025-10-04T03:01:12.241Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8c9f2",
+      "id": "RO6o9VId",
+      "name": "Astro Boy The Video Game ",
+      "image": "qHSAHFlhBz.jpg",
+      "format": 4,
+      "language": "Español",
+      "genre": [
+        1,
+        32,
+        45
+      ],
+      "size": "1.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1fssXxPmIpHxi6B7xyu6qDQ",
+          "_id": "68e08df89e798a708ef8c9f3"
         }
       ],
       "emulatorId": 3,
@@ -21686,22 +21658,24 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca04",
-      "id": "MGVHga6i",
-      "name": "Bomberman Land ",
-      "image": "TfxUzF-wXH.jpg",
+      "_id": "68e08df89e798a708ef8c9fa",
+      "id": "SSOs9BEz",
+      "name": "Ben 10 Alien Force ",
+      "image": "aP3hyfS2kk.jpg",
       "format": 4,
       "language": "Español",
       "genre": [
+        1,
         2,
-        28
+        3,
+        45
       ],
-      "size": "510 Mb",
+      "size": "774 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1810wNfDQWIBen-x9cfk7Jg",
-          "_id": "68e08df89e798a708ef8ca05"
+          "link": "https://1024terabox.com/s/1dzxlvXkCjRy1Do4lfTqqFg",
+          "_id": "68e08df89e798a708ef8c9fb"
         }
       ],
       "emulatorId": 3,
@@ -21712,23 +21686,252 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca42",
-      "id": "o1nUZ5V-",
-      "name": "Marvel Avengers - Battle for Earth (USA) (DLC) (v16)",
-      "image": "lQIfv_dzY8.jpg",
+      "_id": "68e08df89e798a708ef8ca02",
+      "id": "sztm_0Ol",
+      "name": "Bomberman",
+      "image": "AW3zI0Kuod.jpg",
+      "format": 4,
+      "language": "Español",
+      "genre": [
+        2,
+        28
+      ],
+      "size": "156 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1hr74C2cDUbk106j81aIzSA",
+          "_id": "68e08df89e798a708ef8ca03"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2025-10-04T03:01:12.241Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca3e",
+      "id": "kNyvbVbN",
+      "name": "Mighty No. 9 (USA) (DLC) (v16)",
+      "image": "412lwRQ9Yb.jpg",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        3,
-        45
+        1
       ],
-      "size": "2.2 Gb",
+      "size": "3.0 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/13weJ3rzZx2Jd_HuwnOeBtw",
-          "_id": "68e08df89e798a708ef8ca43"
+          "link": "https://1024terabox.com/s/1CNYTLapN4TVkgHi4jZncaQ",
+          "_id": "68e08df89e798a708ef8ca3f"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca60",
+      "id": "3rEJdOo4",
+      "name": "Runbow Deluxe (USA)",
+      "image": "4msru_Bwoy.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        1
+      ],
+      "size": "226 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1li1DuSofBF8YLRYuTBS8Vg",
+          "_id": "68e08df89e798a708ef8ca61"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca16",
+      "id": "K64tb0-u",
+      "name": "Mortal Kombat 11 Ultimate Edition",
+      "image": "P8xLzcJgTT.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        24
+      ],
+      "size": "100 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1t0c6fD7J75zwrAV0t5VXCA",
+          "_id": "68e08df89e798a708ef8ca17"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca72",
+      "id": "Fzey-12J",
+      "name": "Persona 5 Tactica",
+      "image": "aVCSxixmqo.jpg",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        16
+      ],
+      "size": "7,5 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1oM5wJrFMmur1-6VOlaVZuQ",
+          "_id": "68e08df89e798a708ef8ca73"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca46",
+      "id": "dJBdL0yt",
+      "name": "Phineas and Ferb - Quest for Cool Stuff (USA)",
+      "image": "iRpptvI-07.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        1
+      ],
+      "size": "211 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1W_rfTiO6_iKWl_p7R9VE7A",
+          "_id": "68e08df89e798a708ef8ca47"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca36",
+      "id": "42jRxFsC",
+      "name": "NES REMIX PACK (USA)",
+      "image": "iymK5rWHzT.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        3
+      ],
+      "size": "127 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "ttps://1024terabox.com/s/1YDlzC-qzemd5MOAcydwztA",
+          "_id": "68e08df89e798a708ef8ca37"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca22",
+      "id": "eYDCboGB",
+      "name": "Legend Of Kay Anniversary ",
+      "image": "Yt9GZ4sXIa.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        41
+      ],
+      "size": "3.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1_kvZ4ODd7Yj_Z_D5vNSlkA",
+          "_id": "68e08df89e798a708ef8ca23"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca28",
+      "id": "jP4CSCkd",
+      "name": "Madden NFL 13",
+      "image": "ejLC9iC_Hz.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        4
+      ],
+      "size": "4.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1AJ4YZU2rj09XOZpFni8Efw",
+          "_id": "68e08df89e798a708ef8ca29"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca38",
+      "id": "ekCcUB3u",
+      "name": "NBA 2K13 (USA) (v32)",
+      "image": "eDiI19rVLX.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        4
+      ],
+      "size": "18 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1xl3J_bczXNu4NRzn5XRpAg",
+          "_id": "68e08df89e798a708ef8ca39"
         }
       ],
       "emulatorId": 5,
@@ -21764,21 +21967,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca38",
-      "id": "ekCcUB3u",
-      "name": "NBA 2K13 (USA) (v32)",
-      "image": "eDiI19rVLX.jpg",
+      "_id": "68e08df89e798a708ef8ca42",
+      "id": "o1nUZ5V-",
+      "name": "Marvel Avengers - Battle for Earth (USA) (DLC) (v16)",
+      "image": "lQIfv_dzY8.jpg",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        4
+        2,
+        3,
+        45
       ],
-      "size": "18 Gb",
+      "size": "2.2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1xl3J_bczXNu4NRzn5XRpAg",
-          "_id": "68e08df89e798a708ef8ca39"
+          "link": "https://1024terabox.com/s/13weJ3rzZx2Jd_HuwnOeBtw",
+          "_id": "68e08df89e798a708ef8ca43"
         }
       ],
       "emulatorId": 5,
@@ -21840,47 +22045,21 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca28",
-      "id": "jP4CSCkd",
-      "name": "Madden NFL 13",
-      "image": "ejLC9iC_Hz.jpg",
+      "_id": "68e08df89e798a708ef8ca50",
+      "id": "_djkBr-v",
+      "name": "PAC-MAN and the Ghostly Adventures 2 (USA)",
+      "image": "NbD2q5QAhn.jpg",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        4
-      ],
-      "size": "4.3 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1AJ4YZU2rj09XOZpFni8Efw",
-          "_id": "68e08df89e798a708ef8ca29"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca60",
-      "id": "3rEJdOo4",
-      "name": "Runbow Deluxe (USA)",
-      "image": "4msru_Bwoy.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        13,
         1
       ],
-      "size": "226 Mb",
+      "size": "3,2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1li1DuSofBF8YLRYuTBS8Vg",
-          "_id": "68e08df89e798a708ef8ca61"
+          "link": "https://1024terabox.com/s/1WfSjiTp8UHUNgIa1MAZTUw",
+          "_id": "68e08df89e798a708ef8ca51"
         }
       ],
       "emulatorId": 5,
@@ -21891,24 +22070,25 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca72",
-      "id": "Fzey-12J",
-      "name": "Persona 5 Tactica",
-      "image": "aVCSxixmqo.jpg",
-      "format": 2,
+      "_id": "68e08df89e798a708ef8ca4c",
+      "id": "gFGzVtuv",
+      "name": "PIKMIN 3 (USA) (DLC) (v96)",
+      "image": "flMbLt3sUz.jpg",
+      "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        16
+        28,
+        3
       ],
-      "size": "7,5 Gb",
+      "size": "4,2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1oM5wJrFMmur1-6VOlaVZuQ",
-          "_id": "68e08df89e798a708ef8ca73"
+          "link": "https://1024terabox.com/s/1qDwYti6PWcNUCvRdbVDCmg",
+          "_id": "68e08df89e798a708ef8ca4d"
         }
       ],
-      "emulatorId": 8,
+      "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
@@ -21994,22 +22174,21 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca4c",
-      "id": "gFGzVtuv",
-      "name": "PIKMIN 3 (USA) (DLC) (v96)",
-      "image": "flMbLt3sUz.jpg",
+      "_id": "68e08df89e798a708ef8ca52",
+      "id": "wfwPBu4U",
+      "name": "PAC-MAN and the Ghostly Adventures",
+      "image": "m7HIsc2t1x.jpg",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        28,
-        3
+        1
       ],
-      "size": "4,2 Gb",
+      "size": "2,9 gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1qDwYti6PWcNUCvRdbVDCmg",
-          "_id": "68e08df89e798a708ef8ca4d"
+          "link": "https://1024terabox.com/s/1R5_VQnmJ6mt4-y6UnsonRA",
+          "_id": "68e08df89e798a708ef8ca53"
         }
       ],
       "emulatorId": 5,
@@ -22019,31 +22198,420 @@
       "updatedAt": "2025-10-04T03:01:12.242Z"
     },
     {
-      "_id": "68e08df89e798a708ef8ca78",
-      "id": "RyNm0snU",
-      "name": "Subnautica ( Nueva Versión)",
-      "image": "w2E-3pN4Sp.jpg",
-      "format": 6,
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca6a",
+      "id": "Y-yGuZZp",
+      "name": "Shantae Half-Genie Hero (USA) (DLC) (v80)",
+      "image": "urBBkzlQ4d.jpg",
+      "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        12,
-        31,
-        9
+        1
       ],
-      "size": "2,3 Gb [8,1 Mb]",
+      "size": "2,4 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1ULXowHtpA_23vTrR-yRfkQ",
-          "_id": "68e08df89e798a708ef8ca79"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/18337Kfxew7M9H1BBX_iltg",
+          "_id": "68e08df89e798a708ef8ca6b"
         }
       ],
-      "emulatorId": 10,
+      "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-02-04T16:47:59.001Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca44",
+      "id": "H4uDlA5j",
+      "name": "RESIDENT EVIL REVELATIONS (USA) (DLC) (v16)",
+      "image": "GpCwDD-3Ri.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        14,
+        9
+      ],
+      "size": "12,7 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/15pxY7dV3x5zlRE4jVPavpA",
+          "_id": "68e08df89e798a708ef8ca45"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca66",
+      "id": "EAwwkWf6",
+      "name": "Scribblenauts Unmasked (USA)",
+      "image": "77K6kgppFO.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        39
+      ],
+      "size": "981 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/18RkthFvs4ZKwC8YU3V4HmQ",
+          "_id": "68e08df89e798a708ef8ca67"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca6c",
+      "id": "IbgyKzo0",
+      "name": "Persona 3 Portable",
+      "image": "pv-Po8XUVy.jpg",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        16,
+        19
+      ],
+      "size": "7,6 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1IATbYj9bVVROxSg1WvsQ5g",
+          "_id": "68e08df89e798a708ef8ca6d"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca10",
+      "id": "sPcQyJ0K",
+      "name": "Kane And Lynch Dog Days 2",
+      "image": "6xbxraWhO_.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35
+      ],
+      "size": "8.0 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1m7XKBUaHScCHHbu5plIEPg",
+          "_id": "68e08df89e798a708ef8ca11"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca40",
+      "id": "WsboiRGW",
+      "name": "Mass Effect 3 Special Edition (USA) (v16)",
+      "image": "ZFskoOyk11.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        16
+      ],
+      "size": "16 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1TcstSg8GYEP09Lrn0E0Ghw",
+          "_id": "68e08df89e798a708ef8ca41"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca34",
+      "id": "DbYV5A_U",
+      "name": "NINJA GAIDEN 3 Razor's Edge (USA) (v80)",
+      "image": "UhXPDpOZTT.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        27
+      ],
+      "size": "5.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1hixGUc1-o98vlYzbhI6jBA",
+          "_id": "68e08df89e798a708ef8ca35"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca32",
+      "id": "-pisnbWK",
+      "name": "Need for Speed Most Wanted U (USA) (v32)",
+      "image": "xNvRbgKY9D.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        42
+      ],
+      "size": "5.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1h07XCVB9eFcTZdZUJnFtuQ",
+          "_id": "68e08df89e798a708ef8ca33"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca4e",
+      "id": "nrjtR9YC",
+      "name": "PAPER MARIO Color Splash (USA)",
+      "image": "eyNJoMCYkD.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        16
+      ],
+      "size": "6,7 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1pCLTTzcI7ZKn7BT6MLLc-Q",
+          "_id": "68e08df89e798a708ef8ca4f"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca70",
+      "id": "gZITCQMN",
+      "name": "Persona 5 Strikers ",
+      "image": "1rrKc_aAWz.jpg",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        16,
+        19
+      ],
+      "size": "15,1 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1F0fePixvY_y2dgNqxViNcw",
+          "_id": "68e08df89e798a708ef8ca71"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca1a",
+      "id": "pXazO5lz",
+      "name": "LEGO Jurassic World ",
+      "image": "78iZn_DxkM.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        44
+      ],
+      "size": "5.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1S-IC5k-HkGA7Z7tisG9klw",
+          "_id": "68e08df89e798a708ef8ca1b"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca20",
+      "id": "5cxrNh8-",
+      "name": "LEGO The Hobbit ",
+      "image": "UYe1j55Vqq.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        44
+      ],
+      "size": "5.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1LW32o_WYKYmDxYW94YBsNw",
+          "_id": "68e08df89e798a708ef8ca21"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca4a",
+      "id": "3sMCS9q7",
+      "name": "POKKÉN TOURNAMENT (USA) (v64)",
+      "image": "namzdn2clR.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        24
+      ],
+      "size": "3.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/17Y0OY-qVrKPH8DvCb-0HHw",
+          "_id": "68e08df89e798a708ef8ca4b"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca56",
+      "id": "fUodemuZ",
+      "name": "New SUPER MARIO BROS. U (USA) (DLC) (v64)",
+      "image": "1kvqSwbTn7.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        1
+      ],
+      "size": "1,2 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/16lMxVddjVQ1W18pKiChzUQ",
+          "_id": "68e08df89e798a708ef8ca57"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-02-03T21:40:35.329Z",
       "isUpdate": true
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca58",
+      "id": "6m6jXMap",
+      "name": "RISE OF THE GUARDIANS (USA)",
+      "image": "Prh84CISZj.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        7
+      ],
+      "size": "2,3 gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1AcBynOOtFpij1P47l1T3xA",
+          "_id": "68e08df89e798a708ef8ca59"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca5a",
+      "id": "E25Zx-Nq",
+      "name": "Rabbids Land (USA) (v16)",
+      "image": "EKf2_PHZfA.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        3
+      ],
+      "size": "6,2 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/10ncmrh5fTkD85hZiq9Wrrg",
+          "_id": "68e08df89e798a708ef8ca5b"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
     },
     {
       "isUpdate": false,
@@ -22063,6 +22631,58 @@
           "type": "Terabox",
           "link": "https://1024terabox.com/s/1O_r3LfEmPCXeajy8j2Du6Q",
           "_id": "68e08df89e798a708ef8ca6f"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca68",
+      "id": "hHOrzj9Q",
+      "name": "Shakedown Hawaii (USA)",
+      "image": "F3W_-xkHZr.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        12
+      ],
+      "size": "55 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1Z4x0NNeTc_a2rTqpVqsDbA",
+          "_id": "68e08df89e798a708ef8ca69"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca74",
+      "id": "eEbCZIbS",
+      "name": "Persona 4 Golden ",
+      "image": "y2Om6LAcyM.jpg",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        19,
+        16
+      ],
+      "size": "9,8 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1r8kC6SvptftgO1wtW8TjZA",
+          "_id": "68e08df89e798a708ef8ca75"
         }
       ],
       "emulatorId": 8,
@@ -22124,367 +22744,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca54",
-      "id": "WuoXasF3",
-      "name": "New SUPER MARIO BROS. U + New SUPER LUIGI U (USA)",
-      "image": "Y-fMBzi-rC.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        1
-      ],
-      "size": "12,9 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1NWL8_-f1B_xkBgDzbE01Ug",
-          "_id": "68e08df89e798a708ef8ca55"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca3e",
-      "id": "kNyvbVbN",
-      "name": "Mighty No. 9 (USA) (DLC) (v16)",
-      "image": "412lwRQ9Yb.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        1
-      ],
-      "size": "3.0 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1CNYTLapN4TVkgHi4jZncaQ",
-          "_id": "68e08df89e798a708ef8ca3f"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca16",
-      "id": "K64tb0-u",
-      "name": "Mortal Kombat 11 Ultimate Edition",
-      "image": "P8xLzcJgTT.jpg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        24
-      ],
-      "size": "100 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1t0c6fD7J75zwrAV0t5VXCA",
-          "_id": "68e08df89e798a708ef8ca17"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca50",
-      "id": "_djkBr-v",
-      "name": "PAC-MAN and the Ghostly Adventures 2 (USA)",
-      "image": "NbD2q5QAhn.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        1
-      ],
-      "size": "3,2 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1WfSjiTp8UHUNgIa1MAZTUw",
-          "_id": "68e08df89e798a708ef8ca51"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca52",
-      "id": "wfwPBu4U",
-      "name": "PAC-MAN and the Ghostly Adventures",
-      "image": "m7HIsc2t1x.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        1
-      ],
-      "size": "2,9 gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1R5_VQnmJ6mt4-y6UnsonRA",
-          "_id": "68e08df89e798a708ef8ca53"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca44",
-      "id": "H4uDlA5j",
-      "name": "RESIDENT EVIL REVELATIONS (USA) (DLC) (v16)",
-      "image": "GpCwDD-3Ri.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        14,
-        9
-      ],
-      "size": "12,7 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/15pxY7dV3x5zlRE4jVPavpA",
-          "_id": "68e08df89e798a708ef8ca45"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca10",
-      "id": "sPcQyJ0K",
-      "name": "Kane And Lynch Dog Days 2",
-      "image": "6xbxraWhO_.jpg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        35
-      ],
-      "size": "8.0 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1m7XKBUaHScCHHbu5plIEPg",
-          "_id": "68e08df89e798a708ef8ca11"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca40",
-      "id": "WsboiRGW",
-      "name": "Mass Effect 3 Special Edition (USA) (v16)",
-      "image": "ZFskoOyk11.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        16
-      ],
-      "size": "16 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1TcstSg8GYEP09Lrn0E0Ghw",
-          "_id": "68e08df89e798a708ef8ca41"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca22",
-      "id": "eYDCboGB",
-      "name": "Legend Of Kay Anniversary ",
-      "image": "Yt9GZ4sXIa.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        41
-      ],
-      "size": "3.3 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1_kvZ4ODd7Yj_Z_D5vNSlkA",
-          "_id": "68e08df89e798a708ef8ca23"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca6c",
-      "id": "IbgyKzo0",
-      "name": "Persona 3 Portable",
-      "image": "pv-Po8XUVy.jpg",
-      "format": 2,
-      "language": "Multi-Idioma",
-      "genre": [
-        16,
-        19
-      ],
-      "size": "7,6 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1IATbYj9bVVROxSg1WvsQ5g",
-          "_id": "68e08df89e798a708ef8ca6d"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca66",
-      "id": "EAwwkWf6",
-      "name": "Scribblenauts Unmasked (USA)",
-      "image": "77K6kgppFO.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        39
-      ],
-      "size": "981 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/18RkthFvs4ZKwC8YU3V4HmQ",
-          "_id": "68e08df89e798a708ef8ca67"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca6a",
-      "id": "Y-yGuZZp",
-      "name": "Shantae Half-Genie Hero (USA) (DLC) (v80)",
-      "image": "urBBkzlQ4d.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        1
-      ],
-      "size": "2,4 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/18337Kfxew7M9H1BBX_iltg",
-          "_id": "68e08df89e798a708ef8ca6b"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca36",
-      "id": "42jRxFsC",
-      "name": "NES REMIX PACK (USA)",
-      "image": "iymK5rWHzT.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        3
-      ],
-      "size": "127 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "ttps://1024terabox.com/s/1YDlzC-qzemd5MOAcydwztA",
-          "_id": "68e08df89e798a708ef8ca37"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca74",
-      "id": "eEbCZIbS",
-      "name": "Persona 4 Golden ",
-      "image": "y2Om6LAcyM.jpg",
-      "format": 2,
-      "language": "Multi-Idioma",
-      "genre": [
-        19,
-        16
-      ],
-      "size": "9,8 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1r8kC6SvptftgO1wtW8TjZA",
-          "_id": "68e08df89e798a708ef8ca75"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca1c",
       "id": "O_4bvu8Y",
       "name": "LEGO Marvel Avengers ",
@@ -22514,22 +22773,21 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca68",
-      "id": "hHOrzj9Q",
-      "name": "Shakedown Hawaii (USA)",
-      "image": "F3W_-xkHZr.jpg",
+      "_id": "68e08df89e798a708ef8ca5c",
+      "id": "zyPAJdzy",
+      "name": "Rapala Pro Bass Fishing (USA)",
+      "image": "-e_5gwbpXT.jpg",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        12
+        4
       ],
-      "size": "55 Mb",
+      "size": "4,4 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Z4x0NNeTc_a2rTqpVqsDbA",
-          "_id": "68e08df89e798a708ef8ca69"
+          "link": "https://1024terabox.com/s/1HVW4cZw1q0qo2sNLdVwgJQ",
+          "_id": "68e08df89e798a708ef8ca5d"
         }
       ],
       "emulatorId": 5,
@@ -22537,82 +22795,6 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca5a",
-      "id": "E25Zx-Nq",
-      "name": "Rabbids Land (USA) (v16)",
-      "image": "EKf2_PHZfA.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        3
-      ],
-      "size": "6,2 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/10ncmrh5fTkD85hZiq9Wrrg",
-          "_id": "68e08df89e798a708ef8ca5b"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca58",
-      "id": "6m6jXMap",
-      "name": "RISE OF THE GUARDIANS (USA)",
-      "image": "Prh84CISZj.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        7
-      ],
-      "size": "2,3 gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1AcBynOOtFpij1P47l1T3xA",
-          "_id": "68e08df89e798a708ef8ca59"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca56",
-      "id": "fUodemuZ",
-      "name": "New SUPER MARIO BROS. U (USA) (DLC) (v64)",
-      "image": "1kvqSwbTn7.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        1
-      ],
-      "size": "1,2 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/16lMxVddjVQ1W18pKiChzUQ",
-          "_id": "68e08df89e798a708ef8ca57"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-02-03T21:40:35.329Z",
-      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -22637,32 +22819,6 @@
         }
       ],
       "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca4a",
-      "id": "3sMCS9q7",
-      "name": "POKKÉN TOURNAMENT (USA) (v64)",
-      "image": "namzdn2clR.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        24
-      ],
-      "size": "3.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/17Y0OY-qVrKPH8DvCb-0HHw",
-          "_id": "68e08df89e798a708ef8ca4b"
-        }
-      ],
-      "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
@@ -22826,75 +22982,50 @@
       "updatedAt": "2025-10-04T03:01:12.242Z"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca20",
-      "id": "5cxrNh8-",
-      "name": "LEGO The Hobbit ",
-      "image": "UYe1j55Vqq.jpg",
-      "format": 5,
+      "_id": "68e08df89e798a708ef8ca78",
+      "id": "RyNm0snU",
+      "name": "Subnautica ( Nueva Versión)",
+      "image": "w2E-3pN4Sp.jpg",
+      "format": 6,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        44
+        12,
+        31,
+        9
       ],
-      "size": "5.9 Gb",
+      "size": "2,3 Gb [8,1 Mb]",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1LW32o_WYKYmDxYW94YBsNw",
-          "_id": "68e08df89e798a708ef8ca21"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1ULXowHtpA_23vTrR-yRfkQ",
+          "_id": "68e08df89e798a708ef8ca79"
         }
       ],
-      "emulatorId": 5,
+      "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
+      "updatedAt": "2026-02-04T16:47:59.001Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca1a",
-      "id": "pXazO5lz",
-      "name": "LEGO Jurassic World ",
-      "image": "78iZn_DxkM.jpg",
+      "_id": "68e08df89e798a708ef8ca54",
+      "id": "WuoXasF3",
+      "name": "New SUPER MARIO BROS. U + New SUPER LUIGI U (USA)",
+      "image": "Y-fMBzi-rC.jpg",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        2,
         3,
-        44
+        1
       ],
-      "size": "5.9 Gb",
+      "size": "12,9 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1S-IC5k-HkGA7Z7tisG9klw",
-          "_id": "68e08df89e798a708ef8ca1b"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca24",
-      "id": "keQdzVGu",
-      "name": "Luv Me Buddies Wonderland ",
-      "image": "k7yaZnmYxc.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        3
-      ],
-      "size": "55.37 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1NHenJxlZoRwJfuNd_Em7wA",
-          "_id": "68e08df89e798a708ef8ca25"
+          "link": "https://1024terabox.com/s/1NWL8_-f1B_xkBgDzbE01Ug",
+          "_id": "68e08df89e798a708ef8ca55"
         }
       ],
       "emulatorId": 5,
@@ -22931,159 +23062,81 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca34",
-      "id": "DbYV5A_U",
-      "name": "NINJA GAIDEN 3 Razor's Edge (USA) (v80)",
-      "image": "UhXPDpOZTT.jpg",
+      "_id": "68e08df89e798a708ef8ca24",
+      "id": "keQdzVGu",
+      "name": "Luv Me Buddies Wonderland ",
+      "image": "k7yaZnmYxc.jpg",
       "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        3
+      ],
+      "size": "55.37 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1NHenJxlZoRwJfuNd_Em7wA",
+          "_id": "68e08df89e798a708ef8ca25"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2025-10-04T03:01:12.242Z"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca82",
+      "id": "1TZgK5O4",
+      "name": "Hitman Blood Money ",
+      "image": "-ZBnAHt_tj.jpg",
+      "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
         3,
-        27
+        8,
+        30
       ],
-      "size": "5.8 Gb",
+      "size": "4,0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1hixGUc1-o98vlYzbhI6jBA",
-          "_id": "68e08df89e798a708ef8ca35"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Ce3toivprDQBUPKceNt0tg",
+          "_id": "68e08df89e798a708ef8ca83"
         }
       ],
-      "emulatorId": 5,
+      "emulatorId": 2,
       "captures": [],
       "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-01-18T01:05:31.888Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca5c",
-      "id": "zyPAJdzy",
-      "name": "Rapala Pro Bass Fishing (USA)",
-      "image": "-e_5gwbpXT.jpg",
-      "format": 5,
+      "_id": "68e08df89e798a708ef8ca80",
+      "id": "JN8QRODn",
+      "name": "Poppy PlayTime Chapter 3",
+      "image": "D3b1as4L9L.jpg",
+      "format": 6,
       "language": "Multi-Idioma",
       "genre": [
-        4
+        31
       ],
-      "size": "4,4 Gb",
+      "size": "2,2 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1HVW4cZw1q0qo2sNLdVwgJQ",
-          "_id": "68e08df89e798a708ef8ca5d"
+          "type": "terabox",
+          "link": "https://terabox.com/s/1kpUZsaLn6fvJEx2vSkQxPw",
+          "_id": "68e08df89e798a708ef8ca81"
         }
       ],
-      "emulatorId": 5,
+      "emulatorId": 10,
       "captures": [],
       "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca70",
-      "id": "gZITCQMN",
-      "name": "Persona 5 Strikers ",
-      "image": "1rrKc_aAWz.jpg",
-      "format": 2,
-      "language": "Multi-Idioma",
-      "genre": [
-        16,
-        19
-      ],
-      "size": "15,1 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1F0fePixvY_y2dgNqxViNcw",
-          "_id": "68e08df89e798a708ef8ca71"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca4e",
-      "id": "nrjtR9YC",
-      "name": "PAPER MARIO Color Splash (USA)",
-      "image": "eyNJoMCYkD.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        16
-      ],
-      "size": "6,7 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1pCLTTzcI7ZKn7BT6MLLc-Q",
-          "_id": "68e08df89e798a708ef8ca4f"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca32",
-      "id": "-pisnbWK",
-      "name": "Need for Speed Most Wanted U (USA) (v32)",
-      "image": "xNvRbgKY9D.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        13,
-        42
-      ],
-      "size": "5.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1h07XCVB9eFcTZdZUJnFtuQ",
-          "_id": "68e08df89e798a708ef8ca33"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca46",
-      "id": "dJBdL0yt",
-      "name": "Phineas and Ferb - Quest for Cool Stuff (USA)",
-      "image": "iRpptvI-07.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        1
-      ],
-      "size": "211 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1W_rfTiO6_iKWl_p7R9VE7A",
-          "_id": "68e08df89e798a708ef8ca47"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2025-10-04T03:01:12.242Z"
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2025-11-02T21:12:42.866Z"
     },
     {
       "isUpdate": false,
@@ -23139,33 +23192,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca9c",
-      "id": "HaS_CAky",
-      "name": "Transformers Prime",
-      "image": "O0TulmC5AJ.jpg",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        30,
-        28
-      ],
-      "size": "1,9 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/1yARy93TT7grBYCKk2tK8Rw",
-          "_id": "68e08df89e798a708ef8ca9d"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-10-04T03:01:12.243Z"
-    },
-    {
       "_id": "68e08df89e798a708ef8ca88",
       "id": "H1J6s4jo",
       "name": "Hitman 2 Silent Assassin ",
@@ -23194,28 +23220,57 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca80",
-      "id": "JN8QRODn",
-      "name": "Poppy PlayTime Chapter 3",
-      "image": "D3b1as4L9L.jpg",
-      "format": 6,
+      "_id": "68e08df89e798a708ef8caa0",
+      "id": "yte79bff",
+      "name": "Gears Of war 3",
+      "image": "Aojfdsjo-32.jpg",
+      "format": 0,
       "language": "Multi-Idioma",
       "genre": [
-        31
+        2,
+        35,
+        30
       ],
-      "size": "2,2 Gb",
+      "size": "1.6 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://terabox.com/s/1kpUZsaLn6fvJEx2vSkQxPw",
-          "_id": "68e08df89e798a708ef8ca81"
+          "type": "Terabox",
+          "link": "https://terabox.com/s/15Xi2g1LCywKwhe4dZGzMrA",
+          "_id": "68e08df89e798a708ef8caa1"
         }
       ],
-      "emulatorId": 10,
+      "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-11-02T21:12:42.866Z"
+      "updatedAt": "2025-10-04T03:01:12.243Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca9c",
+      "id": "HaS_CAky",
+      "name": "Transformers Prime",
+      "image": "O0TulmC5AJ.jpg",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        30,
+        28
+      ],
+      "size": "1,9 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://terabox.com/s/1yARy93TT7grBYCKk2tK8Rw",
+          "_id": "68e08df89e798a708ef8ca9d"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2025-10-04T03:01:12.243Z"
     },
     {
       "_id": "68e08df89e798a708ef8ca90",
@@ -23245,33 +23300,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca8a",
-      "id": "yKaYhI6Z",
-      "name": "Hitman 2016 ",
-      "image": "hMLJrAJP7G.jpg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8,
-        30
-      ],
-      "size": "45,2 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1lv1oerJC-k99TIntc7ZhIA",
-          "_id": "68e08df89e798a708ef8ca8b"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-10-04T03:01:12.243Z"
-    },
-    {
       "_id": "68e08df89e798a708ef8ca96",
       "id": "VsvfU9db",
       "name": "Darksiders Warmastered Edition ",
@@ -23297,167 +23325,6 @@
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-01-18T00:51:01.500Z",
       "isUpdate": true
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca7c",
-      "id": "PmhZyr0j",
-      "name": "Poppy PlayTime Chapter 1",
-      "image": "lnutX8xxdn.jpg",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        31
-      ],
-      "size": "1,0 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/160kQ0cilicGPsMgrHBwl9g",
-          "_id": "68e08df89e798a708ef8ca7d"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-10-04T03:01:12.243Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca84",
-      "id": "zZp_A7gq",
-      "name": "Hitman Contracts",
-      "image": "1WPPkqVdpB.jpg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8,
-        30
-      ],
-      "size": "900 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1uk9gD5YuuTEh694IeCUMQQ",
-          "_id": "68e08df89e798a708ef8ca85"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-10-04T03:01:12.243Z"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca82",
-      "id": "1TZgK5O4",
-      "name": "Hitman Blood Money ",
-      "image": "-ZBnAHt_tj.jpg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        8,
-        30
-      ],
-      "size": "4,0 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Ce3toivprDQBUPKceNt0tg",
-          "_id": "68e08df89e798a708ef8ca83"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-01-18T01:05:31.888Z",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca92",
-      "id": "X3pMNZUq",
-      "name": "Aliens vs Predator ",
-      "image": "56S1e9b4V3.jpg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        31,
-        11
-      ],
-      "size": "18,4 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://terabox.com/s/1Njrp60g_0FTyEkRJkVtHKg",
-          "_id": "68e08df89e798a708ef8ca93"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-01-18T00:47:49.162Z",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca94",
-      "id": "Cf1wEeKn",
-      "name": "Darksiders Genesis ",
-      "image": "9QRxr8V6TP.jpg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        27
-      ],
-      "size": "10,4 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/19CXslc_bq0QDoHJn2qQ3JQ",
-          "_id": "68e08df89e798a708ef8ca95"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-01-30T07:16:14.319Z",
-      "isUpdate": true
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca8e",
-      "id": "Exy190Oj",
-      "name": "Hitman Absolution ",
-      "image": "dPVJkMICsh.jpg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8,
-        30
-      ],
-      "size": "15,9 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1ItQgCCu_YRICSmSFbEoH3g",
-          "_id": "68e08df89e798a708ef8ca8f"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-10-04T03:01:12.243Z"
     },
     {
       "_id": "68e08df89e798a708ef8ca9a",
@@ -23542,23 +23409,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8caa0",
-      "id": "yte79bff",
-      "name": "Gears Of war 3",
-      "image": "Aojfdsjo-32.jpg",
-      "format": 0,
+      "_id": "68e08df89e798a708ef8ca8e",
+      "id": "Exy190Oj",
+      "name": "Hitman Absolution ",
+      "image": "dPVJkMICsh.jpg",
+      "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        35,
+        7,
+        8,
         30
       ],
-      "size": "1.6 Gb",
+      "size": "15,9 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://terabox.com/s/15Xi2g1LCywKwhe4dZGzMrA",
-          "_id": "68e08df89e798a708ef8caa1"
+          "link": "https://1024terabox.com/s/1ItQgCCu_YRICSmSFbEoH3g",
+          "_id": "68e08df89e798a708ef8ca8f"
         }
       ],
       "emulatorId": 2,
@@ -23566,6 +23433,110 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2025-10-04T03:01:12.243Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca84",
+      "id": "zZp_A7gq",
+      "name": "Hitman Contracts",
+      "image": "1WPPkqVdpB.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        8,
+        30
+      ],
+      "size": "900 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1uk9gD5YuuTEh694IeCUMQQ",
+          "_id": "68e08df89e798a708ef8ca85"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2025-10-04T03:01:12.243Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca8a",
+      "id": "yKaYhI6Z",
+      "name": "Hitman 2016 ",
+      "image": "hMLJrAJP7G.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        8,
+        30
+      ],
+      "size": "45,2 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1lv1oerJC-k99TIntc7ZhIA",
+          "_id": "68e08df89e798a708ef8ca8b"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2025-10-04T03:01:12.243Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca7c",
+      "id": "PmhZyr0j",
+      "name": "Poppy PlayTime Chapter 1",
+      "image": "lnutX8xxdn.jpg",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        31
+      ],
+      "size": "1,0 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/160kQ0cilicGPsMgrHBwl9g",
+          "_id": "68e08df89e798a708ef8ca7d"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2025-10-04T03:01:12.243Z"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca7e",
+      "id": "YYdMuJcq",
+      "name": "Poppy PlayTime Chapter 2",
+      "image": "apmgtzCkfW.jpg",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        31
+      ],
+      "size": "1,2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://terabox.com/s/1o-a_yJJxVJmBn9mV7OKuYg",
+          "_id": "68e08df89e798a708ef8ca7f"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2025-11-02T21:12:09.910Z"
     },
     {
       "_id": "68e08df89e798a708ef8ca9e",
@@ -23597,29 +23568,85 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca7e",
-      "id": "YYdMuJcq",
-      "name": "Poppy PlayTime Chapter 2",
-      "image": "apmgtzCkfW.jpg",
-      "format": 6,
+      "_id": "68e08df89e798a708ef8ca92",
+      "id": "X3pMNZUq",
+      "name": "Aliens vs Predator ",
+      "image": "56S1e9b4V3.jpg",
+      "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        31
+        2,
+        31,
+        11
       ],
-      "size": "1,2 Gb",
+      "size": "18,4 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://terabox.com/s/1o-a_yJJxVJmBn9mV7OKuYg",
-          "_id": "68e08df89e798a708ef8ca7f"
+          "link": "https://terabox.com/s/1Njrp60g_0FTyEkRJkVtHKg",
+          "_id": "68e08df89e798a708ef8ca93"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-01-18T00:47:49.162Z",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca94",
+      "id": "Cf1wEeKn",
+      "name": "Darksiders Genesis ",
+      "image": "9QRxr8V6TP.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        27
+      ],
+      "size": "10,4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/19CXslc_bq0QDoHJn2qQ3JQ",
+          "_id": "68e08df89e798a708ef8ca95"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-01-30T07:16:14.319Z",
+      "isUpdate": true
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8caa6",
+      "id": "riyLrs1T",
+      "name": "hollow knight silksong (1.1.5)",
+      "image": "1759155363188-3c71e339.jpg",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        9,
+        46
+      ],
+      "size": "1.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1R1g2lIN39Sf4t3QAyHcEnQ",
+          "_id": "68e08df89e798a708ef8caa7"
         }
       ],
       "emulatorId": 10,
       "captures": [],
       "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-11-02T21:12:09.910Z"
+      "createdAt": "2025-10-08T03:01:12.243Z",
+      "updatedAt": "2025-11-02T17:29:35.475Z"
     },
     {
       "isUpdate": false,
@@ -23674,33 +23701,6 @@
       "__v": 0,
       "createdAt": "2025-10-08T03:01:12.243Z",
       "updatedAt": "2025-10-04T03:01:12.243Z"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8caa6",
-      "id": "riyLrs1T",
-      "name": "hollow knight silksong (1.1.5)",
-      "image": "1759155363188-3c71e339.jpg",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        9,
-        46
-      ],
-      "size": "1.2 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1R1g2lIN39Sf4t3QAyHcEnQ",
-          "_id": "68e08df89e798a708ef8caa7"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-08T03:01:12.243Z",
-      "updatedAt": "2025-11-02T17:29:35.475Z"
     },
     {
       "isUpdate": false,
@@ -24944,6 +24944,33 @@
       "captures": [],
       "createdAt": "2026-02-16T18:27:32.253Z",
       "updatedAt": "2026-02-16T18:29:02.768Z",
+      "__v": 0
+    },
+    {
+      "_id": "6993646fd3b75b3e2ac59faa",
+      "id": "JeNq70Wt",
+      "name": "Forza Motorsport ",
+      "image": "1771267182659-d6b68202.jpg",
+      "format": 11,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        19,
+        12
+      ],
+      "size": "3.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1gldm9v_h87qxENpMSqh_xA",
+          "_id": "6993646fd3b75b3e2ac59fab"
+        }
+      ],
+      "emulatorId": 12,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-02-16T18:39:43.355Z",
+      "updatedAt": "2026-02-16T18:39:43.355Z",
       "__v": 0
     }
   ],
