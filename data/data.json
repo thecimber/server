@@ -13053,23 +13053,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df59e798a708ef8c786",
-      "id": "w6I6ZLbT",
-      "name": "Assassin's Creed Unity",
-      "image": "Assassins-Creed-Unity.jpg",
+      "_id": "68e08df59e798a708ef8c78c",
+      "id": "JidwcSBR",
+      "name": "Barony v4.3.1",
+      "image": "LzIAbFEmZR.jpg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        7,
-        12
+        16,
+        41
       ],
-      "size": "32.01 GB",
+      "size": "643 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1BTobX03XktQkFbSC0T7RlA",
-          "_id": "68e08df59e798a708ef8c787"
+          "link": "ttps://1024terabox.com/s/1Dp30oB56RENsCw5k7qOopA",
+          "_id": "68e08df59e798a708ef8c78d"
         }
       ],
       "emulatorId": 2,
@@ -13133,22 +13132,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df59e798a708ef8c78c",
-      "id": "JidwcSBR",
-      "name": "Barony v4.3.1",
-      "image": "LzIAbFEmZR.jpg",
+      "_id": "68e08df59e798a708ef8c786",
+      "id": "w6I6ZLbT",
+      "name": "Assassin's Creed Unity",
+      "image": "Assassins-Creed-Unity.jpg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        41
+        2,
+        7,
+        12
       ],
-      "size": "643 Mb",
+      "size": "32.01 GB",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "ttps://1024terabox.com/s/1Dp30oB56RENsCw5k7qOopA",
-          "_id": "68e08df59e798a708ef8c78d"
+          "link": "https://1024terabox.com/s/1BTobX03XktQkFbSC0T7RlA",
+          "_id": "68e08df59e798a708ef8c787"
         }
       ],
       "emulatorId": 2,
@@ -23086,32 +23086,31 @@
       "updatedAt": "2025-10-04T03:01:12.242Z"
     },
     {
-      "_id": "68e08df89e798a708ef8ca82",
-      "id": "1TZgK5O4",
-      "name": "Hitman Blood Money ",
-      "image": "-ZBnAHt_tj.jpg",
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca84",
+      "id": "zZp_A7gq",
+      "name": "Hitman Contracts",
+      "image": "1WPPkqVdpB.jpg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        3,
+        7,
         8,
         30
       ],
-      "size": "4,0 Gb",
+      "size": "900 Mb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Ce3toivprDQBUPKceNt0tg",
-          "_id": "68e08df89e798a708ef8ca83"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1uk9gD5YuuTEh694IeCUMQQ",
+          "_id": "68e08df89e798a708ef8ca85"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-01-18T01:05:31.888Z",
-      "isUpdate": true
+      "updatedAt": "2025-10-04T03:01:12.243Z"
     },
     {
       "isUpdate": false,
@@ -23435,31 +23434,32 @@
       "updatedAt": "2025-10-04T03:01:12.243Z"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca84",
-      "id": "zZp_A7gq",
-      "name": "Hitman Contracts",
-      "image": "1WPPkqVdpB.jpg",
+      "_id": "68e08df89e798a708ef8ca82",
+      "id": "1TZgK5O4",
+      "name": "Hitman Blood Money ",
+      "image": "-ZBnAHt_tj.jpg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        7,
+        2,
+        3,
         8,
         30
       ],
-      "size": "900 Mb",
+      "size": "4,0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1uk9gD5YuuTEh694IeCUMQQ",
-          "_id": "68e08df89e798a708ef8ca85"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Ce3toivprDQBUPKceNt0tg",
+          "_id": "68e08df89e798a708ef8ca83"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-10-04T03:01:12.243Z"
+      "updatedAt": "2026-01-18T01:05:31.888Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -24997,6 +24997,32 @@
       "captures": [],
       "createdAt": "2026-02-16T18:40:41.908Z",
       "updatedAt": "2026-02-16T18:40:41.908Z",
+      "__v": 0
+    },
+    {
+      "_id": "699364e9d3b75b3e2ac5bd52",
+      "id": "lZ4XGOIN",
+      "name": "Halo 2",
+      "image": "1771267304887-8ebb1d82.jpg",
+      "format": 11,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        11
+      ],
+      "size": "4.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1nxgAvABKrYvFIcREw9qojw",
+          "_id": "699364e9d3b75b3e2ac5bd53"
+        }
+      ],
+      "emulatorId": 12,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-02-16T18:41:45.528Z",
+      "updatedAt": "2026-02-16T18:41:45.528Z",
       "__v": 0
     }
   ],
