@@ -25107,10 +25107,10 @@
       "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/xbox/",
       "emulator": "",
       "index": 0,
-      "active": false,
+      "active": true,
       "deleted": false,
       "createdAt": "2026-02-16T18:13:03.259Z",
-      "updatedAt": "2026-02-16T18:13:43.194Z",
+      "updatedAt": "2026-02-16T18:27:46.841Z",
       "__v": 0
     }
   ],
