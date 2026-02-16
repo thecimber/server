@@ -25071,6 +25071,21 @@
       "createdAt": "2025-09-07T05:06:01.756Z",
       "updatedAt": "2025-09-07T05:06:01.756Z",
       "deleted": false
+    },
+    {
+      "_id": "69935e2fd3b75b3e2ac56803",
+      "id": 12,
+      "name": "XBOX",
+      "path": "xbox",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/1771265582219-506db802.png",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/xbox/",
+      "emulator": "",
+      "index": 0,
+      "active": false,
+      "deleted": false,
+      "createdAt": "2026-02-16T18:13:03.259Z",
+      "updatedAt": "2026-02-16T18:13:03.259Z",
+      "__v": 0
     }
   ],
   "genres": [
