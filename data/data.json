@@ -17126,7 +17126,6 @@
       "updatedAt": "2025-10-04T03:01:11.293Z"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c898",
       "id": "Bhb_gF0Y",
       "name": "Ponle Poppy Playtime Capitulo 1-5",
@@ -17150,7 +17149,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-02-19T03:54:12.535Z"
+      "updatedAt": "2026-02-19T03:54:16.871Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
