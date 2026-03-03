@@ -12599,6 +12599,32 @@
       "isUpdate": true
     },
     {
+      "isUpdate": false,
+      "_id": "68e08df59e798a708ef8c760",
+      "id": "cjBPpuea",
+      "name": "Wild Bastards",
+      "image": "Wild Bastards.jpeg",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        30
+      ],
+      "size": "2.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1F2PEzGA8To315r6ZvTovZw",
+          "_id": "68e08df59e798a708ef8c761"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:09.891Z",
+      "updatedAt": "2025-10-04T03:01:09.891Z"
+    },
+    {
       "_id": "68e08df59e798a708ef8c778",
       "id": "JXGhRd3A",
       "name": "Another Crab's Treasure v2.0.000",
@@ -12624,32 +12650,6 @@
       "createdAt": "2025-10-04T03:01:09.891Z",
       "updatedAt": "2026-01-18T00:48:13.609Z",
       "isUpdate": true
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df59e798a708ef8c75e",
-      "id": "h0WyZDG5",
-      "name": "Virche Evermore -ErroR: Salvation",
-      "image": "Virche Evermore -ErroR: Salvation.jpeg",
-      "format": 2,
-      "language": "Multi-Idioma",
-      "genre": [
-        23,
-        41
-      ],
-      "size": "7.2 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/181JmEiKoo0eLVfQz7e8rxQ",
-          "_id": "68e08df59e798a708ef8c75f"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2025-10-04T03:01:09.891Z"
     },
     {
       "isUpdate": false,
@@ -12892,22 +12892,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df59e798a708ef8c760",
-      "id": "cjBPpuea",
-      "name": "Wild Bastards",
-      "image": "Wild Bastards.jpeg",
+      "_id": "68e08df59e798a708ef8c75e",
+      "id": "h0WyZDG5",
+      "name": "Virche Evermore -ErroR: Salvation",
+      "image": "Virche Evermore -ErroR: Salvation.jpeg",
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        30
+        23,
+        41
       ],
-      "size": "2.4 Gb",
+      "size": "7.2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1F2PEzGA8To315r6ZvTovZw",
-          "_id": "68e08df59e798a708ef8c761"
+          "link": "https://1024terabox.com/s/181JmEiKoo0eLVfQz7e8rxQ",
+          "_id": "68e08df59e798a708ef8c75f"
         }
       ],
       "emulatorId": 8,
@@ -22356,22 +22356,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca32",
-      "id": "-pisnbWK",
-      "name": "Need for Speed Most Wanted U (USA) (v32)",
-      "image": "xNvRbgKY9D.jpg",
+      "_id": "68e08df89e798a708ef8ca34",
+      "id": "DbYV5A_U",
+      "name": "NINJA GAIDEN 3 Razor's Edge (USA) (v80)",
+      "image": "UhXPDpOZTT.jpg",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        13,
-        42
+        2,
+        3,
+        27
       ],
-      "size": "5.5 Gb",
+      "size": "5.8 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1h07XCVB9eFcTZdZUJnFtuQ",
-          "_id": "68e08df89e798a708ef8ca33"
+          "link": "https://1024terabox.com/s/1hixGUc1-o98vlYzbhI6jBA",
+          "_id": "68e08df89e798a708ef8ca35"
         }
       ],
       "emulatorId": 5,
@@ -22957,23 +22958,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca34",
-      "id": "DbYV5A_U",
-      "name": "NINJA GAIDEN 3 Razor's Edge (USA) (v80)",
-      "image": "UhXPDpOZTT.jpg",
+      "_id": "68e08df89e798a708ef8ca32",
+      "id": "-pisnbWK",
+      "name": "Need for Speed Most Wanted U (USA) (v32)",
+      "image": "xNvRbgKY9D.jpg",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        3,
-        27
+        13,
+        42
       ],
-      "size": "5.8 Gb",
+      "size": "5.5 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1hixGUc1-o98vlYzbhI6jBA",
-          "_id": "68e08df89e798a708ef8ca35"
+          "link": "https://1024terabox.com/s/1h07XCVB9eFcTZdZUJnFtuQ",
+          "_id": "68e08df89e798a708ef8ca33"
         }
       ],
       "emulatorId": 5,
@@ -23251,33 +23251,6 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df89e798a708ef8ca88",
-      "id": "H1J6s4jo",
-      "name": "Hitman 2 Silent Assassin ",
-      "image": "PDYGg51sb9.jpg",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8,
-        30
-      ],
-      "size": "546 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Onz_htVlShh40ZG9WqE5QQ",
-          "_id": "68e08df89e798a708ef8ca89"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-01-18T01:05:15.226Z",
-      "isUpdate": true
-    },
-    {
       "_id": "68e08df89e798a708ef8ca92",
       "id": "X3pMNZUq",
       "name": "Aliens vs Predator ",
@@ -23303,6 +23276,33 @@
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-01-18T00:47:49.162Z",
       "isUpdate": true
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca8a",
+      "id": "yKaYhI6Z",
+      "name": "Hitman 2016 ",
+      "image": "hMLJrAJP7G.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        8,
+        30
+      ],
+      "size": "45,2 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1lv1oerJC-k99TIntc7ZhIA",
+          "_id": "68e08df89e798a708ef8ca8b"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2025-10-04T03:01:12.243Z"
     },
     {
       "_id": "68e08df89e798a708ef8ca90",
@@ -23541,11 +23541,10 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca8a",
-      "id": "yKaYhI6Z",
-      "name": "Hitman 2016 ",
-      "image": "hMLJrAJP7G.jpg",
+      "_id": "68e08df89e798a708ef8ca88",
+      "id": "H1J6s4jo",
+      "name": "Hitman 2 Silent Assassin ",
+      "image": "PDYGg51sb9.jpg",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
@@ -23553,19 +23552,20 @@
         8,
         30
       ],
-      "size": "45,2 Gb",
+      "size": "546 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1lv1oerJC-k99TIntc7ZhIA",
-          "_id": "68e08df89e798a708ef8ca8b"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Onz_htVlShh40ZG9WqE5QQ",
+          "_id": "68e08df89e798a708ef8ca89"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2025-10-04T03:01:12.243Z"
+      "updatedAt": "2026-01-18T01:05:15.226Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -25153,6 +25153,32 @@
       "captures": [],
       "createdAt": "2026-02-19T04:00:58.778Z",
       "updatedAt": "2026-02-19T04:01:18.649Z",
+      "__v": 0
+    },
+    {
+      "_id": "69a633ffdc8e591e5cb4bfb9",
+      "id": "f-jLOhNi",
+      "name": "Poppy Playtime Capitulo 5 ",
+      "image": "1772499966039-223b2aa2.jpg",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        31,
+        20
+      ],
+      "size": "3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1LfbO4WSvTZwu5Q3vYLclBQ",
+          "_id": "69a633ffdc8e591e5cb4bfba"
+        }
+      ],
+      "emulatorId": 10,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-03T01:06:07.648Z",
+      "updatedAt": "2026-03-03T01:06:07.648Z",
       "__v": 0
     }
   ],
