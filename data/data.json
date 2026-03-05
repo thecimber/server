@@ -7998,7 +7998,7 @@
       "isUpdate": false,
       "_id": "68e08df59e798a708ef8c5ff",
       "id": "B2abiMQo",
-      "name": "Blasphemous 1.7.0",
+      "name": "Blasphemous 1.9.0",
       "image": "Blasphemous v1.2.0.jpeg",
       "format": 6,
       "language": "Multi-Idioma",
@@ -8010,7 +8010,7 @@
       "size": "905 Mb [8,1 Mb]",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1thUpEdhsqieJlDDD2o_IEQ",
           "_id": "68e08df59e798a708ef8c600"
         }
@@ -8019,7 +8019,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.416Z",
-      "updatedAt": "2025-10-04T03:01:09.416Z"
+      "updatedAt": "2026-03-05T19:06:33.508Z"
     },
     {
       "isUpdate": false,
