@@ -26272,6 +26272,32 @@
       "createdAt": "2026-03-06T21:31:04.654Z",
       "updatedAt": "2026-03-06T21:31:04.654Z",
       "__v": 0
+    },
+    {
+      "_id": "69ab47f1dc8e591e5cb56c79",
+      "id": "Ij8FAgFL",
+      "name": "Saint Seiya soldiers Soul knights Of The zodiac",
+      "image": "1772832753183-7f6429d8",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        47
+      ],
+      "size": "3.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Bi14HNSvgf3eW6ZENMNe2g",
+          "_id": "69ab47f1dc8e591e5cb56c7a"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-06T21:32:33.843Z",
+      "updatedAt": "2026-03-06T21:32:33.843Z",
+      "__v": 0
     }
   ],
   "emulators": [
