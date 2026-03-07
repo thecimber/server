@@ -18581,33 +18581,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c8f4",
-      "id": "01YPfOzm",
-      "name": "Street fighter V Champion Edition ",
-      "image": "Street fighter V Champion Edition.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        10,
-        24
-      ],
-      "size": "49.0 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1sIe4kB8Hrz8sV7VL_Pc-fA",
-          "_id": "68e08df79e798a708ef8c8f5"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Street fighter V Champion Edition.jpeg"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c902",
       "id": "kdbayr9l",
       "name": "Terratech Worlds",
@@ -18632,6 +18605,33 @@
       "createdAt": "2025-10-04T03:01:11.296Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "n5nZh44aE5.jpeg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c8f4",
+      "id": "01YPfOzm",
+      "name": "Street fighter V Champion Edition ",
+      "image": "Street fighter V Champion Edition.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        10,
+        24
+      ],
+      "size": "49.0 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1sIe4kB8Hrz8sV7VL_Pc-fA",
+          "_id": "68e08df79e798a708ef8c8f5"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.296Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Street fighter V Champion Edition.jpeg"
     },
     {
       "_id": "68e08df79e798a708ef8c920",
@@ -19295,6 +19295,33 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c93b",
+      "id": "sQ83j25F",
+      "name": "Travellers Rest ",
+      "image": "Travellers Rest.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        19,
+        40
+      ],
+      "size": "4656 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1QV3sTpco1QYYltBLFqJHqg",
+          "_id": "68e08df79e798a708ef8c93c"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Travellers Rest.jpeg"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c951",
       "id": "LZaGj9-I",
       "name": "Wwe2k25",
@@ -19320,33 +19347,6 @@
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "Wwe2k25.jpeg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c93b",
-      "id": "sQ83j25F",
-      "name": "Travellers Rest ",
-      "image": "Travellers Rest.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        19,
-        40
-      ],
-      "size": "4656 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1QV3sTpco1QYYltBLFqJHqg",
-          "_id": "68e08df79e798a708ef8c93c"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Travellers Rest.jpeg"
     },
     {
       "isUpdate": false,
@@ -20309,22 +20309,25 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c979",
-      "id": "lkyijb-H",
-      "name": "Sacred Gold",
-      "image": "_pSFOGLYAU.webp",
+      "_id": "68e08df79e798a708ef8c97d",
+      "id": "ZSSRUE2k",
+      "name": "Dying Light ",
+      "image": "Dying Light.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        41
+        2,
+        7,
+        12,
+        14,
+        21
       ],
-      "size": "1.8 Gb",
+      "size": "26.3 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1wOPnMrRssME6nNcmmEdEog",
-          "_id": "68e08df79e798a708ef8c97a"
+          "link": "https://1024terabox.com/s/1s-yYPqW4_xJfgtoqpqxBzA",
+          "_id": "68e08df79e798a708ef8c97e"
         }
       ],
       "emulatorId": 2,
@@ -20332,7 +20335,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "_pSFOGLYAU.jpg"
+      "oldImage": "Dying Light.jpeg"
     },
     {
       "_id": "68e08df79e798a708ef8c9b3",
@@ -21015,25 +21018,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c97d",
-      "id": "ZSSRUE2k",
-      "name": "Dying Light ",
-      "image": "Dying Light.webp",
+      "_id": "68e08df79e798a708ef8c979",
+      "id": "lkyijb-H",
+      "name": "Sacred Gold",
+      "image": "_pSFOGLYAU.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        7,
-        12,
-        14,
-        21
+        16,
+        41
       ],
-      "size": "26.3 Gb",
+      "size": "1.8 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1s-yYPqW4_xJfgtoqpqxBzA",
-          "_id": "68e08df79e798a708ef8c97e"
+          "link": "https://1024terabox.com/s/1wOPnMrRssME6nNcmmEdEog",
+          "_id": "68e08df79e798a708ef8c97a"
         }
       ],
       "emulatorId": 2,
@@ -21041,7 +21041,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Dying Light.jpeg"
+      "oldImage": "_pSFOGLYAU.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c987",
@@ -26720,6 +26720,33 @@
       "captures": [],
       "createdAt": "2026-03-07T16:36:02.571Z",
       "updatedAt": "2026-03-07T16:36:02.571Z",
+      "__v": 0
+    },
+    {
+      "_id": "69ac5430dc8e591e5cb64ca7",
+      "id": "2sZnuqXW",
+      "name": "Buffy The vampire slayer ",
+      "image": "1772901423843-b1cdd0c0",
+      "format": 11,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        24,
+        3
+      ],
+      "size": "3.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1gjYa_HHcymhR-5DmxMVqEg",
+          "_id": "69ac5430dc8e591e5cb64ca8"
+        }
+      ],
+      "emulatorId": 12,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-07T16:37:04.485Z",
+      "updatedAt": "2026-03-07T16:37:04.485Z",
       "__v": 0
     }
   ],
