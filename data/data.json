@@ -20282,31 +20282,32 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c991",
-      "id": "-stqTJuk",
-      "name": "FIFA 13 ",
-      "image": "VOODsKyaj8.webp",
-      "format": 3,
+      "_id": "68e08df79e798a708ef8c9a9",
+      "id": "Zwl3sS0D",
+      "name": "Xenoblade Chronicles 2 ",
+      "image": "h06bc6qbB-.webp",
+      "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        4,
-        6,
-        19
+        9,
+        12,
+        16,
+        10
       ],
-      "size": "7.9 Gb",
+      "size": "16 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1tuz9R0Z49s8L46s4GG6XeA",
-          "_id": "68e08df79e798a708ef8c992"
+          "link": "https://1024terabox.com/s/14YcLy74iqflUBjuB6HDQfw",
+          "_id": "68e08df79e798a708ef8c9aa"
         }
       ],
-      "emulatorId": 2,
+      "emulatorId": 8,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "VOODsKyaj8.jpg"
+      "oldImage": "h06bc6qbB-.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c9b3",
@@ -20338,33 +20339,33 @@
       "oldImage": "nA6eBQZeDr.jpg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c9a9",
-      "id": "Zwl3sS0D",
-      "name": "Xenoblade Chronicles 2 ",
-      "image": "h06bc6qbB-.webp",
-      "format": 2,
+      "_id": "68e08df79e798a708ef8c9b5",
+      "id": "qJ9_FHO7",
+      "name": "Far Cry 4",
+      "image": "GZ_ofbyeMq.webp",
+      "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        9,
-        12,
-        16,
-        10
+        2,
+        3,
+        11,
+        12
       ],
-      "size": "16 Gb",
+      "size": "25 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/14YcLy74iqflUBjuB6HDQfw",
-          "_id": "68e08df79e798a708ef8c9aa"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/12ObG7XbP8IaWPjOg-P3mNg",
+          "_id": "68e08df79e798a708ef8c9b6"
         }
       ],
-      "emulatorId": 8,
+      "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "h06bc6qbB-.jpg"
+      "isUpdate": true,
+      "oldImage": "GZ_ofbyeMq.jpg"
     },
     {
       "isUpdate": false,
@@ -20844,24 +20845,24 @@
       "oldImage": "3mOJ4vHWee.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c9b5",
-      "id": "qJ9_FHO7",
-      "name": "Far Cry 4",
-      "image": "GZ_ofbyeMq.webp",
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c991",
+      "id": "-stqTJuk",
+      "name": "FIFA 13 ",
+      "image": "VOODsKyaj8.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        3,
-        11,
-        12
+        4,
+        6,
+        19
       ],
-      "size": "25 Gb",
+      "size": "7.9 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/12ObG7XbP8IaWPjOg-P3mNg",
-          "_id": "68e08df79e798a708ef8c9b6"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1tuz9R0Z49s8L46s4GG6XeA",
+          "_id": "68e08df79e798a708ef8c992"
         }
       ],
       "emulatorId": 2,
@@ -20869,8 +20870,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "GZ_ofbyeMq.jpg"
+      "oldImage": "VOODsKyaj8.jpg"
     },
     {
       "isUpdate": false,
@@ -26453,6 +26453,34 @@
       "captures": [],
       "createdAt": "2026-03-07T16:18:12.593Z",
       "updatedAt": "2026-03-07T16:18:12.593Z",
+      "__v": 0
+    },
+    {
+      "_id": "69ac5006dc8e591e5cb5c368",
+      "id": "aKCwANlo",
+      "name": "JSRF Jet set radio future",
+      "image": "1772900357868-207cf1f5",
+      "format": 11,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        1,
+        12,
+        4
+      ],
+      "size": "2.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/19YIUa4ZMKe0f9Q0NHSOvlQ",
+          "_id": "69ac5006dc8e591e5cb5c369"
+        }
+      ],
+      "emulatorId": 12,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-07T16:19:18.664Z",
+      "updatedAt": "2026-03-07T16:19:18.664Z",
       "__v": 0
     }
   ],
