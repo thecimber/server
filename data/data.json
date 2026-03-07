@@ -26536,6 +26536,33 @@
       "createdAt": "2026-03-07T16:21:30.085Z",
       "updatedAt": "2026-03-07T16:21:30.085Z",
       "__v": 0
+    },
+    {
+      "_id": "69ac50dcdc8e591e5cb5e965",
+      "id": "rovm56Hl",
+      "name": "Dino Crisis 3 ",
+      "image": "1772900571934-143d1730",
+      "format": 11,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        31,
+        21
+      ],
+      "size": "4.0 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1J-oMn7vGRwEyJw034kmw1w",
+          "_id": "69ac50dcdc8e591e5cb5e966"
+        }
+      ],
+      "emulatorId": 12,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-07T16:22:52.746Z",
+      "updatedAt": "2026-03-07T16:22:52.746Z",
+      "__v": 0
     }
   ],
   "emulators": [
