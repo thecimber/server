@@ -26589,6 +26589,32 @@
       "createdAt": "2026-03-07T16:23:44.940Z",
       "updatedAt": "2026-03-07T16:23:44.940Z",
       "__v": 0
+    },
+    {
+      "_id": "69ac5199dc8e591e5cb607df",
+      "id": "oOZ9ajbI",
+      "name": "Dead Of Alive 3 ",
+      "image": "1772900760304-247437d4",
+      "format": 11,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        24
+      ],
+      "size": "4.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1hEO3bPL7JPoxXaMJ5-F3-g",
+          "_id": "69ac5199dc8e591e5cb607e0"
+        }
+      ],
+      "emulatorId": 12,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-07T16:26:01.010Z",
+      "updatedAt": "2026-03-07T16:26:01.010Z",
+      "__v": 0
     }
   ],
   "emulators": [
