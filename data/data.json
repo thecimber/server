@@ -26801,6 +26801,32 @@
       "createdAt": "2026-03-07T16:38:55.375Z",
       "updatedAt": "2026-03-07T16:38:55.375Z",
       "__v": 0
+    },
+    {
+      "_id": "69ac552bdc8e591e5cb67ab7",
+      "id": "-dxs__uA",
+      "name": "Black",
+      "image": "1772901674952-04c83ed1",
+      "format": 11,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        2
+      ],
+      "size": "2.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1exk8ifGr_xTt1FXJ72Kq7A",
+          "_id": "69ac552bdc8e591e5cb67ab8"
+        }
+      ],
+      "emulatorId": 12,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-07T16:41:15.668Z",
+      "updatedAt": "2026-03-07T16:41:15.668Z",
+      "__v": 0
     }
   ],
   "emulators": [
