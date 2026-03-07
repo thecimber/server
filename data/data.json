@@ -26642,6 +26642,33 @@
       "createdAt": "2026-03-07T16:27:12.359Z",
       "updatedAt": "2026-03-07T16:27:12.359Z",
       "__v": 0
+    },
+    {
+      "_id": "69ac5382dc8e591e5cb62a39",
+      "id": "Z2-ANq8B",
+      "name": "Call Of Cthulhu ",
+      "image": "1772901250178-8cc5c461.jpg",
+      "format": 11,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        31,
+        21
+      ],
+      "size": "3.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Q_HI22L-5VY9PUE_6Et64w",
+          "_id": "69ac5382dc8e591e5cb62a3a"
+        }
+      ],
+      "emulatorId": 12,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-07T16:34:10.846Z",
+      "updatedAt": "2026-03-07T16:34:10.846Z",
+      "__v": 0
     }
   ],
   "emulators": [
