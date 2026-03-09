@@ -26905,6 +26905,32 @@
       "createdAt": "2026-03-07T16:43:59.791Z",
       "updatedAt": "2026-03-07T16:43:59.791Z",
       "__v": 0
+    },
+    {
+      "_id": "69af112bdc8e591e5cb6ad46",
+      "id": "SndZfrYY",
+      "name": "Call Of Duty Black Ops 3 (sin modo zombie) ",
+      "image": "1773080873582-13427cf1",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        2
+      ],
+      "size": "51 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1i2dLkW-s-EK0DhdNhyQsUw",
+          "_id": "69af112bdc8e591e5cb6ad47"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-09T18:27:55.202Z",
+      "updatedAt": "2026-03-09T18:27:55.202Z",
+      "__v": 0
     }
   ],
   "emulators": [
