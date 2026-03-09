@@ -16654,7 +16654,6 @@
       "oldImage": "nCgJaZCc3y.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c89a",
       "id": "DgohfHWa",
       "name": "Portal 2",
@@ -16678,8 +16677,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-03-09T18:35:40.102Z",
-      "oldImage": "Portal 2.jpeg"
+      "updatedAt": "2026-03-09T18:35:43.438Z",
+      "oldImage": "Portal 2.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
