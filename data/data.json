@@ -20410,8 +20410,9 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        41,
         16,
-        41
+        55
       ],
       "size": "27.2 Gb",
       "downloadMethods": [
@@ -20425,7 +20426,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-10T01:12:12.235Z",
+      "updatedAt": "2026-03-10T01:13:13.060Z",
       "oldImage": "c-7t8tKdGa.jpg",
       "isUpdate": true
     },
@@ -27679,6 +27680,14 @@
       "name": "Comedia",
       "createdAt": "2026-03-10T01:00:34.573Z",
       "updatedAt": "2026-03-10T01:00:34.573Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af7009dc8e591e5cb88664",
+      "id": 55,
+      "name": "Fantasía",
+      "createdAt": "2026-03-10T01:12:41.641Z",
+      "updatedAt": "2026-03-10T01:12:41.641Z",
       "__v": 0
     }
   ],
