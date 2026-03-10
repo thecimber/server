@@ -17347,7 +17347,6 @@
       "oldImage": "Orcs must die! .jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8a8",
       "id": "5RZAukSX",
       "name": "Rain On Your Parade ",
@@ -17371,8 +17370,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-03-10T01:00:17.341Z",
-      "oldImage": "Rain On Your Parade.jpeg"
+      "updatedAt": "2026-03-10T01:00:20.396Z",
+      "oldImage": "Rain On Your Parade.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c8a4",
