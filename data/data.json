@@ -17374,7 +17374,6 @@
       "oldImage": "Rain On Your Parade.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8a4",
       "id": "9Nz5zX2x",
       "name": "Pushing it! Together - Sisyphus Co-op",
@@ -17397,8 +17396,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-03-10T00:58:37.077Z",
-      "oldImage": "Pushing it! Together - Sisyphus Co-op.jpeg"
+      "updatedAt": "2026-03-10T00:58:41.108Z",
+      "oldImage": "Pushing it! Together - Sisyphus Co-op.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
