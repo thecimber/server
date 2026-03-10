@@ -17515,7 +17515,6 @@
       "oldImage": "Phasmophobia.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8ae",
       "id": "SF4zqDMw",
       "name": "Rayman Origins",
@@ -17540,8 +17539,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-03-10T01:02:10.885Z",
-      "oldImage": "Rayman Origins.jpeg"
+      "updatedAt": "2026-03-10T01:02:18.111Z",
+      "oldImage": "Rayman Origins.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
