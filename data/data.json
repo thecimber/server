@@ -3506,7 +3506,7 @@
       "isUpdate": false,
       "_id": "68e08df49e798a708ef8c490",
       "id": "840928",
-      "name": "The Amazing Spider-man",
+      "name": "The Amazing Spider-man [spiderman]",
       "image": "Amazing-Spider-Man-ps3a.webp",
       "format": 1,
       "language": "Español",
@@ -3518,7 +3518,7 @@
       "size": "8,67 GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1EPy2XXvLppaA0qpQUCbKOQ",
           "_id": "68e08df49e798a708ef8c491"
         }
@@ -3527,7 +3527,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.449Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-03-10T01:08:07.516Z",
       "oldImage": "Amazing-Spider-Man-ps3a.jpg"
     },
     {
