@@ -17383,7 +17383,8 @@
       "genre": [
         17,
         1,
-        52
+        52,
+        53
       ],
       "size": "1.4 gb",
       "downloadMethods": [
@@ -17397,7 +17398,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-03-10T00:59:15.994Z",
+      "updatedAt": "2026-03-10T00:59:40.929Z",
       "oldImage": "Pushing it! Together - Sisyphus Co-op.jpeg",
       "isUpdate": true
     },
@@ -27632,6 +27633,14 @@
       "name": "física",
       "createdAt": "2026-03-10T00:58:54.780Z",
       "updatedAt": "2026-03-10T00:58:54.780Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af6cf2dc8e591e5cb76371",
+      "id": 53,
+      "name": "Precisión",
+      "createdAt": "2026-03-10T00:59:30.205Z",
+      "updatedAt": "2026-03-10T00:59:30.205Z",
       "__v": 0
     }
   ],
