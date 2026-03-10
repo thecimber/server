@@ -17523,15 +17523,16 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        1,
+        32,
         3,
-        32
+        1,
+        2
       ],
       "size": "2.2 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1KOiNFxUWy33__uJG8wm8pg",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1yITu9qbXgAuKAU1MTyu1xw",
           "_id": "68e08df79e798a708ef8c8af"
         }
       ],
@@ -17539,7 +17540,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-10T01:02:10.885Z",
       "oldImage": "Rayman Origins.jpeg"
     },
     {
