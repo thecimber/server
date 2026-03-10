@@ -16827,8 +16827,10 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        22,
+        40,
         19,
-        22
+        12
       ],
       "size": "5.5 Gb",
       "downloadMethods": [
@@ -16842,7 +16844,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-03-10T00:57:43.635Z",
+      "updatedAt": "2026-03-10T00:58:15.577Z",
       "oldImage": "Promise Mascot Agency.jpeg",
       "isUpdate": true
     },
@@ -27613,6 +27615,14 @@
       "name": "Ciencia ficción",
       "createdAt": "2026-03-09T18:32:17.220Z",
       "updatedAt": "2026-03-09T18:32:17.220Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af6c95dc8e591e5cb734e4",
+      "id": 51,
+      "name": "Gestión",
+      "createdAt": "2026-03-10T00:57:57.875Z",
+      "updatedAt": "2026-03-10T00:57:57.875Z",
       "__v": 0
     }
   ],
