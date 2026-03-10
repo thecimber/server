@@ -16958,7 +16958,6 @@
       "oldImage": "Miside.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c89c",
       "id": "oYBjrkpI",
       "name": "Post Trauma",
@@ -16982,8 +16981,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-03-10T00:56:48.931Z",
-      "oldImage": "KiywKuVlif.jpg"
+      "updatedAt": "2026-03-10T00:56:54.864Z",
+      "oldImage": "KiywKuVlif.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
