@@ -22972,7 +22972,6 @@
       "oldImage": "NbD2q5QAhn.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca16",
       "id": "K64tb0-u",
       "name": "Mortal Kombat 11 Ultimate Edition",
@@ -22995,8 +22994,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-03-10T01:11:45.805Z",
-      "oldImage": "P8xLzcJgTT.jpg"
+      "updatedAt": "2026-03-10T01:11:49.455Z",
+      "oldImage": "P8xLzcJgTT.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
