@@ -3646,7 +3646,7 @@
       "isUpdate": false,
       "_id": "68e08df49e798a708ef8c492",
       "id": "915844",
-      "name": "The Amazing Spider-Man 2",
+      "name": "The Amazing Spider-Man 2 [spiderman]",
       "image": "the-amazing-spider-man-2-ps3.webp",
       "format": 1,
       "language": "Español",
@@ -3658,7 +3658,7 @@
       "size": "7,37 GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1JHn5onbzOtFGK-Dmud_ljg",
           "_id": "68e08df49e798a708ef8c493"
         }
@@ -3667,7 +3667,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.449Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-03-10T01:09:41.858Z",
       "oldImage": "the-amazing-spider-man-2-ps3.jpg"
     },
     {
