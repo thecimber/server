@@ -16878,7 +16878,6 @@
       "oldImage": "Minecraft Story Mode The Complete Adventure.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c89e",
       "id": "CrW9J-QP",
       "name": "Project Hospital",
@@ -16902,8 +16901,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-03-10T01:05:26.473Z",
-      "oldImage": "jFimIa2UgD.jpeg"
+      "updatedAt": "2026-03-10T01:05:31.485Z",
+      "oldImage": "jFimIa2UgD.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
