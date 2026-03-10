@@ -16820,7 +16820,6 @@
       "oldImage": "ANrBF5lzq_.png"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8a2",
       "id": "SIVOhqb2",
       "name": "Promise Mascot Agency",
@@ -16843,8 +16842,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-03-10T00:57:40.739Z",
-      "oldImage": "Promise Mascot Agency.jpeg"
+      "updatedAt": "2026-03-10T00:57:43.635Z",
+      "oldImage": "Promise Mascot Agency.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
