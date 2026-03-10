@@ -3013,7 +3013,7 @@
       "isUpdate": false,
       "_id": "68e08df49e798a708ef8c484",
       "id": "255254",
-      "name": "Spider-man 3",
+      "name": "Spider-man 3 [spiderman]",
       "image": "spider-man-3.webp",
       "format": 1,
       "language": "Español",
@@ -3025,7 +3025,7 @@
       "size": "4,33 GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1gCMPv1xdC4VWVPggAlEW9w",
           "_id": "68e08df49e798a708ef8c485"
         }
@@ -3034,7 +3034,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.448Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z"
+      "updatedAt": "2026-03-10T01:07:50.764Z"
     },
     {
       "isUpdate": false,
