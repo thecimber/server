@@ -20375,7 +20375,6 @@
       "oldImage": "QqzTmHguya.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c96f",
       "id": "-QTQVpvc",
       "name": "Monster Hunter rise Deluxe Edition ",
@@ -20400,8 +20399,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-10T01:14:43.321Z",
-      "oldImage": "aH3UdtiF2z.jpg"
+      "updatedAt": "2026-03-10T01:14:46.553Z",
+      "oldImage": "aH3UdtiF2z.jpg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c971",
