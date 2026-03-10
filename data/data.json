@@ -20383,15 +20383,16 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        16,
-        18
+        3,
+        55,
+        57,
+        56
       ],
       "size": "35.3 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1AppIrPIOouODvb5q2SVaYw",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1YL9AwQcX7s5pa8isrB5vDg",
           "_id": "68e08df79e798a708ef8c970"
         }
       ],
@@ -20399,7 +20400,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-10T01:14:43.321Z",
       "oldImage": "aH3UdtiF2z.jpg"
     },
     {
@@ -27688,6 +27689,22 @@
       "name": "Fantasía",
       "createdAt": "2026-03-10T01:12:41.641Z",
       "updatedAt": "2026-03-10T01:12:41.641Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af704ddc8e591e5cb895ee",
+      "id": 56,
+      "name": "Estrategia por turnos ",
+      "createdAt": "2026-03-10T01:13:49.780Z",
+      "updatedAt": "2026-03-10T01:13:49.780Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af7055dc8e591e5cb895f3",
+      "id": 57,
+      "name": "Rol",
+      "createdAt": "2026-03-10T01:13:57.163Z",
+      "updatedAt": "2026-03-10T01:13:57.163Z",
       "__v": 0
     }
   ],
