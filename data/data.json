@@ -17381,8 +17381,9 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        17,
         1,
-        17
+        52
       ],
       "size": "1.4 gb",
       "downloadMethods": [
@@ -17396,7 +17397,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-03-10T00:58:41.108Z",
+      "updatedAt": "2026-03-10T00:59:15.994Z",
       "oldImage": "Pushing it! Together - Sisyphus Co-op.jpeg",
       "isUpdate": true
     },
@@ -27623,6 +27624,14 @@
       "name": "Gestión",
       "createdAt": "2026-03-10T00:57:57.875Z",
       "updatedAt": "2026-03-10T00:57:57.875Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af6ccedc8e591e5cb753eb",
+      "id": 52,
+      "name": "física",
+      "createdAt": "2026-03-10T00:58:54.780Z",
+      "updatedAt": "2026-03-10T00:58:54.780Z",
       "__v": 0
     }
   ],
