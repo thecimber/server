@@ -20403,7 +20403,6 @@
       "oldImage": "aH3UdtiF2z.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c971",
       "id": "VZHGUH57",
       "name": "Monster Hunter Stories 2 wings of ruin Deluxe Edition",
@@ -20426,8 +20425,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-10T01:12:08.756Z",
-      "oldImage": "c-7t8tKdGa.jpg"
+      "updatedAt": "2026-03-10T01:12:12.235Z",
+      "oldImage": "c-7t8tKdGa.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
