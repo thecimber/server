@@ -16904,7 +16904,6 @@
       "oldImage": "Naruto Ultimate Ninja Storm 4.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8aa",
       "id": "5x0p3IpP",
       "name": "Rain World Remix Now Available",
@@ -16929,8 +16928,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-03-10T01:01:38.575Z",
-      "oldImage": "Rain World Remix Now Available.jpeg"
+      "updatedAt": "2026-03-10T01:01:43.468Z",
+      "oldImage": "Rain World Remix Now Available.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
