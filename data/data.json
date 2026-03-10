@@ -17356,7 +17356,8 @@
       "genre": [
         3,
         39,
-        49
+        49,
+        54
       ],
       "size": "314 MB",
       "downloadMethods": [
@@ -17370,7 +17371,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-03-10T01:00:20.396Z",
+      "updatedAt": "2026-03-10T01:00:46.114Z",
       "oldImage": "Rain On Your Parade.jpeg",
       "isUpdate": true
     },
@@ -27642,6 +27643,14 @@
       "name": "Precisión",
       "createdAt": "2026-03-10T00:59:30.205Z",
       "updatedAt": "2026-03-10T00:59:30.205Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af6d32dc8e591e5cb78659",
+      "id": 54,
+      "name": "Comedia",
+      "createdAt": "2026-03-10T01:00:34.573Z",
+      "updatedAt": "2026-03-10T01:00:34.573Z",
       "__v": 0
     }
   ],
