@@ -19302,33 +19302,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c947",
-      "id": "--W0gin0",
-      "name": "Vampire Survivors",
-      "image": "Vampire Survivors.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        16,
-        27
-      ],
-      "size": "691 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1-LQvkqnKAfyAw25zq1aDqg",
-          "_id": "68e08df79e798a708ef8c948"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Vampire Survivors.jpeg"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c95d",
       "id": "uVuZN_8g",
       "name": "Sunset Hills APK v1.0.28",
@@ -19353,6 +19326,34 @@
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "WshVSc60-F.jpg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c959",
+      "id": "JX8A1iZY",
+      "name": "Monster Train APK v2.3.5",
+      "image": "LVrJAnSy3h.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        16,
+        25,
+        28
+      ],
+      "size": "369 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1U4xfrv1jd_Rhppv_Q1j6sQ",
+          "_id": "68e08df79e798a708ef8c95a"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "LVrJAnSy3h.jpg"
     },
     {
       "isUpdate": false,
@@ -20124,31 +20125,30 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c959",
-      "id": "JX8A1iZY",
-      "name": "Monster Train APK v2.3.5",
-      "image": "LVrJAnSy3h.webp",
-      "format": 6,
+      "_id": "68e08df79e798a708ef8c947",
+      "id": "--W0gin0",
+      "name": "Vampire Survivors",
+      "image": "Vampire Survivors.webp",
+      "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         16,
-        25,
-        28
+        27
       ],
-      "size": "369 Mb",
+      "size": "691 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1U4xfrv1jd_Rhppv_Q1j6sQ",
-          "_id": "68e08df79e798a708ef8c95a"
+          "link": "https://1024terabox.com/s/1-LQvkqnKAfyAw25zq1aDqg",
+          "_id": "68e08df79e798a708ef8c948"
         }
       ],
-      "emulatorId": 10,
+      "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "LVrJAnSy3h.jpg"
+      "oldImage": "Vampire Survivors.jpeg"
     },
     {
       "isUpdate": false,
@@ -22572,21 +22572,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca5e",
-      "id": "3KyQbsuI",
-      "name": "Rodea the Sky Soldier (USA)",
-      "image": "0u8r18XaQX.webp",
+      "_id": "68e08df89e798a708ef8ca48",
+      "id": "m8DI3foo",
+      "name": "Penguins of Madagascar (USA)",
+      "image": "bG9m6t-wKE.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        7
+        2,
+        3
       ],
-      "size": "3,2 gb",
+      "size": "281 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1POMwL9sxh8O22w0VYvYlDg",
-          "_id": "68e08df89e798a708ef8ca5f"
+          "link": "https://1024terabox.com/s/10U-jKo4D6dbzDL2FXoK-rg",
+          "_id": "68e08df89e798a708ef8ca49"
         }
       ],
       "emulatorId": 5,
@@ -22594,7 +22595,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "0u8r18XaQX.jpg"
+      "oldImage": "bG9m6t-wKE.jpg"
     },
     {
       "isUpdate": false,
@@ -23161,22 +23162,21 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca48",
-      "id": "m8DI3foo",
-      "name": "Penguins of Madagascar (USA)",
-      "image": "bG9m6t-wKE.webp",
+      "_id": "68e08df89e798a708ef8ca5e",
+      "id": "3KyQbsuI",
+      "name": "Rodea the Sky Soldier (USA)",
+      "image": "0u8r18XaQX.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        3
+        7
       ],
-      "size": "281 Mb",
+      "size": "3,2 gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/10U-jKo4D6dbzDL2FXoK-rg",
-          "_id": "68e08df89e798a708ef8ca49"
+          "link": "https://1024terabox.com/s/1POMwL9sxh8O22w0VYvYlDg",
+          "_id": "68e08df89e798a708ef8ca5f"
         }
       ],
       "emulatorId": 5,
@@ -23184,7 +23184,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "bG9m6t-wKE.jpg"
+      "oldImage": "0u8r18XaQX.jpg"
     },
     {
       "isUpdate": false,
@@ -27044,6 +27044,33 @@
       "captures": [],
       "createdAt": "2026-03-09T18:36:40.752Z",
       "updatedAt": "2026-03-09T18:36:40.752Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af6dfcdc8e591e5cb7d006",
+      "id": "CucZ4EOi",
+      "name": "Rayman 30 Anniversary Edition ",
+      "image": "1773104635595-62474277.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        1,
+        3
+      ],
+      "size": "3.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1fLrOf-9Pw0vFl8fWmkRUDw",
+          "_id": "69af6dfcdc8e591e5cb7d007"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-10T01:03:56.248Z",
+      "updatedAt": "2026-03-10T01:03:56.248Z",
       "__v": 0
     }
   ],
