@@ -2102,8 +2102,8 @@
       "size": "5,74 GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1E1QuVdxtyIBaIyGfNHB5wA",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1M-bruaBbWRfrRsiUFjVh1Q",
           "_id": "68e08df39e798a708ef8c452"
         }
       ],
@@ -2111,7 +2111,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:07.492Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z"
+      "updatedAt": "2026-03-11T19:03:55.150Z"
     },
     {
       "isUpdate": false,
