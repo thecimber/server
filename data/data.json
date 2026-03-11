@@ -21026,7 +21026,6 @@
       "oldImage": "PriUjr24N6.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c973",
       "id": "EixQ8L-8",
       "name": "Monster Hunter Stories ",
@@ -21049,8 +21048,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-11T19:42:40.709Z",
-      "oldImage": "cJtR7WkEqF.jpg"
+      "updatedAt": "2026-03-11T19:42:43.018Z",
+      "oldImage": "cJtR7WkEqF.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
