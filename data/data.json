@@ -2088,7 +2088,6 @@
       "oldImage": "photo_5103104975617240884_y.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df39e798a708ef8c451",
       "id": "76469",
       "name": "Pes 2013 pro evolution soccer ",
@@ -2111,7 +2110,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:07.492Z",
-      "updatedAt": "2026-03-11T19:03:55.150Z"
+      "updatedAt": "2026-03-11T19:03:57.334Z",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
