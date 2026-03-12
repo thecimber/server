@@ -20301,14 +20301,15 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        41,
         16,
-        41
+        27
       ],
       "size": "1.8 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1wOPnMrRssME6nNcmmEdEog",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1DMO0PxbyPjBHANnrH3E3Uw",
           "_id": "68e08df79e798a708ef8c97a"
         }
       ],
@@ -20316,7 +20317,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-12T04:23:30.979Z",
       "oldImage": "_pSFOGLYAU.jpg"
     },
     {
@@ -27853,6 +27854,14 @@
       "name": "MMORPG",
       "createdAt": "2026-03-12T04:18:03.416Z",
       "updatedAt": "2026-03-12T04:18:03.416Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b23f58dc8e591e5cba3e0b",
+      "id": 62,
+      "name": "Rol de estilo \"hack and slash\"",
+      "createdAt": "2026-03-12T04:21:44.659Z",
+      "updatedAt": "2026-03-12T04:21:44.659Z",
       "__v": 0
     }
   ],
