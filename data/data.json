@@ -17875,7 +17875,6 @@
       "oldImage": "Minecraft Dungeons.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8c8",
       "id": "cuxXVlFO",
       "name": "Rogue Loops",
@@ -17898,8 +17897,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.295Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Rogue Loops.jpeg"
+      "updatedAt": "2026-03-12T04:14:33.019Z",
+      "oldImage": "Rogue Loops.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
