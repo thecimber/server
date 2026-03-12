@@ -20293,7 +20293,6 @@
       "oldImage": "8Xg6wQqTtX.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c979",
       "id": "lkyijb-H",
       "name": "Sacred Gold",
@@ -20317,8 +20316,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-12T04:23:30.979Z",
-      "oldImage": "_pSFOGLYAU.jpg"
+      "updatedAt": "2026-03-12T04:23:34.260Z",
+      "oldImage": "_pSFOGLYAU.jpg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c9b3",
