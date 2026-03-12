@@ -18020,8 +18020,9 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        27
+        2,
+        58,
+        59
       ],
       "size": "1.1 Gb",
       "downloadMethods": [
@@ -18035,7 +18036,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.295Z",
-      "updatedAt": "2026-03-12T04:12:35.213Z",
+      "updatedAt": "2026-03-12T04:13:24.886Z",
       "oldImage": "Rogue Genesia.jpeg",
       "isUpdate": true
     },
@@ -27760,6 +27761,22 @@
       "name": "Rol",
       "createdAt": "2026-03-10T01:13:57.163Z",
       "updatedAt": "2026-03-10T01:13:57.163Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b23d46dc8e591e5cb9aa25",
+      "id": 58,
+      "name": "Roguelike",
+      "createdAt": "2026-03-12T04:12:54.261Z",
+      "updatedAt": "2026-03-12T04:12:54.261Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b23d4fdc8e591e5cb9aa2a",
+      "id": 59,
+      "name": "Bullet hell",
+      "createdAt": "2026-03-12T04:13:03.745Z",
+      "updatedAt": "2026-03-12T04:13:03.745Z",
       "__v": 0
     }
   ],
