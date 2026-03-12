@@ -17959,7 +17959,6 @@
       "oldImage": "Saints Row The Third.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8ca",
       "id": "_s9Om_O8",
       "name": "Roots of pacha v1.3.0.2",
@@ -17982,8 +17981,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.295Z",
-      "updatedAt": "2026-03-12T04:16:45.876Z",
-      "oldImage": "dvdPtRp76R.jpg"
+      "updatedAt": "2026-03-12T04:16:47.939Z",
+      "oldImage": "dvdPtRp76R.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
