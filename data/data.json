@@ -18071,7 +18071,6 @@
       "oldImage": "aints Row 2 (2008).jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8cc",
       "id": "j_PDrMq9",
       "name": "Runescape DragonWilds",
@@ -18095,8 +18094,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.295Z",
-      "updatedAt": "2026-03-12T04:17:56.952Z",
-      "oldImage": "Runescape DragonWilds.jpeg"
+      "updatedAt": "2026-03-12T04:18:21.935Z",
+      "oldImage": "Runescape DragonWilds.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c926",
@@ -27788,6 +27788,14 @@
       "name": "Agricultura",
       "createdAt": "2026-03-12T04:16:53.926Z",
       "updatedAt": "2026-03-12T04:16:53.926Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b23e7bdc8e591e5cb9fbd9",
+      "id": 61,
+      "name": "MMORPG",
+      "createdAt": "2026-03-12T04:18:03.416Z",
+      "updatedAt": "2026-03-12T04:18:03.416Z",
       "__v": 0
     }
   ],
