@@ -27133,6 +27133,34 @@
       "createdAt": "2026-03-11T19:49:35.159Z",
       "updatedAt": "2026-03-11T19:49:44.307Z",
       "__v": 0
+    },
+    {
+      "_id": "69b23eeddc8e591e5cba1334",
+      "id": "zG6LlbSW",
+      "name": "Sacred 2 Gold Edition ",
+      "image": "1773289196681-3c17a702.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        55,
+        57,
+        12
+      ],
+      "size": "17.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/11WGeUrwgN0bNL8V57BpBbQ",
+          "_id": "69b23eeddc8e591e5cba1335"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-12T04:19:57.385Z",
+      "updatedAt": "2026-03-12T04:19:57.385Z",
+      "__v": 0
     }
   ],
   "emulators": [
