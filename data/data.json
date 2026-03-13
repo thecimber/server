@@ -19084,7 +19084,6 @@
       "oldImage": "Silent Hill 2.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8fc",
       "id": "pjGfvH3v",
       "name": "Sunset Motel v1.0",
@@ -19108,8 +19107,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-13T04:32:59.677Z",
-      "oldImage": "yrUN8wEXNP.jpg"
+      "updatedAt": "2026-03-13T04:33:02.957Z",
+      "oldImage": "yrUN8wEXNP.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
