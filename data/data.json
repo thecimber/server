@@ -8313,7 +8313,6 @@
       "oldImage": "Cuphead v1.50.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c603",
       "id": "Ms9jPOi8",
       "name": "Carrion Mobile",
@@ -8337,8 +8336,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.417Z",
-      "updatedAt": "2026-03-13T22:14:22.405Z",
-      "oldImage": "Carrion Mobile.jpeg"
+      "updatedAt": "2026-03-13T22:14:25.341Z",
+      "oldImage": "Carrion Mobile.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
