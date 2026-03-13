@@ -18427,7 +18427,6 @@
       "oldImage": "Sanctum 2 Complete Pack.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8e8",
       "id": "IcygTGE-",
       "name": "SNUFKIN MELODY OF MOOMINVALLEY",
@@ -18451,8 +18450,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-13T04:43:02.803Z",
-      "oldImage": "SNUFKIN MELODY OF MOOMINVALLEY.jpeg"
+      "updatedAt": "2026-03-13T04:43:09.021Z",
+      "oldImage": "SNUFKIN MELODY OF MOOMINVALLEY.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
