@@ -18016,7 +18016,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8d0",
       "id": "2MspWjMh",
       "name": "Saints Row Gat Out Of Hell",
@@ -18040,8 +18039,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.295Z",
-      "updatedAt": "2026-03-13T04:34:48.060Z",
-      "oldImage": "Saints Row Gat Out Of Hell.jpeg"
+      "updatedAt": "2026-03-13T04:34:50.527Z",
+      "oldImage": "Saints Row Gat Out Of Hell.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
