@@ -19151,7 +19151,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8d6",
       "id": "TZXOVLOW",
       "name": "Saints Row The Third Remastered ",
@@ -19175,8 +19174,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-13T04:36:16.925Z",
-      "oldImage": "mChfeTZyN_.jpeg"
+      "updatedAt": "2026-03-13T05:06:08.534Z",
+      "oldImage": "mChfeTZyN_.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c922",
