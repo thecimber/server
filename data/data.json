@@ -17875,7 +17875,6 @@
       "oldImage": "Minecraft Dungeons.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8d2",
       "id": "K3EpaS71",
       "name": "Saints Row IV: Game Of The Century Edition",
@@ -17899,8 +17898,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.295Z",
-      "updatedAt": "2026-03-13T04:36:56.053Z",
-      "oldImage": "0wqhe0qIsE.jpeg"
+      "updatedAt": "2026-03-13T05:06:40.973Z",
+      "oldImage": "0wqhe0qIsE.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c8d4",
