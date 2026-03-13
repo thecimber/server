@@ -18243,8 +18243,9 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        31,
         23,
-        31
+        63
       ],
       "size": "12.2 Gb",
       "downloadMethods": [
@@ -18258,7 +18259,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-13T04:42:05.535Z",
+      "updatedAt": "2026-03-13T04:42:33.445Z",
       "oldImage": "Wjw8VlAfjg.jpg"
     },
     {
@@ -27892,6 +27893,14 @@
       "name": "Rol de estilo \"hack and slash\"",
       "createdAt": "2026-03-12T04:21:44.659Z",
       "updatedAt": "2026-03-12T04:21:44.659Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b395a4dc8e591e5cbb378d",
+      "id": 63,
+      "name": "Psicológico",
+      "createdAt": "2026-03-13T04:42:12.325Z",
+      "updatedAt": "2026-03-13T04:42:12.325Z",
       "__v": 0
     }
   ],
