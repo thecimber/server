@@ -18272,7 +18272,8 @@
       "genre": [
         21,
         19,
-        50
+        50,
+        64
       ],
       "size": "1.7 Gb",
       "downloadMethods": [
@@ -18286,7 +18287,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-13T04:45:13.991Z",
+      "updatedAt": "2026-03-13T04:45:45.260Z",
       "oldImage": "Stationeers.jpeg",
       "isUpdate": true
     },
@@ -27904,6 +27905,14 @@
       "name": "Psicológico",
       "createdAt": "2026-03-13T04:42:12.325Z",
       "updatedAt": "2026-03-13T04:42:12.325Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b39664dc8e591e5cbb9cf9",
+      "id": 64,
+      "name": "Construcción",
+      "createdAt": "2026-03-13T04:45:24.210Z",
+      "updatedAt": "2026-03-13T04:45:24.210Z",
       "__v": 0
     }
   ],
