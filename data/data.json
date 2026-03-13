@@ -18682,13 +18682,14 @@
       "language": "Multi-Idioma",
       "genre": [
         3,
-        23
+        23,
+        58
       ],
       "size": "186 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1tMUe_N1M3ydZkaDXBtSnDA",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1PeHx2e36BrpM5BfTxFPJbA",
           "_id": "68e08df79e798a708ef8c8df"
         }
       ],
@@ -18696,7 +18697,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-13T04:41:25.529Z",
       "oldImage": "Sephiria.jpeg"
     },
     {
