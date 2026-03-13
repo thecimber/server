@@ -20578,7 +20578,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c98d",
       "id": "vHydoH8L",
       "name": "Samurai Jack Battle Through Time ",
@@ -20601,8 +20600,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-13T04:41:00.425Z",
-      "oldImage": "LxF13U1Tg0.jpg"
+      "updatedAt": "2026-03-13T04:41:03.543Z",
+      "oldImage": "LxF13U1Tg0.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
