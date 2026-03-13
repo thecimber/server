@@ -18602,14 +18602,14 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        27
+        2,
+        58
       ],
       "size": "1.6 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/11crLRlWmsnBL4IMigl2vNg",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1K5I-hQFt6gIRpn6XdwgNaQ",
           "_id": "68e08df79e798a708ef8c8eb"
         }
       ],
@@ -18617,7 +18617,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-13T04:43:48.383Z",
       "oldImage": "SoulStone Survivors.jpeg"
     },
     {
