@@ -19120,15 +19120,17 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        16,
+        3,
         19,
-        39
+        57,
+        60,
+        55
       ],
       "size": "1.1 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1UzuXHZOPWZI3FqUkN8fW-Q",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1SWvJbT13jJCV-cuji9Z9Mw",
           "_id": "68e08df79e798a708ef8c8fb"
         }
       ],
@@ -19136,7 +19138,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-13T04:33:41.410Z",
       "oldImage": "Sun Haven.jpeg"
     },
     {
