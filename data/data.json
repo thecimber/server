@@ -18552,13 +18552,14 @@
       "genre": [
         3,
         9,
-        21
+        21,
+        12
       ],
       "size": "3.6 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/161hRL2YRf3eGWqvo1rQjeA",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1WoHgSVlk0KkYwZcw1jKinA",
           "_id": "68e08df79e798a708ef8c8f7"
         }
       ],
@@ -18566,7 +18567,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-13T04:46:48.485Z",
       "oldImage": "Subnautica.jpeg"
     },
     {
