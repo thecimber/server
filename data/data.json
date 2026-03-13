@@ -17931,7 +17931,6 @@
       "oldImage": "Saints Row The Third.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8ce",
       "id": "TlEq8wIV",
       "name": "Saints Row 2 (2008)",
@@ -17955,8 +17954,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.295Z",
-      "updatedAt": "2026-03-13T04:35:19.768Z",
-      "oldImage": "aints Row 2 (2008).jpeg"
+      "updatedAt": "2026-03-13T04:35:23.001Z",
+      "oldImage": "aints Row 2 (2008).jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c8cc",
