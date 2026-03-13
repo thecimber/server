@@ -18594,7 +18594,6 @@
       "oldImage": "SCHEDULE 1.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8ea",
       "id": "LsASoo3S",
       "name": "SoulStone Survivors ",
@@ -18617,8 +18616,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-13T04:43:48.383Z",
-      "oldImage": "SoulStone Survivors.jpeg"
+      "updatedAt": "2026-03-13T04:43:54.288Z",
+      "oldImage": "SoulStone Survivors.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
