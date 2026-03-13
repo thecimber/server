@@ -18235,7 +18235,6 @@
       "oldImage": "n5nZh44aE5.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8e4",
       "id": "qwAjkEN2",
       "name": "Slay The Princess v2025.03.05",
@@ -18259,8 +18258,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-13T04:42:33.445Z",
-      "oldImage": "Wjw8VlAfjg.jpg"
+      "updatedAt": "2026-03-13T04:43:17.521Z",
+      "oldImage": "Wjw8VlAfjg.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
