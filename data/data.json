@@ -18054,13 +18054,13 @@
       "genre": [
         2,
         12,
-        39
+        3
       ],
       "size": "8.3 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1I8EoNRIiszl_Y7pJ6-Aotw",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1kZpyanVmp9VMcxhrO18rkg",
           "_id": "68e08df79e798a708ef8c8d3"
         }
       ],
@@ -18068,7 +18068,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.295Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-13T04:36:56.053Z",
       "oldImage": "0wqhe0qIsE.jpeg"
     },
     {
