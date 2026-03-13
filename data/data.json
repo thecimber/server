@@ -18673,7 +18673,6 @@
       "oldImage": "2IukGvJRG8.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8de",
       "id": "bllsAycU",
       "name": "Sephiria",
@@ -18697,8 +18696,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-13T04:41:25.529Z",
-      "oldImage": "Sephiria.jpeg"
+      "updatedAt": "2026-03-13T04:41:28.691Z",
+      "oldImage": "Sephiria.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
