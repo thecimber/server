@@ -18271,14 +18271,15 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        21,
         19,
-        21
+        50
       ],
       "size": "1.7 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1jg3jisclAIUF7WQqz5gf1g",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1u4HvFKU07_wTGV3CEi_f1Q",
           "_id": "68e08df79e798a708ef8c8ef"
         }
       ],
@@ -18286,7 +18287,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-13T04:45:09.273Z",
       "oldImage": "Stationeers.jpeg"
     },
     {
