@@ -20360,22 +20360,25 @@
       "oldImage": "9bsgnR7hJI.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c985",
-      "id": "jRlm3-vy",
-      "name": "METAL GEAR SOLID V: THE PHANTOM PAIN (v1.15)",
-      "image": "3mOJ4vHWee.webp",
+      "_id": "68e08df79e798a708ef8c9af",
+      "id": "7fA15HwI",
+      "name": "Far cry",
+      "image": "xa3_bIGinG.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        8
+        2,
+        11,
+        12,
+        21,
+        3
       ],
-      "size": "22.8 Gb",
+      "size": "2.6 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1sQU4rpkuYslMrFcFiTfhog",
-          "_id": "68e08df79e798a708ef8c986"
+          "link": "https://1024terabox.com/s/1m_FdQhtmAQZ2hwvikD8wOA",
+          "_id": "68e08df79e798a708ef8c9b0"
         }
       ],
       "emulatorId": 2,
@@ -20384,7 +20387,7 @@
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "3mOJ4vHWee.jpg"
+      "oldImage": "xa3_bIGinG.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c97b",
@@ -20641,25 +20644,23 @@
       "oldImage": "_tYpe3HvzS.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c9af",
-      "id": "7fA15HwI",
-      "name": "Far cry",
-      "image": "xa3_bIGinG.webp",
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c989",
+      "id": "Y0gfYqgF",
+      "name": "Resident Evil 2 Remake Directx12",
+      "image": "b7WKp2R0iA.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        11,
-        12,
-        21,
-        3
+        14,
+        7
       ],
-      "size": "2.6 Gb",
+      "size": "24.1 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1m_FdQhtmAQZ2hwvikD8wOA",
-          "_id": "68e08df79e798a708ef8c9b0"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1rYY9dEuIlaarMUG2XG5B5w",
+          "_id": "68e08df79e798a708ef8c98a"
         }
       ],
       "emulatorId": 2,
@@ -20667,8 +20668,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "xa3_bIGinG.jpg"
+      "oldImage": "b7WKp2R0iA.jpg"
     },
     {
       "isUpdate": false,
@@ -20900,23 +20900,22 @@
       "oldImage": "7QmzfygIVv.jpg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c989",
-      "id": "Y0gfYqgF",
-      "name": "Resident Evil 2 Remake Directx12",
-      "image": "b7WKp2R0iA.webp",
+      "_id": "68e08df79e798a708ef8c985",
+      "id": "jRlm3-vy",
+      "name": "METAL GEAR SOLID V: THE PHANTOM PAIN (v1.15)",
+      "image": "3mOJ4vHWee.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        14,
-        7
+        7,
+        8
       ],
-      "size": "24.1 Gb",
+      "size": "22.8 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1rYY9dEuIlaarMUG2XG5B5w",
-          "_id": "68e08df79e798a708ef8c98a"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1sQU4rpkuYslMrFcFiTfhog",
+          "_id": "68e08df79e798a708ef8c986"
         }
       ],
       "emulatorId": 2,
@@ -20924,7 +20923,8 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "b7WKp2R0iA.jpg"
+      "isUpdate": true,
+      "oldImage": "3mOJ4vHWee.jpg"
     },
     {
       "isUpdate": false,
@@ -23424,22 +23424,23 @@
       "oldImage": "F3W_-xkHZr.jpg"
     },
     {
-      "_id": "68e08df89e798a708ef8ca56",
-      "id": "fUodemuZ",
-      "name": "New SUPER MARIO BROS. U (USA) (DLC) (v64)",
-      "image": "1kvqSwbTn7.webp",
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca4a",
+      "id": "3sMCS9q7",
+      "name": "POKKÉN TOURNAMENT (USA) (v64)",
+      "image": "namzdn2clR.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        1
+        2,
+        24
       ],
-      "size": "1,2 Gb",
+      "size": "3.5 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/16lMxVddjVQ1W18pKiChzUQ",
-          "_id": "68e08df89e798a708ef8ca57"
+          "link": "https://1024terabox.com/s/17Y0OY-qVrKPH8DvCb-0HHw",
+          "_id": "68e08df89e798a708ef8ca4b"
         }
       ],
       "emulatorId": 5,
@@ -23447,8 +23448,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "1kvqSwbTn7.jpg"
+      "oldImage": "namzdn2clR.jpg"
     },
     {
       "isUpdate": false,
@@ -23477,23 +23477,22 @@
       "oldImage": "Prh84CISZj.jpg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca4a",
-      "id": "3sMCS9q7",
-      "name": "POKKÉN TOURNAMENT (USA) (v64)",
-      "image": "namzdn2clR.webp",
+      "_id": "68e08df89e798a708ef8ca56",
+      "id": "fUodemuZ",
+      "name": "New SUPER MARIO BROS. U (USA) (DLC) (v64)",
+      "image": "1kvqSwbTn7.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        24
+        3,
+        1
       ],
-      "size": "3.5 Gb",
+      "size": "1,2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/17Y0OY-qVrKPH8DvCb-0HHw",
-          "_id": "68e08df89e798a708ef8ca4b"
+          "link": "https://1024terabox.com/s/16lMxVddjVQ1W18pKiChzUQ",
+          "_id": "68e08df89e798a708ef8ca57"
         }
       ],
       "emulatorId": 5,
@@ -23501,7 +23500,8 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "namzdn2clR.jpg"
+      "isUpdate": true,
+      "oldImage": "1kvqSwbTn7.jpg"
     },
     {
       "isUpdate": false,
@@ -24469,34 +24469,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8caa6",
-      "id": "riyLrs1T",
-      "name": "hollow knight silksong (1.1.5)",
-      "image": "1759155363188-3c71e339.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        9,
-        46
-      ],
-      "size": "1.2 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1R1g2lIN39Sf4t3QAyHcEnQ",
-          "_id": "68e08df89e798a708ef8caa7"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-08T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "1759155363188-3c71e339.jpg"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8caa4",
       "id": "HSwsoC80sX",
       "name": "Hollow Knight SILKSONG",
@@ -24522,6 +24494,34 @@
       "createdAt": "2025-10-08T03:01:12.243Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "holsw62672vs.jpeg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8caa6",
+      "id": "riyLrs1T",
+      "name": "hollow knight silksong (1.1.5)",
+      "image": "1759155363188-3c71e339.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        9,
+        46
+      ],
+      "size": "1.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1R1g2lIN39Sf4t3QAyHcEnQ",
+          "_id": "68e08df89e798a708ef8caa7"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-08T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "1759155363188-3c71e339.jpg"
     },
     {
       "isUpdate": false,
@@ -27334,6 +27334,33 @@
       "captures": [],
       "createdAt": "2026-03-14T22:07:39.156Z",
       "updatedAt": "2026-03-14T22:08:01.951Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5dc82dc8e591e5cbc6844",
+      "id": "OmxCZUfB",
+      "name": "Call Of duty 4 Modern Warfare ",
+      "image": "1773526146055-086b9afa.jpg",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        66,
+        35
+      ],
+      "size": "6.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/15-8js0RSnozi6qu7cSZ6cw",
+          "_id": "69b5dc82dc8e591e5cbc6845"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-14T22:09:06.686Z",
+      "updatedAt": "2026-03-14T22:09:06.686Z",
       "__v": 0
     }
   ],
