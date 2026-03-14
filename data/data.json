@@ -27943,7 +27943,9 @@
       "format": 13,
       "language": "Multi-Idioma",
       "genre": [
-        2
+        2,
+        73,
+        74
       ],
       "size": "1.2 Gb",
       "downloadMethods": [
@@ -27957,7 +27959,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-03-14T22:36:53.137Z",
-      "updatedAt": "2026-03-14T22:36:53.137Z",
+      "updatedAt": "2026-03-14T22:37:34.086Z",
       "__v": 0
     }
   ],
@@ -28711,6 +28713,22 @@
       "name": "Crossover",
       "createdAt": "2026-03-14T22:33:19.462Z",
       "updatedAt": "2026-03-14T22:33:19.462Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e314dc8e591e5cbdb972",
+      "id": 73,
+      "name": "Disparos sobre rieles",
+      "createdAt": "2026-03-14T22:37:08.267Z",
+      "updatedAt": "2026-03-14T22:37:08.267Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e31cdc8e591e5cbdb977",
+      "id": 74,
+      "name": "Música",
+      "createdAt": "2026-03-14T22:37:16.277Z",
+      "updatedAt": "2026-03-14T22:37:16.277Z",
       "__v": 0
     }
   ],
