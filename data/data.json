@@ -27697,8 +27697,9 @@
       "format": 13,
       "language": "Multi-Idioma",
       "genre": [
+        3,
         13,
-        3
+        67
       ],
       "size": "4.5 Gb",
       "downloadMethods": [
@@ -27712,7 +27713,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-03-14T22:25:52.066Z",
-      "updatedAt": "2026-03-14T22:25:52.066Z",
+      "updatedAt": "2026-03-14T22:26:24.571Z",
       "__v": 0
     }
   ],
@@ -28418,6 +28419,14 @@
       "name": "Guerra",
       "createdAt": "2026-03-14T22:07:46.622Z",
       "updatedAt": "2026-03-14T22:07:46.622Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e07bdc8e591e5cbd19cf",
+      "id": 67,
+      "name": "Conducción",
+      "createdAt": "2026-03-14T22:26:03.848Z",
+      "updatedAt": "2026-03-14T22:26:03.848Z",
       "__v": 0
     }
   ],
