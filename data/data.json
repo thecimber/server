@@ -14460,6 +14460,33 @@
       "oldImage": "KzbxI_0u1q.jpg"
     },
     {
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c7df",
+      "id": "X_lSXy9v",
+      "name": "Devil May Cry Reloaded ",
+      "image": "Devil May Cry Reloaded .webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        27
+      ],
+      "size": "8.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1Gq7r1wrIwAe0XuIRRWEt_w",
+          "_id": "68e08df69e798a708ef8c7e0"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.635Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Devil May Cry Reloaded .jpeg"
+    },
+    {
       "_id": "68e08df69e798a708ef8c7ef",
       "id": "avnkKslA",
       "name": "Echoes of Yi Samsara",
@@ -14485,33 +14512,6 @@
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
       "oldImage": "-2Qq5dNJIU.jpg"
-    },
-    {
-      "_id": "68e08df69e798a708ef8c7d5",
-      "id": "FgNI4fN6",
-      "name": "Definitely Not Fried Chicken",
-      "image": "Definitely Not Fried Chicken.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        19,
-        40
-      ],
-      "size": "462 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/18GR9KzE_QPSltc00WIisLg",
-          "_id": "68e08df69e798a708ef8c7d6"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "Definitely Not Fried Chicken.jpeg"
     },
     {
       "isUpdate": false,
@@ -14926,23 +14926,22 @@
       "oldImage": "Dragon Ball Sparking Zero.jpeg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c7df",
-      "id": "X_lSXy9v",
-      "name": "Devil May Cry Reloaded ",
-      "image": "Devil May Cry Reloaded .webp",
+      "_id": "68e08df69e798a708ef8c7d5",
+      "id": "FgNI4fN6",
+      "name": "Definitely Not Fried Chicken",
+      "image": "Definitely Not Fried Chicken.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        27
+        19,
+        40
       ],
-      "size": "8.9 Gb",
+      "size": "462 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Gq7r1wrIwAe0XuIRRWEt_w",
-          "_id": "68e08df69e798a708ef8c7e0"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/18GR9KzE_QPSltc00WIisLg",
+          "_id": "68e08df69e798a708ef8c7d6"
         }
       ],
       "emulatorId": 2,
@@ -14950,7 +14949,8 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Devil May Cry Reloaded .jpeg"
+      "isUpdate": true,
+      "oldImage": "Definitely Not Fried Chicken.jpeg"
     },
     {
       "isUpdate": false,
@@ -27633,6 +27633,33 @@
       "captures": [],
       "createdAt": "2026-03-14T22:22:54.869Z",
       "updatedAt": "2026-03-14T22:22:54.869Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5dff8dc8e591e5cbcf226",
+      "id": "uYGdRxdi",
+      "name": "Call Of Duty World at War ",
+      "image": "1773527031960-70a63a82.jpg",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        66
+      ],
+      "size": "7.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1e5Tmew037SBnOFrWuNtdPw",
+          "_id": "69b5dff8dc8e591e5cbcf227"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-14T22:23:52.549Z",
+      "updatedAt": "2026-03-14T22:23:52.549Z",
       "__v": 0
     }
   ],
