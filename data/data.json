@@ -27317,8 +27317,9 @@
       "format": 13,
       "language": "Multi-Idioma",
       "genre": [
+        2,
         35,
-        2
+        66
       ],
       "size": "5.4 Gb",
       "downloadMethods": [
@@ -27332,7 +27333,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-03-14T22:07:39.156Z",
-      "updatedAt": "2026-03-14T22:07:39.156Z",
+      "updatedAt": "2026-03-14T22:08:01.951Z",
       "__v": 0
     }
   ],
@@ -28030,6 +28031,14 @@
       "name": "Pelea",
       "createdAt": "2026-03-14T22:06:31.227Z",
       "updatedAt": "2026-03-14T22:06:31.227Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5dc32dc8e591e5cbc5895",
+      "id": 66,
+      "name": "Guerra",
+      "createdAt": "2026-03-14T22:07:46.622Z",
+      "updatedAt": "2026-03-14T22:07:46.622Z",
       "__v": 0
     }
   ],
