@@ -27290,8 +27290,9 @@
       "format": 13,
       "language": "Multi-Idioma",
       "genre": [
+        22,
         24,
-        22
+        65
       ],
       "size": "1.9 Gb",
       "downloadMethods": [
@@ -27305,7 +27306,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-03-14T22:06:20.673Z",
-      "updatedAt": "2026-03-14T22:06:20.673Z",
+      "updatedAt": "2026-03-14T22:06:53.567Z",
       "__v": 0
     }
   ],
@@ -27995,6 +27996,14 @@
       "name": "Construcción",
       "createdAt": "2026-03-13T04:45:24.210Z",
       "updatedAt": "2026-03-13T04:45:24.210Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5dbe7dc8e591e5cbc3d2c",
+      "id": 65,
+      "name": "Pelea",
+      "createdAt": "2026-03-14T22:06:31.227Z",
+      "updatedAt": "2026-03-14T22:06:31.227Z",
       "__v": 0
     }
   ],
