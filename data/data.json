@@ -27362,6 +27362,33 @@
       "createdAt": "2026-03-14T22:09:06.686Z",
       "updatedAt": "2026-03-14T22:09:06.686Z",
       "__v": 0
+    },
+    {
+      "_id": "69b5dcb1dc8e591e5cbc7406",
+      "id": "Zp9qF5yI",
+      "name": "Call Of Duty 3",
+      "image": "1773526192489-aee4e232.jpg",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        66
+      ],
+      "size": "4.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1mEGFH7_Pc0IkJjH3DyOncg",
+          "_id": "69b5dcb1dc8e591e5cbc7407"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-14T22:09:53.108Z",
+      "updatedAt": "2026-03-14T22:09:53.108Z",
+      "__v": 0
     }
   ],
   "emulators": [
