@@ -14325,6 +14325,34 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c7cf",
+      "id": "GrtAs9Kx",
+      "name": "Dead Space 3",
+      "image": "Dead Space 3.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        14,
+        31
+      ],
+      "size": "8.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1TkJZtFfhmKKVz6t8frejsg",
+          "_id": "68e08df69e798a708ef8c7d0"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.635Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Dead Space 3.jpeg"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7ab",
       "id": "G3wWCgcY",
       "name": "Call Of Duty Black Ops ",
@@ -14349,33 +14377,6 @@
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "Call Of Duty Black Ops .jpeg"
-    },
-    {
-      "_id": "68e08df69e798a708ef8c7b7",
-      "id": "_zB0saOZ",
-      "name": "Card Shark",
-      "image": "Card Shark.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        25,
-        28
-      ],
-      "size": "1.2 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://terabox.com/s/1ymFN21XGcX5KSoHHs6WZEA",
-          "_id": "68e08df69e798a708ef8c7b8"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "Card Shark.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c7b9",
@@ -14707,24 +14708,22 @@
       "oldImage": "Escape the backrooms .jpeg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c7cf",
-      "id": "GrtAs9Kx",
-      "name": "Dead Space 3",
-      "image": "Dead Space 3.webp",
+      "_id": "68e08df69e798a708ef8c7b7",
+      "id": "_zB0saOZ",
+      "name": "Card Shark",
+      "image": "Card Shark.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        14,
-        31
+        25,
+        28
       ],
-      "size": "8.7 Gb",
+      "size": "1.2 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1TkJZtFfhmKKVz6t8frejsg",
-          "_id": "68e08df69e798a708ef8c7d0"
+          "type": "terabox",
+          "link": "https://terabox.com/s/1ymFN21XGcX5KSoHHs6WZEA",
+          "_id": "68e08df69e798a708ef8c7b8"
         }
       ],
       "emulatorId": 2,
@@ -14732,7 +14731,8 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Dead Space 3.jpeg"
+      "isUpdate": true,
+      "oldImage": "Card Shark.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c7b3",
@@ -27905,6 +27905,34 @@
       "captures": [],
       "createdAt": "2026-03-14T22:34:29.357Z",
       "updatedAt": "2026-03-14T22:34:29.357Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e2addc8e591e5cbda16e",
+      "id": "nFAkeBh2",
+      "name": "Castlevania Lords Of Shadow ",
+      "image": "1773527725019-52e7023f.jpg",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        27,
+        1
+      ],
+      "size": "14 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1ZSNFqdIO0Mna1pbc5NBXOg",
+          "_id": "69b5e2addc8e591e5cbda16f"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-14T22:35:25.616Z",
+      "updatedAt": "2026-03-14T22:35:25.616Z",
       "__v": 0
     }
   ],
