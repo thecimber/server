@@ -14433,6 +14433,33 @@
       "oldImage": "Dead Space .jpeg"
     },
     {
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c7f1",
+      "id": "AjWy4Bmb",
+      "name": "Emissary Zero",
+      "image": "Emissary Zero.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        7
+      ],
+      "size": "4.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1HQDfpglBb25vReWBL4zVWQ",
+          "_id": "68e08df69e798a708ef8c7f2"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.635Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Emissary Zero.jpeg"
+    },
+    {
       "_id": "68e08df69e798a708ef8c7e3",
       "id": "A26lyLES",
       "name": "Door kickers 2 Tast force North v1.0",
@@ -14458,33 +14485,6 @@
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
       "oldImage": "KzbxI_0u1q.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c7df",
-      "id": "X_lSXy9v",
-      "name": "Devil May Cry Reloaded ",
-      "image": "Devil May Cry Reloaded .webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        27
-      ],
-      "size": "8.9 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Gq7r1wrIwAe0XuIRRWEt_w",
-          "_id": "68e08df69e798a708ef8c7e0"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Devil May Cry Reloaded .jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c7ef",
@@ -14872,22 +14872,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c7f1",
-      "id": "AjWy4Bmb",
-      "name": "Emissary Zero",
-      "image": "Emissary Zero.webp",
+      "_id": "68e08df69e798a708ef8c7df",
+      "id": "X_lSXy9v",
+      "name": "Devil May Cry Reloaded ",
+      "image": "Devil May Cry Reloaded .webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        7
+        27
       ],
-      "size": "4.5 Gb",
+      "size": "8.9 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1HQDfpglBb25vReWBL4zVWQ",
-          "_id": "68e08df69e798a708ef8c7f2"
+          "link": "https://1024terabox.com/s/1Gq7r1wrIwAe0XuIRRWEt_w",
+          "_id": "68e08df69e798a708ef8c7e0"
         }
       ],
       "emulatorId": 2,
@@ -14895,7 +14895,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Emissary Zero.jpeg"
+      "oldImage": "Devil May Cry Reloaded .jpeg"
     },
     {
       "isUpdate": false,
@@ -27687,6 +27687,32 @@
       "captures": [],
       "createdAt": "2026-03-14T22:24:58.683Z",
       "updatedAt": "2026-03-14T22:24:58.683Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e070dc8e591e5cbd0de7",
+      "id": "NgIwY3uA",
+      "name": "Cars",
+      "image": "1773527151442-77addbab.jpg",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        3
+      ],
+      "size": "4.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/14Yngynfwjy4K93loKPrspQ",
+          "_id": "69b5e070dc8e591e5cbd0de8"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-14T22:25:52.066Z",
+      "updatedAt": "2026-03-14T22:25:52.066Z",
       "__v": 0
     }
   ],
