@@ -27382,10 +27382,10 @@
       "path": "xbox360",
       "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/xbox360-logo.png",
       "index": 0,
-      "active": false,
+      "active": true,
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.755Z",
-      "updatedAt": "2026-03-14T21:59:02.478Z",
+      "updatedAt": "2026-03-14T22:01:44.981Z",
       "deleted": false,
       "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/xbox360/"
     },
