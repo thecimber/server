@@ -20616,6 +20616,35 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c997",
+      "id": "gAIEsehj",
+      "name": "Dark Souls: Remastered PC Full Español",
+      "image": "QqzTmHguya.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        10,
+        16,
+        34,
+        37
+      ],
+      "size": "7.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/19mPzR7dCpn9viJ81Gjqgzg",
+          "_id": "68e08df79e798a708ef8c998"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "QqzTmHguya.jpg"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c99b",
       "id": "DbQipVu-",
       "name": "Dark Souls III Deluxe Edition PC Full Español",
@@ -20642,33 +20671,6 @@
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "_tYpe3HvzS.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c989",
-      "id": "Y0gfYqgF",
-      "name": "Resident Evil 2 Remake Directx12",
-      "image": "b7WKp2R0iA.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        14,
-        7
-      ],
-      "size": "24.1 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1rYY9dEuIlaarMUG2XG5B5w",
-          "_id": "68e08df79e798a708ef8c98a"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "b7WKp2R0iA.jpg"
     },
     {
       "isUpdate": false,
@@ -20928,24 +20930,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c997",
-      "id": "gAIEsehj",
-      "name": "Dark Souls: Remastered PC Full Español",
-      "image": "QqzTmHguya.webp",
+      "_id": "68e08df79e798a708ef8c989",
+      "id": "Y0gfYqgF",
+      "name": "Resident Evil 2 Remake Directx12",
+      "image": "b7WKp2R0iA.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        16,
-        34,
-        37
+        14,
+        7
       ],
-      "size": "7.2 Gb",
+      "size": "24.1 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/19mPzR7dCpn9viJ81Gjqgzg",
-          "_id": "68e08df79e798a708ef8c998"
+          "link": "https://1024terabox.com/s/1rYY9dEuIlaarMUG2XG5B5w",
+          "_id": "68e08df79e798a708ef8c98a"
         }
       ],
       "emulatorId": 2,
@@ -20953,7 +20953,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "QqzTmHguya.jpg"
+      "oldImage": "b7WKp2R0iA.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c98b",
@@ -27388,6 +27388,33 @@
       "captures": [],
       "createdAt": "2026-03-14T22:09:53.108Z",
       "updatedAt": "2026-03-14T22:09:53.108Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5dce1dc8e591e5cbc7fcb",
+      "id": "5A6SCwzN",
+      "name": "Call Of Duty Modern Warfare 2",
+      "image": "1773526241117-45418adf.jpg",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        66
+      ],
+      "size": "7.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1vQuw6sTnQnrUSMHFGueeMA",
+          "_id": "69b5dce1dc8e591e5cbc7fcc"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-14T22:10:41.740Z",
+      "updatedAt": "2026-03-14T22:10:41.740Z",
       "__v": 0
     }
   ],
