@@ -19317,33 +19317,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c93d",
-      "id": "Po0d6Cb1",
-      "name": "Twilight Monk",
-      "image": "Twilight Monk.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        16
-      ],
-      "size": "1.4 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1VdxeZwWYu_vSLWyDkgXdwQ",
-          "_id": "68e08df79e798a708ef8c93e"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Twilight Monk.jpeg"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c967",
       "id": "HHfdR20I",
       "name": "THE GAME OF LIFE 2 APK v1.0.4",
@@ -19368,6 +19341,33 @@
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "80LwGxXhFM.jpg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c93d",
+      "id": "Po0d6Cb1",
+      "name": "Twilight Monk",
+      "image": "Twilight Monk.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        16
+      ],
+      "size": "1.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1VdxeZwWYu_vSLWyDkgXdwQ",
+          "_id": "68e08df79e798a708ef8c93e"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Twilight Monk.jpeg"
     },
     {
       "isUpdate": false,
@@ -19645,23 +19645,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c951",
-      "id": "LZaGj9-I",
-      "name": "Wwe2k25",
-      "image": "Wwe2k25.webp",
+      "_id": "68e08df79e798a708ef8c94f",
+      "id": "Vyf1k1kA",
+      "name": "WereWolf The Apocalypse Earthblood",
+      "image": "WereWolf The Apocalypse Earthblood.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        4,
-        10,
-        24
+        2,
+        16,
+        41
       ],
-      "size": "80 Gb",
+      "size": "10.8 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1NaGRl1o-I9P1Syi3U3z9qA",
-          "_id": "68e08df79e798a708ef8c952"
+          "link": "https://1024terabox.com/s/160d_2gZ5h-T_AwTf08b5Cw",
+          "_id": "68e08df79e798a708ef8c950"
         }
       ],
       "emulatorId": 2,
@@ -19669,7 +19669,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Wwe2k25.jpeg"
+      "oldImage": "WereWolf The Apocalypse Earthblood.jpeg"
     },
     {
       "isUpdate": false,
@@ -19864,23 +19864,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c94f",
-      "id": "Vyf1k1kA",
-      "name": "WereWolf The Apocalypse Earthblood",
-      "image": "WereWolf The Apocalypse Earthblood.webp",
+      "_id": "68e08df79e798a708ef8c951",
+      "id": "LZaGj9-I",
+      "name": "Wwe2k25",
+      "image": "Wwe2k25.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        16,
-        41
+        4,
+        10,
+        24
       ],
-      "size": "10.8 Gb",
+      "size": "80 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/160d_2gZ5h-T_AwTf08b5Cw",
-          "_id": "68e08df79e798a708ef8c950"
+          "link": "https://1024terabox.com/s/1NaGRl1o-I9P1Syi3U3z9qA",
+          "_id": "68e08df79e798a708ef8c952"
         }
       ],
       "emulatorId": 2,
@@ -19888,7 +19888,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "WereWolf The Apocalypse Earthblood.jpeg"
+      "oldImage": "Wwe2k25.jpeg"
     },
     {
       "isUpdate": false,
@@ -22802,30 +22802,30 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca6c",
-      "id": "IbgyKzo0",
-      "name": "Persona 3 Portable",
-      "image": "pv-Po8XUVy.webp",
-      "format": 2,
+      "_id": "68e08df89e798a708ef8ca66",
+      "id": "EAwwkWf6",
+      "name": "Scribblenauts Unmasked (USA)",
+      "image": "77K6kgppFO.webp",
+      "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        19
+        7,
+        39
       ],
-      "size": "7,6 Gb",
+      "size": "981 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1IATbYj9bVVROxSg1WvsQ5g",
-          "_id": "68e08df89e798a708ef8ca6d"
+          "link": "https://1024terabox.com/s/18RkthFvs4ZKwC8YU3V4HmQ",
+          "_id": "68e08df89e798a708ef8ca67"
         }
       ],
-      "emulatorId": 8,
+      "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "pv-Po8XUVy.jpg"
+      "oldImage": "77K6kgppFO.jpg"
     },
     {
       "isUpdate": false,
@@ -23152,30 +23152,30 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca66",
-      "id": "EAwwkWf6",
-      "name": "Scribblenauts Unmasked (USA)",
-      "image": "77K6kgppFO.webp",
-      "format": 5,
+      "_id": "68e08df89e798a708ef8ca6c",
+      "id": "IbgyKzo0",
+      "name": "Persona 3 Portable",
+      "image": "pv-Po8XUVy.webp",
+      "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        39
+        16,
+        19
       ],
-      "size": "981 Mb",
+      "size": "7,6 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/18RkthFvs4ZKwC8YU3V4HmQ",
-          "_id": "68e08df89e798a708ef8ca67"
+          "link": "https://1024terabox.com/s/1IATbYj9bVVROxSg1WvsQ5g",
+          "_id": "68e08df89e798a708ef8ca6d"
         }
       ],
-      "emulatorId": 5,
+      "emulatorId": 8,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "77K6kgppFO.jpg"
+      "oldImage": "pv-Po8XUVy.jpg"
     },
     {
       "isUpdate": false,
@@ -27660,6 +27660,33 @@
       "captures": [],
       "createdAt": "2026-03-14T22:23:52.549Z",
       "updatedAt": "2026-03-14T22:23:52.549Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e03adc8e591e5cbcfe09",
+      "id": "iFoJMDdg",
+      "name": "Call Of Duty 2",
+      "image": "1773527098028-66df25ed.jpg",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        66
+      ],
+      "size": "5.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/11AB7EVbd9B0EAC4YFsShvw",
+          "_id": "69b5e03adc8e591e5cbcfe0a"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-14T22:24:58.683Z",
+      "updatedAt": "2026-03-14T22:24:58.683Z",
       "__v": 0
     }
   ],
