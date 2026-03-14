@@ -27254,6 +27254,33 @@
       "createdAt": "2026-03-13T15:21:21.907Z",
       "updatedAt": "2026-03-13T15:21:21.907Z",
       "__v": 0
+    },
+    {
+      "_id": "69b5d875dc8e591e5cbc19f9",
+      "id": "QAN2qXQL",
+      "name": "Captain America Super Soldier ",
+      "image": "1773525108563-5eafce38.jpg",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        24
+      ],
+      "size": "6.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1XJL4xVCRWnFQ7O6rWuJvYA",
+          "_id": "69b5d875dc8e591e5cbc19fa"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-14T21:51:49.771Z",
+      "updatedAt": "2026-03-14T21:51:49.771Z",
+      "__v": 0
     }
   ],
   "emulators": [
@@ -28052,6 +28079,15 @@
       "deleted": false,
       "createdAt": "2026-03-13T15:19:32.171Z",
       "updatedAt": "2026-03-13T15:19:32.171Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5d692dc8e591e5cbc160c",
+      "id": 13,
+      "name": "XEX",
+      "deleted": false,
+      "createdAt": "2026-03-14T21:43:46.792Z",
+      "updatedAt": "2026-03-14T21:43:46.792Z",
       "__v": 0
     }
   ]
