@@ -27859,8 +27859,10 @@
       "format": 13,
       "language": "Multi-Idioma",
       "genre": [
+        24,
         65,
-        24
+        71,
+        72
       ],
       "size": "1.9 Gb",
       "downloadMethods": [
@@ -27874,7 +27876,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-03-14T22:33:00.055Z",
-      "updatedAt": "2026-03-14T22:33:00.055Z",
+      "updatedAt": "2026-03-14T22:33:41.543Z",
       "__v": 0
     }
   ],
@@ -28612,6 +28614,22 @@
       "name": "Casual",
       "createdAt": "2026-03-14T22:31:27.799Z",
       "updatedAt": "2026-03-14T22:31:27.799Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e227dc8e591e5cbd856c",
+      "id": 71,
+      "name": "Multijugador",
+      "createdAt": "2026-03-14T22:33:11.103Z",
+      "updatedAt": "2026-03-14T22:33:11.103Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e22fdc8e591e5cbd8571",
+      "id": 72,
+      "name": "Crossover",
+      "createdAt": "2026-03-14T22:33:19.462Z",
+      "updatedAt": "2026-03-14T22:33:19.462Z",
       "__v": 0
     }
   ],
