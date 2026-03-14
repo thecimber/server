@@ -14515,6 +14515,33 @@
       "oldImage": "Dead Rising.jpeg"
     },
     {
+      "_id": "68e08df69e798a708ef8c7c5",
+      "id": "i0Wl4-ig",
+      "name": "DAVE THE DIVER ",
+      "image": "DAVE THE DIVER.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        39
+      ],
+      "size": "3.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1mvO2uxBivclyAjOtK-eX2Q",
+          "_id": "68e08df69e798a708ef8c7c6"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.635Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "DAVE THE DIVER.jpeg"
+    },
+    {
       "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7db",
       "id": "0pEIkPrt",
@@ -14540,33 +14567,6 @@
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "Devil May Cry 5.jpeg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c7a7",
-      "id": "taCIdDrF",
-      "name": "Call Of Cthulhu ",
-      "image": "Call Of Cthulhu .webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        14,
-        31
-      ],
-      "size": "12.6 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1wwu374BZO0rSxqGyqMH1hg",
-          "_id": "68e08df69e798a708ef8c7a8"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Call Of Cthulhu .jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c7b7",
@@ -15008,22 +15008,23 @@
       "oldImage": "Definitely Not Fried Chicken.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c7c5",
-      "id": "i0Wl4-ig",
-      "name": "DAVE THE DIVER ",
-      "image": "DAVE THE DIVER.webp",
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c7a7",
+      "id": "taCIdDrF",
+      "name": "Call Of Cthulhu ",
+      "image": "Call Of Cthulhu .webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        39
+        14,
+        31
       ],
-      "size": "3.1 Gb",
+      "size": "12.6 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1mvO2uxBivclyAjOtK-eX2Q",
-          "_id": "68e08df69e798a708ef8c7c6"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1wwu374BZO0rSxqGyqMH1hg",
+          "_id": "68e08df69e798a708ef8c7a8"
         }
       ],
       "emulatorId": 2,
@@ -15031,8 +15032,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "DAVE THE DIVER.jpeg"
+      "oldImage": "Call Of Cthulhu .jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c7f9",
@@ -27524,6 +27524,34 @@
       "captures": [],
       "createdAt": "2026-03-14T22:15:45.463Z",
       "updatedAt": "2026-03-14T22:15:45.463Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5dec9dc8e591e5cbcbec2",
+      "id": "M6Bxl7fv",
+      "name": "Call Of Duty Black Ops 2",
+      "image": "1773526728163-693ad436.jpg",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        66,
+        48
+      ],
+      "size": "7.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1nbH6hc3XteAbs8BKsRg2cQ",
+          "_id": "69b5dec9dc8e591e5cbcbec3"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-14T22:18:49.459Z",
+      "updatedAt": "2026-03-14T22:18:49.459Z",
       "__v": 0
     }
   ],
