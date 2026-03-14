@@ -27998,8 +27998,9 @@
       "language": "Multi-Idioma",
       "genre": [
         3,
+        23,
         49,
-        23
+        75
       ],
       "size": "3.8 Gb",
       "downloadMethods": [
@@ -28013,7 +28014,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-03-14T22:39:30.837Z",
-      "updatedAt": "2026-03-14T22:39:30.837Z",
+      "updatedAt": "2026-03-14T22:40:36.689Z",
       "__v": 0
     }
   ],
@@ -28783,6 +28784,14 @@
       "name": "Música",
       "createdAt": "2026-03-14T22:37:16.277Z",
       "updatedAt": "2026-03-14T22:37:16.277Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e3d0dc8e591e5cbded9b",
+      "id": 75,
+      "name": "Terror psicológico",
+      "createdAt": "2026-03-14T22:40:16.493Z",
+      "updatedAt": "2026-03-14T22:40:16.493Z",
       "__v": 0
     }
   ],
