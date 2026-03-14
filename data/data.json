@@ -19782,31 +19782,31 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c94d",
-      "id": "iIMU-id2",
-      "name": "Weird West Definitive Edition ",
-      "image": "Weird West Definitive Edition.webp",
-      "format": 3,
+      "_id": "68e08df79e798a708ef8c959",
+      "id": "JX8A1iZY",
+      "name": "Monster Train APK v2.3.5",
+      "image": "LVrJAnSy3h.webp",
+      "format": 6,
       "language": "Multi-Idioma",
       "genre": [
-        2,
         16,
-        41
+        25,
+        28
       ],
-      "size": "7.4 Gb",
+      "size": "369 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Q-sS_9bDUbrRHasMjoS1wg",
-          "_id": "68e08df79e798a708ef8c94e"
+          "link": "https://1024terabox.com/s/1U4xfrv1jd_Rhppv_Q1j6sQ",
+          "_id": "68e08df79e798a708ef8c95a"
         }
       ],
-      "emulatorId": 2,
+      "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Weird West Definitive Edition.jpeg"
+      "oldImage": "LVrJAnSy3h.jpg"
     },
     {
       "isUpdate": false,
@@ -20001,23 +20001,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c959",
-      "id": "JX8A1iZY",
-      "name": "Monster Train APK v2.3.5",
-      "image": "LVrJAnSy3h.webp",
+      "_id": "68e08df79e798a708ef8c963",
+      "id": "1CbU2Npg",
+      "name": "Shambles: Sons of Apocalypse APK v1.2.4",
+      "image": "kNgl7K7Ray.webp",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        25,
-        28
+        2,
+        12
       ],
-      "size": "369 Mb",
+      "size": "1.5 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1U4xfrv1jd_Rhppv_Q1j6sQ",
-          "_id": "68e08df79e798a708ef8c95a"
+          "link": "https://1024terabox.com/s/1aTaLvUQ0xcFUohidpcHDFA",
+          "_id": "68e08df79e798a708ef8c964"
         }
       ],
       "emulatorId": 10,
@@ -20025,7 +20024,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "LVrJAnSy3h.jpg"
+      "oldImage": "kNgl7K7Ray.jpg"
     },
     {
       "isUpdate": false,
@@ -20083,33 +20082,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c963",
-      "id": "1CbU2Npg",
-      "name": "Shambles: Sons of Apocalypse APK v1.2.4",
-      "image": "kNgl7K7Ray.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        12
-      ],
-      "size": "1.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1aTaLvUQ0xcFUohidpcHDFA",
-          "_id": "68e08df79e798a708ef8c964"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "kNgl7K7Ray.jpg"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c943",
       "id": "viX0zya6",
       "name": "User Cars Simulator ",
@@ -20135,6 +20107,34 @@
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "User Cars Simulator.jpeg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c94d",
+      "id": "iIMU-id2",
+      "name": "Weird West Definitive Edition ",
+      "image": "Weird West Definitive Edition.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        16,
+        41
+      ],
+      "size": "7.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1Q-sS_9bDUbrRHasMjoS1wg",
+          "_id": "68e08df79e798a708ef8c94e"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Weird West Definitive Edition.jpeg"
     },
     {
       "isUpdate": false,
@@ -20166,6 +20166,33 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c975",
+      "id": "fFyfJlKf",
+      "name": "FIFA 19",
+      "image": "8Xg6wQqTtX.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        6
+      ],
+      "size": "35.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://terabox.com/s/1oe0hN4IjygDvt4jZwKv0YQ",
+          "_id": "68e08df79e798a708ef8c976"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "8Xg6wQqTtX.jpg"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c99f",
       "id": "t5-aWX5B",
       "name": "Teenage Mutant Ninja Turtles Mutants Unleashed PC Full Español",
@@ -20191,6 +20218,33 @@
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "L2eg0sL7fm.jpg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c9a5",
+      "id": "CkCczhRU",
+      "name": "Teenage Mutant Ninja Turtles Out of the Shadows PC Full Español",
+      "image": "ZtH6dReCTU.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3
+      ],
+      "size": "2.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/134oKYq7iLm0ThFLsAaNg-w",
+          "_id": "68e08df79e798a708ef8c9a6"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "ZtH6dReCTU.jpg"
     },
     {
       "isUpdate": false,
@@ -20221,33 +20275,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c975",
-      "id": "fFyfJlKf",
-      "name": "FIFA 19",
-      "image": "8Xg6wQqTtX.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        4,
-        6
-      ],
-      "size": "35.7 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/1oe0hN4IjygDvt4jZwKv0YQ",
-          "_id": "68e08df79e798a708ef8c976"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "8Xg6wQqTtX.jpg"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9a9",
       "id": "Zwl3sS0D",
       "name": "Xenoblade Chronicles 2 ",
@@ -20274,34 +20301,6 @@
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "h06bc6qbB-.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c993",
-      "id": "pzbDnzpb",
-      "name": "FIFA 08 ",
-      "image": "9bsgnR7hJI.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        4,
-        6,
-        19
-      ],
-      "size": "2.4 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1JLcNmjR9mG50l7Om30-qKw",
-          "_id": "68e08df79e798a708ef8c994"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "9bsgnR7hJI.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c9b3",
@@ -20334,22 +20333,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c9a5",
-      "id": "CkCczhRU",
-      "name": "Teenage Mutant Ninja Turtles Out of the Shadows PC Full Español",
-      "image": "ZtH6dReCTU.webp",
+      "_id": "68e08df79e798a708ef8c993",
+      "id": "pzbDnzpb",
+      "name": "FIFA 08 ",
+      "image": "9bsgnR7hJI.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        3
+        4,
+        6,
+        19
       ],
-      "size": "2.3 Gb",
+      "size": "2.4 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/134oKYq7iLm0ThFLsAaNg-w",
-          "_id": "68e08df79e798a708ef8c9a6"
+          "link": "https://1024terabox.com/s/1JLcNmjR9mG50l7Om30-qKw",
+          "_id": "68e08df79e798a708ef8c994"
         }
       ],
       "emulatorId": 2,
@@ -20357,7 +20357,34 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "ZtH6dReCTU.jpg"
+      "oldImage": "9bsgnR7hJI.jpg"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c985",
+      "id": "jRlm3-vy",
+      "name": "METAL GEAR SOLID V: THE PHANTOM PAIN (v1.15)",
+      "image": "3mOJ4vHWee.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        8
+      ],
+      "size": "22.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1sQU4rpkuYslMrFcFiTfhog",
+          "_id": "68e08df79e798a708ef8c986"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "3mOJ4vHWee.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c97b",
@@ -20556,36 +20583,6 @@
       "updatedAt": "2026-03-12T04:21:35.148Z",
       "oldImage": "bFLvsuoiZi.jpg",
       "isUpdate": true
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9a7",
-      "id": "ZfEWs8SF",
-      "name": "No Man’s Sky PC Full Español",
-      "image": "7QmzfygIVv.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        12,
-        21,
-        9
-      ],
-      "size": "22.4 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/14ee8vn6sk0mU7RsEzw3pJg",
-          "_id": "68e08df79e798a708ef8c9a8"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "7QmzfygIVv.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c98d",
@@ -20873,22 +20870,25 @@
       "oldImage": "PriUjr24N6.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c985",
-      "id": "jRlm3-vy",
-      "name": "METAL GEAR SOLID V: THE PHANTOM PAIN (v1.15)",
-      "image": "3mOJ4vHWee.webp",
+      "_id": "68e08df79e798a708ef8c9a7",
+      "id": "ZfEWs8SF",
+      "name": "No Man’s Sky PC Full Español",
+      "image": "7QmzfygIVv.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        8
+        2,
+        3,
+        12,
+        21,
+        9
       ],
-      "size": "22.8 Gb",
+      "size": "22.4 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1sQU4rpkuYslMrFcFiTfhog",
-          "_id": "68e08df79e798a708ef8c986"
+          "link": "https://1024terabox.com/s/14ee8vn6sk0mU7RsEzw3pJg",
+          "_id": "68e08df79e798a708ef8c9a8"
         }
       ],
       "emulatorId": 2,
@@ -20897,7 +20897,7 @@
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "3mOJ4vHWee.jpg"
+      "oldImage": "7QmzfygIVv.jpg"
     },
     {
       "isUpdate": false,
@@ -27280,6 +27280,32 @@
       "captures": [],
       "createdAt": "2026-03-14T21:51:49.771Z",
       "updatedAt": "2026-03-14T21:51:49.771Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5dbdcdc8e591e5cbc3171",
+      "id": "OaPHaI7Q",
+      "name": "Dragon Ball Racing Blast ",
+      "image": "1773525979995-480bdd3a.jpg",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        24,
+        22
+      ],
+      "size": "1.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1ULW5R_mj769yP9Ko6_MUDg",
+          "_id": "69b5dbdcdc8e591e5cbc3172"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-14T22:06:20.673Z",
+      "updatedAt": "2026-03-14T22:06:20.673Z",
       "__v": 0
     }
   ],
