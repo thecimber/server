@@ -14215,6 +14215,33 @@
       "oldImage": "Call Of Duty Ghosts .jpeg"
     },
     {
+      "_id": "68e08df69e798a708ef8c7a5",
+      "id": "qxQQEPov",
+      "name": "Cafemart Simulator Early",
+      "image": "Cafemart Simulator Early.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        19,
+        40
+      ],
+      "size": "3.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://terabox.com/s/1A7Zb3JRwqk-mO28f9yQU3w",
+          "_id": "68e08df69e798a708ef8c7a6"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.635Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "Cafemart Simulator Early.jpeg"
+    },
+    {
       "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7b5",
       "id": "6cAToSLm",
@@ -14240,34 +14267,6 @@
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "Call Of Duty Modern Warfare Remastered.jpeg"
-    },
-    {
-      "_id": "68e08df69e798a708ef8c79d",
-      "id": "vdM8ULFr",
-      "name": "Bleach Rebirth of souls",
-      "image": "Bleach Rebirth of souls.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        10,
-        24,
-        22
-      ],
-      "size": "68 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://terabox.com/s/1M54ptc8AbuQE2-ry2rA8ZQ",
-          "_id": "68e08df69e798a708ef8c79e"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "Bleach Rebirth of souls.jpeg"
     },
     {
       "isUpdate": false,
@@ -14598,22 +14597,23 @@
       "oldImage": "Dead Space 2.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c7a5",
-      "id": "qxQQEPov",
-      "name": "Cafemart Simulator Early",
-      "image": "Cafemart Simulator Early.webp",
+      "_id": "68e08df69e798a708ef8c79d",
+      "id": "vdM8ULFr",
+      "name": "Bleach Rebirth of souls",
+      "image": "Bleach Rebirth of souls.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        19,
-        40
+        10,
+        24,
+        22
       ],
-      "size": "3.2 Gb",
+      "size": "68 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://terabox.com/s/1A7Zb3JRwqk-mO28f9yQU3w",
-          "_id": "68e08df69e798a708ef8c7a6"
+          "link": "https://terabox.com/s/1M54ptc8AbuQE2-ry2rA8ZQ",
+          "_id": "68e08df69e798a708ef8c79e"
         }
       ],
       "emulatorId": 2,
@@ -14622,7 +14622,7 @@
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "Cafemart Simulator Early.jpeg"
+      "oldImage": "Bleach Rebirth of souls.jpeg"
     },
     {
       "isUpdate": false,
@@ -28124,6 +28124,34 @@
       "captures": [],
       "createdAt": "2026-03-15T04:12:22.743Z",
       "updatedAt": "2026-03-15T04:12:22.743Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b631e1dc8e591e5cbe4214",
+      "id": "I_md2Xx7",
+      "name": "Crackdown",
+      "image": "1773548000979-f06e9a84.jpg",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        12,
+        3
+      ],
+      "size": "6.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1H--j_cHfZk4yPn7cDTsu6A",
+          "_id": "69b631e1dc8e591e5cbe4215"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-15T04:13:21.557Z",
+      "updatedAt": "2026-03-15T04:13:21.557Z",
       "__v": 0
     }
   ],
