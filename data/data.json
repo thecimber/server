@@ -19891,7 +19891,6 @@
       "oldImage": "r64rtr44.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c965",
       "id": "Q0O-v1OV",
       "name": "9th Dawn Remake RPG APK v1.184",
@@ -19914,8 +19913,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-15T15:10:40.990Z",
-      "oldImage": "PGLMRFHU_a.jpg"
+      "updatedAt": "2026-03-15T15:10:43.180Z",
+      "oldImage": "PGLMRFHU_a.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
