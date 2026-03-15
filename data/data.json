@@ -20027,7 +20027,6 @@
       "oldImage": "Vampire Survivors.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c959",
       "id": "JX8A1iZY",
       "name": "Monster Train APK v2.3.5",
@@ -20051,8 +20050,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-15T15:33:37.510Z",
-      "oldImage": "LVrJAnSy3h.jpg"
+      "updatedAt": "2026-03-15T15:33:39.746Z",
+      "oldImage": "LVrJAnSy3h.jpg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c96b",
