@@ -19425,7 +19425,6 @@
       "oldImage": "Wwe2k25.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c95f",
       "id": "LOOQLUaC",
       "name": "Ashworld APK v1.8.2",
@@ -19448,8 +19447,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-15T15:13:32.211Z",
-      "oldImage": "uJm_S492Kp.jpg"
+      "updatedAt": "2026-03-15T15:13:34.234Z",
+      "oldImage": "uJm_S492Kp.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
