@@ -8840,7 +8840,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c623",
       "id": "PTp-CLyH",
       "name": "Sonic 3 A.I.R [AIR]",
@@ -8864,8 +8863,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.420Z",
-      "updatedAt": "2026-03-15T15:29:52.860Z",
-      "oldImage": "Sonic 3 A.I.R [AIR].jpeg"
+      "updatedAt": "2026-03-15T15:29:55.285Z",
+      "oldImage": "Sonic 3 A.I.R [AIR].jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
