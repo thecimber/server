@@ -19864,7 +19864,6 @@
       "oldImage": "kNgl7K7Ray.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c95b",
       "id": "qPktfvXg",
       "name": "Dirt Trackin 3 APK v1.5",
@@ -19887,8 +19886,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-15T15:15:09.906Z",
-      "oldImage": "r64rtr44.jpg"
+      "updatedAt": "2026-03-15T15:15:12.222Z",
+      "oldImage": "r64rtr44.jpg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c965",
