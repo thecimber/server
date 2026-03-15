@@ -8813,7 +8813,6 @@
       "oldImage": "Sonic SMS Remake 2.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c629",
       "id": "3v-EJtv1",
       "name": "Sonic Maps",
@@ -8836,8 +8835,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.420Z",
-      "updatedAt": "2026-03-15T15:29:11.552Z",
-      "oldImage": "Sonic Maps.jpeg"
+      "updatedAt": "2026-03-15T15:29:13.838Z",
+      "oldImage": "Sonic Maps.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
