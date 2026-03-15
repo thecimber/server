@@ -9257,7 +9257,6 @@
       "oldImage": "Blasphemous 2.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c63d",
       "id": "xf1L52IQ",
       "name": "SpongeBob Cosmic Shake v1.1.2",
@@ -9280,8 +9279,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
-      "oldImage": "SpongeBob Cosmic Shake.jpeg"
+      "updatedAt": "2026-03-15T15:14:42.212Z",
+      "oldImage": "SpongeBob Cosmic Shake.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
