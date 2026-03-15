@@ -14189,6 +14189,34 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c7c3",
+      "id": "GlNKLVWP",
+      "name": "Cuphead [Todos los DLC]",
+      "image": "Cuphead [Todos los DLC].webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        32,
+        36
+      ],
+      "size": "4.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1VSERnXUcaoG7c5AIahZdvQ",
+          "_id": "68e08df69e798a708ef8c7c4"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.635Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Cuphead [Todos los DLC].jpeg"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7ad",
       "id": "KIciMSRh",
       "name": "Call Of Duty Ghosts ",
@@ -14213,33 +14241,6 @@
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "Call Of Duty Ghosts .jpeg"
-    },
-    {
-      "_id": "68e08df69e798a708ef8c7a5",
-      "id": "qxQQEPov",
-      "name": "Cafemart Simulator Early",
-      "image": "Cafemart Simulator Early.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        19,
-        40
-      ],
-      "size": "3.2 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://terabox.com/s/1A7Zb3JRwqk-mO28f9yQU3w",
-          "_id": "68e08df69e798a708ef8c7a6"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "Cafemart Simulator Early.jpeg"
     },
     {
       "isUpdate": false,
@@ -14789,24 +14790,22 @@
       "oldImage": "uMMJqDPvuh.jpg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c7c3",
-      "id": "GlNKLVWP",
-      "name": "Cuphead [Todos los DLC]",
-      "image": "Cuphead [Todos los DLC].webp",
+      "_id": "68e08df69e798a708ef8c7a5",
+      "id": "qxQQEPov",
+      "name": "Cafemart Simulator Early",
+      "image": "Cafemart Simulator Early.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        1,
-        32,
-        36
+        19,
+        40
       ],
-      "size": "4.8 Gb",
+      "size": "3.2 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1VSERnXUcaoG7c5AIahZdvQ",
-          "_id": "68e08df69e798a708ef8c7c4"
+          "type": "terabox",
+          "link": "https://terabox.com/s/1A7Zb3JRwqk-mO28f9yQU3w",
+          "_id": "68e08df69e798a708ef8c7a6"
         }
       ],
       "emulatorId": 2,
@@ -14814,7 +14813,8 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Cuphead [Todos los DLC].jpeg"
+      "isUpdate": true,
+      "oldImage": "Cafemart Simulator Early.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c7d3",
@@ -28179,6 +28179,34 @@
       "captures": [],
       "createdAt": "2026-03-15T04:14:10.494Z",
       "updatedAt": "2026-03-15T04:14:10.494Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b63256dc8e591e5cbe5a49",
+      "id": "X7PX07_h",
+      "name": "Crash Of The Titans",
+      "image": "1773548117614-90128f29.jpg",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        1,
+        65
+      ],
+      "size": "2.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/18KNVnoxmSE_LYu9_Fjyskg",
+          "_id": "69b63256dc8e591e5cbe5a4a"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-15T04:15:18.195Z",
+      "updatedAt": "2026-03-15T04:15:18.195Z",
       "__v": 0
     }
   ],
