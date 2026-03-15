@@ -8895,7 +8895,6 @@
       "oldImage": "Sonic Momentum.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c62d",
       "id": "MNzDReLC",
       "name": "Sonic Prime Dash v1.16.0",
@@ -8918,8 +8917,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.420Z",
-      "updatedAt": "2026-03-15T15:28:28.464Z",
-      "oldImage": "Sonic Prime Dash v1.12.0.jpeg"
+      "updatedAt": "2026-03-15T15:28:32.531Z",
+      "oldImage": "Sonic Prime Dash v1.12.0.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c62f",
