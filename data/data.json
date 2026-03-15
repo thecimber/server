@@ -13752,22 +13752,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c7af",
-      "id": "ps0RGXbb",
-      "name": "Call Of Duty Modern Warfare ",
-      "image": "Call Of Duty Modern Warfare .webp",
+      "_id": "68e08df69e798a708ef8c7e7",
+      "id": "xZO0r-E_",
+      "name": "Dragon ball xenoverse ",
+      "image": "Dragon ball xenoverse.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        11
+        10,
+        24,
+        22
       ],
-      "size": "5.9 Gb",
+      "size": "10.2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/10pj7xxgfUfNxZEah9GSQkA",
-          "_id": "68e08df69e798a708ef8c7b0"
+          "link": "https://1024terabox.com/s/1s43STFoamUZ3avEmo0bWbA",
+          "_id": "68e08df69e798a708ef8c7e8"
         }
       ],
       "emulatorId": 2,
@@ -13775,7 +13776,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Call Of Duty Modern Warfare .jpeg"
+      "oldImage": "Dragon ball xenoverse.jpeg"
     },
     {
       "isUpdate": false,
@@ -14160,23 +14161,23 @@
       "oldImage": "Day Z.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c7cd",
-      "id": "Xs043bzC",
-      "name": "Dead Space 2",
-      "image": "Dead Space 2.webp",
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c7af",
+      "id": "ps0RGXbb",
+      "name": "Call Of Duty Modern Warfare ",
+      "image": "Call Of Duty Modern Warfare .webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        14,
-        31
+        11
       ],
-      "size": "6.7 Gb",
+      "size": "5.9 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1fPn_-rQKTIhGP9ev4E_Icw",
-          "_id": "68e08df69e798a708ef8c7ce"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/10pj7xxgfUfNxZEah9GSQkA",
+          "_id": "68e08df69e798a708ef8c7b0"
         }
       ],
       "emulatorId": 2,
@@ -14184,8 +14185,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "Dead Space 2.jpeg"
+      "oldImage": "Call Of Duty Modern Warfare .jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c7e1",
@@ -14953,24 +14953,23 @@
       "oldImage": "Definitely Not Fried Chicken.jpeg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c7e7",
-      "id": "xZO0r-E_",
-      "name": "Dragon ball xenoverse ",
-      "image": "Dragon ball xenoverse.webp",
+      "_id": "68e08df69e798a708ef8c7cd",
+      "id": "Xs043bzC",
+      "name": "Dead Space 2",
+      "image": "Dead Space 2.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        24,
-        22
+        2,
+        14,
+        31
       ],
-      "size": "10.2 Gb",
+      "size": "6.7 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1s43STFoamUZ3avEmo0bWbA",
-          "_id": "68e08df69e798a708ef8c7e8"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1fPn_-rQKTIhGP9ev4E_Icw",
+          "_id": "68e08df69e798a708ef8c7ce"
         }
       ],
       "emulatorId": 2,
@@ -14978,7 +14977,8 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Dragon ball xenoverse.jpeg"
+      "isUpdate": true,
+      "oldImage": "Dead Space 2.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c7c5",
@@ -28288,6 +28288,33 @@
       "captures": [],
       "createdAt": "2026-03-15T04:17:34.962Z",
       "updatedAt": "2026-03-15T04:17:34.962Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b63316dc8e591e5cbe8ad7",
+      "id": "H_2vIibO",
+      "name": "Cabela's Survival Shadows Of katmai",
+      "image": "1773548310117-0d04de60.jpg",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        21,
+        3
+      ],
+      "size": "5.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1bGfCy5jLLdXTkTReeetvbQ",
+          "_id": "69b63316dc8e591e5cbe8ad8"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-15T04:18:30.670Z",
+      "updatedAt": "2026-03-15T04:18:30.670Z",
       "__v": 0
     }
   ],
