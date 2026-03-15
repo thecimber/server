@@ -14269,6 +14269,33 @@
       "oldImage": "Devil May Cry HD Collection .jpeg"
     },
     {
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c79b",
+      "id": "vg78txVS",
+      "name": "Bioweaver",
+      "image": "Bioweaver.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        14
+      ],
+      "size": "511.02 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1q4lmq6nf_OMSZ9hHleJ_AQ",
+          "_id": "68e08df69e798a708ef8c79c"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.635Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Bioweaver.jpeg"
+    },
+    {
       "_id": "68e08df69e798a708ef8c797",
       "id": "LN0tR8Yd",
       "name": "Bioshock",
@@ -14295,34 +14322,6 @@
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
       "oldImage": "27tlCs70PZ.jpeg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c7f3",
-      "id": "14Q0OTJT",
-      "name": "Escape the backrooms ",
-      "image": "Escape the backrooms .webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        14,
-        20,
-        31
-      ],
-      "size": "9.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1pYoxbt5Bi01NtKMSACBiAA",
-          "_id": "68e08df69e798a708ef8c7f4"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Escape the backrooms .jpeg"
     },
     {
       "isUpdate": false,
@@ -14654,22 +14653,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c79b",
-      "id": "vg78txVS",
-      "name": "Bioweaver",
-      "image": "Bioweaver.webp",
+      "_id": "68e08df69e798a708ef8c7f3",
+      "id": "14Q0OTJT",
+      "name": "Escape the backrooms ",
+      "image": "Escape the backrooms .webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        14
+        14,
+        20,
+        31
       ],
-      "size": "511.02 Mb",
+      "size": "9.5 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1q4lmq6nf_OMSZ9hHleJ_AQ",
-          "_id": "68e08df69e798a708ef8c79c"
+          "link": "https://1024terabox.com/s/1pYoxbt5Bi01NtKMSACBiAA",
+          "_id": "68e08df69e798a708ef8c7f4"
         }
       ],
       "emulatorId": 2,
@@ -14677,7 +14677,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Bioweaver.jpeg"
+      "oldImage": "Escape the backrooms .jpeg"
     },
     {
       "isUpdate": false,
@@ -24326,6 +24326,64 @@
       "oldImage": "lnutX8xxdn.jpg"
     },
     {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8caa0",
+      "id": "yte79bff",
+      "name": "Gears Of war 3",
+      "image": "Aojfdsjo-32.webp",
+      "format": 0,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        30
+      ],
+      "size": "1.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://terabox.com/s/15Xi2g1LCywKwhe4dZGzMrA",
+          "_id": "68e08df89e798a708ef8caa1"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Aojfdsjo-32.jpg"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca9e",
+      "id": "-gSD1um-",
+      "name": "Dragon Ball Z: Kakarot Daima Edition 1.70",
+      "image": "4HCdVgXpmc.webp",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        9,
+        10,
+        12,
+        22,
+        7
+      ],
+      "size": "28GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/14XKG11npUj3aJY6rntcc3Q",
+          "_id": "68e08df89e798a708ef8ca9f"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "4HCdVgXpmc.jpg"
+    },
+    {
       "_id": "68e08df89e798a708ef8ca92",
       "id": "X3pMNZUq",
       "name": "Aliens vs Predator ",
@@ -24382,64 +24440,6 @@
       "oldImage": "9QRxr8V6TP.jpg"
     },
     {
-      "_id": "68e08df89e798a708ef8ca9e",
-      "id": "-gSD1um-",
-      "name": "Dragon Ball Z: Kakarot Daima Edition 1.70",
-      "image": "4HCdVgXpmc.webp",
-      "format": 2,
-      "language": "Multi-Idioma",
-      "genre": [
-        9,
-        10,
-        12,
-        22,
-        7
-      ],
-      "size": "28GB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/14XKG11npUj3aJY6rntcc3Q",
-          "_id": "68e08df89e798a708ef8ca9f"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "4HCdVgXpmc.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8caa0",
-      "id": "yte79bff",
-      "name": "Gears Of war 3",
-      "image": "Aojfdsjo-32.webp",
-      "format": 0,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        35,
-        30
-      ],
-      "size": "1.6 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/15Xi2g1LCywKwhe4dZGzMrA",
-          "_id": "68e08df89e798a708ef8caa1"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Aojfdsjo-32.jpg"
-    },
-    {
       "isUpdate": false,
       "_id": "68e08df89e798a708ef8caa6",
       "id": "riyLrs1T",
@@ -24469,34 +24469,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8caa2",
-      "id": "HfgSrewpd",
-      "name": "Hollow Knight SILKSONG",
-      "image": "hol34221423.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        2,
-        9
-      ],
-      "size": "1.9 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/1EZOSJFrJC7jM0cq_9Mm-9Q",
-          "_id": "68e08df89e798a708ef8caa3"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-08T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "hol34221423.png"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8caa4",
       "id": "HSwsoC80sX",
       "name": "Hollow Knight SILKSONG",
@@ -24522,6 +24494,34 @@
       "createdAt": "2025-10-08T03:01:12.243Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "holsw62672vs.jpeg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8caa2",
+      "id": "HfgSrewpd",
+      "name": "Hollow Knight SILKSONG",
+      "image": "hol34221423.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        2,
+        9
+      ],
+      "size": "1.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://terabox.com/s/1EZOSJFrJC7jM0cq_9Mm-9Q",
+          "_id": "68e08df89e798a708ef8caa3"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-08T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "hol34221423.png"
     },
     {
       "isUpdate": false,
@@ -28015,6 +28015,33 @@
       "captures": [],
       "createdAt": "2026-03-14T22:39:30.837Z",
       "updatedAt": "2026-03-14T22:40:36.689Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b630f4dc8e591e5cbe01b4",
+      "id": "nk_VDcNI",
+      "name": "Clash Of The Titans The VideoGame",
+      "image": "1773547763638-a49a0fa4.jpg",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        27
+      ],
+      "size": "3.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1tNp3yNQVlHIaJ_YhYMgiKQ",
+          "_id": "69b630f4dc8e591e5cbe01b5"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-15T04:09:24.266Z",
+      "updatedAt": "2026-03-15T04:09:24.266Z",
       "__v": 0
     }
   ],
