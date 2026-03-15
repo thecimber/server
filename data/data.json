@@ -24414,7 +24414,6 @@
       "oldImage": "FzMV69PJNo.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca7c",
       "id": "PmhZyr0j",
       "name": "Poppy PlayTime Chapter 1",
@@ -24436,8 +24435,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-15T15:41:18.513Z",
-      "oldImage": "lnutX8xxdn.jpg"
+      "updatedAt": "2026-03-15T15:41:22.518Z",
+      "oldImage": "lnutX8xxdn.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
