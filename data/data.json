@@ -28298,9 +28298,10 @@
       "format": 13,
       "language": "Multi-Idioma",
       "genre": [
+        3,
         35,
         21,
-        3
+        77
       ],
       "size": "5.8 Gb",
       "downloadMethods": [
@@ -28314,7 +28315,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-03-15T04:18:30.670Z",
-      "updatedAt": "2026-03-15T04:18:30.670Z",
+      "updatedAt": "2026-03-15T04:18:56.984Z",
       "__v": 0
     }
   ],
@@ -29100,6 +29101,14 @@
       "name": "Sobrenatural",
       "createdAt": "2026-03-15T04:10:31.637Z",
       "updatedAt": "2026-03-15T04:10:31.637Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b6331fdc8e591e5cbe9701",
+      "id": 77,
+      "name": "Caza",
+      "createdAt": "2026-03-15T04:18:39.085Z",
+      "updatedAt": "2026-03-15T04:18:39.085Z",
       "__v": 0
     }
   ],
