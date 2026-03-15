@@ -19782,6 +19782,34 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c935",
+      "id": "EbfspENE",
+      "name": "Titan Fall 2",
+      "image": "Titan Fall 2.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        11,
+        30
+      ],
+      "size": "46.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1aNJEJ6vujOWe6SUlERhagw",
+          "_id": "68e08df79e798a708ef8c936"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Titan Fall 2.jpeg"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c94d",
       "id": "iIMU-id2",
       "name": "Weird West Definitive Edition ",
@@ -19807,88 +19835,6 @@
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "Weird West Definitive Edition.jpeg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c937",
-      "id": "GXMF8oKc",
-      "name": "Titan Souls ",
-      "image": "Titan Souls.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        16,
-        36
-      ],
-      "size": "225 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1NK1J_dHn75mW0miOk6D56w",
-          "_id": "68e08df79e798a708ef8c938"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Titan Souls.jpeg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c963",
-      "id": "1CbU2Npg",
-      "name": "Shambles: Sons of Apocalypse APK v1.2.4",
-      "image": "kNgl7K7Ray.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        12
-      ],
-      "size": "1.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1aTaLvUQ0xcFUohidpcHDFA",
-          "_id": "68e08df79e798a708ef8c964"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "kNgl7K7Ray.jpg"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c95b",
-      "id": "qPktfvXg",
-      "name": "Dirt Trackin 3 APK v1.5",
-      "image": "r64rtr44.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        4,
-        13
-      ],
-      "size": "329 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1WWNbDHEtOJKmDDYs8XjNnQ",
-          "_id": "68e08df79e798a708ef8c95c"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-15T15:15:12.222Z",
-      "oldImage": "r64rtr44.jpg",
-      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c965",
@@ -20055,32 +20001,31 @@
       "oldImage": "User Cars Simulator.jpeg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c935",
-      "id": "EbfspENE",
-      "name": "Titan Fall 2",
-      "image": "Titan Fall 2.webp",
-      "format": 3,
+      "_id": "68e08df79e798a708ef8c95b",
+      "id": "qPktfvXg",
+      "name": "Dirt Trackin 3 APK v1.5",
+      "image": "r64rtr44.webp",
+      "format": 6,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        11,
-        30
+        4,
+        13
       ],
-      "size": "46.1 Gb",
+      "size": "329 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1aNJEJ6vujOWe6SUlERhagw",
-          "_id": "68e08df79e798a708ef8c936"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1WWNbDHEtOJKmDDYs8XjNnQ",
+          "_id": "68e08df79e798a708ef8c95c"
         }
       ],
-      "emulatorId": 2,
+      "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Titan Fall 2.jpeg"
+      "updatedAt": "2026-03-15T15:15:12.222Z",
+      "oldImage": "r64rtr44.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -20165,89 +20110,88 @@
       "oldImage": "6MTTts1JXK.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c9b3",
-      "id": "N3Ac5bVw",
-      "name": "Far Cry 3",
-      "image": "nA6eBQZeDr.webp",
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c963",
+      "id": "1CbU2Npg",
+      "name": "Shambles: Sons of Apocalypse APK v1.2.4",
+      "image": "kNgl7K7Ray.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        12
+      ],
+      "size": "1.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1aTaLvUQ0xcFUohidpcHDFA",
+          "_id": "68e08df79e798a708ef8c964"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "kNgl7K7Ray.jpg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c937",
+      "id": "GXMF8oKc",
+      "name": "Titan Souls ",
+      "image": "Titan Souls.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        3,
-        11,
-        12
-      ],
-      "size": "7.9 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Gm7bVHMcgJ5FtfCKqTKYEA",
-          "_id": "68e08df79e798a708ef8c9b4"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "nA6eBQZeDr.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c99b",
-      "id": "DbQipVu-",
-      "name": "Dark Souls III Deluxe Edition PC Full Español",
-      "image": "_tYpe3HvzS.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        10,
         16,
-        37,
-        34
+        36
       ],
-      "size": "26.3 Gb",
+      "size": "225 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1bmLK5D_PzPJXhSITnsxGSg",
-          "_id": "68e08df79e798a708ef8c99c"
+          "link": "https://1024terabox.com/s/1NK1J_dHn75mW0miOk6D56w",
+          "_id": "68e08df79e798a708ef8c938"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
+      "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "_tYpe3HvzS.jpg"
+      "oldImage": "Titan Souls.jpeg"
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c975",
-      "id": "fFyfJlKf",
-      "name": "FIFA 19",
-      "image": "8Xg6wQqTtX.webp",
-      "format": 3,
+      "_id": "68e08df79e798a708ef8c9a9",
+      "id": "Zwl3sS0D",
+      "name": "Xenoblade Chronicles 2 ",
+      "image": "h06bc6qbB-.webp",
+      "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        4,
-        6
+        9,
+        12,
+        16,
+        10
       ],
-      "size": "35.7 Gb",
+      "size": "16 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://terabox.com/s/1oe0hN4IjygDvt4jZwKv0YQ",
-          "_id": "68e08df79e798a708ef8c976"
+          "link": "https://1024terabox.com/s/14YcLy74iqflUBjuB6HDQfw",
+          "_id": "68e08df79e798a708ef8c9aa"
         }
       ],
-      "emulatorId": 2,
+      "emulatorId": 8,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "8Xg6wQqTtX.jpg"
+      "oldImage": "h06bc6qbB-.jpg"
     },
     {
       "isUpdate": false,
@@ -20279,22 +20223,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c9a5",
-      "id": "CkCczhRU",
-      "name": "Teenage Mutant Ninja Turtles Out of the Shadows PC Full Español",
-      "image": "ZtH6dReCTU.webp",
+      "_id": "68e08df79e798a708ef8c9a3",
+      "id": "3v-szlTu",
+      "name": "Teenage Mutant Ninja Turtles: Shredder’s Revenge PC Full Español",
+      "image": "ZpwM2OT3Ts.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        3
+        3,
+        32
       ],
-      "size": "2.3 Gb",
+      "size": "798 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/134oKYq7iLm0ThFLsAaNg-w",
-          "_id": "68e08df79e798a708ef8c9a6"
+          "link": "https://1024terabox.com/s/1735Rb6KXgtAJtG4pPwrVwA",
+          "_id": "68e08df79e798a708ef8c9a4"
         }
       ],
       "emulatorId": 2,
@@ -20302,7 +20247,63 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "ZtH6dReCTU.jpg"
+      "oldImage": "ZpwM2OT3Ts.jpg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c975",
+      "id": "fFyfJlKf",
+      "name": "FIFA 19",
+      "image": "8Xg6wQqTtX.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        6
+      ],
+      "size": "35.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://terabox.com/s/1oe0hN4IjygDvt4jZwKv0YQ",
+          "_id": "68e08df79e798a708ef8c976"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "8Xg6wQqTtX.jpg"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9b3",
+      "id": "N3Ac5bVw",
+      "name": "Far Cry 3",
+      "image": "nA6eBQZeDr.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        11,
+        12
+      ],
+      "size": "7.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Gm7bVHMcgJ5FtfCKqTKYEA",
+          "_id": "68e08df79e798a708ef8c9b4"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "nA6eBQZeDr.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c9af",
@@ -20336,6 +20337,33 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c9a5",
+      "id": "CkCczhRU",
+      "name": "Teenage Mutant Ninja Turtles Out of the Shadows PC Full Español",
+      "image": "ZtH6dReCTU.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3
+      ],
+      "size": "2.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/134oKYq7iLm0ThFLsAaNg-w",
+          "_id": "68e08df79e798a708ef8c9a6"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "ZtH6dReCTU.jpg"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c999",
       "id": "hnRS-KRv",
       "name": "Dark Souls II: Scholar of The First Sin PC Full Español",
@@ -20362,35 +20390,6 @@
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "0C7fGrGzVR.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c9a9",
-      "id": "Zwl3sS0D",
-      "name": "Xenoblade Chronicles 2 ",
-      "image": "h06bc6qbB-.webp",
-      "format": 2,
-      "language": "Multi-Idioma",
-      "genre": [
-        9,
-        12,
-        16,
-        10
-      ],
-      "size": "16 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/14YcLy74iqflUBjuB6HDQfw",
-          "_id": "68e08df79e798a708ef8c9aa"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "h06bc6qbB-.jpg"
     },
     {
       "isUpdate": false,
@@ -20475,34 +20474,6 @@
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "-okKZYrJRn.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c9a3",
-      "id": "3v-szlTu",
-      "name": "Teenage Mutant Ninja Turtles: Shredder’s Revenge PC Full Español",
-      "image": "ZpwM2OT3Ts.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        32
-      ],
-      "size": "798 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1735Rb6KXgtAJtG4pPwrVwA",
-          "_id": "68e08df79e798a708ef8c9a4"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "ZpwM2OT3Ts.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c96f",
@@ -20671,6 +20642,35 @@
       "updatedAt": "2026-03-13T04:41:03.543Z",
       "oldImage": "LxF13U1Tg0.jpg",
       "isUpdate": true
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c99b",
+      "id": "DbQipVu-",
+      "name": "Dark Souls III Deluxe Edition PC Full Español",
+      "image": "_tYpe3HvzS.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        10,
+        16,
+        37,
+        34
+      ],
+      "size": "26.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1bmLK5D_PzPJXhSITnsxGSg",
+          "_id": "68e08df79e798a708ef8c99c"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "_tYpe3HvzS.jpg"
     },
     {
       "isUpdate": false,
@@ -22936,30 +22936,32 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca64",
-      "id": "0TJbTU3T",
-      "name": "Scribblenauts Unlimited (USA)",
-      "image": "OtIXREsooE.webp",
-      "format": 5,
+      "_id": "68e08df89e798a708ef8ca76",
+      "id": "zTUu_RIg",
+      "name": "Red dead Redemption ",
+      "image": "As0l6mqezX.webp",
+      "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        39
+        9,
+        12,
+        35,
+        7
       ],
-      "size": "1,2 Gb",
+      "size": "12,5 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1d5qgNDuIId5dt2ATbsuA4A",
-          "_id": "68e08df89e798a708ef8ca65"
+          "link": "https://1024terabox.com/s/1nkbH9Et7bSbwbmlofcVgAA",
+          "_id": "68e08df89e798a708ef8ca77"
         }
       ],
-      "emulatorId": 5,
+      "emulatorId": 8,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "OtIXREsooE.jpg"
+      "oldImage": "As0l6mqezX.jpg"
     },
     {
       "isUpdate": false,
@@ -23344,32 +23346,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca58",
-      "id": "6m6jXMap",
-      "name": "RISE OF THE GUARDIANS (USA)",
-      "image": "Prh84CISZj.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        7
-      ],
-      "size": "2,3 gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1AcBynOOtFpij1P47l1T3xA",
-          "_id": "68e08df89e798a708ef8ca59"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Prh84CISZj.jpg"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca46",
       "id": "dJBdL0yt",
       "name": "Phineas and Ferb - Quest for Cool Stuff (USA)",
@@ -23394,6 +23370,32 @@
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "iRpptvI-07.jpg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca58",
+      "id": "6m6jXMap",
+      "name": "RISE OF THE GUARDIANS (USA)",
+      "image": "Prh84CISZj.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        7
+      ],
+      "size": "2,3 gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1AcBynOOtFpij1P47l1T3xA",
+          "_id": "68e08df89e798a708ef8ca59"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Prh84CISZj.jpg"
     },
     {
       "_id": "68e08df89e798a708ef8ca56",
@@ -23587,32 +23589,30 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca76",
-      "id": "zTUu_RIg",
-      "name": "Red dead Redemption ",
-      "image": "As0l6mqezX.webp",
-      "format": 2,
+      "_id": "68e08df89e798a708ef8ca64",
+      "id": "0TJbTU3T",
+      "name": "Scribblenauts Unlimited (USA)",
+      "image": "OtIXREsooE.webp",
+      "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        9,
-        12,
-        35,
-        7
+        2,
+        39
       ],
-      "size": "12,5 Gb",
+      "size": "1,2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1nkbH9Et7bSbwbmlofcVgAA",
-          "_id": "68e08df89e798a708ef8ca77"
+          "link": "https://1024terabox.com/s/1d5qgNDuIId5dt2ATbsuA4A",
+          "_id": "68e08df89e798a708ef8ca65"
         }
       ],
-      "emulatorId": 8,
+      "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "As0l6mqezX.jpg"
+      "oldImage": "OtIXREsooE.jpg"
     },
     {
       "isUpdate": false,
@@ -23885,29 +23885,31 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca7e",
-      "id": "YYdMuJcq",
-      "name": "Poppy PlayTime Chapter 2",
-      "image": "apmgtzCkfW.webp",
-      "format": 6,
+      "_id": "68e08df89e798a708ef8caa0",
+      "id": "yte79bff",
+      "name": "Gears Of war 3",
+      "image": "Aojfdsjo-32.webp",
+      "format": 0,
       "language": "Multi-Idioma",
       "genre": [
-        31
+        2,
+        35,
+        30
       ],
-      "size": "1,2 Gb",
+      "size": "1.6 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://terabox.com/s/1o-a_yJJxVJmBn9mV7OKuYg",
-          "_id": "68e08df89e798a708ef8ca7f"
+          "type": "Terabox",
+          "link": "https://terabox.com/s/15Xi2g1LCywKwhe4dZGzMrA",
+          "_id": "68e08df89e798a708ef8caa1"
         }
       ],
-      "emulatorId": 10,
+      "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "apmgtzCkfW.jpg"
+      "oldImage": "Aojfdsjo-32.jpg"
     },
     {
       "isUpdate": false,
@@ -24301,31 +24303,29 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8caa0",
-      "id": "yte79bff",
-      "name": "Gears Of war 3",
-      "image": "Aojfdsjo-32.webp",
-      "format": 0,
+      "_id": "68e08df89e798a708ef8ca7e",
+      "id": "YYdMuJcq",
+      "name": "Poppy PlayTime Chapter 2",
+      "image": "apmgtzCkfW.webp",
+      "format": 6,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        35,
-        30
+        31
       ],
-      "size": "1.6 Gb",
+      "size": "1,2 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/15Xi2g1LCywKwhe4dZGzMrA",
-          "_id": "68e08df89e798a708ef8caa1"
+          "type": "terabox",
+          "link": "https://terabox.com/s/1o-a_yJJxVJmBn9mV7OKuYg",
+          "_id": "68e08df89e798a708ef8ca7f"
         }
       ],
-      "emulatorId": 2,
+      "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Aojfdsjo-32.jpg"
+      "oldImage": "apmgtzCkfW.jpg"
     },
     {
       "_id": "68e08df89e798a708ef8ca8c",
@@ -28316,6 +28316,33 @@
       "captures": [],
       "createdAt": "2026-03-15T04:18:30.670Z",
       "updatedAt": "2026-03-15T04:18:56.984Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b6cf20dc8e591e5cbff7f4",
+      "id": "Y09XA_7Y",
+      "name": "Hitman GO",
+      "image": "1773588255652-79d88350.jpg",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        8,
+        35
+      ],
+      "size": "512 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/15m50qL168N6YyRhcx5tklg",
+          "_id": "69b6cf20dc8e591e5cbff7f5"
+        }
+      ],
+      "emulatorId": 10,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-15T15:24:16.189Z",
+      "updatedAt": "2026-03-15T15:24:16.189Z",
       "__v": 0
     }
   ],
