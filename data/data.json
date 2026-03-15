@@ -8949,7 +8949,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c625",
       "id": "52VWjqNJ",
       "name": "Sonic GT",
@@ -8972,8 +8971,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.420Z",
-      "updatedAt": "2026-03-15T15:29:32.951Z",
-      "oldImage": "Sonic GT.jpeg"
+      "updatedAt": "2026-03-15T15:29:35.244Z",
+      "oldImage": "Sonic GT.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
