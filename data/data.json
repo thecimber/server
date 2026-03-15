@@ -7621,7 +7621,6 @@
       "oldImage": "Funky-Barn.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c5fc",
       "id": "RrXT66A-",
       "name": "Black Border 2 v2.5.0",
@@ -7645,8 +7644,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.892Z",
-      "updatedAt": "2026-03-15T15:14:25.593Z",
-      "oldImage": "vicEDWq-xR.jpg"
+      "updatedAt": "2026-03-15T15:14:27.469Z",
+      "oldImage": "vicEDWq-xR.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
