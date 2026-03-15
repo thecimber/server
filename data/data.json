@@ -19426,7 +19426,6 @@
       "oldImage": "6MTTts1JXK.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c961",
       "id": "k-v1Q6X0",
       "name": "There Is No Game: Wrong Dimension APK v1.0.38",
@@ -19449,8 +19448,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-15T15:35:12.992Z",
-      "oldImage": "fQ_lHxZeV6.jpg"
+      "updatedAt": "2026-03-15T15:35:21.552Z",
+      "oldImage": "fQ_lHxZeV6.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
