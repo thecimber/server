@@ -10245,7 +10245,6 @@
       "oldImage": "EA SPORTS FC 24.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c63b",
       "id": "ZSZ0YBm7",
       "name": "Sonic Unleashed",
@@ -10268,8 +10267,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-15T15:31:57.339Z",
-      "oldImage": "Sonic Unleashed.jpeg"
+      "updatedAt": "2026-03-15T15:32:00.034Z",
+      "oldImage": "Sonic Unleashed.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
