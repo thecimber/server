@@ -8786,7 +8786,6 @@
       "oldImage": "Resident Evil 4 Mobile Edition.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c631",
       "id": "o1Yj-wWf",
       "name": "Sonic SMS Remake 2",
@@ -8809,8 +8808,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.420Z",
-      "updatedAt": "2026-03-15T15:31:38.736Z",
-      "oldImage": "Sonic SMS Remake 2.jpeg"
+      "updatedAt": "2026-03-15T15:31:41.129Z",
+      "oldImage": "Sonic SMS Remake 2.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c629",
