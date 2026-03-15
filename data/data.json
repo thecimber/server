@@ -8702,7 +8702,6 @@
       "oldImage": "Prince of Persia: Lost Crown.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c61b",
       "id": "lBoqSTB9",
       "name": "Naruto Ultimate Ninja Storm",
@@ -8726,8 +8725,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.418Z",
-      "updatedAt": "2026-03-15T15:34:04.905Z",
-      "oldImage": "Naruto Ultimate Ninja Storm.jpeg"
+      "updatedAt": "2026-03-15T15:34:11.251Z",
+      "oldImage": "Naruto Ultimate Ninja Storm.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c627",
