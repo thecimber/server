@@ -7870,7 +7870,6 @@
       "oldImage": "The Legend of Zelda - Twilight Princess HD.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c5f8",
       "id": "gZcjkD1e",
       "name": "Ages of Conflict World War Sim APK v4.0.7",
@@ -7893,8 +7892,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.892Z",
-      "updatedAt": "2026-03-15T15:12:57.096Z",
-      "oldImage": "zMkeu1EUPH.jpg"
+      "updatedAt": "2026-03-15T15:12:59.056Z",
+      "oldImage": "zMkeu1EUPH.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
