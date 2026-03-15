@@ -9312,7 +9312,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c637",
       "id": "26MSIW9q",
       "name": "Sonic The Hedgehog Classic v4.0.2",
@@ -9336,8 +9335,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-15T15:26:32.206Z",
-      "oldImage": "Sonic The Hedgehog Classic v4.0.2.jpeg"
+      "updatedAt": "2026-03-15T15:26:35.906Z",
+      "oldImage": "Sonic The Hedgehog Classic v4.0.2.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
