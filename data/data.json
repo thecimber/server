@@ -9478,7 +9478,6 @@
       "oldImage": "FAIRY TAIL 2.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c63f",
       "id": "2twv-x_Y",
       "name": "Tmnt Shredder's Revenge Version: v1.2.4",
@@ -9502,8 +9501,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-15T15:36:01.520Z",
-      "oldImage": "1XIiAYfYN8.png"
+      "updatedAt": "2026-03-15T15:36:09.523Z",
+      "oldImage": "1XIiAYfYN8.png",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
