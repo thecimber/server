@@ -10026,7 +10026,6 @@
       "oldImage": "Kirby Fighters 2.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c635",
       "id": "uWHDzvqC",
       "name": "Sonic The Hedgehog Absolute 2",
@@ -10049,8 +10048,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-15T15:26:49.032Z",
-      "oldImage": "Sonic The Hedgehog Absolute 2.jpeg"
+      "updatedAt": "2026-03-15T15:26:55.251Z",
+      "oldImage": "Sonic The Hedgehog Absolute 2.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
