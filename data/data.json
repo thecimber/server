@@ -9394,7 +9394,6 @@
       "oldImage": "Captain Tsubasa Rise of New Champions.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c633",
       "id": "JgKaio8Z",
       "name": "Sonic The Hedgehog 2 Classic v2.0.2",
@@ -9418,8 +9417,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-15T15:27:51.064Z",
-      "oldImage": "Sonic The Hedgehog 2 Classic v2.0.2.jpeg"
+      "updatedAt": "2026-03-15T15:27:56.270Z",
+      "oldImage": "Sonic The Hedgehog 2 Classic v2.0.2.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
