@@ -19619,7 +19619,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c967",
       "id": "HHfdR20I",
       "name": "THE GAME OF LIFE 2 APK v1.0.4",
@@ -19642,8 +19641,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-15T15:34:50.013Z",
-      "oldImage": "80LwGxXhFM.jpg"
+      "updatedAt": "2026-03-15T15:34:52.885Z",
+      "oldImage": "80LwGxXhFM.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
