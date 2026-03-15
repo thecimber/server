@@ -8285,7 +8285,6 @@
       "oldImage": "Blasphemous v1.2.0.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c60d",
       "id": "zOuiR3eo",
       "name": "Five Nights At Freddy's 3 v2.0.3",
@@ -8309,8 +8308,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.417Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
-      "oldImage": "Five Nights At Freddys 3 v2.0.3.jpeg"
+      "updatedAt": "2026-03-15T15:21:32.899Z",
+      "oldImage": "Five Nights At Freddys 3 v2.0.3.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c609",
