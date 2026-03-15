@@ -8590,7 +8590,6 @@
       "oldImage": "Magical Drop IV v1.0.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c615",
       "id": "gY2_RF-T",
       "name": "Hitman Blood Money reprisal",
@@ -8614,8 +8613,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.418Z",
-      "updatedAt": "2026-03-15T15:22:52.723Z",
-      "oldImage": "Hitman Blood Money reprisal.jpeg"
+      "updatedAt": "2026-03-15T15:23:00.701Z",
+      "oldImage": "Hitman Blood Money reprisal.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
