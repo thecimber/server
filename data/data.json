@@ -10492,7 +10492,6 @@
       "oldImage": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c639",
       "id": "cm0qy3hD",
       "name": "Sonic The Hedgehog Triple Trouble 16-BIT",
@@ -10515,8 +10514,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-15T15:32:30.432Z",
-      "oldImage": "Sonic The Hedgehog Triple Trouble 16-BIT.jpeg"
+      "updatedAt": "2026-03-15T15:32:55.862Z",
+      "oldImage": "Sonic The Hedgehog Triple Trouble 16-BIT.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
