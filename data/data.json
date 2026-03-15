@@ -8563,7 +8563,6 @@
       "oldImage": "repo.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c617",
       "id": "yduy8Hya",
       "name": "Magical Drop IV v1.0",
@@ -8586,8 +8585,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.418Z",
-      "updatedAt": "2026-03-15T15:33:12.819Z",
-      "oldImage": "Magical Drop IV v1.0.jpeg"
+      "updatedAt": "2026-03-15T15:33:17.920Z",
+      "oldImage": "Magical Drop IV v1.0.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c615",
