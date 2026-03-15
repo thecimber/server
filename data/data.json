@@ -8313,7 +8313,6 @@
       "oldImage": "Five Nights At Freddys 3 v2.0.3.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c609",
       "id": "jQouugKB",
       "name": "Elemental Dungeon: Roguelike APK v2.0.1",
@@ -8336,8 +8335,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.417Z",
-      "updatedAt": "2026-03-15T15:19:58.235Z",
-      "oldImage": "ODUpCesnc7.jpg"
+      "updatedAt": "2026-03-15T15:20:00.736Z",
+      "oldImage": "ODUpCesnc7.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
