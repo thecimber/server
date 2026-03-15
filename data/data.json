@@ -8868,7 +8868,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c62b",
       "id": "ta63KeFg",
       "name": "Sonic Momentum",
@@ -8891,8 +8890,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.420Z",
-      "updatedAt": "2026-03-15T15:30:13.028Z",
-      "oldImage": "Sonic Momentum.jpeg"
+      "updatedAt": "2026-03-15T15:30:15.191Z",
+      "oldImage": "Sonic Momentum.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c62d",
