@@ -9270,8 +9270,8 @@
       "size": "5.1 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/17hw8Xd5jz8vvHBYtO3Cvyw",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1wTAK_4npDWQTXPvfsXDLqA",
           "_id": "68e08df59e798a708ef8c63e"
         }
       ],
@@ -9279,7 +9279,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-15T15:14:42.212Z",
+      "updatedAt": "2026-03-15T15:14:49.736Z",
       "oldImage": "SpongeBob Cosmic Shake.jpeg",
       "isUpdate": true
     },
