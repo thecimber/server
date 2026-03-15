@@ -19918,7 +19918,6 @@
       "oldImage": "Travellers Rest.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c963",
       "id": "1CbU2Npg",
       "name": "Shambles: Sons of Apocalypse APK v1.2.4",
@@ -19941,8 +19940,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-15T15:26:04.151Z",
-      "oldImage": "kNgl7K7Ray.jpg"
+      "updatedAt": "2026-03-15T15:26:06.321Z",
+      "oldImage": "kNgl7K7Ray.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
