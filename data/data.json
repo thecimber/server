@@ -24657,7 +24657,6 @@
       "oldImage": "1762973255596-36b64065.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "691bb5846336ec46e65194e9",
       "id": "AgnTeXhf",
       "name": "Bendy and The dark Revival",
@@ -24679,9 +24678,10 @@
       "emulatorId": 10,
       "captures": [],
       "createdAt": "2025-11-17T23:53:40.598Z",
-      "updatedAt": "2026-03-15T15:13:59.852Z",
+      "updatedAt": "2026-03-15T15:14:02.033Z",
       "__v": 0,
-      "oldImage": "1763423619602-4a3c8b50.jpg"
+      "oldImage": "1763423619602-4a3c8b50.jpg",
+      "isUpdate": true
     },
     {
       "_id": "691c9d9b6336ec46e651c5df",
