@@ -14160,6 +14160,34 @@
       "oldImage": "Day Z.jpeg"
     },
     {
+      "_id": "68e08df69e798a708ef8c7cd",
+      "id": "Xs043bzC",
+      "name": "Dead Space 2",
+      "image": "Dead Space 2.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        14,
+        31
+      ],
+      "size": "6.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1fPn_-rQKTIhGP9ev4E_Icw",
+          "_id": "68e08df69e798a708ef8c7ce"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.635Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "Dead Space 2.jpeg"
+    },
+    {
       "_id": "68e08df69e798a708ef8c7e1",
       "id": "ngvc_xcs",
       "name": "Digimon Story Cyber Sleuth",
@@ -14186,34 +14214,6 @@
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
       "oldImage": "Digimon Story Cyber Sleuth.jpeg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c7c3",
-      "id": "GlNKLVWP",
-      "name": "Cuphead [Todos los DLC]",
-      "image": "Cuphead [Todos los DLC].webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        32,
-        36
-      ],
-      "size": "4.8 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1VSERnXUcaoG7c5AIahZdvQ",
-          "_id": "68e08df69e798a708ef8c7c4"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Cuphead [Todos los DLC].jpeg"
     },
     {
       "isUpdate": false,
@@ -14570,23 +14570,24 @@
       "oldImage": "Devil May Cry 5.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c7cd",
-      "id": "Xs043bzC",
-      "name": "Dead Space 2",
-      "image": "Dead Space 2.webp",
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c7c3",
+      "id": "GlNKLVWP",
+      "name": "Cuphead [Todos los DLC]",
+      "image": "Cuphead [Todos los DLC].webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        14,
-        31
+        1,
+        32,
+        36
       ],
-      "size": "6.7 Gb",
+      "size": "4.8 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1fPn_-rQKTIhGP9ev4E_Icw",
-          "_id": "68e08df69e798a708ef8c7ce"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1VSERnXUcaoG7c5AIahZdvQ",
+          "_id": "68e08df69e798a708ef8c7c4"
         }
       ],
       "emulatorId": 2,
@@ -14594,8 +14595,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "Dead Space 2.jpeg"
+      "oldImage": "Cuphead [Todos los DLC].jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c79d",
@@ -28234,6 +28234,33 @@
       "captures": [],
       "createdAt": "2026-03-15T04:16:09.751Z",
       "updatedAt": "2026-03-15T04:16:09.751Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b632b1dc8e591e5cbe728a",
+      "id": "jpsIwF3V",
+      "name": "Crysis 3",
+      "image": "1773548208831-5b08e787.jpg",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        50
+      ],
+      "size": "4.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1wc-GcYMCyQLyvS7GnvO_Bg",
+          "_id": "69b632b1dc8e591e5cbe728b"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-15T04:16:49.517Z",
+      "updatedAt": "2026-03-15T04:16:49.517Z",
       "__v": 0
     }
   ],
