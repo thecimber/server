@@ -8508,7 +8508,6 @@
       "oldImage": "Cuphead v1.50.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c611",
       "id": "_Sw8suwF",
       "name": "Five Nights At Freddy's v2.0.6",
@@ -8532,8 +8531,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.417Z",
-      "updatedAt": "2026-03-15T15:20:40.954Z",
-      "oldImage": "Five Nights At Freddys v2.0.6.jpeg"
+      "updatedAt": "2026-03-15T15:20:44.198Z",
+      "oldImage": "Five Nights At Freddys v2.0.6.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
