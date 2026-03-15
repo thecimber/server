@@ -8922,7 +8922,6 @@
       "oldImage": "Sonic Prime Dash v1.12.0.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c62f",
       "id": "U9qr0nRN",
       "name": "Sonic Runners Adventure v1.0.3",
@@ -8945,8 +8944,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.420Z",
-      "updatedAt": "2026-03-15T15:28:10.244Z",
-      "oldImage": "Sonic Runners Adventure v1.0.3.jpeg"
+      "updatedAt": "2026-03-15T15:28:12.718Z",
+      "oldImage": "Sonic Runners Adventure v1.0.3.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
