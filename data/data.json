@@ -19063,62 +19063,6 @@
       "oldImage": "The Crush House.jpeg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c8e2",
-      "id": "KLeQOzJI",
-      "name": "Silent Hill 2",
-      "image": "Silent Hill 2.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        14,
-        20,
-        31
-      ],
-      "size": "6.2 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1p_T_XikQX8-T3S1IPbEsHQ",
-          "_id": "68e08df79e798a708ef8c8e3"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Silent Hill 2.jpeg"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c8fc",
-      "id": "pjGfvH3v",
-      "name": "Sunset Motel v1.0",
-      "image": "yrUN8wEXNP.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        19,
-        51,
-        28
-      ],
-      "size": "4.1 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1mEz9hm9BPppdbbPn9smURg",
-          "_id": "68e08df79e798a708ef8c8fd"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-13T04:33:02.957Z",
-      "oldImage": "yrUN8wEXNP.jpg",
-      "isUpdate": true
-    },
-    {
       "_id": "68e08df79e798a708ef8c8fa",
       "id": "oeNcli7Y",
       "name": "Sun Haven",
@@ -19233,6 +19177,62 @@
       "oldImage": "A9uoZ3izxF.jpg"
     },
     {
+      "_id": "68e08df79e798a708ef8c8fc",
+      "id": "pjGfvH3v",
+      "name": "Sunset Motel v1.0",
+      "image": "yrUN8wEXNP.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        19,
+        51,
+        28
+      ],
+      "size": "4.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1mEz9hm9BPppdbbPn9smURg",
+          "_id": "68e08df79e798a708ef8c8fd"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.296Z",
+      "updatedAt": "2026-03-13T04:33:02.957Z",
+      "oldImage": "yrUN8wEXNP.jpg",
+      "isUpdate": true
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c8e2",
+      "id": "KLeQOzJI",
+      "name": "Silent Hill 2",
+      "image": "Silent Hill 2.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        14,
+        20,
+        31
+      ],
+      "size": "6.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1p_T_XikQX8-T3S1IPbEsHQ",
+          "_id": "68e08df79e798a708ef8c8e3"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.296Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Silent Hill 2.jpeg"
+    },
+    {
       "_id": "68e08df79e798a708ef8c929",
       "id": "kehTjrY4",
       "name": "The Walking Dead Survival Instinct",
@@ -19262,23 +19262,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c945",
-      "id": "dnrzi0ap",
-      "name": "Valheim",
-      "image": "Valheim.webp",
+      "_id": "68e08df79e798a708ef8c939",
+      "id": "cnvVwf54",
+      "name": "Tomb Raider Remastered [1,2,3] ",
+      "image": "Tomb Raider Remastered [1,2,3].webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        12,
-        16,
-        21
+        2,
+        7,
+        9
       ],
-      "size": "1.4 Gb",
+      "size": "3.0 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/16mXhzpeSKzQZflBjsRMxNg",
-          "_id": "68e08df79e798a708ef8c946"
+          "link": "https://1024terabox.com/s/1DY2cGllAwDiP0tmov-L9Hg",
+          "_id": "68e08df79e798a708ef8c93a"
         }
       ],
       "emulatorId": 2,
@@ -19286,7 +19286,34 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Valheim.jpeg"
+      "oldImage": "Tomb Raider Remastered [1,2,3].jpeg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c93d",
+      "id": "Po0d6Cb1",
+      "name": "Twilight Monk",
+      "image": "Twilight Monk.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        16
+      ],
+      "size": "1.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1VdxeZwWYu_vSLWyDkgXdwQ",
+          "_id": "68e08df79e798a708ef8c93e"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Twilight Monk.jpeg"
     },
     {
       "isUpdate": false,
@@ -19371,33 +19398,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c93d",
-      "id": "Po0d6Cb1",
-      "name": "Twilight Monk",
-      "image": "Twilight Monk.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        16
-      ],
-      "size": "1.4 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1VdxeZwWYu_vSLWyDkgXdwQ",
-          "_id": "68e08df79e798a708ef8c93e"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Twilight Monk.jpeg"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c955",
       "id": "zzoy07h-",
       "name": "Yakuza Zero 0 v4.0",
@@ -19454,23 +19454,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c939",
-      "id": "cnvVwf54",
-      "name": "Tomb Raider Remastered [1,2,3] ",
-      "image": "Tomb Raider Remastered [1,2,3].webp",
+      "_id": "68e08df79e798a708ef8c94f",
+      "id": "Vyf1k1kA",
+      "name": "WereWolf The Apocalypse Earthblood",
+      "image": "WereWolf The Apocalypse Earthblood.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        7,
-        9
+        16,
+        41
       ],
-      "size": "3.0 Gb",
+      "size": "10.8 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1DY2cGllAwDiP0tmov-L9Hg",
-          "_id": "68e08df79e798a708ef8c93a"
+          "link": "https://1024terabox.com/s/160d_2gZ5h-T_AwTf08b5Cw",
+          "_id": "68e08df79e798a708ef8c950"
         }
       ],
       "emulatorId": 2,
@@ -19478,7 +19478,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Tomb Raider Remastered [1,2,3].jpeg"
+      "oldImage": "WereWolf The Apocalypse Earthblood.jpeg"
     },
     {
       "_id": "68e08df79e798a708ef8c92b",
@@ -19560,6 +19560,34 @@
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "Youtubers Life 2 .jpeg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c945",
+      "id": "dnrzi0ap",
+      "name": "Valheim",
+      "image": "Valheim.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        12,
+        16,
+        21
+      ],
+      "size": "1.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/16mXhzpeSKzQZflBjsRMxNg",
+          "_id": "68e08df79e798a708ef8c946"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Valheim.jpeg"
     },
     {
       "isUpdate": false,
@@ -19645,34 +19673,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c94f",
-      "id": "Vyf1k1kA",
-      "name": "WereWolf The Apocalypse Earthblood",
-      "image": "WereWolf The Apocalypse Earthblood.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        16,
-        41
-      ],
-      "size": "10.8 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/160d_2gZ5h-T_AwTf08b5Cw",
-          "_id": "68e08df79e798a708ef8c950"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "WereWolf The Apocalypse Earthblood.jpeg"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c951",
       "id": "LZaGj9-I",
       "name": "Wwe2k25",
@@ -19701,22 +19701,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c94b",
-      "id": "YqdTOdFE",
-      "name": "Voidborn",
-      "image": "Voidborn.webp",
+      "_id": "68e08df79e798a708ef8c931",
+      "id": "KhZQNiKz",
+      "name": "Tiny Glade",
+      "image": "Tiny Glade.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        27
+        19,
+        39
       ],
-      "size": "1.7 Gb",
+      "size": "2.0 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/13TAe-VV0RdQLeTelW0oKpA",
-          "_id": "68e08df79e798a708ef8c94c"
+          "link": "https://1024terabox.com/s/1oQ2OuCq-MsycOCyn_3ey3A",
+          "_id": "68e08df79e798a708ef8c932"
         }
       ],
       "emulatorId": 2,
@@ -19724,7 +19724,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Voidborn.jpeg"
+      "oldImage": "Tiny Glade.jpeg"
     },
     {
       "isUpdate": false,
@@ -19865,22 +19865,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c931",
-      "id": "KhZQNiKz",
-      "name": "Tiny Glade",
-      "image": "Tiny Glade.webp",
+      "_id": "68e08df79e798a708ef8c94b",
+      "id": "YqdTOdFE",
+      "name": "Voidborn",
+      "image": "Voidborn.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        19,
-        39
+        16,
+        27
       ],
-      "size": "2.0 Gb",
+      "size": "1.7 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1oQ2OuCq-MsycOCyn_3ey3A",
-          "_id": "68e08df79e798a708ef8c932"
+          "link": "https://1024terabox.com/s/13TAe-VV0RdQLeTelW0oKpA",
+          "_id": "68e08df79e798a708ef8c94c"
         }
       ],
       "emulatorId": 2,
@@ -19888,7 +19888,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Tiny Glade.jpeg"
+      "oldImage": "Voidborn.jpeg"
     },
     {
       "isUpdate": false,
@@ -22937,22 +22937,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca4c",
-      "id": "gFGzVtuv",
-      "name": "PIKMIN 3 (USA) (DLC) (v96)",
-      "image": "flMbLt3sUz.webp",
+      "_id": "68e08df89e798a708ef8ca44",
+      "id": "H4uDlA5j",
+      "name": "RESIDENT EVIL REVELATIONS (USA) (DLC) (v16)",
+      "image": "GpCwDD-3Ri.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        28,
-        3
+        2,
+        14,
+        9
       ],
-      "size": "4,2 Gb",
+      "size": "12,7 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1qDwYti6PWcNUCvRdbVDCmg",
-          "_id": "68e08df89e798a708ef8ca4d"
+          "link": "https://1024terabox.com/s/15pxY7dV3x5zlRE4jVPavpA",
+          "_id": "68e08df89e798a708ef8ca45"
         }
       ],
       "emulatorId": 5,
@@ -22960,7 +22961,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "flMbLt3sUz.jpg"
+      "oldImage": "GpCwDD-3Ri.jpg"
     },
     {
       "isUpdate": false,
@@ -23151,23 +23152,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca44",
-      "id": "H4uDlA5j",
-      "name": "RESIDENT EVIL REVELATIONS (USA) (DLC) (v16)",
-      "image": "GpCwDD-3Ri.webp",
+      "_id": "68e08df89e798a708ef8ca4c",
+      "id": "gFGzVtuv",
+      "name": "PIKMIN 3 (USA) (DLC) (v96)",
+      "image": "flMbLt3sUz.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        14,
-        9
+        28,
+        3
       ],
-      "size": "12,7 Gb",
+      "size": "4,2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/15pxY7dV3x5zlRE4jVPavpA",
-          "_id": "68e08df89e798a708ef8ca45"
+          "link": "https://1024terabox.com/s/1qDwYti6PWcNUCvRdbVDCmg",
+          "_id": "68e08df89e798a708ef8ca4d"
         }
       ],
       "emulatorId": 5,
@@ -23175,7 +23175,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "GpCwDD-3Ri.jpg"
+      "oldImage": "flMbLt3sUz.jpg"
     },
     {
       "isUpdate": false,
@@ -28152,6 +28152,33 @@
       "captures": [],
       "createdAt": "2026-03-15T04:13:21.557Z",
       "updatedAt": "2026-03-15T04:13:21.557Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b63212dc8e591e5cbe4e2d",
+      "id": "J1ASvSkj",
+      "name": "Crash Mind Over Mutant",
+      "image": "1773548049918-ff0de863.jpg",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        1,
+        3
+      ],
+      "size": "5.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/14Usfz3I11tS-m37nacRkKA",
+          "_id": "69b63212dc8e591e5cbe4e2e"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-15T04:14:10.494Z",
+      "updatedAt": "2026-03-15T04:14:10.494Z",
       "__v": 0
     }
   ],
