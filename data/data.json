@@ -8368,7 +8368,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c60f",
       "id": "gI2Bc7IZ",
       "name": "Five Nights At Freddy's 4 v2.0.3",
@@ -8392,8 +8391,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.417Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
-      "oldImage": "Five Nights At Freddys 4 v2.0.3.jpeg"
+      "updatedAt": "2026-03-15T15:21:25.465Z",
+      "oldImage": "Five Nights At Freddys 4 v2.0.3.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c603",
