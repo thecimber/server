@@ -19177,7 +19177,6 @@
       "oldImage": "Stone Hard .jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8f0",
       "id": "7SqHMOcu",
       "name": "Stellaris v3.14.15",
@@ -19200,8 +19199,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-17T21:19:31.632Z",
-      "oldImage": "Stellaris v3.14.15.jpeg"
+      "updatedAt": "2026-03-17T21:19:34.043Z",
+      "oldImage": "Stellaris v3.14.15.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c8ee",
