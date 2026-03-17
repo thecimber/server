@@ -28477,6 +28477,34 @@
       "createdAt": "2026-03-17T21:17:20.430Z",
       "updatedAt": "2026-03-17T21:17:20.430Z",
       "__v": 0
+    },
+    {
+      "_id": "69b9c51792a5ad4621a62b36",
+      "id": "NI0FD82B",
+      "name": "Cabela's Dangerous Hunts 2013",
+      "image": "1773782294173-41855cf6",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        19,
+        77,
+        35
+      ],
+      "size": "5.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1JfPXIyDBo9nwCeN1ka1f_A",
+          "_id": "69b9c51792a5ad4621a62b37"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-17T21:18:15.065Z",
+      "updatedAt": "2026-03-17T21:18:15.065Z",
+      "__v": 0
     }
   ],
   "emulators": [
