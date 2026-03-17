@@ -20419,7 +20419,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9a3",
       "id": "3v-szlTu",
       "name": "Teenage Mutant Ninja Turtles: Shredder’s Revenge PC Full Español",
@@ -20443,8 +20442,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-17T21:24:14.011Z",
-      "oldImage": "ZpwM2OT3Ts.jpg"
+      "updatedAt": "2026-03-17T21:24:18.169Z",
+      "oldImage": "ZpwM2OT3Ts.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
