@@ -28530,6 +28530,33 @@
       "createdAt": "2026-03-17T21:21:40.270Z",
       "updatedAt": "2026-03-17T21:21:40.270Z",
       "__v": 0
+    },
+    {
+      "_id": "69b9c71b92a5ad4621a6eb52",
+      "id": "vsqkjsoQ",
+      "name": "Teenage Mutant Ninja Arcade Whath Of The Mutants ",
+      "image": "1773782810319-b72286e6",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        65,
+        3
+      ],
+      "size": "2.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/19kP66DLdbSjiMGxSZP5Ptw",
+          "_id": "69b9c71b92a5ad4621a6eb53"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-17T21:26:51.106Z",
+      "updatedAt": "2026-03-17T21:26:51.106Z",
+      "__v": 0
     }
   ],
   "emulators": [
