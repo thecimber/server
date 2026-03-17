@@ -15120,23 +15120,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c80f",
-      "id": "czRaFfIW",
-      "name": "Geometry Dash ",
-      "image": "Geometry Dash .webp",
+      "_id": "68e08df69e798a708ef8c803",
+      "id": "q0tZCLwZ",
+      "name": "Five Nights At Freddy's Collection [1,2,3,4]",
+      "image": "Five Nights At Freddy's Collection [1,2,3,4]2.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        1,
-        32,
-        33
+        14,
+        20,
+        31
       ],
-      "size": "273.2 Mb",
+      "size": "5.02 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1nL7gSHLgBg-hbty_ndt6Zw",
-          "_id": "68e08df69e798a708ef8c810"
+          "link": "https://1024terabox.com/s/1gBpW1p6vY6VFm2WeSs16AQ",
+          "_id": "68e08df69e798a708ef8c804"
         }
       ],
       "emulatorId": 2,
@@ -15144,7 +15144,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.637Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Geometry Dash .jpeg"
+      "oldImage": "Five Nights At Freddy's Collection [1,2,3,4]2.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c823",
@@ -15567,23 +15567,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c803",
-      "id": "q0tZCLwZ",
-      "name": "Five Nights At Freddy's Collection [1,2,3,4]",
-      "image": "Five Nights At Freddy's Collection [1,2,3,4]2.webp",
+      "_id": "68e08df69e798a708ef8c80f",
+      "id": "czRaFfIW",
+      "name": "Geometry Dash ",
+      "image": "Geometry Dash .webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        14,
-        20,
-        31
+        1,
+        32,
+        33
       ],
-      "size": "5.02 Gb",
+      "size": "273.2 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1gBpW1p6vY6VFm2WeSs16AQ",
-          "_id": "68e08df69e798a708ef8c804"
+          "link": "https://1024terabox.com/s/1nL7gSHLgBg-hbty_ndt6Zw",
+          "_id": "68e08df69e798a708ef8c810"
         }
       ],
       "emulatorId": 2,
@@ -15591,7 +15591,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.637Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Five Nights At Freddy's Collection [1,2,3,4]2.jpeg"
+      "oldImage": "Geometry Dash .jpeg"
     },
     {
       "isUpdate": false,
@@ -15735,34 +15735,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c853",
-      "id": "FaiJCX-7",
-      "name": "Little Kitty Big City",
-      "image": "Little Kitty Big City.webp",
-      "format": 0,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        9,
-        39
-      ],
-      "size": "501.3 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1S8mGNT_DauD0W8o0x4zNHw",
-          "_id": "68e08df69e798a708ef8c854"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Little Kitty Big City.jpeg"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c845",
       "id": "KS4P8bfP",
       "name": "Jump King Quest v0.2.0.336",
@@ -15788,34 +15760,6 @@
       "createdAt": "2025-10-04T03:01:10.638Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "G9MWdnh0TC.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c847",
-      "id": "NTntFSmz",
-      "name": "Karma Zoo",
-      "image": "Karma Zoo.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        17,
-        25
-      ],
-      "size": "405 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1pRmdWdQ7oAs4dqCHeju1bg",
-          "_id": "68e08df69e798a708ef8c848"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Karma Zoo.jpeg"
     },
     {
       "isUpdate": false,
@@ -15960,6 +15904,34 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c853",
+      "id": "FaiJCX-7",
+      "name": "Little Kitty Big City",
+      "image": "Little Kitty Big City.webp",
+      "format": 0,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        9,
+        39
+      ],
+      "size": "501.3 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1S8mGNT_DauD0W8o0x4zNHw",
+          "_id": "68e08df69e798a708ef8c854"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.638Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Little Kitty Big City.jpeg"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c855",
       "id": "fbnnCdqp",
       "name": "Little Nightmares 2",
@@ -16098,6 +16070,34 @@
       "oldImage": "Manhunt 2.jpeg"
     },
     {
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c847",
+      "id": "NTntFSmz",
+      "name": "Karma Zoo",
+      "image": "Karma Zoo.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        17,
+        25
+      ],
+      "size": "405 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1pRmdWdQ7oAs4dqCHeju1bg",
+          "_id": "68e08df69e798a708ef8c848"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.638Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Karma Zoo.jpeg"
+    },
+    {
       "_id": "68e08df69e798a708ef8c83f",
       "id": "VKt1a9nM",
       "name": "Hydroneer",
@@ -16151,6 +16151,34 @@
       "createdAt": "2025-10-04T03:01:10.638Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "Huntdown.jpeg"
+    },
+    {
+      "_id": "68e08df69e798a708ef8c825",
+      "id": "pmzoLl0a",
+      "name": "Guilty Gear Strive",
+      "image": "Guilty Gear Strive.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        10,
+        24,
+        22
+      ],
+      "size": "31.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/10dOdA3B9XKyQs9frwHzARA",
+          "_id": "68e08df69e798a708ef8c826"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.638Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "Guilty Gear Strive.jpeg"
     },
     {
       "isUpdate": false,
@@ -16318,34 +16346,6 @@
       "createdAt": "2025-10-04T03:01:10.638Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "Help Wanted .jpeg"
-    },
-    {
-      "_id": "68e08df69e798a708ef8c825",
-      "id": "pmzoLl0a",
-      "name": "Guilty Gear Strive",
-      "image": "Guilty Gear Strive.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        10,
-        24,
-        22
-      ],
-      "size": "31.8 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/10dOdA3B9XKyQs9frwHzARA",
-          "_id": "68e08df69e798a708ef8c826"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "Guilty Gear Strive.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c82f",
@@ -17875,6 +17875,34 @@
       "oldImage": "Planet Crafter.jpeg"
     },
     {
+      "_id": "68e08df79e798a708ef8c8c8",
+      "id": "cuxXVlFO",
+      "name": "Rogue Loops",
+      "image": "Rogue Loops.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        57,
+        58
+      ],
+      "size": "1.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1P8jANBFzQki-Q-vpTsHoJA",
+          "_id": "68e08df79e798a708ef8c8c9"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.295Z",
+      "updatedAt": "2026-03-12T04:14:57.247Z",
+      "oldImage": "Rogue Loops.jpeg",
+      "isUpdate": true
+    },
+    {
       "_id": "68e08df79e798a708ef8c8d4",
       "id": "ChWprumq",
       "name": "Saints Row The Third",
@@ -17959,62 +17987,6 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df79e798a708ef8c8ce",
-      "id": "TlEq8wIV",
-      "name": "Saints Row 2 (2008)",
-      "image": "aints Row 2 (2008).webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        12,
-        3
-      ],
-      "size": "undefined",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/19di1fG8q__W1Bo3DZrxiCw",
-          "_id": "68e08df79e798a708ef8c8cf"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.295Z",
-      "updatedAt": "2026-03-13T04:35:23.001Z",
-      "oldImage": "aints Row 2 (2008).jpeg",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df79e798a708ef8c8ca",
-      "id": "_s9Om_O8",
-      "name": "Roots of pacha v1.3.0.2",
-      "image": "dvdPtRp76R.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        19,
-        57,
-        60
-      ],
-      "size": "911 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1AQlN-WqljE7LYbs_vhx6Tw",
-          "_id": "68e08df79e798a708ef8c8cb"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.295Z",
-      "updatedAt": "2026-03-12T04:17:19.358Z",
-      "oldImage": "dvdPtRp76R.jpg",
-      "isUpdate": true
-    },
-    {
       "_id": "68e08df79e798a708ef8c8cc",
       "id": "j_PDrMq9",
       "name": "Runescape DragonWilds",
@@ -18041,6 +18013,34 @@
       "createdAt": "2025-10-04T03:01:11.295Z",
       "updatedAt": "2026-03-12T04:18:29.052Z",
       "oldImage": "Runescape DragonWilds.jpeg",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c8ce",
+      "id": "TlEq8wIV",
+      "name": "Saints Row 2 (2008)",
+      "image": "aints Row 2 (2008).webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        12,
+        3
+      ],
+      "size": "undefined",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/19di1fG8q__W1Bo3DZrxiCw",
+          "_id": "68e08df79e798a708ef8c8cf"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.295Z",
+      "updatedAt": "2026-03-13T04:35:23.001Z",
+      "oldImage": "aints Row 2 (2008).jpeg",
       "isUpdate": true
     },
     {
@@ -18072,31 +18072,31 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df79e798a708ef8c8c8",
-      "id": "cuxXVlFO",
-      "name": "Rogue Loops",
-      "image": "Rogue Loops.webp",
+      "_id": "68e08df79e798a708ef8c8ca",
+      "id": "_s9Om_O8",
+      "name": "Roots of pacha v1.3.0.2",
+      "image": "dvdPtRp76R.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
+        19,
         57,
-        58
+        60
       ],
-      "size": "1.4 Gb",
+      "size": "911 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1P8jANBFzQki-Q-vpTsHoJA",
-          "_id": "68e08df79e798a708ef8c8c9"
+          "link": "https://1024terabox.com/s/1AQlN-WqljE7LYbs_vhx6Tw",
+          "_id": "68e08df79e798a708ef8c8cb"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.295Z",
-      "updatedAt": "2026-03-12T04:14:57.247Z",
-      "oldImage": "Rogue Loops.jpeg",
+      "updatedAt": "2026-03-12T04:17:19.358Z",
+      "oldImage": "dvdPtRp76R.jpg",
       "isUpdate": true
     },
     {
@@ -28420,6 +28420,34 @@
       "captures": [],
       "createdAt": "2026-03-17T04:35:17.186Z",
       "updatedAt": "2026-03-17T04:35:17.186Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b9c4a792a5ad4621a612bf",
+      "id": "tgf6NeH1",
+      "name": "Cabela's Big Game Hunter ",
+      "image": "1773782182128-fb18d3a6",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        19,
+        35,
+        77,
+        3
+      ],
+      "size": "2.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/17ybfauZ5ImBgfOt7fa29Bw",
+          "_id": "69b9c4a792a5ad4621a612c0"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-17T21:16:23.813Z",
+      "updatedAt": "2026-03-17T21:16:23.813Z",
       "__v": 0
     }
   ],
