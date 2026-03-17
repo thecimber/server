@@ -13914,33 +13914,6 @@
       "oldImage": "p_qe44UsF2.jpg"
     },
     {
-      "_id": "68e08df69e798a708ef8c7b9",
-      "id": "J7JLzopc",
-      "name": "Cataclismo",
-      "image": "uTwVzRjOBO.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        28,
-        41
-      ],
-      "size": "2.4 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://terabox.com/s/1-QzK9aiXilgoWHSEISbFKw",
-          "_id": "68e08df69e798a708ef8c7ba"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "uTwVzRjOBO.jpeg"
-    },
-    {
       "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7d1",
       "id": "A2I3i89X",
@@ -13967,6 +13940,33 @@
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "Deadpool.jpeg"
+    },
+    {
+      "_id": "68e08df69e798a708ef8c7bb",
+      "id": "3LEDjD-A",
+      "name": "Chains Of Freedom v1.0.2",
+      "image": "YkhP4QQpia.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        7
+      ],
+      "size": "2.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://terabox.com/s/13HtxZ-4SDpqFi-yZAqpUJQ",
+          "_id": "68e08df69e798a708ef8c7bc"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.635Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "YkhP4QQpia.jpg"
     },
     {
       "isUpdate": false,
@@ -14899,22 +14899,22 @@
       "oldImage": "Card Shark.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c7bb",
-      "id": "3LEDjD-A",
-      "name": "Chains Of Freedom v1.0.2",
-      "image": "YkhP4QQpia.webp",
+      "_id": "68e08df69e798a708ef8c7b9",
+      "id": "J7JLzopc",
+      "name": "Cataclismo",
+      "image": "uTwVzRjOBO.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        7
+        28,
+        41
       ],
-      "size": "2.3 Gb",
+      "size": "2.4 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://terabox.com/s/13HtxZ-4SDpqFi-yZAqpUJQ",
-          "_id": "68e08df69e798a708ef8c7bc"
+          "link": "https://terabox.com/s/1-QzK9aiXilgoWHSEISbFKw",
+          "_id": "68e08df69e798a708ef8c7ba"
         }
       ],
       "emulatorId": 2,
@@ -14923,7 +14923,7 @@
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "YkhP4QQpia.jpg"
+      "oldImage": "uTwVzRjOBO.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c7bd",
@@ -24055,34 +24055,6 @@
       "oldImage": "TxBlBdVIVm.jpg"
     },
     {
-      "_id": "68e08df89e798a708ef8ca86",
-      "id": "78bizS1b",
-      "name": "Hitman 3 Deluxe Edition ",
-      "image": "kulOXyZgfk.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8,
-        30
-      ],
-      "size": "72 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1-wm6bolC5xlm2n90yBtaUg",
-          "_id": "68e08df89e798a708ef8ca87"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "kulOXyZgfk.jpg"
-    },
-    {
       "_id": "68e08df89e798a708ef8ca94",
       "id": "Cf1wEeKn",
       "name": "Darksiders Genesis ",
@@ -24109,6 +24081,34 @@
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
       "oldImage": "9QRxr8V6TP.jpg"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca88",
+      "id": "H1J6s4jo",
+      "name": "Hitman 2 Silent Assassin ",
+      "image": "PDYGg51sb9.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        8,
+        30
+      ],
+      "size": "546 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Onz_htVlShh40ZG9WqE5QQ",
+          "_id": "68e08df89e798a708ef8ca89"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "PDYGg51sb9.jpg"
     },
     {
       "_id": "68e08df89e798a708ef8ca92",
@@ -24223,10 +24223,10 @@
       "oldImage": "hMLJrAJP7G.jpg"
     },
     {
-      "_id": "68e08df89e798a708ef8ca88",
-      "id": "H1J6s4jo",
-      "name": "Hitman 2 Silent Assassin ",
-      "image": "PDYGg51sb9.webp",
+      "_id": "68e08df89e798a708ef8ca86",
+      "id": "78bizS1b",
+      "name": "Hitman 3 Deluxe Edition ",
+      "image": "kulOXyZgfk.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
@@ -24234,12 +24234,12 @@
         8,
         30
       ],
-      "size": "546 Mb",
+      "size": "72 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1Onz_htVlShh40ZG9WqE5QQ",
-          "_id": "68e08df89e798a708ef8ca89"
+          "link": "https://1024terabox.com/s/1-wm6bolC5xlm2n90yBtaUg",
+          "_id": "68e08df89e798a708ef8ca87"
         }
       ],
       "emulatorId": 2,
@@ -24248,7 +24248,7 @@
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "PDYGg51sb9.jpg"
+      "oldImage": "kulOXyZgfk.jpg"
     },
     {
       "isUpdate": false,
@@ -28448,6 +28448,34 @@
       "captures": [],
       "createdAt": "2026-03-17T21:16:23.813Z",
       "updatedAt": "2026-03-17T21:16:23.813Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b9c4e092a5ad4621a61ef9",
+      "id": "AgJsHihG",
+      "name": "Cabela's Dangerous Hunts 2011",
+      "image": "1773782239612-449c75cd",
+      "format": 13,
+      "language": "Multi-Idioma",
+      "genre": [
+        19,
+        35,
+        77,
+        3
+      ],
+      "size": "4.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1qZm0r1ZOXHIGlSEOW1nIiw",
+          "_id": "69b9c4e092a5ad4621a61efa"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-17T21:17:20.430Z",
+      "updatedAt": "2026-03-17T21:17:20.430Z",
       "__v": 0
     }
   ],
