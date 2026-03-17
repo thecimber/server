@@ -23236,7 +23236,6 @@
       "oldImage": "6xbxraWhO_.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca12",
       "id": "anmMjLBk",
       "name": "The Elder Scrolls V: Skyrim Special Edition",
@@ -23261,8 +23260,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-03-17T21:31:00.663Z",
-      "oldImage": "5E0wY-YtzO.jpg"
+      "updatedAt": "2026-03-17T21:31:03.544Z",
+      "oldImage": "5E0wY-YtzO.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
