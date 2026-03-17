@@ -20364,7 +20364,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c99f",
       "id": "t5-aWX5B",
       "name": "Teenage Mutant Ninja Turtles Mutants Unleashed PC Full Español",
@@ -20388,8 +20387,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-17T21:23:01.302Z",
-      "oldImage": "L2eg0sL7fm.jpg"
+      "updatedAt": "2026-03-17T21:23:04.237Z",
+      "oldImage": "L2eg0sL7fm.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
