@@ -28380,7 +28380,7 @@
       "format": 8,
       "language": "Multi-Idioma",
       "genre": [
-        24
+        78
       ],
       "size": "8 Gb",
       "downloadMethods": [
@@ -28394,7 +28394,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-03-17T04:33:15.946Z",
-      "updatedAt": "2026-03-17T04:33:15.946Z",
+      "updatedAt": "2026-03-17T04:34:05.214Z",
       "__v": 0
     }
   ],
@@ -29188,6 +29188,14 @@
       "name": "Caza",
       "createdAt": "2026-03-15T04:18:39.085Z",
       "updatedAt": "2026-03-15T04:18:39.085Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b8d99792a5ad4621a5c74f",
+      "id": 78,
+      "name": "Lucha / Arena Fighter",
+      "createdAt": "2026-03-17T04:33:27.516Z",
+      "updatedAt": "2026-03-17T04:33:27.516Z",
       "__v": 0
     }
   ],
