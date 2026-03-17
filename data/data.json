@@ -20447,7 +20447,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9a5",
       "id": "CkCczhRU",
       "name": "Teenage Mutant Ninja Turtles Out of the Shadows PC Full Español",
@@ -20470,8 +20469,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-17T21:24:32.486Z",
-      "oldImage": "ZtH6dReCTU.jpg"
+      "updatedAt": "2026-03-17T21:24:35.292Z",
+      "oldImage": "ZtH6dReCTU.jpg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c9a7",
