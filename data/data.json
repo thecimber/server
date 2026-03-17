@@ -13751,23 +13751,23 @@
       "oldImage": "LzIAbFEmZR.jpg"
     },
     {
-      "_id": "68e08df69e798a708ef8c7cd",
-      "id": "Xs043bzC",
-      "name": "Dead Space 2",
-      "image": "Dead Space 2.webp",
+      "_id": "68e08df69e798a708ef8c7bf",
+      "id": "jSlz9PnO",
+      "name": "Crossing Souls",
+      "image": "Crossing Souls.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        14,
-        31
+        3,
+        7,
+        32
       ],
-      "size": "6.7 Gb",
+      "size": "920 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1fPn_-rQKTIhGP9ev4E_Icw",
-          "_id": "68e08df69e798a708ef8c7ce"
+          "link": "https://terabox.com/s/17j9RbzoDgvh3gcK28QFH-A",
+          "_id": "68e08df69e798a708ef8c7c0"
         }
       ],
       "emulatorId": 2,
@@ -13776,7 +13776,7 @@
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "Dead Space 2.jpeg"
+      "oldImage": "Crossing Souls.jpeg"
     },
     {
       "isUpdate": false,
@@ -13970,22 +13970,23 @@
       "oldImage": "Dead Space 3.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c7bd",
-      "id": "-0O3djkU",
-      "name": "Cities Skylines Deluxe Edition ",
-      "image": "Cities Skylines Deluxe Edition.webp",
+      "_id": "68e08df69e798a708ef8c7cd",
+      "id": "Xs043bzC",
+      "name": "Dead Space 2",
+      "image": "Dead Space 2.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        19,
-        40
+        2,
+        14,
+        31
       ],
-      "size": "9.4 Gb",
+      "size": "6.7 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://terabox.com/s/1K2OrF-Ew0CyaoNVE4dyLqQ",
-          "_id": "68e08df69e798a708ef8c7be"
+          "link": "https://1024terabox.com/s/1fPn_-rQKTIhGP9ev4E_Icw",
+          "_id": "68e08df69e798a708ef8c7ce"
         }
       ],
       "emulatorId": 2,
@@ -13994,7 +13995,7 @@
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "Cities Skylines Deluxe Edition.jpeg"
+      "oldImage": "Dead Space 2.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c7cb",
@@ -14953,23 +14954,22 @@
       "oldImage": "YkhP4QQpia.jpg"
     },
     {
-      "_id": "68e08df69e798a708ef8c7bf",
-      "id": "jSlz9PnO",
-      "name": "Crossing Souls",
-      "image": "Crossing Souls.webp",
+      "_id": "68e08df69e798a708ef8c7bd",
+      "id": "-0O3djkU",
+      "name": "Cities Skylines Deluxe Edition ",
+      "image": "Cities Skylines Deluxe Edition.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        7,
-        32
+        19,
+        40
       ],
-      "size": "920 Mb",
+      "size": "9.4 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://terabox.com/s/17j9RbzoDgvh3gcK28QFH-A",
-          "_id": "68e08df69e798a708ef8c7c0"
+          "link": "https://terabox.com/s/1K2OrF-Ew0CyaoNVE4dyLqQ",
+          "_id": "68e08df69e798a708ef8c7be"
         }
       ],
       "emulatorId": 2,
@@ -14978,7 +14978,7 @@
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "Crossing Souls.jpeg"
+      "oldImage": "Cities Skylines Deluxe Edition.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c7c1",
@@ -24083,34 +24083,6 @@
       "oldImage": "9QRxr8V6TP.jpg"
     },
     {
-      "_id": "68e08df89e798a708ef8ca88",
-      "id": "H1J6s4jo",
-      "name": "Hitman 2 Silent Assassin ",
-      "image": "PDYGg51sb9.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8,
-        30
-      ],
-      "size": "546 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Onz_htVlShh40ZG9WqE5QQ",
-          "_id": "68e08df89e798a708ef8ca89"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "PDYGg51sb9.jpg"
-    },
-    {
       "_id": "68e08df89e798a708ef8ca92",
       "id": "X3pMNZUq",
       "name": "Aliens vs Predator ",
@@ -24137,6 +24109,34 @@
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
       "oldImage": "56S1e9b4V3.jpg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca8a",
+      "id": "yKaYhI6Z",
+      "name": "Hitman 2016 ",
+      "image": "hMLJrAJP7G.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        8,
+        30
+      ],
+      "size": "45,2 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1lv1oerJC-k99TIntc7ZhIA",
+          "_id": "68e08df89e798a708ef8ca8b"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "hMLJrAJP7G.jpg"
     },
     {
       "_id": "68e08df89e798a708ef8ca90",
@@ -24384,11 +24384,10 @@
       "oldImage": "kulOXyZgfk.jpg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca8a",
-      "id": "yKaYhI6Z",
-      "name": "Hitman 2016 ",
-      "image": "hMLJrAJP7G.webp",
+      "_id": "68e08df89e798a708ef8ca88",
+      "id": "H1J6s4jo",
+      "name": "Hitman 2 Silent Assassin ",
+      "image": "PDYGg51sb9.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
@@ -24396,12 +24395,12 @@
         8,
         30
       ],
-      "size": "45,2 Gb",
+      "size": "546 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1lv1oerJC-k99TIntc7ZhIA",
-          "_id": "68e08df89e798a708ef8ca8b"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Onz_htVlShh40ZG9WqE5QQ",
+          "_id": "68e08df89e798a708ef8ca89"
         }
       ],
       "emulatorId": 2,
@@ -24409,7 +24408,8 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "hMLJrAJP7G.jpg"
+      "isUpdate": true,
+      "oldImage": "PDYGg51sb9.jpg"
     },
     {
       "_id": "68e08df89e798a708ef8ca8c",
@@ -28556,6 +28556,33 @@
       "captures": [],
       "createdAt": "2026-03-17T21:26:51.106Z",
       "updatedAt": "2026-03-17T21:26:51.106Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b9c79d92a5ad4621a6f798",
+      "id": "awhTQP7-",
+      "name": "Teenage Mutant Ninja Turtles",
+      "image": "1773782941111-a27f6a60.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        65
+      ],
+      "size": "1.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1J7EDlIkS28DT0j6RGnywsA",
+          "_id": "69b9c79d92a5ad4621a6f799"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-17T21:29:01.873Z",
+      "updatedAt": "2026-03-17T21:29:01.873Z",
       "__v": 0
     }
   ],
