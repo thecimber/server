@@ -18758,7 +18758,6 @@
       "oldImage": "SCHEDULE 1.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8dc",
       "id": "0Fw1oanr",
       "name": "Sengoku Dynasty ",
@@ -18782,8 +18781,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-17T21:18:51.550Z",
-      "oldImage": "Sengoku Dynasty.jpeg"
+      "updatedAt": "2026-03-17T21:18:53.588Z",
+      "oldImage": "Sengoku Dynasty.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c8de",
