@@ -18237,7 +18237,6 @@
       "oldImage": "That's not my neighbor .jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c908",
       "id": "VWbY1fNR",
       "name": "The Binding Isaac Repentance",
@@ -18260,8 +18259,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-17T21:22:06.320Z",
-      "oldImage": "The Binding Isaac Repentance.jpeg"
+      "updatedAt": "2026-03-17T21:22:11.176Z",
+      "oldImage": "The Binding Isaac Repentance.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
