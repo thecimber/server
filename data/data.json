@@ -20392,7 +20392,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9a1",
       "id": "cTZptL1I",
       "name": "Teenage Mutant Ninja Turtles: The Cowabunga Collection PC Full Español",
@@ -20415,8 +20414,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-17T21:23:36.152Z",
-      "oldImage": "-okKZYrJRn.jpg"
+      "updatedAt": "2026-03-17T21:23:53.931Z",
+      "oldImage": "-okKZYrJRn.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
