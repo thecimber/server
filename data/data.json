@@ -20336,7 +20336,6 @@
       "oldImage": "_tYpe3HvzS.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c99d",
       "id": "n-GsiLdD",
       "name": "Teenage Mutant Ninja Turtles Splintered Fate PC Full Español",
@@ -20360,8 +20359,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-17T21:22:41.382Z",
-      "oldImage": "OLsLY3n7bC.jpg"
+      "updatedAt": "2026-03-17T21:22:44.125Z",
+      "oldImage": "OLsLY3n7bC.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
