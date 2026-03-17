@@ -18182,7 +18182,6 @@
       "oldImage": "n5nZh44aE5.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c904",
       "id": "S7YwGDYT",
       "name": "Thank Goodness You're Here! v1.6.1",
@@ -18205,8 +18204,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-17T21:29:23.316Z",
-      "oldImage": "1od0pZtdKN.jpg"
+      "updatedAt": "2026-03-17T21:29:32.017Z",
+      "oldImage": "1od0pZtdKN.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
