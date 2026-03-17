@@ -18318,7 +18318,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c90e",
       "id": "1tfmlF2z",
       "name": "The Crush House",
@@ -18341,8 +18340,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-17T21:30:01.842Z",
-      "oldImage": "The Crush House.jpeg"
+      "updatedAt": "2026-03-17T21:30:03.788Z",
+      "oldImage": "The Crush House.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
