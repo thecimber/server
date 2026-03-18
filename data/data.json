@@ -28594,6 +28594,7 @@
       "language": "Multi-Idioma",
       "genre": [
         58,
+        79,
         28
       ],
       "size": "450 Mb",
@@ -28608,7 +28609,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-03-18T15:08:30.218Z",
-      "updatedAt": "2026-03-18T15:08:30.218Z",
+      "updatedAt": "2026-03-18T15:09:22.791Z",
       "__v": 0
     }
   ],
@@ -29410,6 +29411,14 @@
       "name": "Lucha / Arena Fighter",
       "createdAt": "2026-03-17T04:33:27.516Z",
       "updatedAt": "2026-03-17T04:33:27.516Z",
+      "__v": 0
+    },
+    {
+      "_id": "69babffb92a5ad4621a7692e",
+      "id": 79,
+      "name": "Cartas",
+      "createdAt": "2026-03-18T15:08:43.112Z",
+      "updatedAt": "2026-03-18T15:08:43.112Z",
       "__v": 0
     }
   ],
