@@ -28694,6 +28694,33 @@
       "createdAt": "2026-03-18T15:21:02.957Z",
       "updatedAt": "2026-03-18T15:21:02.957Z",
       "__v": 0
+    },
+    {
+      "_id": "69bac34392a5ad4621a898ee",
+      "id": "eTUWMPFd",
+      "name": "The Evil Within 2",
+      "image": "1773847362303-e762329c.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        31,
+        21
+      ],
+      "size": "36 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Z5gyf51w8GQnvuWWnpU63g",
+          "_id": "69bac34392a5ad4621a898ef"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-18T15:22:43.305Z",
+      "updatedAt": "2026-03-18T15:22:43.305Z",
+      "__v": 0
     }
   ],
   "emulators": [
