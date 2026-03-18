@@ -28584,6 +28584,32 @@
       "createdAt": "2026-03-17T21:29:01.873Z",
       "updatedAt": "2026-03-17T21:29:01.873Z",
       "__v": 0
+    },
+    {
+      "_id": "69babfee92a5ad4621a75ce3",
+      "id": "85A3YvVF",
+      "name": "Slay the spire",
+      "image": "1773846508873-4e58015d.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        58,
+        28
+      ],
+      "size": "450 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1QpcYXpZezVHWHGAMX78WUg",
+          "_id": "69babfee92a5ad4621a75ce4"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-18T15:08:30.218Z",
+      "updatedAt": "2026-03-18T15:08:30.218Z",
+      "__v": 0
     }
   ],
   "emulators": [
