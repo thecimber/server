@@ -18457,7 +18457,6 @@
       "oldImage": "Sv-fNvGReN.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c918",
       "id": "kIPKx4K1",
       "name": "The Longing v1.8.0",
@@ -18480,8 +18479,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-18T15:12:53.742Z",
-      "oldImage": "ocuFy-kww2.jpg"
+      "updatedAt": "2026-03-18T15:12:55.455Z",
+      "oldImage": "ocuFy-kww2.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
