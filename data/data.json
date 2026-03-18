@@ -19862,7 +19862,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c931",
       "id": "KhZQNiKz",
       "name": "Tiny Glade",
@@ -19885,8 +19884,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-18T15:13:56.719Z",
-      "oldImage": "Tiny Glade.jpeg"
+      "updatedAt": "2026-03-18T15:13:58.438Z",
+      "oldImage": "Tiny Glade.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c933",
