@@ -19835,7 +19835,6 @@
       "oldImage": "6MTTts1JXK.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c92f",
       "id": "8DxoHQr_",
       "name": "TheoTown v1.10.89",
@@ -19858,8 +19857,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-18T15:13:11.486Z",
-      "oldImage": "TheoTown v1.10.89.jpeg"
+      "updatedAt": "2026-03-18T15:13:13.256Z",
+      "oldImage": "TheoTown v1.10.89.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
