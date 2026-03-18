@@ -18373,7 +18373,6 @@
       "oldImage": "The Evil Within.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c912",
       "id": "HiBA9hEH",
       "name": "The Last Of us PART 1",
@@ -18397,8 +18396,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-18T15:11:47.129Z",
-      "oldImage": "BVm-L8pnvz.jpg"
+      "updatedAt": "2026-03-18T15:11:48.924Z",
+      "oldImage": "BVm-L8pnvz.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
