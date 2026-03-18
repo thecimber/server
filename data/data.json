@@ -18345,7 +18345,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c910",
       "id": "bR3iynW8",
       "name": "The Evil Within ",
@@ -18369,8 +18368,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-18T15:21:19.943Z",
-      "oldImage": "The Evil Within.jpeg"
+      "updatedAt": "2026-03-18T15:21:21.864Z",
+      "oldImage": "The Evil Within.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c912",
