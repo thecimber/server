@@ -19944,7 +19944,6 @@
       "oldImage": "Titan Fall 2.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c937",
       "id": "GXMF8oKc",
       "name": "Titan Souls ",
@@ -19968,8 +19967,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-18T15:14:25.533Z",
-      "oldImage": "Titan Souls.jpeg"
+      "updatedAt": "2026-03-18T15:14:27.712Z",
+      "oldImage": "Titan Souls.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
