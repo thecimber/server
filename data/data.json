@@ -13751,23 +13751,23 @@
       "oldImage": "LzIAbFEmZR.jpg"
     },
     {
-      "_id": "68e08df69e798a708ef8c7bf",
-      "id": "jSlz9PnO",
-      "name": "Crossing Souls",
-      "image": "Crossing Souls.webp",
+      "_id": "68e08df69e798a708ef8c7cb",
+      "id": "eaTMSp_B",
+      "name": "Dead Space ",
+      "image": "Dead Space .webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        7,
-        32
+        2,
+        14,
+        31
       ],
-      "size": "920 Mb",
+      "size": "6.7 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://terabox.com/s/17j9RbzoDgvh3gcK28QFH-A",
-          "_id": "68e08df69e798a708ef8c7c0"
+          "link": "https://1024terabox.com/s/1Q-rLQGZO_Hez0bBzAaLocg",
+          "_id": "68e08df69e798a708ef8c7cc"
         }
       ],
       "emulatorId": 2,
@@ -13776,7 +13776,7 @@
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "Crossing Souls.jpeg"
+      "oldImage": "Dead Space .jpeg"
     },
     {
       "isUpdate": false,
@@ -13998,23 +13998,22 @@
       "oldImage": "Dead Space 2.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c7cb",
-      "id": "eaTMSp_B",
-      "name": "Dead Space ",
-      "image": "Dead Space .webp",
+      "_id": "68e08df69e798a708ef8c7c1",
+      "id": "Lq37QdxC",
+      "name": "Crusader Kings 3",
+      "image": "uMMJqDPvuh.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        14,
-        31
+        28,
+        41
       ],
-      "size": "6.7 Gb",
+      "size": "4.6 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Q-rLQGZO_Hez0bBzAaLocg",
-          "_id": "68e08df69e798a708ef8c7cc"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1Eg56yTjgYjjjG1UuYG1YPA",
+          "_id": "68e08df69e798a708ef8c7c2"
         }
       ],
       "emulatorId": 2,
@@ -14023,7 +14022,7 @@
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "Dead Space .jpeg"
+      "oldImage": "uMMJqDPvuh.jpg"
     },
     {
       "isUpdate": false,
@@ -14981,22 +14980,23 @@
       "oldImage": "Cities Skylines Deluxe Edition.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c7c1",
-      "id": "Lq37QdxC",
-      "name": "Crusader Kings 3",
-      "image": "uMMJqDPvuh.webp",
+      "_id": "68e08df69e798a708ef8c7bf",
+      "id": "jSlz9PnO",
+      "name": "Crossing Souls",
+      "image": "Crossing Souls.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        28,
-        41
+        3,
+        7,
+        32
       ],
-      "size": "4.6 Gb",
+      "size": "920 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Eg56yTjgYjjjG1UuYG1YPA",
-          "_id": "68e08df69e798a708ef8c7c2"
+          "type": "terabox",
+          "link": "https://terabox.com/s/17j9RbzoDgvh3gcK28QFH-A",
+          "_id": "68e08df69e798a708ef8c7c0"
         }
       ],
       "emulatorId": 2,
@@ -15005,7 +15005,7 @@
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "uMMJqDPvuh.jpg"
+      "oldImage": "Crossing Souls.jpeg"
     },
     {
       "isUpdate": false,
@@ -22642,21 +22642,21 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca52",
-      "id": "wfwPBu4U",
-      "name": "PAC-MAN and the Ghostly Adventures",
-      "image": "m7HIsc2t1x.webp",
+      "_id": "68e08df89e798a708ef8ca50",
+      "id": "_djkBr-v",
+      "name": "PAC-MAN and the Ghostly Adventures 2 (USA)",
+      "image": "NbD2q5QAhn.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         1
       ],
-      "size": "2,9 gb",
+      "size": "3,2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1R5_VQnmJ6mt4-y6UnsonRA",
-          "_id": "68e08df89e798a708ef8ca53"
+          "link": "https://1024terabox.com/s/1WfSjiTp8UHUNgIa1MAZTUw",
+          "_id": "68e08df89e798a708ef8ca51"
         }
       ],
       "emulatorId": 5,
@@ -22664,7 +22664,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "m7HIsc2t1x.jpg"
+      "oldImage": "NbD2q5QAhn.jpg"
     },
     {
       "isUpdate": false,
@@ -23128,21 +23128,21 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca50",
-      "id": "_djkBr-v",
-      "name": "PAC-MAN and the Ghostly Adventures 2 (USA)",
-      "image": "NbD2q5QAhn.webp",
+      "_id": "68e08df89e798a708ef8ca52",
+      "id": "wfwPBu4U",
+      "name": "PAC-MAN and the Ghostly Adventures",
+      "image": "m7HIsc2t1x.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         1
       ],
-      "size": "3,2 Gb",
+      "size": "2,9 gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1WfSjiTp8UHUNgIa1MAZTUw",
-          "_id": "68e08df89e798a708ef8ca51"
+          "link": "https://1024terabox.com/s/1R5_VQnmJ6mt4-y6UnsonRA",
+          "_id": "68e08df89e798a708ef8ca53"
         }
       ],
       "emulatorId": 5,
@@ -23150,7 +23150,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "NbD2q5QAhn.jpg"
+      "oldImage": "m7HIsc2t1x.jpg"
     },
     {
       "isUpdate": false,
@@ -24167,30 +24167,30 @@
       "oldImage": "FzMV69PJNo.jpg"
     },
     {
-      "_id": "68e08df89e798a708ef8ca7c",
-      "id": "PmhZyr0j",
-      "name": "Poppy PlayTime Chapter 1",
-      "image": "lnutX8xxdn.webp",
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca7a",
+      "id": "BHMQxwyy",
+      "name": "Poppy PlayTime Chapter 4 ",
+      "image": "NY3m_pruuU.webp",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
         31
       ],
-      "size": "1,0 Gb",
+      "size": "1,9 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/133KH_-poY6eYyqVC105VFA",
-          "_id": "68e08df89e798a708ef8ca7d"
+          "type": "Terabox",
+          "link": "https://terabox.com/s/1Fx0hATvzSH8RMGHXkI4vUA",
+          "_id": "68e08df89e798a708ef8ca7b"
         }
       ],
       "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-15T15:41:22.518Z",
-      "oldImage": "lnutX8xxdn.jpg",
-      "isUpdate": true
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "NY3m_pruuU.jpg"
     },
     {
       "isUpdate": false,
@@ -24221,30 +24221,30 @@
       "oldImage": "dPVJkMICsh.jpg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca7a",
-      "id": "BHMQxwyy",
-      "name": "Poppy PlayTime Chapter 4 ",
-      "image": "NY3m_pruuU.webp",
+      "_id": "68e08df89e798a708ef8ca7c",
+      "id": "PmhZyr0j",
+      "name": "Poppy PlayTime Chapter 1",
+      "image": "lnutX8xxdn.webp",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
         31
       ],
-      "size": "1,9 Gb",
+      "size": "1,0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/1Fx0hATvzSH8RMGHXkI4vUA",
-          "_id": "68e08df89e798a708ef8ca7b"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/133KH_-poY6eYyqVC105VFA",
+          "_id": "68e08df89e798a708ef8ca7d"
         }
       ],
       "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "NY3m_pruuU.jpg"
+      "updatedAt": "2026-03-15T15:41:22.518Z",
+      "oldImage": "lnutX8xxdn.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -28610,6 +28610,33 @@
       "captures": [],
       "createdAt": "2026-03-18T15:08:30.218Z",
       "updatedAt": "2026-03-18T15:09:22.791Z",
+      "__v": 0
+    },
+    {
+      "_id": "69bac06992a5ad4621a77999",
+      "id": "ZnHx1lxe",
+      "name": "Slay The Spire 2 ",
+      "image": "1773846632836-fd5b4e2a.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        28,
+        79,
+        58
+      ],
+      "size": "1.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/16myArgZii52pbmgK1M7kJg",
+          "_id": "69bac06992a5ad4621a7799a"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-18T15:10:33.945Z",
+      "updatedAt": "2026-03-18T15:10:33.945Z",
       "__v": 0
     }
   ],
