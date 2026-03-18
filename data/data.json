@@ -19889,7 +19889,6 @@
       "oldImage": "Tiny Glade.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c933",
       "id": "b6YAO5eN",
       "name": "Tiny Rogues",
@@ -19912,8 +19911,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-18T15:13:39.471Z",
-      "oldImage": "Tiny Rogues.jpeg"
+      "updatedAt": "2026-03-18T15:13:42.548Z",
+      "oldImage": "Tiny Rogues.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
