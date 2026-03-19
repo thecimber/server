@@ -28734,7 +28734,7 @@
       "active": true,
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.755Z",
-      "updatedAt": "2026-03-19T04:37:54.277Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
       "deleted": false,
       "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/xbox360/",
       "emulator": ""
@@ -28750,7 +28750,7 @@
       "active": false,
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.755Z",
-      "updatedAt": "2026-03-19T04:37:54.277Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
       "deleted": false,
       "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/dev/ps3/"
     },
@@ -28765,7 +28765,7 @@
       "active": true,
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.754Z",
-      "updatedAt": "2026-03-19T04:37:54.277Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
       "deleted": false,
       "emulator": "https://1024terabox.com/s/1azjkPBpQkY0Am2OcA67TJQ"
     },
@@ -28776,11 +28776,11 @@
       "path": "pc",
       "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/pc-logo4.jpeg",
       "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/pc/",
-      "index": 0,
+      "index": 1,
       "active": true,
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.755Z",
-      "updatedAt": "2026-03-19T04:37:54.277Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
       "deleted": false,
       "emulator": "https://1024terabox.com/s/1VvGcTl9TJ31Nji9RucXHdQ"
     },
@@ -28796,7 +28796,7 @@
       "active": true,
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.756Z",
-      "updatedAt": "2026-03-19T04:37:54.277Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
       "deleted": false
     },
     {
@@ -28810,7 +28810,7 @@
       "active": false,
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.756Z",
-      "updatedAt": "2026-03-19T04:37:54.277Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
       "deleted": false,
       "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/android/"
     },
@@ -28821,11 +28821,11 @@
       "path": "sw",
       "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/switch-logo-2.webp",
       "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/sw/",
-      "index": 1,
+      "index": 0,
       "active": true,
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.755Z",
-      "updatedAt": "2026-03-19T04:37:54.277Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
       "deleted": false,
       "emulator": "https://1024terabox.com/s/1ogEVXmweTj7eIBz39NecJw"
     },
@@ -28840,7 +28840,7 @@
       "active": true,
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.755Z",
-      "updatedAt": "2026-03-19T04:37:54.277Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
       "deleted": false,
       "emulator": "https://1024terabox.com/s/1SchDFVvXaL4PcH9ABEk3Og"
     },
@@ -28855,7 +28855,7 @@
       "active": true,
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.755Z",
-      "updatedAt": "2026-03-19T04:37:54.277Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
       "deleted": false,
       "emulator": ""
     },
@@ -28870,7 +28870,7 @@
       "active": true,
       "__v": 0,
       "createdAt": "2025-09-07T05:06:01.755Z",
-      "updatedAt": "2026-03-19T04:37:54.277Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
       "deleted": false,
       "emulator": "https://1024terabox.com/s/1ifALCTlRdfYNvCksREvzaA"
     },
@@ -28886,7 +28886,7 @@
       "active": true,
       "deleted": false,
       "createdAt": "2026-02-16T18:13:03.259Z",
-      "updatedAt": "2026-03-19T04:37:54.277Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
       "__v": 0
     }
   ],
