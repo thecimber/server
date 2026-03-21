@@ -21704,33 +21704,6 @@
       "oldImage": "ErMEDU32Iq.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c9d9",
-      "id": "dHFFCqeZ",
-      "name": "LEGO Builders Journey",
-      "image": "ty-QUE2AP9.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        44
-      ],
-      "size": "1.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/15W_ZjTZU2gDZ5BFUIw37jw",
-          "_id": "68e08df79e798a708ef8c9da"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "ty-QUE2AP9.jpg"
-    },
-    {
       "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9ef",
       "id": "IPjBqOfF",
@@ -21756,6 +21729,35 @@
       "createdAt": "2025-10-04T03:01:11.689Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "4hWDXXdtsB.jpg"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9db",
+      "id": "T18ZVjv4",
+      "name": "LEGO Batman The Videogame",
+      "image": "XWuJ5jNuRu.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        45,
+        44
+      ],
+      "size": "4.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/14OGNebR1OTVKvTPxkdwLng",
+          "_id": "68e08df79e798a708ef8c9dc"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "XWuJ5jNuRu.jpg"
     },
     {
       "isUpdate": false,
@@ -21930,24 +21932,22 @@
       "oldImage": "eE3VU48QqY.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c9db",
-      "id": "T18ZVjv4",
-      "name": "LEGO Batman The Videogame",
-      "image": "XWuJ5jNuRu.webp",
+      "_id": "68e08df79e798a708ef8c9d9",
+      "id": "dHFFCqeZ",
+      "name": "LEGO Builders Journey",
+      "image": "ty-QUE2AP9.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
         3,
-        45,
         44
       ],
-      "size": "4.1 Gb",
+      "size": "1.5 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/14OGNebR1OTVKvTPxkdwLng",
-          "_id": "68e08df79e798a708ef8c9dc"
+          "link": "https://1024terabox.com/s/15W_ZjTZU2gDZ5BFUIw37jw",
+          "_id": "68e08df79e798a708ef8c9da"
         }
       ],
       "emulatorId": 2,
@@ -21956,7 +21956,7 @@
       "createdAt": "2025-10-04T03:01:11.689Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "XWuJ5jNuRu.jpg"
+      "oldImage": "ty-QUE2AP9.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c9dd",
@@ -28888,6 +28888,34 @@
       "captures": [],
       "createdAt": "2026-03-21T01:22:16.738Z",
       "updatedAt": "2026-03-21T01:22:16.738Z",
+      "__v": 0
+    },
+    {
+      "_id": "69bdf3009538cea5e4c1853a",
+      "id": "PZ0G6epH",
+      "name": "Tomb Raider Chronicles ",
+      "image": "1774056191553-e57a2f48.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        9,
+        1
+      ],
+      "size": "453 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1ks1XidAM8EfWlgO_4lsmJg",
+          "_id": "69bdf3009538cea5e4c1853b"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-21T01:23:12.118Z",
+      "updatedAt": "2026-03-21T01:23:12.118Z",
       "__v": 0
     }
   ],
