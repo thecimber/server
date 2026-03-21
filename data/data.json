@@ -28805,6 +28805,34 @@
       "createdAt": "2026-03-21T01:19:32.880Z",
       "updatedAt": "2026-03-21T01:19:32.880Z",
       "__v": 0
+    },
+    {
+      "_id": "69bdf2509538cea5e4c15fff",
+      "id": "64ZQ_Izb",
+      "name": "Lara Croft Tomb Raider The Angel Of Darkness",
+      "image": "1774056016448-49579270.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        9,
+        1
+      ],
+      "size": "1.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1y38Q44Na7WYIoxLfl6VQKQ",
+          "_id": "69bdf2509538cea5e4c16000"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-21T01:20:16.962Z",
+      "updatedAt": "2026-03-21T01:20:16.962Z",
+      "__v": 0
     }
   ],
   "emulators": [
