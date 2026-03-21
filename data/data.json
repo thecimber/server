@@ -28749,6 +28749,34 @@
       "createdAt": "2026-03-21T01:17:11.843Z",
       "updatedAt": "2026-03-21T01:17:11.843Z",
       "__v": 0
+    },
+    {
+      "_id": "69bdf1d39538cea5e4c1473d",
+      "id": "65JDFwGm",
+      "name": "Lara Croft Tomb Raider Anniversary ",
+      "image": "1774055890743-65114166.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        9,
+        1
+      ],
+      "size": "2.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1N6W2z_bgq9EvHLAX8namPg",
+          "_id": "69bdf1d39538cea5e4c1473e"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-21T01:18:11.321Z",
+      "updatedAt": "2026-03-21T01:18:11.321Z",
+      "__v": 0
     }
   ],
   "emulators": [
