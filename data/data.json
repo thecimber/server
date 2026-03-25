@@ -20062,7 +20062,6 @@
       "oldImage": "UltraKill.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c941",
       "id": "xPTa9mgU",
       "name": "Uncle Chop's Rocket Shop",
@@ -20087,8 +20086,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-25T02:56:07.427Z",
-      "oldImage": "Uncle Chop's Rocket Shop.jpeg"
+      "updatedAt": "2026-03-25T02:56:47.068Z",
+      "oldImage": "Uncle Chop's Rocket Shop.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
