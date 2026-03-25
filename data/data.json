@@ -20150,14 +20150,16 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        27
+        2,
+        21,
+        58,
+        59
       ],
       "size": "691 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1-LQvkqnKAfyAw25zq1aDqg",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1lX_W5LauiPiOdcWigzsiaA",
           "_id": "68e08df79e798a708ef8c948"
         }
       ],
@@ -20165,7 +20167,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-25T02:54:08.873Z",
       "oldImage": "Vampire Survivors.jpeg"
     },
     {
