@@ -20142,7 +20142,6 @@
       "oldImage": "Valheim.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c947",
       "id": "--W0gin0",
       "name": "Vampire Survivors",
@@ -20167,8 +20166,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-25T02:54:08.873Z",
-      "oldImage": "Vampire Survivors.jpeg"
+      "updatedAt": "2026-03-25T02:54:25.311Z",
+      "oldImage": "Vampire Survivors.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c99d",
