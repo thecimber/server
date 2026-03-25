@@ -19298,14 +19298,16 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
-        16,
-        41
+        12,
+        41,
+        55,
+        57
       ],
       "size": "10.8 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/160d_2gZ5h-T_AwTf08b5Cw",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1l_HbJ8XvJUgmEFk5Z_p2Hg",
           "_id": "68e08df79e798a708ef8c950"
         }
       ],
@@ -19313,7 +19315,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-25T02:56:39.387Z",
       "oldImage": "WereWolf The Apocalypse Earthblood.jpeg"
     },
     {
