@@ -20712,7 +20712,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c98f",
       "id": "0jt9jlQ3",
       "name": "UEFA Euro 2012 ",
@@ -20736,8 +20735,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-25T02:55:29.905Z",
-      "oldImage": "RYBLCiDEIl.jpg"
+      "updatedAt": "2026-03-25T02:55:32.847Z",
+      "oldImage": "RYBLCiDEIl.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
