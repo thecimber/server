@@ -21731,35 +21731,6 @@
       "oldImage": "4hWDXXdtsB.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c9db",
-      "id": "T18ZVjv4",
-      "name": "LEGO Batman The Videogame",
-      "image": "XWuJ5jNuRu.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        45,
-        44
-      ],
-      "size": "4.1 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/14OGNebR1OTVKvTPxkdwLng",
-          "_id": "68e08df79e798a708ef8c9dc"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "XWuJ5jNuRu.jpg"
-    },
-    {
       "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9ed",
       "id": "-lsRXKUg",
@@ -21785,6 +21756,34 @@
       "createdAt": "2025-10-04T03:01:11.689Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "ydWe--Wcuu.jpg"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9dd",
+      "id": "Civims3f",
+      "name": "LIES OF P ",
+      "image": "YWRPUPWraS.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        0
+      ],
+      "size": "58.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1swTQmRdqacv4nZ5Gezk9TA",
+          "_id": "68e08df79e798a708ef8c9de"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "YWRPUPWraS.jpg"
     },
     {
       "isUpdate": false,
@@ -21959,23 +21958,24 @@
       "oldImage": "ty-QUE2AP9.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c9dd",
-      "id": "Civims3f",
-      "name": "LIES OF P ",
-      "image": "YWRPUPWraS.webp",
+      "_id": "68e08df79e798a708ef8c9db",
+      "id": "T18ZVjv4",
+      "name": "LEGO Batman The Videogame",
+      "image": "XWuJ5jNuRu.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
         3,
-        0
+        45,
+        44
       ],
-      "size": "58.6 Gb",
+      "size": "4.1 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1swTQmRdqacv4nZ5Gezk9TA",
-          "_id": "68e08df79e798a708ef8c9de"
+          "link": "https://1024terabox.com/s/14OGNebR1OTVKvTPxkdwLng",
+          "_id": "68e08df79e798a708ef8c9dc"
         }
       ],
       "emulatorId": 2,
@@ -21984,7 +21984,7 @@
       "createdAt": "2025-10-04T03:01:11.689Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "YWRPUPWraS.jpg"
+      "oldImage": "XWuJ5jNuRu.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c9e1",
@@ -28944,6 +28944,34 @@
       "captures": [],
       "createdAt": "2026-03-21T01:24:05.216Z",
       "updatedAt": "2026-03-21T01:24:05.216Z",
+      "__v": 0
+    },
+    {
+      "_id": "69c34de89538cea5e4c1cd94",
+      "id": "17fY1_cA",
+      "name": "Rise Of The Tomb Raider 20 Year Celebration ",
+      "image": "1774407143871-b5739991.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        9,
+        1
+      ],
+      "size": "24 gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1oP7OBa5uzbf1X6C4l8gwbQ",
+          "_id": "69c34de89538cea5e4c1cd95"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-03-25T02:52:24.959Z",
+      "updatedAt": "2026-03-25T02:52:24.959Z",
       "__v": 0
     }
   ],
