@@ -19973,7 +19973,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c93b",
       "id": "sQ83j25F",
       "name": "Travellers Rest ",
@@ -19998,8 +19997,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-25T02:52:56.807Z",
-      "oldImage": "Travellers Rest.jpeg"
+      "updatedAt": "2026-03-25T02:53:00.447Z",
+      "oldImage": "Travellers Rest.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
