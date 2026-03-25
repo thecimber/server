@@ -19982,13 +19982,15 @@
       "language": "Multi-Idioma",
       "genre": [
         19,
-        40
+        51,
+        57,
+        3
       ],
       "size": "4656 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1QV3sTpco1QYYltBLFqJHqg",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1pQ-QPZJBepsGZHLTE1HJZg",
           "_id": "68e08df79e798a708ef8c93c"
         }
       ],
@@ -19996,7 +19998,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-25T02:52:56.807Z",
       "oldImage": "Travellers Rest.jpeg"
     },
     {
