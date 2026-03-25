@@ -19403,7 +19403,6 @@
       "oldImage": "M3VFClooBJ.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c957",
       "id": "bFopdPSq",
       "name": "Youtubers Life 2 ",
@@ -19426,8 +19425,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-25T02:57:20.422Z",
-      "oldImage": "Youtubers Life 2 .jpeg"
+      "updatedAt": "2026-03-25T02:57:22.950Z",
+      "oldImage": "Youtubers Life 2 .jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c959",
