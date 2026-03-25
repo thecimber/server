@@ -19706,15 +19706,16 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        14,
         20,
-        31
+        31,
+        63,
+        21
       ],
       "size": "8.0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1FqFeFONMm_Dhb_ootvNrVQ",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1e2jxzr7ZNZYfazRDHTtzkw",
           "_id": "68e08df79e798a708ef8c94a"
         }
       ],
@@ -19722,7 +19723,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-25T02:54:30.231Z",
+      "updatedAt": "2026-03-25T02:55:06.144Z",
       "oldImage": "VISAGE.jpeg",
       "isUpdate": true
     },
