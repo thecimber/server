@@ -19289,7 +19289,6 @@
       "oldImage": "Weird West Definitive Edition.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c94f",
       "id": "Vyf1k1kA",
       "name": "WereWolf The Apocalypse Earthblood",
@@ -19315,8 +19314,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-25T02:56:39.387Z",
-      "oldImage": "WereWolf The Apocalypse Earthblood.jpeg"
+      "updatedAt": "2026-03-25T02:56:54.706Z",
+      "oldImage": "WereWolf The Apocalypse Earthblood.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
