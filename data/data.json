@@ -24257,7 +24257,6 @@
       "oldImage": "D3b1as4L9L.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca84",
       "id": "zZp_A7gq",
       "name": "Hitman Contracts",
@@ -24281,8 +24280,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-28T18:21:46.601Z",
-      "oldImage": "1WPPkqVdpB.jpg"
+      "updatedAt": "2026-03-28T18:21:48.779Z",
+      "oldImage": "1WPPkqVdpB.jpg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca86",
