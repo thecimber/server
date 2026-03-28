@@ -19207,7 +19207,6 @@
       "oldImage": "wTgPG7EFrm.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c94d",
       "id": "iIMU-id2",
       "name": "Weird West Definitive Edition ",
@@ -19231,8 +19230,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-28T18:23:03.229Z",
-      "oldImage": "Weird West Definitive Edition.jpeg"
+      "updatedAt": "2026-03-28T18:23:05.844Z",
+      "oldImage": "Weird West Definitive Edition.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c94f",
