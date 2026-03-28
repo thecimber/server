@@ -16181,7 +16181,6 @@
       "oldImage": "Guilty Gear Strive.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c83b",
       "id": "6LVGEIcv",
       "name": "How To Survive 2",
@@ -16205,8 +16204,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-03-28T18:20:17.805Z",
-      "oldImage": "GEnKOviTuI.jpeg"
+      "updatedAt": "2026-03-28T18:20:21.084Z",
+      "oldImage": "GEnKOviTuI.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df69e798a708ef8c839",
