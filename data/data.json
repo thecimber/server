@@ -18963,13 +18963,14 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
-        28
+        28,
+        35
       ],
       "size": "1.7 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1btMYhHKcKdjVNuNuTeG_RQ",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1uN7q8wp6_R6QUHZf6u6www",
           "_id": "68e08df79e798a708ef8c901"
         }
       ],
@@ -18977,7 +18978,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-28T18:26:25.717Z",
       "oldImage": "Tactical Breach wizards.jpeg"
     },
     {
