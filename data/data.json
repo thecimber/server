@@ -12960,13 +12960,14 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
+        3,
         8,
-        32
+        12
       ],
       "size": "3.0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1fFcrIRSAC0dEvmkFAWH6jA",
           "_id": "68e08df59e798a708ef8c77f"
         }
@@ -12975,7 +12976,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-28T18:36:52.862Z",
       "oldImage": "Assassins-Creed-Chronicles-India.jpg"
     },
     {
