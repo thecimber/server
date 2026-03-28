@@ -23144,7 +23144,6 @@
       "oldImage": "GpCwDD-3Ri.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca10",
       "id": "sPcQyJ0K",
       "name": "Kane And Lynch Dog Days 2",
@@ -23167,8 +23166,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-03-28T18:28:31.711Z",
-      "oldImage": "6xbxraWhO_.jpg"
+      "updatedAt": "2026-03-28T18:28:34.116Z",
+      "oldImage": "6xbxraWhO_.jpg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca12",
