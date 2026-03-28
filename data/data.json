@@ -19961,8 +19961,10 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        2,
         35,
-        2
+        81,
+        82
       ],
       "size": "2.5 Gb",
       "downloadMethods": [
@@ -19976,7 +19978,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-28T18:24:42.317Z",
+      "updatedAt": "2026-03-28T18:25:48.164Z",
       "oldImage": "UltraKill.jpeg",
       "isUpdate": true
     },
@@ -29746,6 +29748,22 @@
       "name": "Vida",
       "createdAt": "2026-03-25T02:57:32.899Z",
       "updatedAt": "2026-03-25T02:57:32.899Z",
+      "__v": 0
+    },
+    {
+      "_id": "69c81d0ff97f1bcce3526812",
+      "id": 81,
+      "name": "Frenético",
+      "createdAt": "2026-03-28T18:25:19.232Z",
+      "updatedAt": "2026-03-28T18:25:19.232Z",
+      "__v": 0
+    },
+    {
+      "_id": "69c81d19f97f1bcce3526817",
+      "id": 82,
+      "name": "Retro",
+      "createdAt": "2026-03-28T18:25:29.337Z",
+      "updatedAt": "2026-03-28T18:25:29.337Z",
       "__v": 0
     }
   ],
