@@ -19954,7 +19954,6 @@
       "oldImage": "Twilight Monk.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c93f",
       "id": "9KMWN1Fs",
       "name": "UltraKill",
@@ -19977,8 +19976,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-28T18:24:40.047Z",
-      "oldImage": "UltraKill.jpeg"
+      "updatedAt": "2026-03-28T18:24:42.317Z",
+      "oldImage": "UltraKill.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c941",
