@@ -13734,13 +13734,14 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
-        7,
-        12
+        3,
+        12,
+        8
       ],
       "size": "46.9 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1rDc45r40UmIrq1jo_XHvBA",
           "_id": "68e08df59e798a708ef8c783"
         }
@@ -13749,7 +13750,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.892Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-28T18:35:55.970Z",
       "oldImage": "Assassins-Creed-Origins.jpg"
     },
     {
