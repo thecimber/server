@@ -16080,13 +16080,14 @@
       "genre": [
         1,
         17,
-        25
+        71,
+        3
       ],
       "size": "405 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1pRmdWdQ7oAs4dqCHeju1bg",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Q-Z5pb1JMats0aAYIcjGYw",
           "_id": "68e08df69e798a708ef8c848"
         }
       ],
@@ -16094,7 +16095,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-28T18:28:00.382Z",
       "oldImage": "Karma Zoo.jpeg"
     },
     {
