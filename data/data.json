@@ -20011,7 +20011,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c943",
       "id": "viX0zya6",
       "name": "Used Cars Simulator ",
@@ -20035,8 +20034,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-28T18:24:03.471Z",
-      "oldImage": "User Cars Simulator.jpeg"
+      "updatedAt": "2026-03-28T18:24:06.377Z",
+      "oldImage": "User Cars Simulator.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
