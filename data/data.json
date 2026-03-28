@@ -19325,7 +19325,6 @@
       "oldImage": "xenoverse 2 [última Actualización].jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c955",
       "id": "zzoy07h-",
       "name": "Yakuza Zero 0 v4.0",
@@ -19349,8 +19348,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-28T18:29:10.545Z",
-      "oldImage": "M3VFClooBJ.jpg"
+      "updatedAt": "2026-03-28T18:29:12.880Z",
+      "oldImage": "M3VFClooBJ.jpg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c957",
