@@ -24069,7 +24069,6 @@
       "oldImage": "FzMV69PJNo.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca8e",
       "id": "Exy190Oj",
       "name": "Hitman Absolution ",
@@ -24093,8 +24092,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-28T18:22:24.307Z",
-      "oldImage": "dPVJkMICsh.jpg"
+      "updatedAt": "2026-03-28T18:22:27.742Z",
+      "oldImage": "dPVJkMICsh.jpg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca8a",
