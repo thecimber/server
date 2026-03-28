@@ -13157,12 +13157,13 @@
       "genre": [
         14,
         20,
-        31
+        31,
+        8
       ],
       "size": "19.4 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1hagfMmNew0Z2J1kT2FvuVw",
           "_id": "68e08df59e798a708ef8c771"
         }
@@ -13171,7 +13172,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-03-28T18:37:24.283Z",
       "oldImage": "Alien Isolation.jpg"
     },
     {
