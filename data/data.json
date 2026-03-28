@@ -18100,60 +18100,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c900",
-      "id": "TfYxwjRF",
-      "name": "Tactical Breach wizards",
-      "image": "Tactical Breach wizards.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        28
-      ],
-      "size": "1.7 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1btMYhHKcKdjVNuNuTeG_RQ",
-          "_id": "68e08df79e798a708ef8c901"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Tactical Breach wizards.jpeg"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c90c",
-      "id": "zE9sb737",
-      "name": "The Coin Game ",
-      "image": "The Coin Game.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        19,
-        39
-      ],
-      "size": "1.6 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/11PhIqAreCIjCh4KpJ197_A",
-          "_id": "68e08df79e798a708ef8c90d"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-17T21:29:44.209Z",
-      "oldImage": "The Coin Game.jpeg",
-      "isUpdate": true
-    },
-    {
       "_id": "68e08df79e798a708ef8c902",
       "id": "kdbayr9l",
       "name": "Terratech Worlds",
@@ -18178,6 +18124,33 @@
       "createdAt": "2025-10-04T03:01:11.296Z",
       "updatedAt": "2026-03-18T15:11:27.519Z",
       "oldImage": "n5nZh44aE5.jpeg",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c90e",
+      "id": "1tfmlF2z",
+      "name": "The Crush House",
+      "image": "The Crush House.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        19,
+        23
+      ],
+      "size": "672 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1i6YZB2YCSta91CvlMQcq8A",
+          "_id": "68e08df79e798a708ef8c90f"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.296Z",
+      "updatedAt": "2026-03-17T21:30:03.788Z",
+      "oldImage": "The Crush House.jpeg",
       "isUpdate": true
     },
     {
@@ -18290,30 +18263,30 @@
       "oldImage": "The Binding Of Isaac Afterbirthpc.jpeg"
     },
     {
-      "_id": "68e08df79e798a708ef8c90e",
-      "id": "1tfmlF2z",
-      "name": "The Crush House",
-      "image": "The Crush House.webp",
+      "_id": "68e08df79e798a708ef8c90c",
+      "id": "zE9sb737",
+      "name": "The Coin Game ",
+      "image": "The Coin Game.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         19,
-        23
+        39
       ],
-      "size": "672 Mb",
+      "size": "1.6 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1i6YZB2YCSta91CvlMQcq8A",
-          "_id": "68e08df79e798a708ef8c90f"
+          "link": "https://1024terabox.com/s/11PhIqAreCIjCh4KpJ197_A",
+          "_id": "68e08df79e798a708ef8c90d"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-17T21:30:03.788Z",
-      "oldImage": "The Crush House.jpeg",
+      "updatedAt": "2026-03-17T21:29:44.209Z",
+      "oldImage": "The Coin Game.jpeg",
       "isUpdate": true
     },
     {
@@ -18648,32 +18621,31 @@
       "oldImage": "G5cX-lTgQC.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c8fc",
-      "id": "pjGfvH3v",
-      "name": "Sunset Motel v1.0",
-      "image": "yrUN8wEXNP.webp",
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c8fe",
+      "id": "Hfl-6aQm",
+      "name": "super Market simulator ",
+      "image": "uper Market simulator .webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         19,
-        51,
-        28
+        40
       ],
-      "size": "4.1 Gb",
+      "size": "2.1 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1mEz9hm9BPppdbbPn9smURg",
-          "_id": "68e08df79e798a708ef8c8fd"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1Y0f-9RRSfcZfdFiQBiU6eg",
+          "_id": "68e08df79e798a708ef8c8ff"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-13T04:33:02.957Z",
-      "oldImage": "yrUN8wEXNP.jpg",
-      "isUpdate": true
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "uper Market simulator .jpeg"
     },
     {
       "_id": "68e08df79e798a708ef8c8d6",
@@ -18785,33 +18757,6 @@
       "updatedAt": "2026-03-13T04:41:28.691Z",
       "oldImage": "Sephiria.jpeg",
       "isUpdate": true
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c8e0",
-      "id": "g1VdY5sk",
-      "name": "Shadow Gate 2",
-      "image": "Shadow Gate 2.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        34
-      ],
-      "size": "7.6 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1ICiX1Lq37QfMjrBRGFBXDA",
-          "_id": "68e08df79e798a708ef8c8e1"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Shadow Gate 2.jpeg"
     },
     {
       "isUpdate": false,
@@ -18953,52 +18898,79 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df79e798a708ef8c8ee",
-      "id": "NAcjzGTX",
-      "name": "Stationeers",
-      "image": "Stationeers.webp",
+      "_id": "68e08df79e798a708ef8c8ec",
+      "id": "BXSmEPuq",
+      "name": "Startup Company v1.24",
+      "image": "xtA7pBqhIq.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        21,
         19,
-        50,
-        64
+        51,
+        28
       ],
-      "size": "1.7 Gb",
+      "size": "332 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1u4HvFKU07_wTGV3CEi_f1Q",
-          "_id": "68e08df79e798a708ef8c8ef"
+          "link": "https://1024terabox.com/s/1R-Qjr02v0clxiysIEQXzbA",
+          "_id": "68e08df79e798a708ef8c8ed"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-13T04:45:45.260Z",
-      "oldImage": "Stationeers.jpeg",
+      "updatedAt": "2026-03-13T04:44:31.128Z",
+      "oldImage": "xtA7pBqhIq.jpg",
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c8fe",
-      "id": "Hfl-6aQm",
-      "name": "super Market simulator ",
-      "image": "uper Market simulator .webp",
+      "_id": "68e08df79e798a708ef8c8fc",
+      "id": "pjGfvH3v",
+      "name": "Sunset Motel v1.0",
+      "image": "yrUN8wEXNP.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         19,
-        40
+        51,
+        28
       ],
-      "size": "2.1 Gb",
+      "size": "4.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1mEz9hm9BPppdbbPn9smURg",
+          "_id": "68e08df79e798a708ef8c8fd"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.296Z",
+      "updatedAt": "2026-03-13T04:33:02.957Z",
+      "oldImage": "yrUN8wEXNP.jpg",
+      "isUpdate": true
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c900",
+      "id": "TfYxwjRF",
+      "name": "Tactical Breach wizards",
+      "image": "Tactical Breach wizards.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        28
+      ],
+      "size": "1.7 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Y0f-9RRSfcZfdFiQBiU6eg",
-          "_id": "68e08df79e798a708ef8c8ff"
+          "link": "https://1024terabox.com/s/1btMYhHKcKdjVNuNuTeG_RQ",
+          "_id": "68e08df79e798a708ef8c901"
         }
       ],
       "emulatorId": 2,
@@ -19006,7 +18978,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "uper Market simulator .jpeg"
+      "oldImage": "Tactical Breach wizards.jpeg"
     },
     {
       "_id": "68e08df79e798a708ef8c8fa",
@@ -19124,31 +19096,32 @@
       "oldImage": "Street fighter V Champion Edition.jpeg"
     },
     {
-      "_id": "68e08df79e798a708ef8c8ec",
-      "id": "BXSmEPuq",
-      "name": "Startup Company v1.24",
-      "image": "xtA7pBqhIq.webp",
+      "_id": "68e08df79e798a708ef8c8ee",
+      "id": "NAcjzGTX",
+      "name": "Stationeers",
+      "image": "Stationeers.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        21,
         19,
-        51,
-        28
+        50,
+        64
       ],
-      "size": "332 Mb",
+      "size": "1.7 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1R-Qjr02v0clxiysIEQXzbA",
-          "_id": "68e08df79e798a708ef8c8ed"
+          "link": "https://1024terabox.com/s/1u4HvFKU07_wTGV3CEi_f1Q",
+          "_id": "68e08df79e798a708ef8c8ef"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-13T04:44:31.128Z",
-      "oldImage": "xtA7pBqhIq.jpg",
+      "updatedAt": "2026-03-13T04:45:45.260Z",
+      "oldImage": "Stationeers.jpeg",
       "isUpdate": true
     },
     {
@@ -19232,6 +19205,34 @@
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
       "oldImage": "wTgPG7EFrm.jpg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c94d",
+      "id": "iIMU-id2",
+      "name": "Weird West Definitive Edition ",
+      "image": "Weird West Definitive Edition.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        16,
+        41
+      ],
+      "size": "7.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1Q-sS_9bDUbrRHasMjoS1wg",
+          "_id": "68e08df79e798a708ef8c94e"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Weird West Definitive Edition.jpeg"
     },
     {
       "_id": "68e08df79e798a708ef8c94f",
@@ -19376,58 +19377,31 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c94d",
-      "id": "iIMU-id2",
-      "name": "Weird West Definitive Edition ",
-      "image": "Weird West Definitive Edition.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        16,
-        41
-      ],
-      "size": "7.4 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Q-sS_9bDUbrRHasMjoS1wg",
-          "_id": "68e08df79e798a708ef8c94e"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Weird West Definitive Edition.jpeg"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c95b",
-      "id": "qPktfvXg",
-      "name": "Dirt Trackin 3 APK v1.5",
-      "image": "r64rtr44.webp",
+      "_id": "68e08df79e798a708ef8c959",
+      "id": "JX8A1iZY",
+      "name": "Monster Train APK v2.3.5",
+      "image": "LVrJAnSy3h.webp",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
-        4,
-        13
+        16,
+        25,
+        28
       ],
-      "size": "329 Mb",
+      "size": "369 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1WWNbDHEtOJKmDDYs8XjNnQ",
-          "_id": "68e08df79e798a708ef8c95c"
+          "link": "https://1024terabox.com/s/1pVCGYX7Sew-4ccsA24JHbA",
+          "_id": "68e08df79e798a708ef8c95a"
         }
       ],
       "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-15T15:15:12.222Z",
-      "oldImage": "r64rtr44.jpg",
+      "updatedAt": "2026-03-15T15:33:39.746Z",
+      "oldImage": "LVrJAnSy3h.jpg",
       "isUpdate": true
     },
     {
@@ -19647,31 +19621,30 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df79e798a708ef8c959",
-      "id": "JX8A1iZY",
-      "name": "Monster Train APK v2.3.5",
-      "image": "LVrJAnSy3h.webp",
+      "_id": "68e08df79e798a708ef8c95b",
+      "id": "qPktfvXg",
+      "name": "Dirt Trackin 3 APK v1.5",
+      "image": "r64rtr44.webp",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        25,
-        28
+        4,
+        13
       ],
-      "size": "369 Mb",
+      "size": "329 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1pVCGYX7Sew-4ccsA24JHbA",
-          "_id": "68e08df79e798a708ef8c95a"
+          "link": "https://1024terabox.com/s/1WWNbDHEtOJKmDDYs8XjNnQ",
+          "_id": "68e08df79e798a708ef8c95c"
         }
       ],
       "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-15T15:33:39.746Z",
-      "oldImage": "LVrJAnSy3h.jpg",
+      "updatedAt": "2026-03-15T15:15:12.222Z",
+      "oldImage": "r64rtr44.jpg",
       "isUpdate": true
     },
     {
@@ -21743,34 +21716,6 @@
       "oldImage": "8CBsgsu43sguyO.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c9df",
-      "id": "nwjO7MgN",
-      "name": "DOOM ETERNAL ",
-      "image": "G7eHri7c_B.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        11,
-        31
-      ],
-      "size": "90.1 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1YOR-vU5WNHZh50DqAhL9aw",
-          "_id": "68e08df79e798a708ef8c9e0"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "G7eHri7c_B.jpg"
-    },
-    {
       "_id": "68e08df79e798a708ef8c9e9",
       "id": "-g4hlIIL",
       "name": "LEGO MARVEL AVENGERS",
@@ -21799,6 +21744,34 @@
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
       "oldImage": "8CB8u30uyO.jpg"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9e1",
+      "id": "NYf5Q7Ld",
+      "name": "DOOM 2016",
+      "image": "OOvlCqvgKg.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        11,
+        31,
+        2
+      ],
+      "size": "65.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1_aS4bu9LXc4SeqK36PBcGA",
+          "_id": "68e08df79e798a708ef8c9e2"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "OOvlCqvgKg.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c9e7",
@@ -21944,23 +21917,23 @@
       "oldImage": "XWuJ5jNuRu.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c9e1",
-      "id": "NYf5Q7Ld",
-      "name": "DOOM 2016",
-      "image": "OOvlCqvgKg.webp",
+      "_id": "68e08df79e798a708ef8c9df",
+      "id": "nwjO7MgN",
+      "name": "DOOM ETERNAL ",
+      "image": "G7eHri7c_B.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        2,
         11,
-        31,
-        2
+        31
       ],
-      "size": "65.8 Gb",
+      "size": "90.1 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1_aS4bu9LXc4SeqK36PBcGA",
-          "_id": "68e08df79e798a708ef8c9e2"
+          "link": "https://1024terabox.com/s/1YOR-vU5WNHZh50DqAhL9aw",
+          "_id": "68e08df79e798a708ef8c9e0"
         }
       ],
       "emulatorId": 2,
@@ -21969,7 +21942,7 @@
       "createdAt": "2025-10-04T03:01:11.689Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "OOvlCqvgKg.jpg"
+      "oldImage": "G7eHri7c_B.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c9dd",
