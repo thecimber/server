@@ -18964,7 +18964,8 @@
       "genre": [
         2,
         28,
-        35
+        35,
+        83
       ],
       "size": "1.7 Gb",
       "downloadMethods": [
@@ -18978,7 +18979,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-28T18:26:25.717Z",
+      "updatedAt": "2026-03-28T18:26:59.834Z",
       "oldImage": "Tactical Breach wizards.jpeg"
     },
     {
@@ -29765,6 +29766,14 @@
       "name": "Retro",
       "createdAt": "2026-03-28T18:25:29.337Z",
       "updatedAt": "2026-03-28T18:25:29.337Z",
+      "__v": 0
+    },
+    {
+      "_id": "69c81d5df97f1bcce3528519",
+      "id": 83,
+      "name": "Táctica",
+      "createdAt": "2026-03-28T18:26:37.870Z",
+      "updatedAt": "2026-03-28T18:26:37.870Z",
       "__v": 0
     }
   ],
