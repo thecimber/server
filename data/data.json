@@ -19759,33 +19759,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c94b",
-      "id": "YqdTOdFE",
-      "name": "Voidborn",
-      "image": "Voidborn.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        16,
-        27
-      ],
-      "size": "1.7 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/13TAe-VV0RdQLeTelW0oKpA",
-          "_id": "68e08df79e798a708ef8c94c"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Voidborn.jpeg"
-    },
-    {
       "_id": "68e08df79e798a708ef8c92b",
       "id": "ixny0EUy",
       "name": "The Walking Dead The Final Season [The Telltale Series] ",
@@ -19811,6 +19784,33 @@
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
       "oldImage": "xOSy3EjIfS.jpg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c94b",
+      "id": "YqdTOdFE",
+      "name": "Voidborn",
+      "image": "Voidborn.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        16,
+        27
+      ],
+      "size": "1.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/13TAe-VV0RdQLeTelW0oKpA",
+          "_id": "68e08df79e798a708ef8c94c"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Voidborn.jpeg"
     },
     {
       "_id": "68e08df79e798a708ef8c92d",
@@ -20205,34 +20205,6 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df79e798a708ef8c9a3",
-      "id": "3v-szlTu",
-      "name": "Teenage Mutant Ninja Turtles: Shredder’s Revenge PC Full Español",
-      "image": "ZpwM2OT3Ts.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        32
-      ],
-      "size": "798 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1tImSeab8W2v-KRsqxxTWPg",
-          "_id": "68e08df79e798a708ef8c9a4"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-17T21:24:18.169Z",
-      "oldImage": "ZpwM2OT3Ts.jpg",
-      "isUpdate": true
-    },
-    {
       "_id": "68e08df79e798a708ef8c99f",
       "id": "t5-aWX5B",
       "name": "Teenage Mutant Ninja Turtles Mutants Unleashed PC Full Español",
@@ -20258,6 +20230,34 @@
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-17T21:23:04.237Z",
       "oldImage": "L2eg0sL7fm.jpg",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9a3",
+      "id": "3v-szlTu",
+      "name": "Teenage Mutant Ninja Turtles: Shredder’s Revenge PC Full Español",
+      "image": "ZpwM2OT3Ts.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        32
+      ],
+      "size": "798 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1tImSeab8W2v-KRsqxxTWPg",
+          "_id": "68e08df79e798a708ef8c9a4"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-03-17T21:24:18.169Z",
+      "oldImage": "ZpwM2OT3Ts.jpg",
       "isUpdate": true
     },
     {
@@ -20431,34 +20431,6 @@
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "a_MnlN5lWC.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c993",
-      "id": "pzbDnzpb",
-      "name": "FIFA 08 ",
-      "image": "9bsgnR7hJI.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        4,
-        6,
-        19
-      ],
-      "size": "2.4 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1JLcNmjR9mG50l7Om30-qKw",
-          "_id": "68e08df79e798a708ef8c994"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "9bsgnR7hJI.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c9a5",
@@ -20690,30 +20662,32 @@
       "oldImage": "GZ_ofbyeMq.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c973",
-      "id": "EixQ8L-8",
-      "name": "Monster Hunter Stories ",
-      "image": "cJtR7WkEqF.webp",
+      "_id": "68e08df79e798a708ef8c971",
+      "id": "VZHGUH57",
+      "name": "Monster Hunter Stories 2 wings of ruin Deluxe Edition",
+      "image": "c-7t8tKdGa.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        41,
         16,
-        41
+        55,
+        56
       ],
-      "size": "8.2 Gb",
+      "size": "27.2 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1t0EYokYWI2qySFVdm4YgHg",
-          "_id": "68e08df79e798a708ef8c974"
+          "link": "https://1024terabox.com/s/1DVcIZ4qzKWpbyt3f8Jyl1A",
+          "_id": "68e08df79e798a708ef8c972"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-11T19:42:43.018Z",
-      "oldImage": "cJtR7WkEqF.jpg",
+      "updatedAt": "2026-03-10T01:15:09.996Z",
+      "oldImage": "c-7t8tKdGa.jpg",
       "isUpdate": true
     },
     {
@@ -20830,32 +20804,30 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df79e798a708ef8c971",
-      "id": "VZHGUH57",
-      "name": "Monster Hunter Stories 2 wings of ruin Deluxe Edition",
-      "image": "c-7t8tKdGa.webp",
+      "_id": "68e08df79e798a708ef8c973",
+      "id": "EixQ8L-8",
+      "name": "Monster Hunter Stories ",
+      "image": "cJtR7WkEqF.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        41,
         16,
-        55,
-        56
+        41
       ],
-      "size": "27.2 Gb",
+      "size": "8.2 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1DVcIZ4qzKWpbyt3f8Jyl1A",
-          "_id": "68e08df79e798a708ef8c972"
+          "link": "https://1024terabox.com/s/1t0EYokYWI2qySFVdm4YgHg",
+          "_id": "68e08df79e798a708ef8c974"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-10T01:15:09.996Z",
-      "oldImage": "c-7t8tKdGa.jpg",
+      "updatedAt": "2026-03-11T19:42:43.018Z",
+      "oldImage": "cJtR7WkEqF.jpg",
       "isUpdate": true
     },
     {
@@ -21770,34 +21742,6 @@
       "oldImage": "ydWe--Wcuu.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c9dd",
-      "id": "Civims3f",
-      "name": "LIES OF P ",
-      "image": "YWRPUPWraS.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        0
-      ],
-      "size": "58.6 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1swTQmRdqacv4nZ5Gezk9TA",
-          "_id": "68e08df79e798a708ef8c9de"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "YWRPUPWraS.jpg"
-    },
-    {
       "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9eb",
       "id": "-n42v4Im5n",
@@ -21824,6 +21768,34 @@
       "createdAt": "2025-10-04T03:01:11.689Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "8CBsgsu43sguyO.jpg"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9df",
+      "id": "nwjO7MgN",
+      "name": "DOOM ETERNAL ",
+      "image": "G7eHri7c_B.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        11,
+        31
+      ],
+      "size": "90.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1YOR-vU5WNHZh50DqAhL9aw",
+          "_id": "68e08df79e798a708ef8c9e0"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "G7eHri7c_B.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c9e9",
@@ -22027,23 +21999,23 @@
       "oldImage": "OOvlCqvgKg.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c9df",
-      "id": "nwjO7MgN",
-      "name": "DOOM ETERNAL ",
-      "image": "G7eHri7c_B.webp",
+      "_id": "68e08df79e798a708ef8c9dd",
+      "id": "Civims3f",
+      "name": "LIES OF P ",
+      "image": "YWRPUPWraS.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        11,
-        31
+        3,
+        0
       ],
-      "size": "90.1 Gb",
+      "size": "58.6 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1YOR-vU5WNHZh50DqAhL9aw",
-          "_id": "68e08df79e798a708ef8c9e0"
+          "link": "https://1024terabox.com/s/1swTQmRdqacv4nZ5Gezk9TA",
+          "_id": "68e08df79e798a708ef8c9de"
         }
       ],
       "emulatorId": 2,
@@ -22052,7 +22024,7 @@
       "createdAt": "2025-10-04T03:01:11.689Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "G7eHri7c_B.jpg"
+      "oldImage": "YWRPUPWraS.jpg"
     },
     {
       "isUpdate": false,
