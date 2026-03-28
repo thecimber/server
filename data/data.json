@@ -16070,7 +16070,6 @@
       "oldImage": "Manhunt 2.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c847",
       "id": "NTntFSmz",
       "name": "Karma Zoo",
@@ -16095,8 +16094,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-03-28T18:28:00.382Z",
-      "oldImage": "Karma Zoo.jpeg"
+      "updatedAt": "2026-03-28T18:28:07.718Z",
+      "oldImage": "Karma Zoo.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df69e798a708ef8c83f",
