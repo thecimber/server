@@ -29275,6 +29275,32 @@
       "createdAt": "2026-04-05T19:20:40.598Z",
       "updatedAt": "2026-04-05T19:20:40.598Z",
       "__v": 0
+    },
+    {
+      "_id": "69d2b64ef97f1bcce354dcb5",
+      "id": "vfGo7WEr",
+      "name": "Amped 3 ",
+      "image": "1775416909365-3df9b4e5.jpg",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        86
+      ],
+      "size": "6.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/14w5W0skv8yu4QpslKNvXfw",
+          "_id": "69d2b64ef97f1bcce354dcb6"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-04-05T19:21:50.089Z",
+      "updatedAt": "2026-04-05T19:21:50.089Z",
+      "__v": 0
     }
   ],
   "emulators": [
@@ -30139,6 +30165,14 @@
       "name": "Arcade",
       "createdAt": "2026-04-05T19:16:15.205Z",
       "updatedAt": "2026-04-05T19:16:15.205Z",
+      "__v": 0
+    },
+    {
+      "_id": "69d2b616f97f1bcce354dcac",
+      "id": 87,
+      "name": "Espionaje",
+      "createdAt": "2026-04-05T19:20:55.006Z",
+      "updatedAt": "2026-04-05T19:20:55.006Z",
       "__v": 0
     }
   ],
