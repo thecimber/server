@@ -28998,6 +28998,34 @@
       "createdAt": "2026-04-05T19:07:41.964Z",
       "updatedAt": "2026-04-05T19:07:41.964Z",
       "__v": 0
+    },
+    {
+      "_id": "69d2b353f97f1bcce3542d8d",
+      "id": "LdCZcbqG",
+      "name": "Ace Combat Assault Horizon ",
+      "image": "1775416146679-b17ef978.jpg",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        10,
+        19,
+        35
+      ],
+      "size": "7.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1e3VoKJJ6ieqzMBlL1GIvHg",
+          "_id": "69d2b353f97f1bcce3542d8e"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-04-05T19:09:07.430Z",
+      "updatedAt": "2026-04-05T19:09:07.430Z",
+      "__v": 0
     }
   ],
   "emulators": [
@@ -29974,6 +30002,15 @@
       "deleted": false,
       "createdAt": "2026-04-05T19:06:45.397Z",
       "updatedAt": "2026-04-05T19:06:45.397Z",
+      "__v": 0
+    },
+    {
+      "_id": "69d2b307f97f1bcce3542d87",
+      "id": 15,
+      "name": "Aéreo",
+      "deleted": false,
+      "createdAt": "2026-04-05T19:07:51.535Z",
+      "updatedAt": "2026-04-05T19:07:51.535Z",
       "__v": 0
     }
   ]
