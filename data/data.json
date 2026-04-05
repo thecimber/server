@@ -29330,6 +29330,34 @@
       "createdAt": "2026-04-05T19:23:28.193Z",
       "updatedAt": "2026-04-05T19:23:28.193Z",
       "__v": 0
+    },
+    {
+      "_id": "69d2b6e6f97f1bcce3550adc",
+      "id": "-_TB7h65",
+      "name": "Angry Birds Trilogy ",
+      "image": "1775417061926-dfe697d0.jpg",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        49,
+        52,
+        70,
+        86
+      ],
+      "size": "1.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1YlA-OXfPucTf8LSWsvMdfg",
+          "_id": "69d2b6e6f97f1bcce3550add"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-04-05T19:24:22.676Z",
+      "updatedAt": "2026-04-05T19:24:22.676Z",
+      "__v": 0
     }
   ],
   "emulators": [
