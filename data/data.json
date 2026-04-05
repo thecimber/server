@@ -29055,6 +29055,33 @@
       "createdAt": "2026-04-05T19:11:02.481Z",
       "updatedAt": "2026-04-05T19:11:02.481Z",
       "__v": 0
+    },
+    {
+      "_id": "69d2b451f97f1bcce35467bd",
+      "id": "nFmcLbwV",
+      "name": "Adventure Time Finn Y Jake Investigations",
+      "image": "1775416400627-1f516120.jpg",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        1
+      ],
+      "size": "1.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1CnK_cGhnSyriOc2Sjp-fYA",
+          "_id": "69d2b451f97f1bcce35467be"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-04-05T19:13:21.368Z",
+      "updatedAt": "2026-04-05T19:13:21.368Z",
+      "__v": 0
     }
   ],
   "emulators": [
