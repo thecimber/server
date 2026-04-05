@@ -29220,6 +29220,34 @@
       "createdAt": "2026-04-05T19:18:35.683Z",
       "updatedAt": "2026-04-05T19:18:35.683Z",
       "__v": 0
+    },
+    {
+      "_id": "69d2b5d5f97f1bcce354c38e",
+      "id": "qO-0p6P5",
+      "name": "Alone in The Dark ",
+      "image": "1775416789121-059032e5.jpg",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        31,
+        21,
+        3
+      ],
+      "size": "5.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1e7GtkOI5e9TWY_ub2wG8EQ",
+          "_id": "69d2b5d5f97f1bcce354c38f"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-04-05T19:19:49.844Z",
+      "updatedAt": "2026-04-05T19:19:49.844Z",
+      "__v": 0
     }
   ],
   "emulators": [
