@@ -29109,6 +29109,33 @@
       "createdAt": "2026-04-05T19:14:07.585Z",
       "updatedAt": "2026-04-05T19:14:07.585Z",
       "__v": 0
+    },
+    {
+      "_id": "69d2b4baf97f1bcce35480bc",
+      "id": "WlwHIH44",
+      "name": "Afro Samurai ",
+      "image": "1775416505358-5bbc72fa.jpg",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        27
+      ],
+      "size": "3.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/18VnAoCptZxB0IW8ZNBbOjA",
+          "_id": "69d2b4baf97f1bcce35480bd"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-04-05T19:15:06.259Z",
+      "updatedAt": "2026-04-05T19:15:06.259Z",
+      "__v": 0
     }
   ],
   "emulators": [
