@@ -23069,6 +23069,33 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca70",
+      "id": "gZITCQMN",
+      "name": "Persona 5 Strikers ",
+      "image": "1rrKc_aAWz.webp",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        16,
+        19
+      ],
+      "size": "15,1 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1F0fePixvY_y2dgNqxViNcw",
+          "_id": "68e08df89e798a708ef8ca71"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "1rrKc_aAWz.jpg"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca62",
       "id": "1LvWLfpn",
       "name": "SONIC LOST WORLD (USA) (DLC) (v48)",
@@ -23093,33 +23120,6 @@
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "zGSxPN8DeE.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca4e",
-      "id": "nrjtR9YC",
-      "name": "PAPER MARIO Color Splash (USA)",
-      "image": "eyNJoMCYkD.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        16
-      ],
-      "size": "6,7 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1pCLTTzcI7ZKn7BT6MLLc-Q",
-          "_id": "68e08df89e798a708ef8ca4f"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "eyNJoMCYkD.jpg"
     },
     {
       "isUpdate": false,
@@ -23557,30 +23557,30 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca70",
-      "id": "gZITCQMN",
-      "name": "Persona 5 Strikers ",
-      "image": "1rrKc_aAWz.webp",
-      "format": 2,
+      "_id": "68e08df89e798a708ef8ca4e",
+      "id": "nrjtR9YC",
+      "name": "PAPER MARIO Color Splash (USA)",
+      "image": "eyNJoMCYkD.webp",
+      "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        19
+        7,
+        16
       ],
-      "size": "15,1 Gb",
+      "size": "6,7 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1F0fePixvY_y2dgNqxViNcw",
-          "_id": "68e08df89e798a708ef8ca71"
+          "link": "https://1024terabox.com/s/1pCLTTzcI7ZKn7BT6MLLc-Q",
+          "_id": "68e08df89e798a708ef8ca4f"
         }
       ],
-      "emulatorId": 8,
+      "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "1rrKc_aAWz.jpg"
+      "oldImage": "eyNJoMCYkD.jpg"
     },
     {
       "isUpdate": false,
@@ -29302,6 +29302,34 @@
       "createdAt": "2026-04-05T19:21:50.089Z",
       "updatedAt": "2026-04-05T19:21:50.089Z",
       "__v": 0
+    },
+    {
+      "_id": "69d2b6b0f97f1bcce354fe45",
+      "id": "cj7UHTH6",
+      "name": "Angry Birds Star Wars",
+      "image": "1775417007461-b0f98fb2.jpg",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        49,
+        52,
+        70,
+        86
+      ],
+      "size": "1.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/12XkbdH6T03Gc1rWCE1kerA",
+          "_id": "69d2b6b0f97f1bcce354fe46"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-04-05T19:23:28.193Z",
+      "updatedAt": "2026-04-05T19:23:28.193Z",
+      "__v": 0
     }
   ],
   "emulators": [
@@ -30174,6 +30202,14 @@
       "name": "Espionaje",
       "createdAt": "2026-04-05T19:20:55.006Z",
       "updatedAt": "2026-04-05T19:20:55.006Z",
+      "__v": 0
+    },
+    {
+      "_id": "69d2b66af97f1bcce354f5db",
+      "id": 88,
+      "name": "Snowboard",
+      "createdAt": "2026-04-05T19:22:18.204Z",
+      "updatedAt": "2026-04-05T19:22:18.204Z",
       "__v": 0
     }
   ],
