@@ -29610,6 +29610,35 @@
       "createdAt": "2026-04-05T19:36:18.580Z",
       "updatedAt": "2026-04-05T19:36:18.580Z",
       "__v": 0
+    },
+    {
+      "_id": "69da8ab160af684b008b1c28",
+      "id": "gFR0b6oO",
+      "name": "Resident Evil Requiem",
+      "image": "1775930030823-395efa1d.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        31,
+        21,
+        48,
+        63,
+        75
+      ],
+      "size": "74 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/146gfss9eHIjmsE04H16D_w",
+          "_id": "69da8ab160af684b008b1c29"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-04-11T17:53:53.020Z",
+      "updatedAt": "2026-04-11T17:53:53.020Z",
+      "__v": 0
     }
   ],
   "emulators": [
