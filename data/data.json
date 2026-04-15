@@ -29678,7 +29678,8 @@
       "genre": [
         2,
         3,
-        27
+        27,
+        91
       ],
       "size": "36 Gb",
       "downloadMethods": [
@@ -29692,7 +29693,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-04-15T22:28:11.015Z",
-      "updatedAt": "2026-04-15T22:28:11.015Z",
+      "updatedAt": "2026-04-15T22:28:39.815Z",
       "__v": 0
     }
   ],
@@ -30590,6 +30591,14 @@
       "name": "Pixel Art",
       "createdAt": "2026-04-15T20:38:19.730Z",
       "updatedAt": "2026-04-15T20:38:19.730Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e0110a60af684b008b76be",
+      "id": 91,
+      "name": "Mitología",
+      "createdAt": "2026-04-15T22:28:26.114Z",
+      "updatedAt": "2026-04-15T22:28:26.114Z",
       "__v": 0
     }
   ],
