@@ -29667,6 +29667,33 @@
       "createdAt": "2026-04-15T20:37:23.939Z",
       "updatedAt": "2026-04-15T20:38:33.435Z",
       "__v": 0
+    },
+    {
+      "_id": "69e010fb60af684b008b69fe",
+      "id": "84sreV0r",
+      "name": "God Of War 2018 ",
+      "image": "1776292089962-76f0ce55",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        27
+      ],
+      "size": "36 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Yif6Sy9YSfvZWMn95CxdKQ",
+          "_id": "69e010fb60af684b008b69ff"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-04-15T22:28:11.015Z",
+      "updatedAt": "2026-04-15T22:28:11.015Z",
+      "__v": 0
     }
   ],
   "emulators": [
