@@ -29704,7 +29704,7 @@
       "format": 8,
       "language": "Multi-Idioma",
       "genre": [
-        19
+        92
       ],
       "size": "7 Gb",
       "downloadMethods": [
@@ -29718,7 +29718,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-04-17T19:19:37.645Z",
-      "updatedAt": "2026-04-17T19:19:37.645Z",
+      "updatedAt": "2026-04-17T19:20:08.727Z",
       "__v": 0
     }
   ],
@@ -30624,6 +30624,14 @@
       "name": "Mitología",
       "createdAt": "2026-04-15T22:28:26.114Z",
       "updatedAt": "2026-04-15T22:28:26.114Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e287d660af684b008ba4d1",
+      "id": 92,
+      "name": "Simulación social ",
+      "createdAt": "2026-04-17T19:19:50.936Z",
+      "updatedAt": "2026-04-17T19:19:50.936Z",
       "__v": 0
     }
   ],
