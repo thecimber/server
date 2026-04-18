@@ -29720,6 +29720,34 @@
       "createdAt": "2026-04-17T19:19:37.645Z",
       "updatedAt": "2026-04-17T19:20:08.727Z",
       "__v": 0
+    },
+    {
+      "_id": "69e2ec8c60af684b008bbbe4",
+      "id": "ZKnOP6dV",
+      "name": "Resident Evil 4 Remake",
+      "image": "1776479371810-444059c5.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        21,
+        31,
+        48
+      ],
+      "size": "72 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1HYW69x0aHkQxTAT8orqRcg",
+          "_id": "69e2ec8c60af684b008bbbe5"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-04-18T02:29:32.728Z",
+      "updatedAt": "2026-04-18T02:29:32.728Z",
+      "__v": 0
     }
   ],
   "emulators": [
