@@ -10085,7 +10085,8 @@
       "language": "Multi-Idioma",
       "genre": [
         49,
-        70
+        70,
+        97
       ],
       "size": "1.5 Gb",
       "downloadMethods": [
@@ -10099,7 +10100,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:28:45.852Z",
+      "updatedAt": "2026-04-21T02:29:22.980Z",
       "oldImage": "A Little to the Left.jpeg"
     },
     {
@@ -30667,6 +30668,14 @@
       "name": "Romance",
       "createdAt": "2026-04-21T02:27:30.835Z",
       "updatedAt": "2026-04-21T02:27:30.835Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6e0ea60af684b008ca751",
+      "id": 97,
+      "name": "Relajante",
+      "createdAt": "2026-04-21T02:28:58.968Z",
+      "updatedAt": "2026-04-21T02:28:58.968Z",
       "__v": 0
     }
   ],
