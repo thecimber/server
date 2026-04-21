@@ -10505,8 +10505,8 @@
       "genre": [
         3,
         9,
-        34,
-        21
+        21,
+        99
       ],
       "size": "1.2 GB",
       "downloadMethods": [
@@ -10520,7 +10520,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:36:45.209Z",
+      "updatedAt": "2026-04-21T02:37:19.714Z",
       "oldImage": "Caravan SandWitch.jpeg",
       "isUpdate": true
     },
@@ -30691,6 +30691,14 @@
       "name": "Alquimia",
       "createdAt": "2026-04-21T02:30:05.411Z",
       "updatedAt": "2026-04-21T02:30:05.411Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6e2c860af684b008d518f",
+      "id": 99,
+      "name": "Narrativa",
+      "createdAt": "2026-04-21T02:36:56.134Z",
+      "updatedAt": "2026-04-21T02:36:56.134Z",
       "__v": 0
     }
   ],
