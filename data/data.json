@@ -7060,10 +7060,10 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c5b0",
-      "id": "-NbifF13",
-      "name": "Darksiders warmastered edition",
-      "image": "Darksiders-warmastered-edition.webp",
+      "_id": "68e08df49e798a708ef8c5ae",
+      "id": "wps6Z3St",
+      "name": "Darksiders 2",
+      "image": "Darksiders-2.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
@@ -7071,12 +7071,12 @@
         7,
         16
       ],
-      "size": "11.0 Gb",
+      "size": "8.5 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://terabox.com/s/12OTOPbDS-uURekMULY-86A",
-          "_id": "68e08df49e798a708ef8c5b1"
+          "link": "https://1024terabox.com/s/1XjcKt8MY6KXdcphyGZugtA",
+          "_id": "68e08df49e798a708ef8c5af"
         }
       ],
       "emulatorId": 5,
@@ -7084,7 +7084,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.891Z",
       "updatedAt": "2026-03-06T03:44:02.431Z",
-      "oldImage": "Darksiders-warmastered-edition.jpg"
+      "oldImage": "Darksiders-2.jpg"
     },
     {
       "isUpdate": false,
@@ -7287,6 +7287,34 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c5b0",
+      "id": "-NbifF13",
+      "name": "Darksiders warmastered edition",
+      "image": "Darksiders-warmastered-edition.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        7,
+        16
+      ],
+      "size": "11.0 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://terabox.com/s/12OTOPbDS-uURekMULY-86A",
+          "_id": "68e08df49e798a708ef8c5b1"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.891Z",
+      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "oldImage": "Darksiders-warmastered-edition.jpg"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c5a8",
       "id": "_zqglHOv",
       "name": "Call Of Duty Ghosts",
@@ -7312,34 +7340,6 @@
       "createdAt": "2025-10-04T03:01:08.891Z",
       "updatedAt": "2026-03-06T03:44:02.431Z",
       "oldImage": "Call-Of-Duty-Ghosts.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c5ae",
-      "id": "wps6Z3St",
-      "name": "Darksiders 2",
-      "image": "Darksiders-2.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        7,
-        16
-      ],
-      "size": "8.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1XjcKt8MY6KXdcphyGZugtA",
-          "_id": "68e08df49e798a708ef8c5af"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.891Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
-      "oldImage": "Darksiders-2.jpg"
     },
     {
       "isUpdate": false,
@@ -8536,31 +8536,31 @@
       "oldImage": "Bully v1.4.277.jpeg"
     },
     {
-      "_id": "68e08df59e798a708ef8c615",
-      "id": "gY2_RF-T",
-      "name": "Hitman Blood Money reprisal",
-      "image": "Hitman Blood Money reprisal.webp",
+      "_id": "68e08df59e798a708ef8c613",
+      "id": "bwUQysgR",
+      "name": "Five Nights At Freddy's: sister location v2.0.4",
+      "image": "Five Nights At Freddy's: sister location v2.0.4.webp",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        8,
-        30
+        14,
+        20,
+        31
       ],
-      "size": "686 Mb",
+      "size": "296MB [8,1MB]",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/11-ms30forQiy5sb-reV-aw",
-          "_id": "68e08df59e798a708ef8c616"
+          "link": "https://1024terabox.com/s/17isEn-QXOtgX5L3XQFHayw",
+          "_id": "68e08df59e798a708ef8c614"
         }
       ],
       "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.418Z",
-      "updatedAt": "2026-03-15T15:23:00.701Z",
-      "oldImage": "Hitman Blood Money reprisal.jpeg",
+      "updatedAt": "2026-03-15T15:22:23.367Z",
+      "oldImage": "Five Nights At Freddy's: sister location v2.0.4.jpeg",
       "isUpdate": true
     },
     {
@@ -8674,6 +8674,34 @@
       "isUpdate": true
     },
     {
+      "_id": "68e08df59e798a708ef8c615",
+      "id": "gY2_RF-T",
+      "name": "Hitman Blood Money reprisal",
+      "image": "Hitman Blood Money reprisal.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        8,
+        30
+      ],
+      "size": "686 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/11-ms30forQiy5sb-reV-aw",
+          "_id": "68e08df59e798a708ef8c616"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:09.418Z",
+      "updatedAt": "2026-03-15T15:23:00.701Z",
+      "oldImage": "Hitman Blood Money reprisal.jpeg",
+      "isUpdate": true
+    },
+    {
       "_id": "68e08df59e798a708ef8c619",
       "id": "BD7Q1iG0",
       "name": "Minecraft Version: v1.26.10.21 Beta",
@@ -8700,34 +8728,6 @@
       "updatedAt": "2026-03-06T03:44:02.431Z",
       "isUpdate": true,
       "oldImage": "Minecraft Version: v1.21.70.24 Beta.jpeg"
-    },
-    {
-      "_id": "68e08df59e798a708ef8c613",
-      "id": "bwUQysgR",
-      "name": "Five Nights At Freddy's: sister location v2.0.4",
-      "image": "Five Nights At Freddy's: sister location v2.0.4.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        14,
-        20,
-        31
-      ],
-      "size": "296MB [8,1MB]",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/17isEn-QXOtgX5L3XQFHayw",
-          "_id": "68e08df59e798a708ef8c614"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:09.418Z",
-      "updatedAt": "2026-03-15T15:22:23.367Z",
-      "oldImage": "Five Nights At Freddy's: sister location v2.0.4.jpeg",
-      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c62f",
@@ -9004,23 +9004,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df59e798a708ef8c673",
-      "id": "shbHnvvc",
-      "name": "Dragon Ball FighterZ",
-      "image": "Dragon Ball FighterZ.webp",
+      "_id": "68e08df59e798a708ef8c675",
+      "id": "kJO-OWDH",
+      "name": "DRAGON QUEST BUILDERS 2",
+      "image": "DRAGON QUEST BUILDERS 2.webp",
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        22,
-        24
+        12,
+        39,
+        41
       ],
-      "size": "10.7 Gb",
+      "size": "1.8 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://terabox.com/s/1_FmDC7rDMHf0KgbtbQutnA",
-          "_id": "68e08df59e798a708ef8c674"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1OQsNcu5crEw8BL8YnECpCQ",
+          "_id": "68e08df59e798a708ef8c676"
         }
       ],
       "emulatorId": 8,
@@ -9028,7 +9028,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
       "updatedAt": "2026-03-06T03:44:02.431Z",
-      "oldImage": "Dragon Ball FighterZ.jpeg"
+      "oldImage": "DRAGON QUEST BUILDERS 2.jpeg"
     },
     {
       "isUpdate": false,
@@ -9386,34 +9386,6 @@
       "createdAt": "2025-10-04T03:01:09.421Z",
       "updatedAt": "2026-03-06T03:44:02.431Z",
       "oldImage": "DRAGON QUEST III HD-2D Remake.jpeg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df59e798a708ef8c675",
-      "id": "kJO-OWDH",
-      "name": "DRAGON QUEST BUILDERS 2",
-      "image": "DRAGON QUEST BUILDERS 2.webp",
-      "format": 2,
-      "language": "Multi-Idioma",
-      "genre": [
-        12,
-        39,
-        41
-      ],
-      "size": "1.8 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1OQsNcu5crEw8BL8YnECpCQ",
-          "_id": "68e08df59e798a708ef8c676"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
-      "oldImage": "DRAGON QUEST BUILDERS 2.jpeg"
     },
     {
       "isUpdate": false,
@@ -9855,22 +9827,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df59e798a708ef8c66f",
-      "id": "kKanZM95",
-      "name": "Donkey Kong Country Returns HD",
-      "image": "Donkey Kong Country Returns HD.webp",
+      "_id": "68e08df59e798a708ef8c671",
+      "id": "BCFEBRxZ",
+      "name": "Donkey Kong Country Tropical Freeze",
+      "image": "Donkey Kong Country Tropical Freeze.webp",
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
         1,
         32
       ],
-      "size": "8.9 Gb",
+      "size": "7.2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1NHymOr5nC3KLrRcNh5YvYA",
-          "_id": "68e08df59e798a708ef8c670"
+          "link": "https://1024terabox.com/s/13bMLY3j6OqBlDWxeMdQzSA",
+          "_id": "68e08df59e798a708ef8c672"
         }
       ],
       "emulatorId": 8,
@@ -9878,7 +9850,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
       "updatedAt": "2026-03-06T03:44:02.431Z",
-      "oldImage": "Donkey Kong Country Returns HD.jpeg"
+      "oldImage": "Donkey Kong Country Tropical Freeze.jpeg"
     },
     {
       "_id": "68e08df59e798a708ef8c633",
@@ -10324,22 +10296,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df59e798a708ef8c671",
-      "id": "BCFEBRxZ",
-      "name": "Donkey Kong Country Tropical Freeze",
-      "image": "Donkey Kong Country Tropical Freeze.webp",
+      "_id": "68e08df59e798a708ef8c673",
+      "id": "shbHnvvc",
+      "name": "Dragon Ball FighterZ",
+      "image": "Dragon Ball FighterZ.webp",
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        1,
-        32
+        10,
+        22,
+        24
       ],
-      "size": "7.2 Gb",
+      "size": "10.7 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/13bMLY3j6OqBlDWxeMdQzSA",
-          "_id": "68e08df59e798a708ef8c672"
+          "type": "terabox",
+          "link": "https://terabox.com/s/1_FmDC7rDMHf0KgbtbQutnA",
+          "_id": "68e08df59e798a708ef8c674"
         }
       ],
       "emulatorId": 8,
@@ -10347,7 +10320,34 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
       "updatedAt": "2026-03-06T03:44:02.431Z",
-      "oldImage": "Donkey Kong Country Tropical Freeze.jpeg"
+      "oldImage": "Dragon Ball FighterZ.jpeg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df59e798a708ef8c66f",
+      "id": "kKanZM95",
+      "name": "Donkey Kong Country Returns HD",
+      "image": "Donkey Kong Country Returns HD.webp",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        32
+      ],
+      "size": "8.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1NHymOr5nC3KLrRcNh5YvYA",
+          "_id": "68e08df59e798a708ef8c670"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:09.421Z",
+      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "oldImage": "Donkey Kong Country Returns HD.jpeg"
     },
     {
       "isUpdate": false,
@@ -10651,34 +10651,6 @@
       "createdAt": "2025-10-04T03:01:09.421Z",
       "updatedAt": "2026-03-06T03:44:02.431Z",
       "oldImage": "Beyond the Ice Palace 2.jpeg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df59e798a708ef8c657",
-      "id": "aQwixjAq",
-      "name": "Bayonetta 3",
-      "image": "Bayonetta 3.webp",
-      "format": 2,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        10,
-        27
-      ],
-      "size": "17.1 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Ol78qo0APbqzDUw6eX-SdQ",
-          "_id": "68e08df59e798a708ef8c658"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
-      "oldImage": "Bayonetta 3.jpeg"
     },
     {
       "isUpdate": false,
