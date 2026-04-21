@@ -9031,7 +9031,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c68f",
       "id": "xI3ZSNJo",
       "name": "Fire Emblem Warriors Three Hopes",
@@ -9056,8 +9055,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:55:51.264Z",
-      "oldImage": "Fire Emblem Warriors Three Hopes.jpeg"
+      "updatedAt": "2026-04-21T02:56:01.851Z",
+      "oldImage": "Fire Emblem Warriors Three Hopes.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c68d",
