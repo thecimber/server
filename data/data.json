@@ -21111,7 +21111,6 @@
       "oldImage": "tAkdun9zfG.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c97f",
       "id": "eVWsF1bq",
       "name": "Bread and Fred ",
@@ -21135,8 +21134,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-04-21T02:40:35.665Z",
-      "oldImage": "PriUjr24N6.jpg"
+      "updatedAt": "2026-04-21T02:40:38.092Z",
+      "oldImage": "PriUjr24N6.jpg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c9c9",
