@@ -9333,7 +9333,6 @@
       "oldImage": "EA SPORTS FC 24.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c679",
       "id": "t_o8ia2A",
       "name": "DRAGON QUEST MONSTERS: The Dark Prince",
@@ -9357,8 +9356,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:47:03.067Z",
-      "oldImage": "DRAGON QUEST MONSTERS: The Dark Prince.jpeg"
+      "updatedAt": "2026-04-21T02:47:11.213Z",
+      "oldImage": "DRAGON QUEST MONSTERS: The Dark Prince.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c677",
