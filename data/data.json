@@ -10368,14 +10368,15 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        41
+        2,
+        57,
+        27
       ],
       "size": "8.9 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/17WEMsKK2QyB8-U7JXAXLdA",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1HFMQPN99If2_ggWAIQniEQ",
           "_id": "68e08df59e798a708ef8c66e"
         }
       ],
@@ -10383,7 +10384,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-04-21T02:44:33.554Z",
       "oldImage": "Diablo II: Resurrected.jpeg"
     },
     {
