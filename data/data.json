@@ -10332,7 +10332,6 @@
       "oldImage": "Dragon Ball FighterZ.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c66f",
       "id": "kKanZM95",
       "name": "Donkey Kong Country Returns HD",
@@ -10356,8 +10355,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:41:39.831Z",
-      "oldImage": "Donkey Kong Country Returns HD.jpeg"
+      "updatedAt": "2026-04-21T02:41:43.036Z",
+      "oldImage": "Donkey Kong Country Returns HD.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
