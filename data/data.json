@@ -10131,7 +10131,6 @@
       "oldImage": "AK-xolotl.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c649",
       "id": "zFPBeSun",
       "name": "Alien: Isolation",
@@ -10156,8 +10155,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:31:07.584Z",
-      "oldImage": "Alien: Isolation.jpeg"
+      "updatedAt": "2026-04-21T02:32:20.461Z",
+      "oldImage": "Alien: Isolation.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
