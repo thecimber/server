@@ -9341,14 +9341,15 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        41
+        2,
+        57,
+        55
       ],
       "size": "5.0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/13S5zLUKkbaetw_w6xNDlFA",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1JQGeMtp7N5ZUDFteyIAsBQ",
           "_id": "68e08df59e798a708ef8c67a"
         }
       ],
@@ -9356,7 +9357,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-04-21T02:47:03.067Z",
       "oldImage": "DRAGON QUEST MONSTERS: The Dark Prince.jpeg"
     },
     {
