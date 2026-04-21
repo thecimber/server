@@ -10504,13 +10504,15 @@
       "language": "Multi-Idioma",
       "genre": [
         3,
-        12
+        9,
+        34,
+        21
       ],
       "size": "1.2 GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1u82Yts7OfZ3OOgyvgQndXg",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1mTL_bn__scZjnpi8on0gQQ",
           "_id": "68e08df59e798a708ef8c664"
         }
       ],
@@ -10518,7 +10520,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:36:10.702Z",
+      "updatedAt": "2026-04-21T02:36:45.209Z",
       "oldImage": "Caravan SandWitch.jpeg",
       "isUpdate": true
     },
