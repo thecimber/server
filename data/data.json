@@ -10139,15 +10139,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        14,
-        20,
-        31
+        8,
+        21,
+        31,
+        50
       ],
       "size": "19 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1DQR89RpRM0IMBkuQesvIYA",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1bkB86Y8s9On9On6HNUcNTw",
           "_id": "68e08df59e798a708ef8c64a"
         }
       ],
@@ -10155,7 +10156,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-04-21T02:31:07.584Z",
       "oldImage": "Alien: Isolation.jpeg"
     },
     {
