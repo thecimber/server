@@ -9003,7 +9003,6 @@
       "oldImage": "Gift.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c675",
       "id": "kJO-OWDH",
       "name": "DRAGON QUEST BUILDERS 2",
@@ -9027,8 +9026,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:46:23.498Z",
-      "oldImage": "DRAGON QUEST BUILDERS 2.jpeg"
+      "updatedAt": "2026-04-21T02:46:27.449Z",
+      "oldImage": "DRAGON QUEST BUILDERS 2.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
