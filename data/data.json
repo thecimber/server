@@ -9230,7 +9230,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c681",
       "id": "tz2aCBrJ",
       "name": "Exhausted Man",
@@ -9255,8 +9254,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:52:55.183Z",
-      "oldImage": "Exhausted Man.jpeg"
+      "updatedAt": "2026-04-21T02:52:57.413Z",
+      "oldImage": "Exhausted Man.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
