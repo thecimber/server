@@ -10076,7 +10076,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c645",
       "id": "qI9spmqm",
       "name": "A Little to the Left",
@@ -10100,8 +10099,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:29:22.980Z",
-      "oldImage": "A Little to the Left.jpeg"
+      "updatedAt": "2026-04-21T02:29:25.245Z",
+      "oldImage": "A Little to the Left.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
