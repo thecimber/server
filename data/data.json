@@ -10478,8 +10478,9 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
+        2,
         58,
-        2
+        100
       ],
       "size": "568 Mb",
       "downloadMethods": [
@@ -10493,7 +10494,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:42:21.650Z",
+      "updatedAt": "2026-04-21T02:42:59.096Z",
       "oldImage": "CRYPT CUSTODIAN.jpeg",
       "isUpdate": true
     },
@@ -30703,6 +30704,14 @@
       "name": "Narrativa",
       "createdAt": "2026-04-21T02:36:56.134Z",
       "updatedAt": "2026-04-21T02:36:56.134Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6e42160af684b008de67b",
+      "id": 100,
+      "name": "Ritmo",
+      "createdAt": "2026-04-21T02:42:42.004Z",
+      "updatedAt": "2026-04-21T02:42:42.004Z",
       "__v": 0
     }
   ],
