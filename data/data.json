@@ -9088,7 +9088,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c68b",
       "id": "8xhttJTv",
       "name": "Fire Emblem Three houses",
@@ -9113,8 +9112,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:54:58.798Z",
-      "oldImage": "Fire Emblem Three houses.jpeg"
+      "updatedAt": "2026-04-21T02:55:01.159Z",
+      "oldImage": "Fire Emblem Three houses.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
