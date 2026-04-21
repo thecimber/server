@@ -25572,9 +25572,10 @@
       "format": 9,
       "language": "Multi-Idioma",
       "genre": [
+        2,
         3,
         12,
-        2
+        93
       ],
       "size": "31 Gb",
       "downloadMethods": [
@@ -25588,7 +25589,7 @@
       "isUpdate": true,
       "captures": [],
       "createdAt": "2026-02-06T17:03:29.949Z",
-      "updatedAt": "2026-04-21T02:21:57.153Z",
+      "updatedAt": "2026-04-21T02:23:40.570Z",
       "__v": 0,
       "oldImage": "1770397409025-c2f9b4a7"
     },
@@ -30640,6 +30641,14 @@
       "name": "RPG",
       "createdAt": "2026-04-21T02:18:31.177Z",
       "updatedAt": "2026-04-21T02:18:31.177Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6df7c60af684b008c4129",
+      "id": 94,
+      "name": "Lucha / Arena Fighter",
+      "createdAt": "2026-04-21T02:22:52.680Z",
+      "updatedAt": "2026-04-21T02:22:52.680Z",
       "__v": 0
     }
   ],
