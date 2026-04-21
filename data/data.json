@@ -9039,15 +9039,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        27,
-        28
+        28,
+        57,
+        83,
+        55
       ],
       "size": "14.4 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1hDe4xI1KWjsK_svcHHm7ig",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1b3uI1zzobN_e2T0X2cp6IQ",
           "_id": "68e08df59e798a708ef8c690"
         }
       ],
@@ -9055,7 +9056,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-04-21T02:55:51.264Z",
       "oldImage": "Fire Emblem Warriors Three Hopes.jpeg"
     },
     {
