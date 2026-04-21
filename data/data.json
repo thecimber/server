@@ -9267,14 +9267,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        34
+        1,
+        2,
+        58,
+        50
       ],
       "size": "628 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1DXINdhzkHwI0NdwzYZxBrw",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1NrCWKcbooHsvFdGjmx-sDg",
           "_id": "68e08df59e798a708ef8c680"
         }
       ],
@@ -9282,7 +9284,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-04-21T02:53:34.331Z",
       "oldImage": "Elsie.jpeg"
     },
     {
