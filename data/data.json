@@ -10637,7 +10637,6 @@
       "oldImage": "Blasphemous.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c659",
       "id": "QWzTYNJa",
       "name": "Beyond the Ice Palace 2",
@@ -10661,8 +10660,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:39:20.361Z",
-      "oldImage": "Beyond the Ice Palace 2.jpeg"
+      "updatedAt": "2026-04-21T02:39:23.257Z",
+      "oldImage": "Beyond the Ice Palace 2.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c653",
