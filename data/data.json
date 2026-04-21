@@ -9118,7 +9118,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c689",
       "id": "FDVKa85o",
       "name": "Fire Emblem Engage",
@@ -9143,8 +9142,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:56:32.128Z",
-      "oldImage": "Fire Emblem Engage.jpeg"
+      "updatedAt": "2026-04-21T02:56:34.584Z",
+      "oldImage": "Fire Emblem Engage.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c687",
