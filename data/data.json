@@ -9181,7 +9181,8 @@
       "genre": [
         28,
         40,
-        64
+        64,
+        102
       ],
       "size": "2.7 Gb",
       "downloadMethods": [
@@ -9195,7 +9196,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:51:14.995Z",
+      "updatedAt": "2026-04-21T02:51:46.117Z",
       "oldImage": "Factorio.jpeg",
       "isUpdate": true
     },
@@ -30725,6 +30726,14 @@
       "name": "Dungeon crawler",
       "createdAt": "2026-04-21T02:44:47.892Z",
       "updatedAt": "2026-04-21T02:44:47.892Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6e62b60af684b008e8846",
+      "id": 102,
+      "name": "Automatización",
+      "createdAt": "2026-04-21T02:51:23.315Z",
+      "updatedAt": "2026-04-21T02:51:23.315Z",
       "__v": 0
     }
   ],
