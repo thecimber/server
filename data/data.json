@@ -9209,14 +9209,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        9
+        1,
+        9,
+        49,
+        50
       ],
       "size": "800 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1xlYtB1fbU-NIXAzboh3N8Q",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1FkuHbarK1QidboThimJi-A",
           "_id": "68e08df59e798a708ef8c684"
         }
       ],
@@ -9224,7 +9226,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-04-21T02:52:21.815Z",
       "oldImage": "Exographer.jpeg"
     },
     {
