@@ -10368,8 +10368,9 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
+        27,
         57,
-        27
+        101
       ],
       "size": "8.9 Gb",
       "downloadMethods": [
@@ -10383,7 +10384,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:44:36.063Z",
+      "updatedAt": "2026-04-21T02:45:13.205Z",
       "oldImage": "Diablo II: Resurrected.jpeg",
       "isUpdate": true
     },
@@ -30713,6 +30714,14 @@
       "name": "Ritmo",
       "createdAt": "2026-04-21T02:42:42.004Z",
       "updatedAt": "2026-04-21T02:42:42.004Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6e49f60af684b008e0ccb",
+      "id": 101,
+      "name": "Dungeon crawler",
+      "createdAt": "2026-04-21T02:44:47.892Z",
+      "updatedAt": "2026-04-21T02:44:47.892Z",
       "__v": 0
     }
   ],
