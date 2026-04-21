@@ -9826,7 +9826,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c671",
       "id": "BCFEBRxZ",
       "name": "Donkey Kong Country Tropical Freeze",
@@ -9850,8 +9849,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:41:00.873Z",
-      "oldImage": "Donkey Kong Country Tropical Freeze.jpeg"
+      "updatedAt": "2026-04-21T02:41:03.725Z",
+      "oldImage": "Donkey Kong Country Tropical Freeze.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c633",
