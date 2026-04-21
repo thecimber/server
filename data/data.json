@@ -10252,8 +10252,9 @@
       "language": "Multi-Idioma",
       "genre": [
         3,
+        55,
         57,
-        55
+        98
       ],
       "size": "4.0 Gb",
       "downloadMethods": [
@@ -10267,7 +10268,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:29:54.241Z",
+      "updatedAt": "2026-04-21T02:30:20.169Z",
       "oldImage": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land.jpeg"
     },
     {
@@ -30677,6 +30678,14 @@
       "name": "Relajante",
       "createdAt": "2026-04-21T02:28:58.968Z",
       "updatedAt": "2026-04-21T02:28:58.968Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6e12d60af684b008ccd9f",
+      "id": 98,
+      "name": "Alquimia",
+      "createdAt": "2026-04-21T02:30:05.411Z",
+      "updatedAt": "2026-04-21T02:30:05.411Z",
       "__v": 0
     }
   ],
