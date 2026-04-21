@@ -25503,10 +25503,10 @@
         }
       ],
       "emulatorId": 8,
-      "isUpdate": false,
+      "isUpdate": true,
       "captures": [],
       "createdAt": "2026-02-06T16:56:15.242Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-04-21T02:19:04.398Z",
       "__v": 0,
       "oldImage": "1770396974094-671a2df0.jpg"
     },
@@ -30632,6 +30632,14 @@
       "name": "Simulación social ",
       "createdAt": "2026-04-17T19:19:50.936Z",
       "updatedAt": "2026-04-17T19:19:50.936Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6de7760af684b008c123b",
+      "id": 93,
+      "name": "RPG",
+      "createdAt": "2026-04-21T02:18:31.177Z",
+      "updatedAt": "2026-04-21T02:18:31.177Z",
       "__v": 0
     }
   ],
