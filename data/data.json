@@ -10243,7 +10243,6 @@
       "oldImage": "Assassin's Creed The Rebel Collection (Europe).jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c651",
       "id": "TXzjP7WH",
       "name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
@@ -10268,8 +10267,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:30:20.169Z",
-      "oldImage": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land.jpeg"
+      "updatedAt": "2026-04-21T02:30:24.181Z",
+      "oldImage": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
