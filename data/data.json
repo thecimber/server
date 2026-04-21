@@ -9151,15 +9151,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        22,
-        41
+        2,
+        3,
+        57,
+        22
       ],
       "size": "5.0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1FtiRMoudZteyhxPvzCwWFg",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1cnCZx08y681Hufg53TKWQg",
           "_id": "68e08df59e798a708ef8c688"
         }
       ],
@@ -9167,7 +9168,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-04-21T02:50:39.795Z",
       "oldImage": "FAIRY TAIL 2.jpeg"
     },
     {
