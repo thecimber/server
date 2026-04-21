@@ -10047,7 +10047,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c643",
       "id": "-1Q7_7iU",
       "name": "9 R.I.P [9 RIP]",
@@ -10072,8 +10071,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-04-21T02:27:57.902Z",
-      "oldImage": "9 R.I.P [9 RIP].jpeg"
+      "updatedAt": "2026-04-21T02:28:00.632Z",
+      "oldImage": "9 R.I.P [9 RIP].jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
