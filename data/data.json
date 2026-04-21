@@ -10496,7 +10496,6 @@
       "oldImage": "CRYPT CUSTODIAN.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c663",
       "id": "nSRTzCWc",
       "name": "Caravan SandWitch",
@@ -10519,8 +10518,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
-      "oldImage": "Caravan SandWitch.jpeg"
+      "updatedAt": "2026-04-21T02:36:10.702Z",
+      "oldImage": "Caravan SandWitch.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
