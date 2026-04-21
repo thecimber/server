@@ -21119,15 +21119,15 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        1,
         3,
-        17
+        17,
+        2
       ],
       "size": "406.0 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Dwhm-OlCriZVJlUg_1G5rg",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1iQrjBanqXC_zSPIDpjYFvg",
           "_id": "68e08df79e798a708ef8c980"
         }
       ],
@@ -21135,7 +21135,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-04-21T02:40:35.665Z",
       "oldImage": "PriUjr24N6.jpg"
     },
     {
