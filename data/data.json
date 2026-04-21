@@ -9096,15 +9096,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        16,
         28,
-        41
+        57,
+        83,
+        55
       ],
       "size": "13.3 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1H0eyjnP51McJYL3h7nhDGg",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/190CQa9yIpP91hpuDOKLICg",
           "_id": "68e08df59e798a708ef8c68c"
         }
       ],
@@ -9112,7 +9113,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-04-21T02:54:58.798Z",
       "oldImage": "Fire Emblem Three houses.jpeg"
     },
     {
