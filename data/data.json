@@ -10560,15 +10560,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        10,
-        28
+        28,
+        57,
+        83,
+        45
       ],
       "size": "2.7 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1DxOUzVmMn6Wipmov9FcCVw",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1l3h44ZfADia8Uqt9pHyaJg",
           "_id": "68e08df59e798a708ef8c660"
         }
       ],
@@ -10576,7 +10577,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-04-21T02:38:02.063Z",
       "oldImage": "Capes.jpeg"
     },
     {
