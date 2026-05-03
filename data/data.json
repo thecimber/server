@@ -10470,7 +10470,6 @@
       "oldImage": "Assassin's Creed 3 remastered (Europe).jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c69e",
       "id": "sjWY9vLE",
       "name": "Kirby and the Forgotten Land",
@@ -10495,8 +10494,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-03T17:46:57.721Z",
-      "oldImage": "Kirby and the Forgotten Land.jpeg"
+      "updatedAt": "2026-05-03T17:47:00.104Z",
+      "oldImage": "Kirby and the Forgotten Land.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
