@@ -9907,7 +9907,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c691",
       "id": "oalyg0op",
       "name": "Gift",
@@ -9932,8 +9931,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-03T17:46:00.663Z",
-      "oldImage": "Gift.jpeg"
+      "updatedAt": "2026-05-03T17:46:03.704Z",
+      "oldImage": "Gift.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c689",
