@@ -9142,7 +9142,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c698",
       "id": "EJ9-CxbS",
       "name": "Hyrule Warriors Age of Calamity",
@@ -9167,8 +9166,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-03T17:44:33.483Z",
-      "oldImage": "Hyrule Warriors Age of Calamity.jpeg"
+      "updatedAt": "2026-05-03T17:44:37.603Z",
+      "oldImage": "Hyrule Warriors Age of Calamity.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c647",
