@@ -10501,7 +10501,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6a0",
       "id": "K5TFXBih",
       "name": "Kirby Fighters 2",
@@ -10526,8 +10525,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-03T17:48:30.217Z",
-      "oldImage": "Kirby Fighters 2.jpeg"
+      "updatedAt": "2026-05-03T17:48:32.690Z",
+      "oldImage": "Kirby Fighters 2.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c66f",
