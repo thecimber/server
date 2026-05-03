@@ -9684,7 +9684,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6a2",
       "id": "rYnmYQy0",
       "name": "Kirby’s Dream Buffet",
@@ -9709,8 +9708,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-03T17:47:42.966Z",
-      "oldImage": "Kirbys Dream Buffet.jpeg"
+      "updatedAt": "2026-05-03T17:47:49.279Z",
+      "oldImage": "Kirbys Dream Buffet.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c659",
