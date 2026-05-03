@@ -10023,17 +10023,19 @@
       "id": "tAmP8mQb",
       "name": "Gimmick! 2",
       "image": "Gimmick! 2.webp",
-      "format": 2,
+      "format": 8,
       "language": "Multi-Idioma",
       "genre": [
+        2,
+        3,
         1,
-        32
+        53
       ],
       "size": "2.0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1eAVwQen-qX961AD4jYAqXg",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1kqq7R2eZd-ATtPNI122Kbw",
           "_id": "68e08df59e798a708ef8c694"
         }
       ],
@@ -10041,7 +10043,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-05-03T17:45:17.440Z",
       "oldImage": "Gimmick! 2.jpeg"
     },
     {
