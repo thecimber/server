@@ -9687,19 +9687,21 @@
       "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6a2",
       "id": "rYnmYQy0",
-      "name": "Kirby's Dream Buffet",
+      "name": "Kirby’s Dream Buffet",
       "image": "Kirbys Dream Buffet.webp",
-      "format": 2,
+      "format": 8,
       "language": "Multi-Idioma",
       "genre": [
-        25,
-        19
+        2,
+        3,
+        1,
+        55
       ],
       "size": "1.3 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1DjwLDheI8MLtarq-ey-13w",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1QAC9OWAp2RdQ4ea6w1GtDA",
           "_id": "68e08df59e798a708ef8c6a3"
         }
       ],
@@ -9707,7 +9709,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-05-03T17:47:42.966Z",
       "oldImage": "Kirbys Dream Buffet.jpeg"
     },
     {
