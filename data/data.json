@@ -9881,17 +9881,19 @@
       "id": "mzxL3zdx",
       "name": "Hyrule Warriors Definitive Edition",
       "image": "Hyrule Warriors Definitive Edition.webp",
-      "format": 2,
+      "format": 8,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        27
+        2,
+        27,
+        103,
+        55
       ],
       "size": "13.9 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1nASTIhYsetBn6Oh7Jf3Fpg",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1PvZRr0dMBzJ6mpzpXejtiw",
           "_id": "68e08df59e798a708ef8c69b"
         }
       ],
@@ -9899,7 +9901,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-05-03T17:43:38.114Z",
       "oldImage": "Hyrule Warriors Definitive Edition.jpeg"
     },
     {
