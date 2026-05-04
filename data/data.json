@@ -15759,22 +15759,22 @@
       "oldImage": "Jojo's all star battle bizarre adventure.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c82d",
-      "id": "yjRhNxjp",
-      "name": "Hearts Of Iron IV",
-      "image": "Hearts Of Iron IV.webp",
+      "_id": "68e08df69e798a708ef8c837",
+      "id": "EGODnQsC",
+      "name": "House Party",
+      "image": "House Party.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        28,
-        19
+        19,
+        23
       ],
-      "size": "5.4 Gb",
+      "size": "5.1 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1k6lg6Q52gsVA012mOweeKA",
-          "_id": "68e08df69e798a708ef8c82e"
+          "link": "https://1024terabox.com/s/1ToQ7u3wpiuoHhqXwqEjA0A",
+          "_id": "68e08df69e798a708ef8c838"
         }
       ],
       "emulatorId": 2,
@@ -15783,7 +15783,7 @@
       "createdAt": "2025-10-04T03:01:10.638Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "Hearts Of Iron IV.jpeg"
+      "oldImage": "House Party.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c849",
@@ -15813,22 +15813,23 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df69e798a708ef8c837",
-      "id": "EGODnQsC",
-      "name": "House Party",
-      "image": "House Party.webp",
+      "_id": "68e08df69e798a708ef8c84b",
+      "id": "QUjjpJ9g",
+      "name": "Left 4 Dead 1",
+      "image": "Left 4 Dead 1.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        19,
-        23
+        2,
+        11,
+        17
       ],
-      "size": "5.1 Gb",
+      "size": "4.0 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1ToQ7u3wpiuoHhqXwqEjA0A",
-          "_id": "68e08df69e798a708ef8c838"
+          "link": "https://1024terabox.com/s/11L32BLVfCdj6bmm8dMlUZQ",
+          "_id": "68e08df69e798a708ef8c84c"
         }
       ],
       "emulatorId": 2,
@@ -15837,7 +15838,7 @@
       "createdAt": "2025-10-04T03:01:10.638Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "House Party.jpeg"
+      "oldImage": "Left 4 Dead 1.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c835",
@@ -16233,23 +16234,22 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df69e798a708ef8c84b",
-      "id": "QUjjpJ9g",
-      "name": "Left 4 Dead 1",
-      "image": "Left 4 Dead 1.webp",
+      "_id": "68e08df69e798a708ef8c82d",
+      "id": "yjRhNxjp",
+      "name": "Hearts Of Iron IV",
+      "image": "Hearts Of Iron IV.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        11,
-        17
+        28,
+        19
       ],
-      "size": "4.0 Gb",
+      "size": "5.4 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/11L32BLVfCdj6bmm8dMlUZQ",
-          "_id": "68e08df69e798a708ef8c84c"
+          "link": "https://1024terabox.com/s/1k6lg6Q52gsVA012mOweeKA",
+          "_id": "68e08df69e798a708ef8c82e"
         }
       ],
       "emulatorId": 2,
@@ -16258,7 +16258,7 @@
       "createdAt": "2025-10-04T03:01:10.638Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "Left 4 Dead 1.jpeg"
+      "oldImage": "Hearts Of Iron IV.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c83f",
@@ -29766,6 +29766,32 @@
       "captures": [],
       "createdAt": "2026-05-04T19:58:41.501Z",
       "updatedAt": "2026-05-04T19:58:41.501Z",
+      "__v": 0
+    },
+    {
+      "_id": "69f8fb0260af684b00915f3f",
+      "id": "XtWWDmI7",
+      "name": "Lost Planet Extreme Condition",
+      "image": "1777924864896-757989b3.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3
+      ],
+      "size": "8.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1wN6x1bOqFTMFSGQNuaDziw",
+          "_id": "69f8fb0260af684b00915f40"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-04T20:01:06.487Z",
+      "updatedAt": "2026-05-04T20:01:06.487Z",
       "__v": 0
     },
     {
