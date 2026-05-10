@@ -29872,6 +29872,32 @@
       "__v": 0
     },
     {
+      "_id": "6a0108a960af684b0091e31e",
+      "id": "6V3JKQ7D",
+      "name": "Life Is Strange Reunion ",
+      "image": "1778452647524-3a98eeb0.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        99
+      ],
+      "size": "22.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/10H4n5g2jb_4rjZu9xmjsXA",
+          "_id": "6a0108a960af684b0091e31f"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-10T22:37:29.174Z",
+      "updatedAt": "2026-05-10T22:37:29.174Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream",
