@@ -22953,6 +22953,33 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca74",
+      "id": "eEbCZIbS",
+      "name": "Persona 4 Golden ",
+      "image": "y2Om6LAcyM.webp",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        19,
+        16
+      ],
+      "size": "9,8 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1r8kC6SvptftgO1wtW8TjZA",
+          "_id": "68e08df89e798a708ef8ca75"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "y2Om6LAcyM.jpg"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca50",
       "id": "_djkBr-v",
       "name": "PAC-MAN and the Ghostly Adventures 2 (USA)",
@@ -22976,33 +23003,6 @@
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "NbD2q5QAhn.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca68",
-      "id": "hHOrzj9Q",
-      "name": "Shakedown Hawaii (USA)",
-      "image": "F3W_-xkHZr.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        12
-      ],
-      "size": "55 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Z4x0NNeTc_a2rTqpVqsDbA",
-          "_id": "68e08df89e798a708ef8ca69"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "F3W_-xkHZr.jpg"
     },
     {
       "_id": "68e08df89e798a708ef8ca16",
@@ -23359,30 +23359,30 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca74",
-      "id": "eEbCZIbS",
-      "name": "Persona 4 Golden ",
-      "image": "y2Om6LAcyM.webp",
-      "format": 2,
+      "_id": "68e08df89e798a708ef8ca68",
+      "id": "hHOrzj9Q",
+      "name": "Shakedown Hawaii (USA)",
+      "image": "F3W_-xkHZr.webp",
+      "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        19,
-        16
+        7,
+        12
       ],
-      "size": "9,8 Gb",
+      "size": "55 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1r8kC6SvptftgO1wtW8TjZA",
-          "_id": "68e08df89e798a708ef8ca75"
+          "link": "https://1024terabox.com/s/1Z4x0NNeTc_a2rTqpVqsDbA",
+          "_id": "68e08df89e798a708ef8ca69"
         }
       ],
-      "emulatorId": 8,
+      "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "y2Om6LAcyM.jpg"
+      "oldImage": "F3W_-xkHZr.jpg"
     },
     {
       "isUpdate": false,
@@ -29953,6 +29953,34 @@
       "captures": [],
       "createdAt": "2026-05-10T22:44:21.455Z",
       "updatedAt": "2026-05-10T22:44:21.455Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a010a9060af684b00921ad8",
+      "id": "j9wdTrJO",
+      "name": "Life Is Strange 2 Completa Season",
+      "image": "1778453135099-cc34cd16.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        99,
+        104,
+        105
+      ],
+      "size": "41.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/13KFgobpQ9nQHsbo1icvDxQ",
+          "_id": "6a010a9060af684b00921ad9"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-10T22:45:36.222Z",
+      "updatedAt": "2026-05-10T22:45:36.222Z",
       "__v": 0
     },
     {
