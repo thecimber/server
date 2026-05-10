@@ -29928,6 +29928,34 @@
       "__v": 0
     },
     {
+      "_id": "6a010a4560af684b00920dfd",
+      "id": "rrbTbPhH",
+      "name": "Life Is Strange Before The Storm",
+      "image": "1778453060293-99a6d81c.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        99,
+        104,
+        105
+      ],
+      "size": "18.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1nT3Q33OPmqQ1hLDnmHgWkQ",
+          "_id": "6a010a4560af684b00920dfe"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-10T22:44:21.455Z",
+      "updatedAt": "2026-05-10T22:44:21.455Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream",
