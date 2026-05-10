@@ -29880,7 +29880,9 @@
       "language": "Multi-Idioma",
       "genre": [
         3,
-        99
+        99,
+        104,
+        105
       ],
       "size": "22.9 Gb",
       "downloadMethods": [
@@ -29894,7 +29896,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-10T22:37:29.174Z",
-      "updatedAt": "2026-05-10T22:37:29.174Z",
+      "updatedAt": "2026-05-10T22:38:54.278Z",
       "__v": 0
     },
     {
@@ -30921,6 +30923,22 @@
       "name": "Musou",
       "createdAt": "2026-05-03T17:39:58.264Z",
       "updatedAt": "2026-05-03T17:39:58.264Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0108d460af684b0091eff4",
+      "id": 104,
+      "name": "Drama",
+      "createdAt": "2026-05-10T22:38:12.161Z",
+      "updatedAt": "2026-05-10T22:38:12.161Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0108dc60af684b0091eff9",
+      "id": 105,
+      "name": "Decisiones",
+      "createdAt": "2026-05-10T22:38:20.903Z",
+      "updatedAt": "2026-05-10T22:38:20.903Z",
       "__v": 0
     }
   ],
