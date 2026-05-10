@@ -29984,6 +29984,34 @@
       "__v": 0
     },
     {
+      "_id": "6a010acc60af684b009227b6",
+      "id": "eseq58rO",
+      "name": "Life Is Strange true Colors",
+      "image": "1778453195829-5161772e.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        99,
+        104,
+        105
+      ],
+      "size": "25.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1C92VxMMDOvSDwMciz2HI-g",
+          "_id": "6a010acc60af684b009227b7"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-10T22:46:36.970Z",
+      "updatedAt": "2026-05-10T22:46:36.970Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream",
