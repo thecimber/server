@@ -15267,10 +15267,10 @@
         20,
         31
       ],
-      "size": "926.7 Gb",
+      "size": "926.7 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/17IZxBMsPcY6R-nSlj9jYnw",
           "_id": "68e08df69e798a708ef8c80a"
         }
@@ -15279,7 +15279,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.637Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-11T15:03:19.470Z",
       "oldImage": "Fnaf sister location.jpeg"
     },
     {
