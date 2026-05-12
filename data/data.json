@@ -13084,12 +13084,14 @@
       "language": "Multi-Idioma",
       "genre": [
         21,
-        31
+        107,
+        113,
+        50
       ],
       "size": "1.6 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1ZRprSx8yqj3R1NrWNY0fQw",
           "_id": "68e08df59e798a708ef8c76d"
         }
@@ -13098,7 +13100,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-12T14:55:58.109Z",
       "oldImage": "Abiotic Factor.jpeg"
     },
     {
