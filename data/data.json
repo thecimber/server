@@ -14880,14 +14880,15 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        10,
         24,
+        57,
+        65,
         22
       ],
       "size": "10.2 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1s43STFoamUZ3avEmo0bWbA",
           "_id": "68e08df69e798a708ef8c7e8"
         }
@@ -14896,7 +14897,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-12T14:57:56.035Z",
       "oldImage": "Dragon ball xenoverse.jpeg"
     },
     {
