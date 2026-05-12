@@ -15297,9 +15297,10 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        28,
         31,
         21,
-        28
+        119
       ],
       "size": "926.7 Mb",
       "downloadMethods": [
@@ -15313,7 +15314,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.637Z",
-      "updatedAt": "2026-05-12T14:59:06.593Z",
+      "updatedAt": "2026-05-12T14:59:23.352Z",
       "oldImage": "Fnaf sister location.jpeg"
     },
     {
@@ -31282,6 +31283,14 @@
       "name": "Competitivo",
       "createdAt": "2026-05-12T14:53:11.825Z",
       "updatedAt": "2026-05-12T14:53:11.825Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a03404060af684b00956dd0",
+      "id": 119,
+      "name": "Jumpscare",
+      "createdAt": "2026-05-12T14:59:12.989Z",
+      "updatedAt": "2026-05-12T14:59:12.989Z",
       "__v": 0
     }
   ],
