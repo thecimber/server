@@ -17114,7 +17114,8 @@
         2,
         31,
         21,
-        48
+        48,
+        114
       ],
       "size": "27.2 Gb",
       "downloadMethods": [
@@ -17128,7 +17129,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-05-12T14:35:36.640Z",
+      "updatedAt": "2026-05-12T14:36:00.406Z",
       "oldImage": "Resident Evil 2 DirectX11.jpeg"
     },
     {
@@ -31185,6 +31186,14 @@
       "name": "Cooperativo",
       "createdAt": "2026-05-12T14:34:33.090Z",
       "updatedAt": "2026-05-12T14:34:33.090Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a033ac260af684b00935d19",
+      "id": 114,
+      "name": "Horror psicológico",
+      "createdAt": "2026-05-12T14:35:46.874Z",
+      "updatedAt": "2026-05-12T14:35:46.874Z",
       "__v": 0
     }
   ],
