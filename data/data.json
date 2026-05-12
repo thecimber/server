@@ -14466,9 +14466,10 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        3,
         31,
         57,
-        3
+        106
       ],
       "size": "12.6 Gb",
       "downloadMethods": [
@@ -14482,7 +14483,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-05-12T14:23:43.520Z",
+      "updatedAt": "2026-05-12T14:24:20.998Z",
       "oldImage": "Call Of Cthulhu .jpeg"
     },
     {
@@ -31109,6 +31110,14 @@
       "name": "Decisiones",
       "createdAt": "2026-05-10T22:38:20.903Z",
       "updatedAt": "2026-05-10T22:38:20.903Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0337fa60af684b00929fd6",
+      "id": 106,
+      "name": "Investigación",
+      "createdAt": "2026-05-12T14:23:55.009Z",
+      "updatedAt": "2026-05-12T14:23:55.009Z",
       "__v": 0
     }
   ],
