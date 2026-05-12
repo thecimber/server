@@ -15044,12 +15044,14 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
-        11
+        35,
+        66,
+        71
       ],
       "size": "11.0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1odwD9HUudW7mB00r8hTDfw",
           "_id": "68e08df69e798a708ef8c7ac"
         }
@@ -15058,7 +15060,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-12T14:25:01.191Z",
       "oldImage": "Call Of Duty Black Ops .jpeg"
     },
     {
