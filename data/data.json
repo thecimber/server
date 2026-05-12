@@ -13733,13 +13733,16 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        2,
         3,
-        23
+        8,
+        12,
+        45
       ],
       "size": "34.9 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/16M2Iv0xAE8yNN7tYZsVXag",
           "_id": "68e08df59e798a708ef8c795"
         }
@@ -13748,7 +13751,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.892Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-12T14:52:05.461Z",
       "oldImage": "Batman The Enemy Within .jpeg"
     },
     {
