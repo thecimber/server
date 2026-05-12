@@ -14563,12 +14563,14 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
-        27
+        3,
+        27,
+        117
       ],
       "size": "8.9 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1Gq7r1wrIwAe0XuIRRWEt_w",
           "_id": "68e08df69e798a708ef8c7e0"
         }
@@ -14577,7 +14579,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-12T14:53:47.861Z",
       "oldImage": "Devil May Cry Reloaded .jpeg"
     },
     {
