@@ -16561,7 +16561,8 @@
       "genre": [
         2,
         57,
-        117
+        117,
+        120
       ],
       "size": "undefined",
       "downloadMethods": [
@@ -16575,7 +16576,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-05-12T15:01:04.501Z",
+      "updatedAt": "2026-05-12T15:01:25.438Z",
       "oldImage": "Lords of the Fallen.jpeg"
     },
     {
@@ -31296,6 +31297,14 @@
       "name": "Jumpscare",
       "createdAt": "2026-05-12T14:59:12.989Z",
       "updatedAt": "2026-05-12T14:59:12.989Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0340b960af684b0095b296",
+      "id": 120,
+      "name": "Soulslike",
+      "createdAt": "2026-05-12T15:01:13.427Z",
+      "updatedAt": "2026-05-12T15:01:13.427Z",
       "__v": 0
     }
   ],
