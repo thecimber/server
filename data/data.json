@@ -13979,7 +13979,8 @@
       "genre": [
         2,
         3,
-        27
+        27,
+        117
       ],
       "size": "11.8 Gb",
       "downloadMethods": [
@@ -13993,7 +13994,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-05-12T14:49:19.817Z",
+      "updatedAt": "2026-05-12T14:50:38.545Z",
       "oldImage": "Devil May Cry HD Collection .jpeg"
     },
     {
@@ -31233,6 +31234,14 @@
       "name": "Defensa de torres",
       "createdAt": "2026-05-12T14:43:06.951Z",
       "updatedAt": "2026-05-12T14:43:06.951Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a033e2c60af684b00944990",
+      "id": 117,
+      "name": "Fantasía oscura",
+      "createdAt": "2026-05-12T14:50:20.031Z",
+      "updatedAt": "2026-05-12T14:50:20.031Z",
       "__v": 0
     }
   ],
