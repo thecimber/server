@@ -13675,13 +13675,15 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
-        7,
+        3,
+        8,
+        12,
         45
       ],
       "size": "16.6 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/17Xv2ToUiBORvcNP5fP75Ow",
           "_id": "68e08df59e798a708ef8c793"
         }
@@ -13690,7 +13692,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.892Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-12T14:51:32.173Z",
       "oldImage": "Batman Arkham Origins .jpeg"
     },
     {
