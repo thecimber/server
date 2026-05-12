@@ -17002,7 +17002,8 @@
       "genre": [
         2,
         35,
-        58
+        58,
+        113
       ],
       "size": "2.0 Gb",
       "downloadMethods": [
@@ -17016,7 +17017,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-05-12T14:34:24.145Z",
+      "updatedAt": "2026-05-12T14:34:48.626Z",
       "oldImage": "Risk of Rain 2.jpeg"
     },
     {
@@ -31174,6 +31175,14 @@
       "name": "Suspenso",
       "createdAt": "2026-05-12T14:30:36.498Z",
       "updatedAt": "2026-05-12T14:30:36.498Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a033a7960af684b0093321b",
+      "id": 113,
+      "name": "Cooperativo",
+      "createdAt": "2026-05-12T14:34:33.090Z",
+      "updatedAt": "2026-05-12T14:34:33.090Z",
       "__v": 0
     }
   ],
