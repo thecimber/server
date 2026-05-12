@@ -19526,9 +19526,10 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        3,
         21,
         12,
-        3
+        107
       ],
       "size": "1.4 Gb",
       "downloadMethods": [
@@ -19542,7 +19543,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-05-12T14:26:12.929Z",
+      "updatedAt": "2026-05-12T14:26:36.329Z",
       "oldImage": "Valheim.jpeg"
     },
     {
@@ -31120,6 +31121,14 @@
       "name": "Investigación",
       "createdAt": "2026-05-12T14:23:55.009Z",
       "updatedAt": "2026-05-12T14:23:55.009Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a03388d60af684b0092cad6",
+      "id": 107,
+      "name": "Crafting",
+      "createdAt": "2026-05-12T14:26:21.986Z",
+      "updatedAt": "2026-05-12T14:26:21.986Z",
       "__v": 0
     }
   ],
