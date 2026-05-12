@@ -19030,13 +19030,14 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
-        16,
-        28
+        28,
+        21,
+        64
       ],
       "size": "13.3 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1vC7snlqZHG3VthHSkbjGBA",
           "_id": "68e08df79e798a708ef8c91b"
         }
@@ -19045,7 +19046,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-12T14:35:09.593Z",
       "oldImage": "The Rift Breaker.jpeg"
     },
     {
