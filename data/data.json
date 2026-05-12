@@ -14716,12 +14716,14 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
-        14
+        21,
+        58,
+        50
       ],
       "size": "511.02 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1q4lmq6nf_OMSZ9hHleJ_AQ",
           "_id": "68e08df69e798a708ef8c79c"
         }
@@ -14730,7 +14732,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-12T14:48:25.170Z",
       "oldImage": "Bioweaver.jpeg"
     },
     {
