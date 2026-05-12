@@ -16862,7 +16862,8 @@
       "genre": [
         31,
         21,
-        113
+        113,
+        115
       ],
       "size": "375.0 Mb",
       "downloadMethods": [
@@ -16876,7 +16877,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-05-12T14:42:11.593Z",
+      "updatedAt": "2026-05-12T14:42:36.793Z",
       "oldImage": "repo.jpeg"
     },
     {
@@ -31197,6 +31198,14 @@
       "name": "Horror psicológico",
       "createdAt": "2026-05-12T14:35:46.874Z",
       "updatedAt": "2026-05-12T14:35:46.874Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a033c4c60af684b00938826",
+      "id": 115,
+      "name": "Extracción",
+      "createdAt": "2026-05-12T14:42:20.941Z",
+      "updatedAt": "2026-05-12T14:42:20.941Z",
       "__v": 0
     }
   ],
