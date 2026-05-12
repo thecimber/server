@@ -16715,14 +16715,15 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        10,
         22,
-        24
+        24,
+        65,
+        2
       ],
       "size": "30.1 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1v2Jj0cRh1APOsD4yMAC7IQ",
           "_id": "68e08df79e798a708ef8c877"
         }
@@ -16731,7 +16732,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-12T14:23:12.775Z",
       "oldImage": "Naruto ultimate Ninja storm Connections .jpeg"
     },
     {
