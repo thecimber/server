@@ -17310,7 +17310,8 @@
       "genre": [
         2,
         28,
-        27
+        27,
+        116
       ],
       "size": "10.2 Gb",
       "downloadMethods": [
@@ -17324,7 +17325,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-05-12T14:42:56.535Z",
+      "updatedAt": "2026-05-12T14:43:20.880Z",
       "oldImage": "Orcs must die! .jpeg"
     },
     {
@@ -31207,6 +31208,14 @@
       "name": "Extracción",
       "createdAt": "2026-05-12T14:42:20.941Z",
       "updatedAt": "2026-05-12T14:42:20.941Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a033c7a60af684b0093a640",
+      "id": 116,
+      "name": "Defensa de torres",
+      "createdAt": "2026-05-12T14:43:06.951Z",
+      "updatedAt": "2026-05-12T14:43:06.951Z",
       "__v": 0
     }
   ],
