@@ -16559,14 +16559,14 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        36,
-        37
+        2,
+        57,
+        117
       ],
       "size": "undefined",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/19BxdLpiykqNcqygXjDCKeg",
           "_id": "68e08df69e798a708ef8c85a"
         }
@@ -16575,7 +16575,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-12T15:01:04.501Z",
       "oldImage": "Lords of the Fallen.jpeg"
     },
     {
