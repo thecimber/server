@@ -19526,14 +19526,14 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        21,
         12,
-        16,
-        21
+        3
       ],
       "size": "1.4 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/16mXhzpeSKzQZflBjsRMxNg",
           "_id": "68e08df79e798a708ef8c946"
         }
@@ -19542,7 +19542,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-12T14:26:12.929Z",
       "oldImage": "Valheim.jpeg"
     },
     {
