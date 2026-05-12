@@ -18830,8 +18830,10 @@
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        31,
         19,
-        31
+        111,
+        112
       ],
       "size": "229.7 Gb",
       "downloadMethods": [
@@ -18845,7 +18847,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-05-12T14:30:19.611Z",
+      "updatedAt": "2026-05-12T14:31:04.033Z",
       "oldImage": "That's not my neighbor .jpeg"
     },
     {
@@ -31154,6 +31156,22 @@
       "name": "Comercio",
       "createdAt": "2026-05-12T14:29:19.078Z",
       "updatedAt": "2026-05-12T14:29:19.078Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a03398460af684b00930715",
+      "id": 111,
+      "name": "Deducción",
+      "createdAt": "2026-05-12T14:30:28.284Z",
+      "updatedAt": "2026-05-12T14:30:28.284Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a03398c60af684b0093071a",
+      "id": 112,
+      "name": "Suspenso",
+      "createdAt": "2026-05-12T14:30:36.498Z",
+      "updatedAt": "2026-05-12T14:30:36.498Z",
       "__v": 0
     }
   ],
