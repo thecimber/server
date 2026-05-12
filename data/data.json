@@ -18428,7 +18428,8 @@
       "genre": [
         24,
         65,
-        86
+        86,
+        118
       ],
       "size": "49.0 Gb",
       "downloadMethods": [
@@ -18442,7 +18443,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
-      "updatedAt": "2026-05-12T14:53:05.022Z",
+      "updatedAt": "2026-05-12T14:53:29.311Z",
       "oldImage": "Street fighter V Champion Edition.jpeg"
     },
     {
@@ -31252,6 +31253,14 @@
       "name": "Fantasía oscura",
       "createdAt": "2026-05-12T14:50:20.031Z",
       "updatedAt": "2026-05-12T14:50:20.031Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a033ed760af684b00949b3c",
+      "id": 118,
+      "name": "Competitivo",
+      "createdAt": "2026-05-12T14:53:11.825Z",
+      "updatedAt": "2026-05-12T14:53:11.825Z",
       "__v": 0
     }
   ],
