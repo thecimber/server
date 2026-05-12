@@ -13561,13 +13561,15 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
-        7,
+        3,
+        8,
+        12,
         45
       ],
       "size": "52.8 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1n4AehpO9dJbvB-0RJ_t6xA",
           "_id": "68e08df59e798a708ef8c791"
         }
@@ -13576,7 +13578,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.892Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-12T14:51:01.624Z",
       "oldImage": "Batman Arkham Knight .jpeg"
     },
     {
