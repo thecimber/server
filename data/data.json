@@ -14293,12 +14293,14 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
-        27
+        3,
+        27,
+        117
       ],
       "size": "42.9 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1jXNfyZUadqaL0wmK_le3yQ",
           "_id": "68e08df69e798a708ef8c7dc"
         }
@@ -14307,7 +14309,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-12T14:56:39.234Z",
       "oldImage": "Devil May Cry 5.jpeg"
     },
     {
