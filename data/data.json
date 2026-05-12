@@ -13167,13 +13167,14 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
-        20,
-        31
+        3,
+        31,
+        63
       ],
       "size": "8.7 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1veiypUFlOsEDSS1SdCf1fA",
           "_id": "68e08df59e798a708ef8c76f"
         }
@@ -13182,7 +13183,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-12T14:48:53.381Z",
       "oldImage": "Alan Wake.jpeg"
     },
     {
