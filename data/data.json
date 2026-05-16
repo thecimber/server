@@ -11028,7 +11028,6 @@
       "oldImage": "Metro Redux 2033.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6cb",
       "id": "NlL5QfPS",
       "name": "Mortal Kombat 1",
@@ -11051,8 +11050,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.886Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
-      "oldImage": "Mortal Kombat 1.jpeg"
+      "updatedAt": "2026-05-16T15:57:20.344Z",
+      "oldImage": "Mortal Kombat 1.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
