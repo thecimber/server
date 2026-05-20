@@ -12220,7 +12220,6 @@
       "oldImage": "Neva.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6e1",
       "id": "-JqbjqC5",
       "name": "Nekopara Volumen 4",
@@ -12245,8 +12244,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-20T23:33:41.346Z",
-      "oldImage": "Nekopara Volumen 4.jpeg"
+      "updatedAt": "2026-05-20T23:33:46.327Z",
+      "oldImage": "Nekopara Volumen 4.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c6df",
