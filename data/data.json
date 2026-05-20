@@ -12541,7 +12541,6 @@
       "oldImage": "Platform 8.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6f1",
       "id": "nkizTJmV",
       "name": "Pikmin 4",
@@ -12566,8 +12565,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-20T23:37:38.164Z",
-      "oldImage": "Pikmin 4.jpeg"
+      "updatedAt": "2026-05-20T23:37:40.280Z",
+      "oldImage": "Pikmin 4.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
