@@ -12063,13 +12063,14 @@
       "language": "Multi-Idioma",
       "genre": [
         3,
-        7,
-        28
+        9,
+        28,
+        126
       ],
       "size": "7.01 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/15PaT8jtRf46wVWghQv0UEQ",
           "_id": "68e08df59e798a708ef8c6f0"
         }
@@ -12078,7 +12079,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-20T23:37:05.097Z",
       "oldImage": "Pikmin 3 Deluxe.jpeg"
     },
     {
