@@ -12088,8 +12088,9 @@
       "language": "Multi-Idioma",
       "genre": [
         3,
+        9,
         28,
-        9
+        126
       ],
       "size": "1.2 Gb",
       "downloadMethods": [
@@ -12103,7 +12104,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-20T23:35:25.333Z",
+      "updatedAt": "2026-05-20T23:35:58.527Z",
       "oldImage": "Pikmin 1.jpeg",
       "isUpdate": true
     },
@@ -31390,6 +31391,14 @@
       "name": "Simulación de citas",
       "createdAt": "2026-05-20T23:31:56.009Z",
       "updatedAt": "2026-05-20T23:31:56.009Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0e454dac4186cff4140a17",
+      "id": 126,
+      "name": "Tiempo real",
+      "createdAt": "2026-05-20T23:35:41.218Z",
+      "updatedAt": "2026-05-20T23:35:41.218Z",
       "__v": 0
     }
   ],
