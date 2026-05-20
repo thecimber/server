@@ -12200,15 +12200,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
+        1,
         3,
-        7,
-        34
+        99,
+        55
       ],
       "size": "6.0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1gUPJatxxQRjinZfeS7sJpg",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/17qUJ2g_jws0aRzVIMaKtJQ",
           "_id": "68e08df59e798a708ef8c6e4"
         }
       ],
@@ -12216,7 +12217,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-20T23:34:12.608Z",
       "oldImage": "Neva.jpeg"
     },
     {
