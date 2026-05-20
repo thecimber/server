@@ -12904,7 +12904,6 @@
       "oldImage": "Pokemon Diamante brillante.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c702",
       "id": "ossct0fn",
       "name": "Pokemon shield",
@@ -12928,8 +12927,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-20T23:38:06.231Z",
-      "oldImage": "Pokemon Escudo.jpeg"
+      "updatedAt": "2026-05-20T23:38:08.282Z",
+      "oldImage": "Pokemon Escudo.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
