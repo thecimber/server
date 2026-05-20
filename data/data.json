@@ -30180,8 +30180,10 @@
       "format": 8,
       "language": "Multi-Idioma",
       "genre": [
+        3,
         57,
-        3
+        121,
+        122
       ],
       "size": "60 Mb",
       "downloadMethods": [
@@ -30195,7 +30197,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-20T23:23:23.971Z",
-      "updatedAt": "2026-05-20T23:23:23.971Z",
+      "updatedAt": "2026-05-20T23:24:18.322Z",
       "__v": 0
     }
   ],
@@ -31341,6 +31343,14 @@
       "name": "RPG clásico",
       "createdAt": "2026-05-20T23:22:27.350Z",
       "updatedAt": "2026-05-20T23:22:27.350Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0e428fac4186cff4127591",
+      "id": 122,
+      "name": "Captura de monstruos",
+      "createdAt": "2026-05-20T23:23:59.831Z",
+      "updatedAt": "2026-05-20T23:23:59.831Z",
       "__v": 0
     }
   ],
