@@ -21759,7 +21759,6 @@
       "oldImage": "ErMEDU32Iq.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9eb",
       "id": "-n42v4Im5n",
       "name": "NINE SOLS",
@@ -21784,8 +21783,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-05-20T23:34:36.944Z",
-      "oldImage": "8CBsgsu43sguyO.jpg"
+      "updatedAt": "2026-05-20T23:34:39.381Z",
+      "oldImage": "8CBsgsu43sguyO.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
