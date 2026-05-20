@@ -12031,14 +12031,15 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        23,
+        96,
+        124,
         22
       ],
       "size": "2.3 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1vaLkVUTE5e7hFWpFcNLTtw",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1k3EDJfoS3vDhAR8bwz2LtA",
           "_id": "68e08df59e798a708ef8c6de"
         }
       ],
@@ -12046,7 +12047,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-20T23:31:43.966Z",
       "oldImage": "Nekopara Volumen 2.jpeg"
     },
     {
