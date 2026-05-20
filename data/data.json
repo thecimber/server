@@ -23078,7 +23078,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca6e",
       "id": "yCN_jNhw",
       "name": "Persona 5 Royal",
@@ -23101,8 +23100,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-05-20T23:39:00.889Z",
-      "oldImage": "C-16R8eLBu.jpg"
+      "updatedAt": "2026-05-20T23:39:04.478Z",
+      "oldImage": "C-16R8eLBu.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
