@@ -10895,7 +10895,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6c6",
       "id": "lBBRaAo8",
       "name": "Minecraft v1.21.60",
@@ -10919,7 +10918,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.425Z",
-      "updatedAt": "2026-05-20T23:29:46.220Z"
+      "updatedAt": "2026-05-20T23:29:50.538Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c6c4",
