@@ -9747,7 +9747,6 @@
       "oldImage": "Magical Bakery.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6aa",
       "id": "0ynI5kf8",
       "name": "Mario + Rabbids Kingdom Battle",
@@ -9772,8 +9771,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-20T23:24:43.644Z",
-      "oldImage": "Mario + Rabbids Kingdom Battle.jpeg"
+      "updatedAt": "2026-05-20T23:24:48.375Z",
+      "oldImage": "Mario + Rabbids Kingdom Battle.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
