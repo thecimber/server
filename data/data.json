@@ -12550,14 +12550,15 @@
       "language": "Multi-Idioma",
       "genre": [
         3,
-        7,
-        28
+        9,
+        28,
+        126
       ],
       "size": "11.2 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/15zgYYGQM2gfha0bPHOQPEg",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/15cTdgE-xUyy00KWLkimM4w",
           "_id": "68e08df59e798a708ef8c6f2"
         }
       ],
@@ -12565,7 +12566,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-20T23:37:38.164Z",
       "oldImage": "Pikmin 4.jpeg"
     },
     {
