@@ -11968,7 +11968,6 @@
       "oldImage": "Super Mario Bros.U Deluxe.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6ed",
       "id": "9QsXNnds",
       "name": "Pikmin 2 ",
@@ -11994,8 +11993,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-20T23:36:24.051Z",
-      "oldImage": "Pikmin 2.jpeg"
+      "updatedAt": "2026-05-20T23:36:26.295Z",
+      "oldImage": "Pikmin 2.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c737",
