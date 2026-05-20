@@ -12247,7 +12247,6 @@
       "oldImage": "Nekopara Volumen 4.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6df",
       "id": "GSIyKLKd",
       "name": "Nekopara Volumen 3",
@@ -12272,8 +12271,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-20T23:33:11.480Z",
-      "oldImage": "Nekopara Volumen 3.jpeg"
+      "updatedAt": "2026-05-20T23:33:13.723Z",
+      "oldImage": "Nekopara Volumen 3.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
