@@ -11011,9 +11011,10 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
+        21,
         31,
         35,
-        21
+        123
       ],
       "size": "6.7 Gb",
       "downloadMethods": [
@@ -11027,7 +11028,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.425Z",
-      "updatedAt": "2026-05-20T23:26:20.055Z",
+      "updatedAt": "2026-05-20T23:26:46.573Z",
       "oldImage": "Metro Redux 2033.jpeg",
       "isUpdate": true
     },
@@ -31355,6 +31356,14 @@
       "name": "Captura de monstruos",
       "createdAt": "2026-05-20T23:23:59.831Z",
       "updatedAt": "2026-05-20T23:23:59.831Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0e4326ac4186cff412dcdb",
+      "id": 123,
+      "name": "Postapocalíptico",
+      "createdAt": "2026-05-20T23:26:30.273Z",
+      "updatedAt": "2026-05-20T23:26:30.273Z",
       "__v": 0
     }
   ],
