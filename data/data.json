@@ -12192,7 +12192,6 @@
       "oldImage": "Outlast.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6e3",
       "id": "ml4rNq07",
       "name": "Neva",
@@ -12217,8 +12216,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-20T23:34:12.608Z",
-      "oldImage": "Neva.jpeg"
+      "updatedAt": "2026-05-20T23:34:14.610Z",
+      "oldImage": "Neva.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c6e1",
