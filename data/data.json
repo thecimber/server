@@ -12080,7 +12080,6 @@
       "oldImage": "Pikmin 3 Deluxe.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6eb",
       "id": "1lXxfmol",
       "name": "Pikmin 1",
@@ -12104,8 +12103,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-20T23:35:23.187Z",
-      "oldImage": "Pikmin 1.jpeg"
+      "updatedAt": "2026-05-20T23:35:25.333Z",
+      "oldImage": "Pikmin 1.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c6e9",
