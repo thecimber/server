@@ -21767,15 +21767,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
+        1,
         2,
-        3,
-        32
+        32,
+        55
       ],
       "size": "2.3 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1IzzLaSO3z2eW4YdT5QjtvA",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Mvnw-bgY6snKsUZXzZM4Aw",
           "_id": "68e08df79e798a708ef8c9ec"
         }
       ],
@@ -21783,7 +21784,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-20T23:34:36.944Z",
       "oldImage": "8CBsgsu43sguyO.jpg"
     },
     {
