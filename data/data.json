@@ -9755,14 +9755,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
+        3,
         28,
-        41
+        83,
+        72
       ],
       "size": "4.8 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/17w84mO5UY8g650KcIVCFbA",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1ue33AZWcOGNFleF8U0xCyA",
           "_id": "68e08df59e798a708ef8c6ab"
         }
       ],
@@ -9770,7 +9772,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-05-20T23:24:43.644Z",
       "oldImage": "Mario + Rabbids Kingdom Battle.jpeg"
     },
     {
