@@ -23132,7 +23132,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca72",
       "id": "Fzey-12J",
       "name": "Persona 5 Tactica",
@@ -23154,8 +23153,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-05-20T23:40:08.476Z",
-      "oldImage": "aVCSxixmqo.jpg"
+      "updatedAt": "2026-05-20T23:40:10.694Z",
+      "oldImage": "aVCSxixmqo.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
