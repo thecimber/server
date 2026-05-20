@@ -10949,7 +10949,6 @@
       "oldImage": "Metroid Prime Remastered.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6be",
       "id": "39Bo5fRt",
       "name": "Metro Light Redux",
@@ -10974,8 +10973,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.425Z",
-      "updatedAt": "2026-05-20T23:27:19.763Z",
-      "oldImage": "Metro Light Redux.jpeg"
+      "updatedAt": "2026-05-20T23:27:28.165Z",
+      "oldImage": "Metro Light Redux.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c6bc",
