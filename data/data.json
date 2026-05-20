@@ -10866,7 +10866,6 @@
       "oldImage": "Mario Tennis Aces.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6c2",
       "id": "UGea305V",
       "name": "Metroid Dread",
@@ -10891,8 +10890,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.425Z",
-      "updatedAt": "2026-05-20T23:28:16.789Z",
-      "oldImage": "Metroid Dread.jpeg"
+      "updatedAt": "2026-05-20T23:28:18.842Z",
+      "oldImage": "Metroid Dread.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
