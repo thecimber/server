@@ -23051,7 +23051,6 @@
       "oldImage": "urBBkzlQ4d.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca6c",
       "id": "IbgyKzo0",
       "name": "Persona 3 Portable",
@@ -23074,8 +23073,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-05-20T23:38:25.335Z",
-      "oldImage": "pv-Po8XUVy.jpg"
+      "updatedAt": "2026-05-20T23:38:27.471Z",
+      "oldImage": "pv-Po8XUVy.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
