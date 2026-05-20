@@ -11004,7 +11004,6 @@
       "oldImage": "Mario vs. Donkey Kong v1.0.0 .jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6c0",
       "id": "uU7SBDV6",
       "name": "Metro Redux 2033",
@@ -11028,8 +11027,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.425Z",
-      "updatedAt": "2026-05-20T23:26:17.602Z",
-      "oldImage": "Metro Redux 2033.jpeg"
+      "updatedAt": "2026-05-20T23:26:20.055Z",
+      "oldImage": "Metro Redux 2033.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
