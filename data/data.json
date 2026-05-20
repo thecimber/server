@@ -9784,14 +9784,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
+        3,
         28,
-        41
+        83,
+        72
       ],
       "size": "9.6 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1KvJcaYaTydJjd-OVSc71DA",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/18uLiFFStmi3N4vpd-PCgzQ",
           "_id": "68e08df59e798a708ef8c6ad"
         }
       ],
@@ -9799,7 +9801,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-05-20T23:25:17.304Z",
       "oldImage": "Mario + Rabbids Sparks of Hope.jpeg"
     },
     {
