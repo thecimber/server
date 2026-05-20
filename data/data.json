@@ -12054,7 +12054,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6ef",
       "id": "e2IV1n03",
       "name": "Pikmin 3 Deluxe",
@@ -12079,8 +12078,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-20T23:37:05.097Z",
-      "oldImage": "Pikmin 3 Deluxe.jpeg"
+      "updatedAt": "2026-05-20T23:37:07.600Z",
+      "oldImage": "Pikmin 3 Deluxe.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c6eb",
