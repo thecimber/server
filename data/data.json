@@ -23105,7 +23105,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca70",
       "id": "gZITCQMN",
       "name": "Persona 5 Strikers ",
@@ -23128,8 +23127,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-05-20T23:39:26.516Z",
-      "oldImage": "1rrKc_aAWz.jpg"
+      "updatedAt": "2026-05-20T23:39:28.867Z",
+      "oldImage": "1rrKc_aAWz.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
