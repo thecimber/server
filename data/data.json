@@ -12023,7 +12023,6 @@
       "oldImage": "Super Mario Bros. Wonder.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6dd",
       "id": "JD29BF45",
       "name": "Nekopara Volumen 2",
@@ -12047,8 +12046,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-20T23:31:43.966Z",
-      "oldImage": "Nekopara Volumen 2.jpeg"
+      "updatedAt": "2026-05-20T23:32:10.758Z",
+      "oldImage": "Nekopara Volumen 2.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -31375,6 +31375,14 @@
       "name": "Eroge y novela visual",
       "createdAt": "2026-05-20T23:30:42.428Z",
       "updatedAt": "2026-05-20T23:30:42.428Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0e446bac4186cff41384ae",
+      "id": 125,
+      "name": "Simulación de citas",
+      "createdAt": "2026-05-20T23:31:56.009Z",
+      "updatedAt": "2026-05-20T23:31:56.009Z",
       "__v": 0
     }
   ],
