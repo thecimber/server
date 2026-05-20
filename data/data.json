@@ -12307,7 +12307,7 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        23
+        124
       ],
       "size": "2.3 Gb",
       "downloadMethods": [
@@ -12321,7 +12321,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-20T23:30:28.839Z",
+      "updatedAt": "2026-05-20T23:31:06.585Z",
       "oldImage": "gikAoXMT_K.jpg",
       "isUpdate": true
     },
@@ -31366,6 +31366,14 @@
       "name": "Postapocalíptico",
       "createdAt": "2026-05-20T23:26:30.273Z",
       "updatedAt": "2026-05-20T23:26:30.273Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0e4422ac4186cff413668d",
+      "id": 124,
+      "name": "Eroge y novela visual",
+      "createdAt": "2026-05-20T23:30:42.428Z",
+      "updatedAt": "2026-05-20T23:30:42.428Z",
       "__v": 0
     }
   ],
