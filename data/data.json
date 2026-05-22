@@ -30252,7 +30252,7 @@
       "id": "EO9_HHyN",
       "name": "Lego Batman Legacy Of The Dark Knight ",
       "image": "1779469175226-444fcc0f.jpg",
-      "format": 3,
+      "format": 16,
       "language": "Multi-Idioma",
       "genre": [
         2,
@@ -30275,7 +30275,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-22T16:59:37.031Z",
-      "updatedAt": "2026-05-22T16:59:37.031Z",
+      "updatedAt": "2026-05-22T17:14:30.961Z",
       "__v": 0
     }
   ],
@@ -31598,6 +31598,15 @@
       "deleted": false,
       "createdAt": "2026-04-05T19:07:51.535Z",
       "updatedAt": "2026-04-05T19:07:51.535Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a108ee8ac4186cff4151a09",
+      "id": 16,
+      "name": "ISO (INSTALAR)",
+      "deleted": false,
+      "createdAt": "2026-05-22T17:14:16.810Z",
+      "updatedAt": "2026-05-22T17:14:16.810Z",
       "__v": 0
     }
   ]
