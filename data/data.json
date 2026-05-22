@@ -22891,6 +22891,32 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca28",
+      "id": "jP4CSCkd",
+      "name": "Madden NFL 13",
+      "image": "ejLC9iC_Hz.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        4
+      ],
+      "size": "4.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1AJ4YZU2rj09XOZpFni8Efw",
+          "_id": "68e08df89e798a708ef8ca29"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "ejLC9iC_Hz.jpg"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca62",
       "id": "1LvWLfpn",
       "name": "SONIC LOST WORLD (USA) (DLC) (v48)",
@@ -22915,33 +22941,6 @@
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "zGSxPN8DeE.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca26",
-      "id": "xBDsf7px",
-      "name": "Monster Hunter 3 Ultimate",
-      "image": "eL3gOesWqt.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        41
-      ],
-      "size": "5.8 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1jsWKj6AZdEoz0aYs6IzN1w",
-          "_id": "68e08df89e798a708ef8ca27"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "eL3gOesWqt.jpg"
     },
     {
       "isUpdate": false,
@@ -23602,21 +23601,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca28",
-      "id": "jP4CSCkd",
-      "name": "Madden NFL 13",
-      "image": "ejLC9iC_Hz.webp",
+      "_id": "68e08df89e798a708ef8ca26",
+      "id": "xBDsf7px",
+      "name": "Monster Hunter 3 Ultimate",
+      "image": "eL3gOesWqt.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        4
+        7,
+        41
       ],
-      "size": "4.3 Gb",
+      "size": "5.8 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1AJ4YZU2rj09XOZpFni8Efw",
-          "_id": "68e08df89e798a708ef8ca29"
+          "link": "https://1024terabox.com/s/1jsWKj6AZdEoz0aYs6IzN1w",
+          "_id": "68e08df89e798a708ef8ca27"
         }
       ],
       "emulatorId": 5,
@@ -23624,7 +23624,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "ejLC9iC_Hz.jpg"
+      "oldImage": "eL3gOesWqt.jpg"
     },
     {
       "isUpdate": false,
@@ -23841,6 +23841,58 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca36",
+      "id": "42jRxFsC",
+      "name": "NES REMIX PACK (USA)",
+      "image": "iymK5rWHzT.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        3
+      ],
+      "size": "127 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "ttps://1024terabox.com/s/1YDlzC-qzemd5MOAcydwztA",
+          "_id": "68e08df89e798a708ef8ca37"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "iymK5rWHzT.jpg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca2e",
+      "id": "Abz193Fk",
+      "name": "Mario Vs Donkey Kong Tipping Stars",
+      "image": "j_sUYhFUwU.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        3
+      ],
+      "size": "386 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1x1uHSqzWF1t2QJjkzaVrew",
+          "_id": "68e08df89e798a708ef8ca2f"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "j_sUYhFUwU.jpg"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca32",
       "id": "-pisnbWK",
       "name": "Need for Speed Most Wanted U (USA) (v32)",
@@ -23894,62 +23946,10 @@
       "oldImage": "dRWuFo4vv_.jpg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca2e",
-      "id": "Abz193Fk",
-      "name": "Mario Vs Donkey Kong Tipping Stars",
-      "image": "j_sUYhFUwU.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        3
-      ],
-      "size": "386 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1x1uHSqzWF1t2QJjkzaVrew",
-          "_id": "68e08df89e798a708ef8ca2f"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "j_sUYhFUwU.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca36",
-      "id": "42jRxFsC",
-      "name": "NES REMIX PACK (USA)",
-      "image": "iymK5rWHzT.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        3
-      ],
-      "size": "127 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "ttps://1024terabox.com/s/1YDlzC-qzemd5MOAcydwztA",
-          "_id": "68e08df89e798a708ef8ca37"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "iymK5rWHzT.jpg"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca8a",
-      "id": "yKaYhI6Z",
-      "name": "Hitman 2016 ",
-      "image": "hMLJrAJP7G.webp",
+      "_id": "68e08df89e798a708ef8ca8e",
+      "id": "Exy190Oj",
+      "name": "Hitman Absolution ",
+      "image": "dPVJkMICsh.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
@@ -23957,20 +23957,20 @@
         8,
         30
       ],
-      "size": "45,2 Gb",
+      "size": "15,9 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1x5C618b4tjCKvpCRX2qjCA",
-          "_id": "68e08df89e798a708ef8ca8b"
+          "link": "https://1024terabox.com/s/1Kjk54P-IUJs_a-4Q1vb4dA",
+          "_id": "68e08df89e798a708ef8ca8f"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-28T18:22:08.124Z",
-      "oldImage": "hMLJrAJP7G.jpg",
+      "updatedAt": "2026-03-28T18:22:27.742Z",
+      "oldImage": "dPVJkMICsh.jpg",
       "isUpdate": true
     },
     {
@@ -24229,34 +24229,6 @@
       "oldImage": "FzMV69PJNo.jpg"
     },
     {
-      "_id": "68e08df89e798a708ef8ca8e",
-      "id": "Exy190Oj",
-      "name": "Hitman Absolution ",
-      "image": "dPVJkMICsh.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8,
-        30
-      ],
-      "size": "15,9 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Kjk54P-IUJs_a-4Q1vb4dA",
-          "_id": "68e08df89e798a708ef8ca8f"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-28T18:22:27.742Z",
-      "oldImage": "dPVJkMICsh.jpg",
-      "isUpdate": true
-    },
-    {
       "_id": "68e08df89e798a708ef8ca8c",
       "id": "co_-vGVd",
       "name": "Hitman Codename 47 ",
@@ -24283,6 +24255,34 @@
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
       "oldImage": "5L0F6gWFvx.jpg"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca8a",
+      "id": "yKaYhI6Z",
+      "name": "Hitman 2016 ",
+      "image": "hMLJrAJP7G.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        8,
+        30
+      ],
+      "size": "45,2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1x5C618b4tjCKvpCRX2qjCA",
+          "_id": "68e08df89e798a708ef8ca8b"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-28T18:22:08.124Z",
+      "oldImage": "hMLJrAJP7G.jpg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca88",
@@ -24503,34 +24503,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8caa2",
-      "id": "HfgSrewpd",
-      "name": "Hollow Knight SILKSONG",
-      "image": "hol34221423.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        2,
-        9
-      ],
-      "size": "1.9 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/1EZOSJFrJC7jM0cq_9Mm-9Q",
-          "_id": "68e08df89e798a708ef8caa3"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-08T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "hol34221423.png"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8caa6",
       "id": "riyLrs1T",
       "name": "hollow knight silksong (1.1.5)",
@@ -24584,6 +24556,34 @@
       "createdAt": "2025-10-08T03:01:12.243Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "holsw62672vs.jpeg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8caa2",
+      "id": "HfgSrewpd",
+      "name": "Hollow Knight SILKSONG",
+      "image": "hol34221423.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        2,
+        9
+      ],
+      "size": "1.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://terabox.com/s/1EZOSJFrJC7jM0cq_9Mm-9Q",
+          "_id": "68e08df89e798a708ef8caa3"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-08T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "hol34221423.png"
     },
     {
       "isUpdate": false,
@@ -30245,6 +30245,37 @@
       "captures": [],
       "createdAt": "2026-05-22T15:55:36.125Z",
       "updatedAt": "2026-05-22T15:55:36.125Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a108b79ac4186cff41508af",
+      "id": "EO9_HHyN",
+      "name": "Lego Batman Legacy Of The Dark Knight ",
+      "image": "1779469175226-444fcc0f.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        8,
+        12,
+        44,
+        113,
+        10
+      ],
+      "size": "32 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1rnIMUTjgSj9hhfhpf0mcZw",
+          "_id": "6a108b79ac4186cff41508b0"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-22T16:59:37.031Z",
+      "updatedAt": "2026-05-22T16:59:37.031Z",
       "__v": 0
     }
   ],
