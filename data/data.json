@@ -25,7 +25,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:07.481Z",
-      "updatedAt": "2026-05-20T23:47:37.173Z",
+      "updatedAt": "2026-05-22T17:25:12.786Z",
       "isUpdate": false
     },
     {
@@ -30169,31 +30169,6 @@
       "__v": 0
     },
     {
-      "_id": "69e287c960af684b008b9811",
-      "id": "kxpmswH7",
-      "name": "Tomodachi Life Living The Dream",
-      "image": "1776453576518-46e22b9e.jpg",
-      "format": 8,
-      "language": "Multi-Idioma",
-      "genre": [
-        92
-      ],
-      "size": "7 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1pt75QLlrp5loUDyMMr83-Q",
-          "_id": "69e287c960af684b008b9812"
-        }
-      ],
-      "emulatorId": 8,
-      "isUpdate": true,
-      "captures": [],
-      "createdAt": "2026-05-17T19:19:37.645Z",
-      "updatedAt": "2026-05-21T02:26:03.762Z",
-      "__v": 0
-    },
-    {
       "_id": "6a0e426bac4186cff41268aa",
       "id": "G5rkEkVe",
       "name": "Pokémon Fire Red Versión/Leaf Green Versión ",
@@ -30276,6 +30251,31 @@
       "captures": [],
       "createdAt": "2026-05-22T16:59:37.031Z",
       "updatedAt": "2026-05-22T17:14:30.961Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e287c960af684b008b9811",
+      "id": "kxpmswH7",
+      "name": "Tomodachi Life Living The Dream",
+      "image": "1776453576518-46e22b9e.jpg",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        92
+      ],
+      "size": "7 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1pt75QLlrp5loUDyMMr83-Q",
+          "_id": "69e287c960af684b008b9812"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": true,
+      "captures": [],
+      "createdAt": "2026-09-17T19:19:37.645Z",
+      "updatedAt": "2026-05-21T02:26:03.762Z",
       "__v": 0
     }
   ],
