@@ -30430,7 +30430,7 @@
         2,
         57,
         127,
-        12
+        136
       ],
       "size": "20 Gb",
       "downloadMethods": [
@@ -30444,7 +30444,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-23T20:40:47.152Z",
-      "updatedAt": "2026-05-23T20:40:47.152Z",
+      "updatedAt": "2026-05-23T20:41:23.012Z",
       "__v": 0
     },
     {
@@ -31727,6 +31727,14 @@
       "name": "Fantasía clásica",
       "createdAt": "2026-05-23T20:39:11.462Z",
       "updatedAt": "2026-05-23T20:39:11.462Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1210e3ac4186cff419142b",
+      "id": 136,
+      "name": "Mundo abierto sci-fi",
+      "createdAt": "2026-05-23T20:41:07.315Z",
+      "updatedAt": "2026-05-23T20:41:07.315Z",
       "__v": 0
     }
   ],
