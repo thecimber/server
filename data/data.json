@@ -11705,7 +11705,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c747",
       "id": "JUTQrPVb",
       "name": "The Legend of Heroes: Trails through Daybreak II ",
@@ -11730,8 +11729,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T21:36:03.044Z",
-      "oldImage": "The Legend of Heroes: Trails through Daybreak II.jpeg"
+      "updatedAt": "2026-05-23T21:36:10.650Z",
+      "oldImage": "The Legend of Heroes: Trails through Daybreak II.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
