@@ -11126,7 +11126,8 @@
       "genre": [
         2,
         3,
-        9
+        9,
+        133
       ],
       "size": "6.3 Gb",
       "downloadMethods": [
@@ -11140,7 +11141,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:32:26.222Z",
+      "updatedAt": "2026-05-23T20:33:00.919Z",
       "oldImage": "The Legends Of Zelda Link's awakening.jpeg",
       "isUpdate": true
     },
@@ -31666,6 +31667,14 @@
       "name": "Clásico 2D",
       "createdAt": "2026-05-23T20:27:04.342Z",
       "updatedAt": "2026-05-23T20:27:04.342Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a120ee7ac4186cff41873f0",
+      "id": 133,
+      "name": "Mazmorras",
+      "createdAt": "2026-05-23T20:32:39.207Z",
+      "updatedAt": "2026-05-23T20:32:39.207Z",
       "__v": 0
     }
   ],
