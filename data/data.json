@@ -12707,13 +12707,14 @@
       "language": "Multi-Idioma",
       "genre": [
         3,
-        12,
-        41
+        57,
+        122,
+        12
       ],
       "size": "13.3 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1jjkxIqEG5HfBjIufGKp4YQ",
           "_id": "68e08df59e798a708ef8c6f8"
         }
@@ -12722,7 +12723,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:03:46.801Z",
       "oldImage": "Pokemon Escarlata.jpeg"
     },
     {
