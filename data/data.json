@@ -11355,8 +11355,9 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
+        3,
         1,
-        3
+        130
       ],
       "size": "7.5 Gb",
       "downloadMethods": [
@@ -11370,7 +11371,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:22:25.311Z",
+      "updatedAt": "2026-05-23T20:23:09.708Z",
       "oldImage": "Sonic Forces.jpeg"
     },
     {
@@ -31605,6 +31606,14 @@
       "name": "Colección clásica",
       "createdAt": "2026-05-23T20:21:41.827Z",
       "updatedAt": "2026-05-23T20:21:41.827Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a120c8eac4186cff4179fd9",
+      "id": 130,
+      "name": "Velocidad",
+      "createdAt": "2026-05-23T20:22:38.624Z",
+      "updatedAt": "2026-05-23T20:22:38.624Z",
       "__v": 0
     }
   ],
