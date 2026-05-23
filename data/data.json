@@ -11230,7 +11230,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c70c",
       "id": "oyI4pimb",
       "name": "Resident Evil 4 HD",
@@ -11255,8 +11254,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:16:26.612Z",
-      "oldImage": "Resident Evil 4 HD.jpeg"
+      "updatedAt": "2026-05-23T20:16:29.557Z",
+      "oldImage": "Resident Evil 4 HD.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c70a",
