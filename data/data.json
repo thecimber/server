@@ -10674,7 +10674,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c667",
       "id": "thbY3hxy",
       "name": "Cuphead v1.3.7",
@@ -10698,8 +10697,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-23T20:42:57.122Z",
-      "oldImage": "Cuphead.jpeg"
+      "updatedAt": "2026-05-23T20:42:59.556Z",
+      "oldImage": "Cuphead.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c677",
