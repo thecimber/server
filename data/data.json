@@ -11117,7 +11117,6 @@
       "oldImage": "Mortal Kombat 11 Ultimate.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c74f",
       "id": "VoYWwD1A",
       "name": "The Legends Of Zelda Link's awakening ",
@@ -11141,8 +11140,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:32:21.781Z",
-      "oldImage": "The Legends Of Zelda Link's awakening.jpeg"
+      "updatedAt": "2026-05-23T20:32:26.222Z",
+      "oldImage": "The Legends Of Zelda Link's awakening.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c74b",
