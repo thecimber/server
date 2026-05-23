@@ -12997,13 +12997,15 @@
       "language": "Multi-Idioma",
       "genre": [
         23,
-        41
+        96,
+        140,
+        95
       ],
       "size": "16 GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1iqDDk3EGrh5apo2PZS0pDA",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1jdGd4xpogw6iDfBWVQyaJA",
           "_id": "68e08df59e798a708ef8c75d"
         }
       ],
@@ -13011,7 +13013,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T21:06:03.849Z",
       "oldImage": "Virche Evermore -EpiC Lycoris.jpeg"
     },
     {
