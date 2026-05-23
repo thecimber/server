@@ -13168,9 +13168,10 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
+        22,
         28,
         79,
-        22
+        146
       ],
       "size": "8.0 Gb",
       "downloadMethods": [
@@ -13184,7 +13185,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-05-23T21:34:30.398Z",
+      "updatedAt": "2026-05-23T21:34:55.696Z",
       "oldImage": "Yu-Gi-Oh! EARLY DAYS COLLECTION.jpeg",
       "isUpdate": true
     },
@@ -31862,6 +31863,14 @@
       "name": "Danmaku",
       "createdAt": "2026-05-23T21:32:57.506Z",
       "updatedAt": "2026-05-23T21:32:57.506Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a121d72ac4186cff41b329a",
+      "id": 146,
+      "name": "Duelo competitivo",
+      "createdAt": "2026-05-23T21:34:42.216Z",
+      "updatedAt": "2026-05-23T21:34:42.216Z",
       "__v": 0
     }
   ],
