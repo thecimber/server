@@ -11323,18 +11323,19 @@
       "id": "JaBm7h94",
       "name": "Rift of the NecroDancer",
       "image": "Rift of the NecroDancer.webp",
-      "format": 2,
+      "format": 8,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        41,
-        36
+        2,
+        58,
+        100,
+        74
       ],
       "size": "3.2 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1px82RijEPPbpbCuoctyIjQ",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1VAc37mDLscuTalMESum_LA",
           "_id": "68e08df59e798a708ef8c71b"
         }
       ],
@@ -11342,7 +11343,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:29:18.542Z",
       "oldImage": "Rift of the NecroDancer.jpeg"
     },
     {
