@@ -13416,17 +13416,19 @@
       "id": "cjBPpuea",
       "name": "Wild Bastards",
       "image": "Wild Bastards.webp",
-      "format": 2,
+      "format": 9,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        30
+        28,
+        35,
+        58,
+        50
       ],
       "size": "2.4 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1F2PEzGA8To315r6ZvTovZw",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1LsYC-lovpFpRBLsBtkyskA",
           "_id": "68e08df59e798a708ef8c761"
         }
       ],
@@ -13434,7 +13436,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T21:15:28.472Z",
       "oldImage": "Wild Bastards.jpeg"
     },
     {
