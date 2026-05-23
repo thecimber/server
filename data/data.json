@@ -12698,7 +12698,6 @@
       "oldImage": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6f7",
       "id": "IAbX59hV",
       "name": "Pokemon Escarlata ",
@@ -12723,8 +12722,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:03:46.801Z",
-      "oldImage": "Pokemon Escarlata.jpeg"
+      "updatedAt": "2026-05-23T20:03:49.521Z",
+      "oldImage": "Pokemon Escarlata.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
