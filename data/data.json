@@ -12719,7 +12719,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c722",
       "id": "iVWP4xIK",
       "name": "Sonic Frontiers",
@@ -12744,8 +12743,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:28:07.990Z",
-      "oldImage": "Sonic Frontiers.jpeg"
+      "updatedAt": "2026-05-23T20:28:10.383Z",
+      "oldImage": "Sonic Frontiers.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
