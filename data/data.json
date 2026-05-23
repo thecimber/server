@@ -12864,14 +12864,15 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
+        2,
         1,
-        32
+        86
       ],
       "size": "400 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1ZiVfjDvgWj3DcZBOg9znQA",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1b5ZruSR02rMe3Iogk6f0gw",
           "_id": "68e08df59e798a708ef8c725"
         }
       ],
@@ -12879,7 +12880,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:26:51.312Z",
       "oldImage": "Sonic Mania Plus.jpeg"
     },
     {
