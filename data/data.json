@@ -11551,7 +11551,6 @@
       "oldImage": "The Plucky Squire.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c726",
       "id": "iewRn_0a",
       "name": "Sonic Origins plus",
@@ -11575,8 +11574,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:21:20.250Z",
-      "oldImage": "Sonic Origins.jpeg"
+      "updatedAt": "2026-05-23T20:21:22.783Z",
+      "oldImage": "Sonic Origins.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c73f",
