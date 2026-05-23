@@ -11734,7 +11734,8 @@
       "genre": [
         2,
         3,
-        55
+        55,
+        134
       ],
       "size": "4.0 Gb",
       "downloadMethods": [
@@ -11748,7 +11749,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:34:14.077Z",
+      "updatedAt": "2026-05-23T20:34:41.855Z",
       "oldImage": "The Legend of Zelda Skyward Sword HD .jpeg",
       "isUpdate": true
     },
@@ -31677,6 +31678,14 @@
       "name": "Mazmorras",
       "createdAt": "2026-05-23T20:32:39.207Z",
       "updatedAt": "2026-05-23T20:32:39.207Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a120f51ac4186cff418b088",
+      "id": 134,
+      "name": "Motion controls",
+      "createdAt": "2026-05-23T20:34:25.349Z",
+      "updatedAt": "2026-05-23T20:34:25.349Z",
       "__v": 0
     }
   ],
