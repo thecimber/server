@@ -11902,7 +11902,6 @@
       "oldImage": "Sonic Mania Plus.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6fe",
       "id": "Wjx9l2j1",
       "name": "Pokemon Lets Go Eevee [v1.0.2] ",
@@ -11927,8 +11926,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T19:55:20.580Z",
-      "oldImage": "Pokemon Lets Go Eevee [v1.0.2].jpeg"
+      "updatedAt": "2026-05-23T19:55:22.895Z",
+      "oldImage": "Pokemon Lets Go Eevee [v1.0.2].jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
