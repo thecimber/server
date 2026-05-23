@@ -12791,13 +12791,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        41
+        28,
+        57,
+        127,
+        55
       ],
       "size": "7.5 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1pR9SvRFtQtz1aWFRPa4Lhw",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/15RPv6qG3TAtyeYT0SbnX7w",
           "_id": "68e08df59e798a708ef8c732"
         }
       ],
@@ -12805,7 +12808,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:38:07.472Z",
       "oldImage": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars.jpeg"
     },
     {
