@@ -13389,17 +13389,18 @@
       "id": "GKT6YUZe",
       "name": "XIII",
       "image": "XIII.webp",
-      "format": 2,
+      "format": 8,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        11
+        35,
+        8
       ],
       "size": "7.7 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Hizpg61Gy_44rBRfigtqmA",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1MXv8JqRiaqJCOitx_plAgQ",
           "_id": "68e08df59e798a708ef8c769"
         }
       ],
@@ -13407,7 +13408,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T21:24:35.514Z",
       "oldImage": "XIII.jpeg"
     },
     {
