@@ -12495,7 +12495,7 @@
         2,
         1,
         130,
-        113
+        131
       ],
       "size": "9.0 Gb",
       "downloadMethods": [
@@ -12509,7 +12509,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:24:00.164Z",
+      "updatedAt": "2026-05-23T20:24:28.783Z",
       "oldImage": "Sonic Superstars.jpeg",
       "isUpdate": true
     },
@@ -31616,6 +31616,14 @@
       "name": "Velocidad",
       "createdAt": "2026-05-23T20:22:38.624Z",
       "updatedAt": "2026-05-23T20:22:38.624Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a120cecac4186cff417cf75",
+      "id": 131,
+      "name": "Cooperativo 2D",
+      "createdAt": "2026-05-23T20:24:12.724Z",
+      "updatedAt": "2026-05-23T20:24:12.724Z",
       "__v": 0
     }
   ],
