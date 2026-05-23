@@ -13248,17 +13248,19 @@
       "id": "oNSZHl0Z",
       "name": "TRIANGLE STRATEGY ",
       "image": "TRIANGLE STRATEGY.webp",
-      "format": 2,
+      "format": 9,
       "language": "Multi-Idioma",
       "genre": [
         28,
-        41
+        57,
+        83,
+        55
       ],
       "size": "7.5 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1claZwwBCvswSi2wd31YIIw",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1WYdKrn6sSMeUefPLvIcMqw",
           "_id": "68e08df59e798a708ef8c758"
         }
       ],
@@ -13266,7 +13268,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T21:32:29.723Z",
       "oldImage": "TRIANGLE STRATEGY.jpeg"
     },
     {
