@@ -9774,7 +9774,6 @@
       "oldImage": "Blasphemous.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6a4",
       "id": "AhB0i6OI",
       "name": "Kirby's Return to Dream Land Deluxe",
@@ -9800,7 +9799,8 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-23T21:36:52.216Z"
+      "updatedAt": "2026-05-23T21:36:55.767Z",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c645",
