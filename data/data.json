@@ -11117,7 +11117,6 @@
       "oldImage": "MONOPOLY Madness.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6f5",
       "id": "TtfRBJnR",
       "name": "Pokemon Diamante brillante ",
@@ -11142,8 +11141,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T19:57:15.169Z",
-      "oldImage": "Pokemon Diamante brillante.jpeg"
+      "updatedAt": "2026-05-23T19:58:35.336Z",
+      "oldImage": "Pokemon Diamante brillante.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
