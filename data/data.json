@@ -11800,13 +11800,15 @@
       "language": "Multi-Idioma",
       "genre": [
         3,
-        41
+        57,
+        122,
+        12
       ],
       "size": "2.4 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1k5goT1rLdVWI26wLQx6tHQ",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1GMayL4uuV6QLK-agApV_7g",
           "_id": "68e08df59e798a708ef8c701"
         }
       ],
@@ -11814,7 +11816,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T19:54:12.570Z",
       "oldImage": "Pokemon Mystery Dungeon Rescue Team DX.jpeg"
     },
     {
