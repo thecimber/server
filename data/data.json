@@ -11479,15 +11479,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        14,
-        20,
-        31
+        31,
+        21,
+        8,
+        114
       ],
       "size": "10.4 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Ep9q_tN-XwIyjbj15on-tA",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1fbz_RFl99R12ZzVh5xG3gA",
           "_id": "68e08df59e798a708ef8c6e8"
         }
       ],
@@ -11495,7 +11496,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T21:38:33.408Z",
       "oldImage": "Outlast 2.jpeg"
     },
     {
