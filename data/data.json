@@ -10682,8 +10682,9 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
+        35,
         1,
-        35
+        137
       ],
       "size": "5.8 Gb",
       "downloadMethods": [
@@ -10697,7 +10698,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-23T20:42:59.556Z",
+      "updatedAt": "2026-05-23T20:43:30.604Z",
       "oldImage": "Cuphead.jpeg",
       "isUpdate": true
     },
@@ -31736,6 +31737,14 @@
       "name": "Mundo abierto sci-fi",
       "createdAt": "2026-05-23T20:41:07.315Z",
       "updatedAt": "2026-05-23T20:41:07.315Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a12115eac4186cff41950d8",
+      "id": 137,
+      "name": "Dificultad alta",
+      "createdAt": "2026-05-23T20:43:10.227Z",
+      "updatedAt": "2026-05-23T20:43:10.227Z",
       "__v": 0
     }
   ],
