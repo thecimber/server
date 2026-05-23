@@ -24628,14 +24628,14 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        1,
         2,
-        9
+        9,
+        3
       ],
       "size": "2.4 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://terabox.com/s/1aH-LFyRqL9i2CZkRwicpEQ",
           "_id": "68e08df89e798a708ef8caa5"
         }
@@ -24644,7 +24644,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-08T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:48:00.495Z",
       "oldImage": "holsw62672vs.jpeg"
     },
     {
