@@ -13035,14 +13035,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        41
+        2,
+        57,
+        127,
+        136
       ],
       "size": "15.0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1uzSJS3oR4ttAHcobJMfLyw",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1fwhQWgG2kF0DpegpLXOy8A",
           "_id": "68e08df59e798a708ef8c765"
         }
       ],
@@ -13050,7 +13052,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T21:39:29.335Z",
       "oldImage": "Xenoblade Chronicles X Definitive Edition.jpeg"
     },
     {
