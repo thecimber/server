@@ -11272,15 +11272,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        36,
-        37
+        2,
+        35,
+        58,
+        101
       ],
       "size": "1,6 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1tUXTvG59uIl620qTtqI2Rg",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1mXPdzAVP6LUZn_E5GtEH9A",
           "_id": "68e08df59e798a708ef8c746"
         }
       ],
@@ -11288,7 +11289,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:41:54.194Z",
       "oldImage": "The Binding Of Isaac Afterbirth.jpeg"
     },
     {
