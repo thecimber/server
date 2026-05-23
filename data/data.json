@@ -24620,7 +24620,6 @@
       "oldImage": "hol34221423.png"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8caa4",
       "id": "HSwsoC80sX",
       "name": "Hollow Knight SILKSONG",
@@ -24644,8 +24643,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-08T03:01:12.243Z",
-      "updatedAt": "2026-05-23T20:48:00.495Z",
-      "oldImage": "holsw62672vs.jpeg"
+      "updatedAt": "2026-05-23T20:48:05.775Z",
+      "oldImage": "holsw62672vs.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
