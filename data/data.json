@@ -11264,7 +11264,6 @@
       "oldImage": "Stardew Valley.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c745",
       "id": "0HvMkyN6",
       "name": "The Binding Of Isaac Afterbirth",
@@ -11289,8 +11288,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:41:54.194Z",
-      "oldImage": "The Binding Of Isaac Afterbirth.jpeg"
+      "updatedAt": "2026-05-23T20:41:57.896Z",
+      "oldImage": "The Binding Of Isaac Afterbirth.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c73f",
