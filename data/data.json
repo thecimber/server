@@ -11466,15 +11466,17 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        14,
-        20,
-        31
+        2,
+        31,
+        21,
+        114,
+        48
       ],
       "size": "15.5 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/14___6YeGxx_uTbLf2VJUnQ",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1XqgnQmcZQzfWO2hanjKJcw",
           "_id": "68e08df59e798a708ef8c713"
         }
       ],
@@ -11482,7 +11484,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:15:11.287Z",
       "oldImage": "Resident Evil HD Remastered.jpeg"
     },
     {
