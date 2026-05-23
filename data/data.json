@@ -12675,7 +12675,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c70e",
       "id": "zPSnGAaz",
       "name": "Resident Evil 5",
@@ -12701,8 +12700,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:15:53.218Z",
-      "oldImage": "Resident Evil 5.jpeg"
+      "updatedAt": "2026-05-23T20:15:57.086Z",
+      "oldImage": "Resident Evil 5.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
