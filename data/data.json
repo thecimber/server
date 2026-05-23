@@ -11122,17 +11122,18 @@
       "id": "VoYWwD1A",
       "name": "The Legends Of Zelda Link's awakening ",
       "image": "The Legends Of Zelda Link's awakening.webp",
-      "format": 2,
+      "format": 8,
       "language": "Multi-Idioma",
       "genre": [
+        2,
         3,
-        7
+        9
       ],
       "size": "6.3 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1NFANiTrX9-fJ-P0kvqt2hw",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1joTIvWHMIw6S0lDqwB4_TA",
           "_id": "68e08df59e798a708ef8c750"
         }
       ],
@@ -11140,7 +11141,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:32:21.781Z",
       "oldImage": "The Legends Of Zelda Link's awakening.jpeg"
     },
     {
