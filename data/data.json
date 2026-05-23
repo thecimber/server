@@ -12837,15 +12837,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        1,
         2,
-        15
+        1,
+        130,
+        3
       ],
       "size": "19.0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1zXt8Gru3J8GHnaoBLRssrQ",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1dvcFwnrk-fQ_owXXALRZWA",
           "_id": "68e08df59e798a708ef8c72b"
         }
       ],
@@ -12853,7 +12854,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:28:42.479Z",
       "oldImage": "Sonic x Shadow Generations.jpeg"
     },
     {
