@@ -12724,18 +12724,19 @@
       "id": "iVWP4xIK",
       "name": "Sonic Frontiers",
       "image": "Sonic Frontiers.webp",
-      "format": 2,
+      "format": 8,
       "language": "Multi-Idioma",
       "genre": [
-        1,
         2,
+        3,
+        1,
         12
       ],
       "size": "16.8 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1dAcF9j_j7nw_ReUlXfuKOQ",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1_kXIC2fLzlSY2q8oXO4sWg",
           "_id": "68e08df59e798a708ef8c723"
         }
       ],
@@ -12743,7 +12744,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:28:07.990Z",
       "oldImage": "Sonic Frontiers.jpeg"
     },
     {
