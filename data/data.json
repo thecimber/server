@@ -12877,7 +12877,6 @@
       "oldImage": "Platform 8.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c751",
       "id": "5dRzLLiw",
       "name": "The Plucky Squire",
@@ -12902,8 +12901,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T21:30:54.932Z",
-      "oldImage": "The Plucky Squire.jpeg"
+      "updatedAt": "2026-05-23T21:31:12.885Z",
+      "oldImage": "The Plucky Squire.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c6f1",
