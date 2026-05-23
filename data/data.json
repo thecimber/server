@@ -21788,14 +21788,16 @@
       "format": 2,
       "language": "Español",
       "genre": [
-        14,
+        31,
+        21,
+        49,
         3
       ],
       "size": "4GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1PGlAA7J0OtN-cR3gj5UzyQ",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1UxNYDpAK36-t_mP5QDyC1Q",
           "_id": "68e08df79e798a708ef8c9f0"
         }
       ],
@@ -21803,7 +21805,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:12:21.838Z",
       "oldImage": "4hWDXXdtsB.jpg"
     },
     {
