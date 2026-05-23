@@ -11654,7 +11654,6 @@
       "oldImage": "Resident Evil 6.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c70a",
       "id": "rHjc9U2I",
       "name": "Pokken Tournament DX",
@@ -11679,8 +11678,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T19:53:26.600Z",
-      "oldImage": "Pokken Tournament DX.jpeg"
+      "updatedAt": "2026-05-23T19:53:28.768Z",
+      "oldImage": "Pokken Tournament DX.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
