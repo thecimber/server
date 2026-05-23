@@ -12829,7 +12829,6 @@
       "oldImage": "SUPER MARIO MAKER 2 .jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c72a",
       "id": "RS7DKin7",
       "name": "Sonic x Shadow Generations ",
@@ -12854,8 +12853,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:28:42.479Z",
-      "oldImage": "Sonic x Shadow Generations.jpeg"
+      "updatedAt": "2026-05-23T20:28:44.900Z",
+      "oldImage": "Sonic x Shadow Generations.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c724",
