@@ -20392,7 +20392,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9a9",
       "id": "Zwl3sS0D",
       "name": "Xenoblade Chronicles 2 ",
@@ -20417,8 +20416,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-05-23T20:45:59.590Z",
-      "oldImage": "h06bc6qbB-.jpg"
+      "updatedAt": "2026-05-23T20:46:02.628Z",
+      "oldImage": "h06bc6qbB-.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
