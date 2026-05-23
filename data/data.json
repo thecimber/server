@@ -12865,7 +12865,8 @@
       "genre": [
         2,
         1,
-        86
+        86,
+        132
       ],
       "size": "400 Mb",
       "downloadMethods": [
@@ -12879,7 +12880,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:26:53.779Z",
+      "updatedAt": "2026-05-23T20:27:29.783Z",
       "oldImage": "Sonic Mania Plus.jpeg",
       "isUpdate": true
     },
@@ -31625,6 +31626,14 @@
       "name": "Cooperativo 2D",
       "createdAt": "2026-05-23T20:24:12.724Z",
       "updatedAt": "2026-05-23T20:24:12.724Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a120d98ac4186cff417f66b",
+      "id": 132,
+      "name": "Clásico 2D",
+      "createdAt": "2026-05-23T20:27:04.342Z",
+      "updatedAt": "2026-05-23T20:27:04.342Z",
       "__v": 0
     }
   ],
