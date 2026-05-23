@@ -12753,7 +12753,6 @@
       "oldImage": "Outlast.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c706",
       "id": "m5dU1zSC",
       "name": "Pokemon Sword ",
@@ -12778,8 +12777,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T19:59:48.357Z",
-      "oldImage": "Pokemon Sword.jpeg"
+      "updatedAt": "2026-05-23T19:59:50.872Z",
+      "oldImage": "Pokemon Sword.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c741",
