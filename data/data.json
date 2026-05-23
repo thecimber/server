@@ -23602,7 +23602,6 @@
       "oldImage": "OtIXREsooE.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca76",
       "id": "zTUu_RIg",
       "name": "Red dead Redemption ",
@@ -23627,8 +23626,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-05-23T20:47:27.264Z",
-      "oldImage": "As0l6mqezX.jpg"
+      "updatedAt": "2026-05-23T20:47:32.538Z",
+      "oldImage": "As0l6mqezX.jpg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca78",
