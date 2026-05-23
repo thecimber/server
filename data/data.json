@@ -11486,7 +11486,6 @@
       "oldImage": "Resident Evil HD Remastered.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c714",
       "id": "BPeGxE5R",
       "name": "Resident Evil Revelations ",
@@ -11512,8 +11511,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:13:27.079Z",
-      "oldImage": "Resident Evil Revelations .jpeg"
+      "updatedAt": "2026-05-23T20:13:30.465Z",
+      "oldImage": "Resident Evil Revelations .jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
