@@ -11713,13 +11713,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        41
+        3,
+        57,
+        127,
+        99
       ],
       "size": "19.0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1ByB7cGLHqrpx7kBsJqCxbg",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1zHNDI7zaJHS1W5PZXWYrmA",
           "_id": "68e08df59e798a708ef8c748"
         }
       ],
@@ -11727,7 +11730,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T21:36:03.044Z",
       "oldImage": "The Legend of Heroes: Trails through Daybreak II.jpeg"
     },
     {
