@@ -24674,7 +24674,6 @@
       "oldImage": "1760038623044-0cf23342.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e8798015c995261125795c",
       "id": "YUfcWbKG",
       "name": "Little Nightmares 3 ",
@@ -24697,9 +24696,10 @@
       "emulatorId": 8,
       "captures": [],
       "createdAt": "2025-10-10T03:12:00.266Z",
-      "updatedAt": "2026-05-23T20:48:38.234Z",
+      "updatedAt": "2026-05-23T20:48:42.794Z",
       "__v": 0,
-      "oldImage": "1760065919404-fe7fed30.jpg"
+      "oldImage": "1760065919404-fe7fed30.jpg",
+      "isUpdate": true
     },
     {
       "_id": "68f132426336ec46e64ed5b5",
