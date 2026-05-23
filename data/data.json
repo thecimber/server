@@ -20400,9 +20400,10 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
+        9,
         12,
         57,
-        9
+        138
       ],
       "size": "16 Gb",
       "downloadMethods": [
@@ -20416,7 +20417,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-05-23T20:46:02.628Z",
+      "updatedAt": "2026-05-23T20:46:53.221Z",
       "oldImage": "h06bc6qbB-.jpg",
       "isUpdate": true
     },
@@ -31750,6 +31751,14 @@
       "name": "Dificultad alta",
       "createdAt": "2026-05-23T20:43:10.227Z",
       "updatedAt": "2026-05-23T20:43:10.227Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a121214ac4186cff419a32a",
+      "id": 138,
+      "name": "Combate Dinámico",
+      "createdAt": "2026-05-23T20:46:12.903Z",
+      "updatedAt": "2026-05-23T20:46:12.903Z",
       "__v": 0
     }
   ],
