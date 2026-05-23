@@ -12791,9 +12791,10 @@
       "language": "Multi-Idioma",
       "genre": [
         28,
+        55,
         57,
         127,
-        55
+        135
       ],
       "size": "7.5 Gb",
       "downloadMethods": [
@@ -12807,7 +12808,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:38:09.574Z",
+      "updatedAt": "2026-05-23T20:39:26.134Z",
       "oldImage": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars.jpeg",
       "isUpdate": true
     },
@@ -31690,6 +31691,14 @@
       "name": "Motion controls",
       "createdAt": "2026-05-23T20:34:25.349Z",
       "updatedAt": "2026-05-23T20:34:25.349Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a12106fac4186cff418f5d6",
+      "id": 135,
+      "name": "Fantasía clásica",
+      "createdAt": "2026-05-23T20:39:11.462Z",
+      "updatedAt": "2026-05-23T20:39:11.462Z",
       "__v": 0
     }
   ],
