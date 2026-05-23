@@ -20768,16 +20768,19 @@
       "id": "YqMb8p8q",
       "name": "Xenoblade Chronicles Definitive Edition ",
       "image": "_pBczIIRtG.webp",
-      "format": 2,
+      "format": 8,
       "language": "Multi-Idioma",
       "genre": [
-        16
+        2,
+        57,
+        127,
+        136
       ],
       "size": "14.8 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1zleYXls8vBUca_As1qe0vA",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1lWiKH2fgib0DR99la3Nx6Q",
           "_id": "68e08df79e798a708ef8c9ac"
         }
       ],
@@ -20785,7 +20788,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:44:59.102Z",
       "oldImage": "_pBczIIRtG.jpg"
     },
     {
