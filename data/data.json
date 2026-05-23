@@ -23607,18 +23607,18 @@
       "id": "zTUu_RIg",
       "name": "Red dead Redemption ",
       "image": "As0l6mqezX.webp",
-      "format": 2,
+      "format": 9,
       "language": "Multi-Idioma",
       "genre": [
         9,
-        12,
         35,
+        12,
         7
       ],
       "size": "12,5 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1nkbH9Et7bSbwbmlofcVgAA",
           "_id": "68e08df89e798a708ef8ca77"
         }
@@ -23627,7 +23627,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:47:27.264Z",
       "oldImage": "As0l6mqezX.jpg"
     },
     {
