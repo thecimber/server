@@ -13384,7 +13384,6 @@
       "oldImage": "Assassins-Creed-Chronicles-China.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c768",
       "id": "GKT6YUZe",
       "name": "XIII",
@@ -13409,8 +13408,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-05-23T21:28:05.983Z",
-      "oldImage": "XIII.jpeg"
+      "updatedAt": "2026-05-23T21:29:11.992Z",
+      "oldImage": "XIII.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c760",
