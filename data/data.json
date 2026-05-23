@@ -13244,7 +13244,6 @@
       "oldImage": "ANNO MUTATIONEM.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c757",
       "id": "oNSZHl0Z",
       "name": "TRIANGLE STRATEGY ",
@@ -13269,8 +13268,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-05-23T21:32:29.723Z",
-      "oldImage": "TRIANGLE STRATEGY.jpeg"
+      "updatedAt": "2026-05-23T21:33:30.996Z",
+      "oldImage": "TRIANGLE STRATEGY.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
