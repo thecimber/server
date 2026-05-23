@@ -13411,7 +13411,6 @@
       "oldImage": "XIII.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c760",
       "id": "cjBPpuea",
       "name": "Wild Bastards",
@@ -13436,8 +13435,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-05-23T21:15:28.472Z",
-      "oldImage": "Wild Bastards.jpeg"
+      "updatedAt": "2026-05-23T21:15:31.061Z",
+      "oldImage": "Wild Bastards.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
