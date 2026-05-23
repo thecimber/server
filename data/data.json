@@ -11654,7 +11654,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c718",
       "id": "229BGqfy",
       "name": "Resident Evil Zero 0",
@@ -11680,8 +11679,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:14:38.530Z",
-      "oldImage": "Resident Evil Zero 0.jpeg"
+      "updatedAt": "2026-05-23T20:14:43.151Z",
+      "oldImage": "Resident Evil Zero 0.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
