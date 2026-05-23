@@ -11791,7 +11791,6 @@
       "oldImage": "Super Mario Bros. Wonder.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c700",
       "id": "e6WrtOrq",
       "name": "Pokemon Mystery Dungeon Rescue Team DX ",
@@ -11816,8 +11815,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T19:54:12.570Z",
-      "oldImage": "Pokemon Mystery Dungeon Rescue Team DX.jpeg"
+      "updatedAt": "2026-05-23T19:54:15.614Z",
+      "oldImage": "Pokemon Mystery Dungeon Rescue Team DX.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c73b",
