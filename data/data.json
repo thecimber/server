@@ -11790,17 +11790,18 @@
       "id": "pWT5Elqr",
       "name": "The Legends Of Zelda breath Of the wild",
       "image": "The Legends Of Zelda breath Of the wild.webp",
-      "format": 2,
+      "format": 8,
       "language": "Multi-Idioma",
       "genre": [
+        2,
         3,
-        7,
-        12
+        12,
+        9
       ],
       "size": "16.9 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1FV9hatbHOtgwfsyIag4nsQ",
           "_id": "68e08df59e798a708ef8c74e"
         }
@@ -11809,7 +11810,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:33:29.891Z",
       "oldImage": "The Legends Of Zelda breath Of the wild.jpeg"
     },
     {
