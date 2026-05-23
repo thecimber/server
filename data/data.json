@@ -12887,7 +12887,8 @@
       "genre": [
         3,
         1,
-        49
+        49,
+        143
       ],
       "size": "11.0 Gb",
       "downloadMethods": [
@@ -12901,7 +12902,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T21:30:02.399Z",
+      "updatedAt": "2026-05-23T21:30:54.932Z",
       "oldImage": "The Plucky Squire.jpeg"
     },
     {
@@ -31830,6 +31831,14 @@
       "name": "Cómic cel-shading",
       "createdAt": "2026-05-23T21:26:18.982Z",
       "updatedAt": "2026-05-23T21:26:18.982Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a121c69ac4186cff41ab924",
+      "id": 143,
+      "name": "Libro interactivo",
+      "createdAt": "2026-05-23T21:30:17.144Z",
+      "updatedAt": "2026-05-23T21:30:17.144Z",
       "__v": 0
     }
   ],
