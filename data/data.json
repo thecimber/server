@@ -13169,14 +13169,15 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        25,
-        28
+        28,
+        79,
+        22
       ],
       "size": "8.0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1808a4wSP5vY4CJ4fqlABOg",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1epICfrVw5SOdAVXT3xymww",
           "_id": "68e08df59e798a708ef8c76b"
         }
       ],
@@ -13184,7 +13185,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T21:34:27.723Z",
       "oldImage": "Yu-Gi-Oh! EARLY DAYS COLLECTION.jpeg"
     },
     {
