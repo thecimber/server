@@ -20763,7 +20763,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9ab",
       "id": "YqMb8p8q",
       "name": "Xenoblade Chronicles Definitive Edition ",
@@ -20788,8 +20787,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-05-23T20:44:59.102Z",
-      "oldImage": "_pBczIIRtG.jpg"
+      "updatedAt": "2026-05-23T20:45:01.273Z",
+      "oldImage": "_pBczIIRtG.jpg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c9b1",
