@@ -12783,7 +12783,6 @@
       "oldImage": "Stray.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c731",
       "id": "ODkIqDWo",
       "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
@@ -12808,8 +12807,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:38:07.472Z",
-      "oldImage": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars.jpeg"
+      "updatedAt": "2026-05-23T20:38:09.574Z",
+      "oldImage": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c73b",
