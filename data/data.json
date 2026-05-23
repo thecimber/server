@@ -13161,7 +13161,6 @@
       "oldImage": "Assassins-creed-Brotherhood.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c76a",
       "id": "d7XeWY5R",
       "name": "Yu-Gi-Oh! EARLY DAYS COLLECTION",
@@ -13185,8 +13184,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-05-23T21:34:27.723Z",
-      "oldImage": "Yu-Gi-Oh! EARLY DAYS COLLECTION.jpeg"
+      "updatedAt": "2026-05-23T21:34:30.398Z",
+      "oldImage": "Yu-Gi-Oh! EARLY DAYS COLLECTION.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
