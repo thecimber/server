@@ -24683,7 +24683,8 @@
       "genre": [
         3,
         31,
-        1
+        1,
+        139
       ],
       "size": "8 GB",
       "downloadMethods": [
@@ -24696,7 +24697,7 @@
       "emulatorId": 8,
       "captures": [],
       "createdAt": "2025-10-10T03:12:00.266Z",
-      "updatedAt": "2026-05-23T20:48:42.794Z",
+      "updatedAt": "2026-05-23T20:54:44.374Z",
       "__v": 0,
       "oldImage": "1760065919404-fe7fed30.jpg",
       "isUpdate": true
@@ -31759,6 +31760,14 @@
       "name": "Combate Dinámico",
       "createdAt": "2026-05-23T20:46:12.903Z",
       "updatedAt": "2026-05-23T20:46:12.903Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1213fbac4186cff419f9d6",
+      "id": 139,
+      "name": "Plataformas y puzles",
+      "createdAt": "2026-05-23T20:54:19.776Z",
+      "updatedAt": "2026-05-23T20:54:19.776Z",
       "__v": 0
     }
   ],
