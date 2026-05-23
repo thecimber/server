@@ -23434,7 +23434,6 @@
       "oldImage": "w0bB4jRuvx.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca74",
       "id": "eEbCZIbS",
       "name": "Persona 4 Golden ",
@@ -23457,8 +23456,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-05-23T19:52:46.510Z",
-      "oldImage": "y2Om6LAcyM.jpg"
+      "updatedAt": "2026-05-23T19:52:51.504Z",
+      "oldImage": "y2Om6LAcyM.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
