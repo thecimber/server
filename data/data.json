@@ -11554,19 +11554,20 @@
       "isUpdate": false,
       "_id": "68e08df59e798a708ef8c726",
       "id": "iewRn_0a",
-      "name": "Sonic Origins ",
+      "name": "Sonic Origins plus",
       "image": "Sonic Origins.webp",
-      "format": 2,
+      "format": 8,
       "language": "Multi-Idioma",
       "genre": [
+        2,
         1,
-        32
+        86
       ],
       "size": "4.6 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1858yJAke2Ap1BzyXZ4-mZw",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1caG3B4uDnpmY9mxa4Izwog",
           "_id": "68e08df59e798a708ef8c727"
         }
       ],
@@ -11574,7 +11575,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:21:20.250Z",
       "oldImage": "Sonic Origins.jpeg"
     },
     {
