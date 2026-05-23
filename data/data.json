@@ -13524,7 +13524,6 @@
       "oldImage": "94y7yDh3Jj.jpg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c762",
       "id": "C7JKOMWy",
       "name": "Windbound",
@@ -13549,8 +13548,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-05-23T21:23:19.387Z",
-      "oldImage": "Windbound.jpeg"
+      "updatedAt": "2026-05-23T21:23:22.099Z",
+      "oldImage": "Windbound.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
