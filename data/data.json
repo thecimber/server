@@ -13051,17 +13051,19 @@
       "id": "uxKbcB7s",
       "name": "Touhou Spell Carnival",
       "image": "Touhou Spell Carnival.webp",
-      "format": 2,
+      "format": 8,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        24
+        2,
+        22,
+        65,
+        59
       ],
       "size": "4.0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1iJ7740AErw6SWe2DEYs1fQ",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/18VyrDjANLoTSa5Ui5l0XIQ",
           "_id": "68e08df59e798a708ef8c756"
         }
       ],
@@ -13069,7 +13071,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T21:31:53.052Z",
       "oldImage": "Touhou Spell Carnival.jpeg"
     },
     {
