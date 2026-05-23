@@ -11171,7 +11171,6 @@
       "oldImage": "Super Mario 3D All-Stars.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c704",
       "id": "9s9zcg-O",
       "name": "Pokemon shining pearl",
@@ -11196,8 +11195,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T19:56:25.151Z",
-      "oldImage": "Pokemon shining pearl.jpeg"
+      "updatedAt": "2026-05-23T19:56:27.450Z",
+      "oldImage": "Pokemon shining pearl.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c6e1",
