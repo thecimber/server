@@ -11785,7 +11785,6 @@
       "oldImage": "Stardew Valley.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c74d",
       "id": "pWT5Elqr",
       "name": "The Legends Of Zelda breath Of the wild",
@@ -11810,8 +11809,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:33:29.891Z",
-      "oldImage": "The Legends Of Zelda breath Of the wild.jpeg"
+      "updatedAt": "2026-05-23T20:33:33.193Z",
+      "oldImage": "The Legends Of Zelda breath Of the wild.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
