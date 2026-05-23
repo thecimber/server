@@ -12283,7 +12283,6 @@
       "oldImage": "SUPER MARIO ODYSSEY.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c71c",
       "id": "MRpCRtOv",
       "name": "Shin Megami Tensei III Nocturne HD Remaster",
@@ -12306,8 +12305,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:17:46.904Z",
-      "oldImage": "e-nJIDOmwZ.jpeg"
+      "updatedAt": "2026-05-23T20:17:49.532Z",
+      "oldImage": "e-nJIDOmwZ.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
