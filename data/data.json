@@ -11150,12 +11150,13 @@
       "id": "FGVWoHUS",
       "name": "The Legend of zelda tears of the kingdom v1.4.0",
       "image": "The Legend of zelda tears of the kingdom.webp",
-      "format": 2,
+      "format": 8,
       "language": "Multi-Idioma",
       "genre": [
+        2,
         3,
-        7,
-        12
+        12,
+        9
       ],
       "size": "32.0 Gb",
       "downloadMethods": [
@@ -11169,7 +11170,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:37:23.106Z",
       "isUpdate": true,
       "oldImage": "The Legend of zelda tears of the kingdom.jpeg"
     },
