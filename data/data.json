@@ -13965,35 +13965,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c7e5",
-      "id": "3KktHLYI",
-      "name": "Dragon Ball Sparking Zero",
-      "image": "Dragon Ball Sparking Zero.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        24,
-        65,
-        78,
-        22
-      ],
-      "size": "28.8 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1-UbtrITwiWsnq1lLi_2dBw",
-          "_id": "68e08df69e798a708ef8c7e6"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-05-12T14:57:18.931Z",
-      "oldImage": "Dragon Ball Sparking Zero.jpeg"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7ab",
       "id": "G3wWCgcY",
       "name": "Call Of Duty Black Ops ",
@@ -14020,6 +13991,35 @@
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-05-12T14:25:01.191Z",
       "oldImage": "Call Of Duty Black Ops .jpeg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c7e5",
+      "id": "3KktHLYI",
+      "name": "Dragon Ball Sparking Zero",
+      "image": "Dragon Ball Sparking Zero.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        24,
+        65,
+        78,
+        22
+      ],
+      "size": "28.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1-UbtrITwiWsnq1lLi_2dBw",
+          "_id": "68e08df69e798a708ef8c7e6"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.635Z",
+      "updatedAt": "2026-05-12T14:57:18.931Z",
+      "oldImage": "Dragon Ball Sparking Zero.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c7eb",
@@ -15382,24 +15382,23 @@
       "oldImage": "Five nights at freddy's Help Wanted 2.jpeg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c803",
-      "id": "q0tZCLwZ",
-      "name": "Five Nights At Freddy's Collection [1,2,3,4]",
-      "image": "Five Nights At Freddy's Collection [1,2,3,4]2.webp",
+      "_id": "68e08df69e798a708ef8c80b",
+      "id": "wCHzTamN",
+      "name": "Foundation",
+      "image": "Foundation.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        14,
-        20,
-        31
+        19,
+        28,
+        40
       ],
-      "size": "5.02 Gb",
+      "size": "2.5 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1gBpW1p6vY6VFm2WeSs16AQ",
-          "_id": "68e08df69e798a708ef8c804"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1utFHze5d-GvN8GkqyoCrFg",
+          "_id": "68e08df69e798a708ef8c80c"
         }
       ],
       "emulatorId": 2,
@@ -15407,7 +15406,8 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.637Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Five Nights At Freddy's Collection [1,2,3,4]2.jpeg"
+      "isUpdate": true,
+      "oldImage": "Foundation.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c823",
@@ -15552,23 +15552,24 @@
       "oldImage": "BbNrkRlvgx.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c80b",
-      "id": "wCHzTamN",
-      "name": "Foundation",
-      "image": "Foundation.webp",
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c803",
+      "id": "q0tZCLwZ",
+      "name": "Five Nights At Freddy's Collection [1,2,3,4]",
+      "image": "Five Nights At Freddy's Collection [1,2,3,4]2.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        19,
-        28,
-        40
+        14,
+        20,
+        31
       ],
-      "size": "2.5 Gb",
+      "size": "5.02 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1utFHze5d-GvN8GkqyoCrFg",
-          "_id": "68e08df69e798a708ef8c80c"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1gBpW1p6vY6VFm2WeSs16AQ",
+          "_id": "68e08df69e798a708ef8c804"
         }
       ],
       "emulatorId": 2,
@@ -15576,8 +15577,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.637Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "Foundation.jpeg"
+      "oldImage": "Five Nights At Freddy's Collection [1,2,3,4]2.jpeg"
     },
     {
       "isUpdate": false,
@@ -30266,6 +30266,34 @@
       "captures": [],
       "createdAt": "2026-05-22T16:59:37.031Z",
       "updatedAt": "2026-05-22T17:14:30.961Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a12090fac4186cff416348d",
+      "id": "CsMLMMTg",
+      "name": "Poppy Playtime Chapter 1",
+      "image": "1779566862750-72e951a4.jpg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        31,
+        21,
+        49,
+        3
+      ],
+      "size": "2.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1E6DVU91ot8MBecgJOY94GA",
+          "_id": "6a12090fac4186cff416348e"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-23T20:07:43.890Z",
+      "updatedAt": "2026-05-23T20:07:43.890Z",
       "__v": 0
     },
     {
