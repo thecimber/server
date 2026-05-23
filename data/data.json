@@ -11434,7 +11434,6 @@
       "oldImage": "Naruto Ultimate Ninja storm 3.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c71e",
       "id": "xReTsPsp",
       "name": "Shin Megami Tensei V",
@@ -11460,8 +11459,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:20:16.156Z",
-      "oldImage": "quhsNb7KxC.jpeg"
+      "updatedAt": "2026-05-23T20:20:19.983Z",
+      "oldImage": "quhsNb7KxC.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c712",
