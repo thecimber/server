@@ -20400,16 +20400,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        9,
+        2,
         12,
-        16,
-        10
+        57,
+        9
       ],
       "size": "16 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/14YcLy74iqflUBjuB6HDQfw",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1owQdQm0AgMxcIe8mlXDAOQ",
           "_id": "68e08df79e798a708ef8c9aa"
         }
       ],
@@ -20417,7 +20417,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T20:45:59.590Z",
       "oldImage": "h06bc6qbB-.jpg"
     },
     {
