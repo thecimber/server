@@ -11346,7 +11346,6 @@
       "oldImage": "Rift of the NecroDancer.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c720",
       "id": "OA0hAofp",
       "name": "Sonic Forces ",
@@ -11371,8 +11370,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:23:09.708Z",
-      "oldImage": "Sonic Forces.jpeg"
+      "updatedAt": "2026-05-23T20:23:12.561Z",
+      "oldImage": "Sonic Forces.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c735",
