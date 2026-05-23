@@ -11662,14 +11662,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        24
+        3,
+        57,
+        122,
+        12
       ],
       "size": "4 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1b7BHu7JereYUeQDPrKM1DA",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Qk2KuURtbyO0c3jsrMkDrg",
           "_id": "68e08df59e798a708ef8c70b"
         }
       ],
@@ -11677,7 +11679,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T19:53:26.600Z",
       "oldImage": "Pokken Tournament DX.jpeg"
     },
     {
