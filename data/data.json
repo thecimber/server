@@ -9631,7 +9631,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c661",
       "id": "u785cl6d",
       "name": "Captain Tsubasa Rise of New Champions",
@@ -9656,8 +9655,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-23T20:44:02.021Z",
-      "oldImage": "Captain Tsubasa Rise of New Champions.jpeg"
+      "updatedAt": "2026-05-23T20:44:05.028Z",
+      "oldImage": "Captain Tsubasa Rise of New Champions.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
