@@ -13394,7 +13394,8 @@
       "genre": [
         2,
         35,
-        8
+        8,
+        142
       ],
       "size": "7.7 Gb",
       "downloadMethods": [
@@ -13408,7 +13409,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-05-23T21:24:35.514Z",
+      "updatedAt": "2026-05-23T21:28:05.983Z",
       "oldImage": "XIII.jpeg"
     },
     {
@@ -31820,6 +31821,14 @@
       "name": "Otome",
       "createdAt": "2026-05-23T21:03:10.535Z",
       "updatedAt": "2026-05-23T21:03:10.535Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a121b7aac4186cff41a920f",
+      "id": 142,
+      "name": "Cómic cel-shading",
+      "createdAt": "2026-05-23T21:26:18.982Z",
+      "updatedAt": "2026-05-23T21:26:18.982Z",
       "__v": 0
     }
   ],
