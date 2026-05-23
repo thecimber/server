@@ -11725,7 +11725,6 @@
       "oldImage": "Super Mario Bros.U Deluxe.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c749",
       "id": "0mmI1GWO",
       "name": "The Legend of Zelda Skyward Sword HD ",
@@ -11749,8 +11748,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:34:09.899Z",
-      "oldImage": "The Legend of Zelda Skyward Sword HD .jpeg"
+      "updatedAt": "2026-05-23T20:34:14.077Z",
+      "oldImage": "The Legend of Zelda Skyward Sword HD .jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
