@@ -12291,7 +12291,10 @@
       "language": "Multi-Idioma",
       "genre": [
         57,
-        117
+        117,
+        127,
+        128,
+        55
       ],
       "size": "16.5 Gb",
       "downloadMethods": [
@@ -12305,7 +12308,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:17:49.532Z",
+      "updatedAt": "2026-05-23T20:19:36.151Z",
       "oldImage": "e-nJIDOmwZ.jpeg",
       "isUpdate": true
     },
@@ -31573,6 +31576,22 @@
       "name": "Tiempo real",
       "createdAt": "2026-05-20T23:35:41.218Z",
       "updatedAt": "2026-05-20T23:35:41.218Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a120b84ac4186cff4173c59",
+      "id": 127,
+      "name": "JRPG",
+      "createdAt": "2026-05-23T20:18:12.234Z",
+      "updatedAt": "2026-05-23T20:18:12.234Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a120b8bac4186cff4173c5e",
+      "id": 128,
+      "name": "Demonios",
+      "createdAt": "2026-05-23T20:18:19.704Z",
+      "updatedAt": "2026-05-23T20:18:19.704Z",
       "__v": 0
     }
   ],
