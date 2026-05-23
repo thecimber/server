@@ -13306,7 +13306,9 @@
       "genre": [
         41,
         23,
-        96
+        96,
+        140,
+        95
       ],
       "size": "7.2 Gb",
       "downloadMethods": [
@@ -13320,7 +13322,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-05-23T21:02:43.284Z",
+      "updatedAt": "2026-05-23T21:03:32.583Z",
       "oldImage": "Virche Evermore -ErroR: Salvation.jpeg"
     },
     {
@@ -31796,6 +31798,22 @@
       "name": "Plataformas y puzles",
       "createdAt": "2026-05-23T20:54:19.776Z",
       "updatedAt": "2026-05-23T20:54:19.776Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a121606ac4186cff41a2543",
+      "id": 140,
+      "name": "Misterio",
+      "createdAt": "2026-05-23T21:03:02.949Z",
+      "updatedAt": "2026-05-23T21:03:02.949Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a12160eac4186cff41a254a",
+      "id": 141,
+      "name": "Otome",
+      "createdAt": "2026-05-23T21:03:10.535Z",
+      "updatedAt": "2026-05-23T21:03:10.535Z",
       "__v": 0
     }
   ],
