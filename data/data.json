@@ -11318,7 +11318,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c71a",
       "id": "JaBm7h94",
       "name": "Rift of the NecroDancer",
@@ -11343,8 +11342,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:29:18.542Z",
-      "oldImage": "Rift of the NecroDancer.jpeg"
+      "updatedAt": "2026-05-23T20:29:21.534Z",
+      "oldImage": "Rift of the NecroDancer.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c720",
