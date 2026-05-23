@@ -13301,17 +13301,18 @@
       "id": "h0WyZDG5",
       "name": "Virche Evermore -ErroR: Salvation",
       "image": "Virche Evermore -ErroR: Salvation.webp",
-      "format": 2,
+      "format": 8,
       "language": "Multi-Idioma",
       "genre": [
+        41,
         23,
-        41
+        96
       ],
       "size": "7.2 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/181JmEiKoo0eLVfQz7e8rxQ",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1AshraMTq-DMZhcKyHWXHgA",
           "_id": "68e08df59e798a708ef8c75f"
         }
       ],
@@ -13319,7 +13320,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-23T21:02:43.284Z",
       "oldImage": "Virche Evermore -ErroR: Salvation.jpeg"
     },
     {
