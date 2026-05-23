@@ -11458,7 +11458,6 @@
       "oldImage": "quhsNb7KxC.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c712",
       "id": "5GnI3ip-",
       "name": "Resident Evil HD Remastered ",
@@ -11484,8 +11483,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:15:11.287Z",
-      "oldImage": "Resident Evil HD Remastered.jpeg"
+      "updatedAt": "2026-05-23T20:15:13.605Z",
+      "oldImage": "Resident Evil HD Remastered.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c714",
