@@ -12485,7 +12485,6 @@
       "oldImage": "Super Mario RPG.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c728",
       "id": "Csrr1w2s",
       "name": "Sonic Superstars ",
@@ -12510,8 +12509,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-23T20:23:56.829Z",
-      "oldImage": "Sonic Superstars.jpeg"
+      "updatedAt": "2026-05-23T20:24:00.164Z",
+      "oldImage": "Sonic Superstars.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c706",
