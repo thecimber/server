@@ -13289,7 +13289,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c759",
       "id": "U9fKf8Di",
       "name": "UNDER NIGHT IN-BIRTH II Sys:Celes ",
@@ -13320,8 +13319,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-05-24T01:58:20.286Z",
-      "oldImage": "UNDER NIGHT IN-BIRTH II Sys:Celes.jpeg"
+      "updatedAt": "2026-05-24T01:58:22.831Z",
+      "oldImage": "UNDER NIGHT IN-BIRTH II Sys:Celes.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c75e",
