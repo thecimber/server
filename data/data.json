@@ -9156,19 +9156,20 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        10,
         22,
-        24
+        24,
+        65,
+        118
       ],
       "size": "14.01 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1jcxNUK66dGf6HGwDCa7vzw",
           "_id": "68e08df59e798a708ef8c696"
         },
         {
-          "type": "Actualizacion",
+          "type": "actualizacion",
           "link": "https://cuty.io/fg1OP45f7I",
           "_id": "68e08df59e798a708ef8c697"
         }
@@ -9177,7 +9178,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-05-24T02:02:01.327Z",
       "oldImage": "Guilty Gear Strive.jpeg"
     },
     {
