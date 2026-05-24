@@ -11765,7 +11765,9 @@
       "genre": [
         24,
         65,
-        71
+        71,
+        152,
+        153
       ],
       "size": "18.6 Gb",
       "downloadMethods": [
@@ -11779,7 +11781,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-24T02:28:11.547Z",
+      "updatedAt": "2026-05-24T02:28:50.778Z",
       "oldImage": "Super Smash bros Ultimate.jpeg"
     },
     {
@@ -31987,6 +31989,22 @@
       "name": "Violencia",
       "createdAt": "2026-05-24T02:24:11.880Z",
       "updatedAt": "2026-05-24T02:24:11.880Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a126243ac4186cff41ddf08",
+      "id": 152,
+      "name": "Party",
+      "createdAt": "2026-05-24T02:28:19.967Z",
+      "updatedAt": "2026-05-24T02:28:19.967Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a126252ac4186cff41ddf0f",
+      "id": 153,
+      "name": "Multijugador local y en línea",
+      "createdAt": "2026-05-24T02:28:34.263Z",
+      "updatedAt": "2026-05-24T02:28:34.263Z",
       "__v": 0
     }
   ],
