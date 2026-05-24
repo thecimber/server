@@ -10174,7 +10174,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c673",
       "id": "shbHnvvc",
       "name": "Dragon Ball FighterZ 1.50",
@@ -10200,8 +10199,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-24T02:23:33.777Z",
-      "oldImage": "Dragon Ball FighterZ.jpeg"
+      "updatedAt": "2026-05-24T02:23:37.740Z",
+      "oldImage": "Dragon Ball FighterZ.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c635",
