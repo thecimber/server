@@ -11246,22 +11246,22 @@
       "id": "qt0MER03",
       "name": "Stardew Valley",
       "image": "Stardew Valley.webp",
-      "format": 2,
+      "format": 8,
       "language": "Multi-Idioma",
       "genre": [
-        39,
-        40,
-        41
+        19,
+        97,
+        90
       ],
-      "size": "0",
+      "size": "5 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1ABppndMYf7XS-6T95QS51A",
           "_id": "68e08df59e798a708ef8c72d"
         },
         {
-          "type": "Actualizacion",
+          "type": "actualizacion",
           "link": "https://cuty.io/vUXE",
           "_id": "68e08df59e798a708ef8c72e"
         }
@@ -11270,7 +11270,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-24T02:17:11.610Z",
       "oldImage": "Stardew Valley.jpeg"
     },
     {
