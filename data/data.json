@@ -9749,7 +9749,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c65b",
       "id": "ooLu_6Ek",
       "name": "Blasphemous",
@@ -9773,8 +9772,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
-      "oldImage": "Blasphemous.jpeg"
+      "updatedAt": "2026-05-24T02:26:03.969Z",
+      "oldImage": "Blasphemous.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c6a4",
