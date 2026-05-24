@@ -12876,15 +12876,15 @@
       "id": "zcVE1IhZ",
       "name": "Platform 8 ",
       "image": "Platform 8.webp",
-      "format": 0,
+      "format": 8,
       "language": "Multi-Idioma",
       "genre": [
-        1
+        0
       ],
-      "size": "undefined",
+      "size": "4 Gb",
       "downloadMethods": [
         {
-          "type": "Mediafire",
+          "type": "mediafire",
           "link": "https://cuty.io/nqIVqOBPz2Mj",
           "_id": "68e08df59e798a708ef8c6f4"
         }
@@ -12893,7 +12893,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-24T02:14:51.329Z",
       "oldImage": "Platform 8.jpeg"
     },
     {
