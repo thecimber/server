@@ -11065,9 +11065,11 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
+        28,
         71,
         152,
-        28
+        157,
+        70
       ],
       "size": "4.4 Gb",
       "downloadMethods": [
@@ -11081,7 +11083,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.886Z",
-      "updatedAt": "2026-05-24T02:35:46.630Z",
+      "updatedAt": "2026-05-24T02:37:07.418Z",
       "oldImage": "MONOPOLY Madness.jpeg",
       "isUpdate": true
     },
@@ -32027,6 +32029,22 @@
       "name": "Un jugador y multijugador",
       "createdAt": "2026-05-24T02:34:42.111Z",
       "updatedAt": "2026-05-24T02:34:42.111Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a126415ac4186cff41e8868",
+      "id": 156,
+      "name": "Estrategia ligera",
+      "createdAt": "2026-05-24T02:36:05.408Z",
+      "updatedAt": "2026-05-24T02:36:05.408Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a126426ac4186cff41e886f",
+      "id": 157,
+      "name": "Simulación de mesa",
+      "createdAt": "2026-05-24T02:36:22.398Z",
+      "updatedAt": "2026-05-24T02:36:22.398Z",
       "__v": 0
     }
   ],
