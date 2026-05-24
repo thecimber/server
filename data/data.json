@@ -12603,7 +12603,6 @@
       "oldImage": "Naruto Shippuden ultimate ninja Storm.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6d8",
       "id": "nYZPicf8",
       "name": "Naruto x Boruto Ultimate ninja storm Connections",
@@ -12634,8 +12633,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-24T02:14:11.815Z",
-      "oldImage": "Naruto x Boruto Ultimate ninja storm Connections.jpeg"
+      "updatedAt": "2026-05-24T02:14:15.714Z",
+      "oldImage": "Naruto x Boruto Ultimate ninja storm Connections.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c6e3",
