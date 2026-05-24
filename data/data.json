@@ -9756,14 +9756,15 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        1,
-        16,
-        37
+        3,
+        9,
+        50,
+        1
       ],
       "size": "7.8 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/176RXYlSA3PveA-lrgGFiKQ",
           "_id": "68e08df59e798a708ef8c65c"
         }
@@ -9772,7 +9773,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-24T02:26:03.969Z",
+      "updatedAt": "2026-05-24T02:26:47.593Z",
       "oldImage": "Blasphemous.jpeg",
       "isUpdate": true
     },
