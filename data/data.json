@@ -13297,18 +13297,21 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        24
+        22,
+        24,
+        65,
+        118,
+        32
       ],
       "size": "3.0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1oiEpR12PNk--dYwhgvniaw",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1UWp9Kv0i_1Bv9OAE2rtoZg",
           "_id": "68e08df59e798a708ef8c75a"
         },
         {
-          "type": "Actualizacion",
+          "type": "actualizacion",
           "link": "https://cuty.io/WrVH9rz",
           "_id": "68e08df59e798a708ef8c75b"
         }
@@ -13317,7 +13320,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-24T01:58:20.286Z",
       "oldImage": "UNDER NIGHT IN-BIRTH II Sys:Celes.jpeg"
     },
     {
