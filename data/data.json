@@ -12096,17 +12096,19 @@
       "language": "Multi-Idioma",
       "genre": [
         3,
-        41
+        57,
+        122,
+        150
       ],
       "size": "4.5 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1dBgzKtfg19SMrRzhKoJB8w",
           "_id": "68e08df59e798a708ef8c6fc"
         },
         {
-          "type": "Actualizacion",
+          "type": "actualizacion",
           "link": "https://cuty.io/cTxXNIVg",
           "_id": "68e08df59e798a708ef8c6fd"
         }
@@ -12115,7 +12117,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-24T02:21:19.229Z",
       "oldImage": "Pokemon Let's go pikachu.jpeg"
     },
     {
@@ -31956,6 +31958,14 @@
       "name": "Cooperativo online",
       "createdAt": "2026-05-24T02:18:49.219Z",
       "updatedAt": "2026-05-24T02:18:49.219Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a126077ac4186cff41d28c1",
+      "id": 150,
+      "name": "Cooperativo local",
+      "createdAt": "2026-05-24T02:20:39.434Z",
+      "updatedAt": "2026-05-24T02:20:39.434Z",
       "__v": 0
     }
   ],
