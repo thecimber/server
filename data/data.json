@@ -11058,7 +11058,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6c9",
       "id": "fTQ0tNZ1",
       "name": "MONOPOLY Madness",
@@ -11082,8 +11081,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.886Z",
-      "updatedAt": "2026-05-24T02:35:42.261Z",
-      "oldImage": "MONOPOLY Madness.jpeg"
+      "updatedAt": "2026-05-24T02:35:46.630Z",
+      "oldImage": "MONOPOLY Madness.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c6cb",
