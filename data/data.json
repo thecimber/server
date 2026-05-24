@@ -13354,13 +13354,16 @@
       "isUpdate": false,
       "_id": "68e08df59e798a708ef8c766",
       "id": "cSm3YeBG",
-      "name": "Xenoverse 2 v1.25.01",
+      "name": "Xenoverse 2",
       "image": "Xenoverse 2.webp",
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        24
+        22,
+        24,
+        57,
+        65,
+        78
       ],
       "size": "15 Gb",
       "downloadMethods": [
@@ -13374,7 +13377,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-24T01:57:34.775Z",
       "oldImage": "Xenoverse 2.jpeg"
     },
     {
