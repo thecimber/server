@@ -10370,7 +10370,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c64b",
       "id": "4CagF1mx",
       "name": "Assassin's Creed 3 remastered",
@@ -10395,8 +10394,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-24T01:51:49.552Z",
-      "oldImage": "Assassin's Creed 3 remastered (Europe).jpeg"
+      "updatedAt": "2026-05-24T01:52:52.275Z",
+      "oldImage": "Assassin's Creed 3 remastered (Europe).jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c67f",
