@@ -10373,19 +10373,20 @@
       "isUpdate": false,
       "_id": "68e08df59e798a708ef8c64b",
       "id": "4CagF1mx",
-      "name": "Assassin's Creed 3 remastered (Europe)",
+      "name": "Assassin's Creed 3 remastered",
       "image": "Assassin's Creed 3 remastered (Europe).webp",
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        7,
+        3,
+        8,
         12
       ],
       "size": "21.9 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1pfuU0XnjiCT0vxNaUC-fvQ",
           "_id": "68e08df59e798a708ef8c64c"
         }
@@ -10394,7 +10395,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-05-24T01:51:49.552Z",
       "oldImage": "Assassin's Creed 3 remastered (Europe).jpeg"
     },
     {
