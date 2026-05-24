@@ -9924,7 +9924,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c67b",
       "id": "qqjRYNUK",
       "name": "EA SPORTS FC 24",
@@ -9948,8 +9947,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-24T02:30:57.696Z",
-      "oldImage": "EA SPORTS FC 24.jpeg"
+      "updatedAt": "2026-05-24T02:31:01.914Z",
+      "oldImage": "EA SPORTS FC 24.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c69e",
