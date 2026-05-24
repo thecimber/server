@@ -9664,7 +9664,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c669",
       "id": "8zXfr0UK",
       "name": "Dark Souls Remastered",
@@ -9690,8 +9689,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-24T02:29:41.902Z",
-      "oldImage": "Dark Souls Remastered.jpeg"
+      "updatedAt": "2026-05-24T02:31:09.795Z",
+      "oldImage": "Dark Souls Remastered.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c681",
