@@ -11947,14 +11947,16 @@
       "format": 2,
       "language": "5.0 Gb",
       "genre": [
-        10,
+        2,
         22,
-        24
+        24,
+        65,
+        78
       ],
-      "size": "0",
+      "size": "7.8 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1n_Es4UThzOd6H4yghbLnug",
           "_id": "68e08df59e798a708ef8c6d2"
         }
@@ -11963,7 +11965,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-24T02:08:35.920Z",
       "oldImage": "Naruto Shippuden ultimate ninja Storm 2.jpeg"
     },
     {
