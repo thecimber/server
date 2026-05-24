@@ -12148,7 +12148,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c753",
       "id": "fvYlDNXP",
       "name": "The Pools ",
@@ -12172,8 +12171,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-24T02:18:36.248Z",
-      "oldImage": "The Pools .jpeg"
+      "updatedAt": "2026-05-24T02:19:12.262Z",
+      "oldImage": "The Pools .jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c74d",
@@ -31946,6 +31946,14 @@
       "name": "Granja",
       "createdAt": "2026-05-24T02:17:24.269Z",
       "updatedAt": "2026-05-24T02:17:24.269Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a126009ac4186cff41cfd59",
+      "id": 149,
+      "name": "Cooperativo online",
+      "createdAt": "2026-05-24T02:18:49.219Z",
+      "updatedAt": "2026-05-24T02:18:49.219Z",
       "__v": 0
     }
   ],
