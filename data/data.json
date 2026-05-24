@@ -12809,7 +12809,6 @@
       "oldImage": "Resident Evil Revelations 2.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6d6",
       "id": "AFSR-rFH",
       "name": "Naruto Ultimate Ninja Storm 4",
@@ -12835,8 +12834,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-24T02:13:36.216Z",
-      "oldImage": "Naruto Ultimate Ninja Storm 4.jpeg"
+      "updatedAt": "2026-05-24T02:13:40.478Z",
+      "oldImage": "Naruto Ultimate Ninja Storm 4.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c731",
