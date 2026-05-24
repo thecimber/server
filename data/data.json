@@ -12513,13 +12513,14 @@
       "language": "Multi-Idioma",
       "genre": [
         3,
-        7,
-        9
+        9,
+        50,
+        1
       ],
       "size": "6.6 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1fYua-3S9d6UqDn2W0RyQVA",
           "_id": "68e08df59e798a708ef8c730"
         }
@@ -12528,7 +12529,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-24T02:25:51.457Z",
       "oldImage": "Stray.jpeg"
     },
     {
