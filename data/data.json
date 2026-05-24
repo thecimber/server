@@ -12871,7 +12871,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6f3",
       "id": "zcVE1IhZ",
       "name": "Platform 8 ",
@@ -12896,8 +12895,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-24T02:15:53.560Z",
-      "oldImage": "Platform 8.jpeg"
+      "updatedAt": "2026-05-24T02:16:08.362Z",
+      "oldImage": "Platform 8.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c751",
