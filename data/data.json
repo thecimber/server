@@ -9982,7 +9982,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6a8",
       "id": "H1u6nqVm",
       "name": "Magical Bakery",
@@ -10007,8 +10006,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-24T02:38:20.673Z",
-      "oldImage": "Magical Bakery.jpeg"
+      "updatedAt": "2026-05-24T02:38:30.809Z",
+      "oldImage": "Magical Bakery.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c69c",
