@@ -12799,15 +12799,17 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        14,
-        20,
-        31
+        2,
+        31,
+        21,
+        114,
+        48
       ],
       "size": "24.4 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/102eaJLMzzLjwKWO1OSra-g",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1rDcp0U9mX-P6N-xZ-woUfg",
           "_id": "68e08df59e798a708ef8c717"
         }
       ],
@@ -12815,7 +12817,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-24T02:22:48.752Z",
       "oldImage": "Resident Evil Revelations 2.jpeg"
     },
     {
