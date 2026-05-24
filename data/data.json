@@ -9676,7 +9676,8 @@
         27,
         93,
         120,
-        137
+        137,
+        160
       ],
       "size": "4.2 Gb",
       "downloadMethods": [
@@ -9690,7 +9691,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-24T02:31:09.795Z",
+      "updatedAt": "2026-05-24T02:42:50.864Z",
       "oldImage": "Dark Souls Remastered.jpeg",
       "isUpdate": true
     },
@@ -32089,6 +32090,14 @@
       "name": "Fantasía cozy",
       "createdAt": "2026-05-24T02:37:56.353Z",
       "updatedAt": "2026-05-24T02:37:56.353Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a12659aac4186cff41ed69f",
+      "id": 160,
+      "name": "Mundo abierto interconectado",
+      "createdAt": "2026-05-24T02:42:34.612Z",
+      "updatedAt": "2026-05-24T02:42:34.612Z",
       "__v": 0
     }
   ],
