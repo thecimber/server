@@ -9672,14 +9672,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        36,
-        37
+        2,
+        27,
+        93,
+        120,
+        137
       ],
       "size": "4.2 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/19b2O46-ez_YpLDRbJCfm7A",
           "_id": "68e08df59e798a708ef8c66a"
         }
@@ -9688,7 +9690,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-05-24T02:29:41.902Z",
       "oldImage": "Dark Souls Remastered.jpeg"
     },
     {
