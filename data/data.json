@@ -30526,6 +30526,32 @@
       "__v": 0
     },
     {
+      "_id": "6a125e6bac4186cff41c4b5d",
+      "id": "20D3Ilfv",
+      "name": "Naruto Shippuden ultimate ninja Storm ",
+      "image": "1779588714791-a03fea43.jpg",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        65,
+        24
+      ],
+      "size": "5.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://cuty.io/EdVsnLdJdV",
+          "_id": "6a125e6bac4186cff41c4b5e"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-24T02:11:55.852Z",
+      "updatedAt": "2026-05-24T02:11:55.852Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
