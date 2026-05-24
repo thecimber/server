@@ -10177,14 +10177,16 @@
       "isUpdate": false,
       "_id": "68e08df59e798a708ef8c673",
       "id": "shbHnvvc",
-      "name": "Dragon Ball FighterZ",
+      "name": "Dragon Ball FighterZ 1.50",
       "image": "Dragon Ball FighterZ.webp",
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        10,
         22,
-        24
+        24,
+        65,
+        118,
+        32
       ],
       "size": "10.7 Gb",
       "downloadMethods": [
@@ -10198,7 +10200,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-05-24T02:23:33.777Z",
       "oldImage": "Dragon Ball FighterZ.jpeg"
     },
     {
