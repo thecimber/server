@@ -11085,13 +11085,15 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        24
+        24,
+        65,
+        151,
+        118
       ],
       "size": "51.0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1qPSqKrCM7zi2aDi94pDILA",
           "_id": "68e08df59e798a708ef8c6cc"
         }
@@ -11100,7 +11102,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.886Z",
-      "updatedAt": "2026-05-16T15:57:20.344Z",
+      "updatedAt": "2026-05-24T02:25:20.380Z",
       "oldImage": "Mortal Kombat 1.jpeg",
       "isUpdate": true
     },
@@ -31973,6 +31975,14 @@
       "name": "Cooperativo local",
       "createdAt": "2026-05-24T02:20:39.434Z",
       "updatedAt": "2026-05-24T02:20:39.434Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a12614bac4186cff41d7f89",
+      "id": 151,
+      "name": "Violencia",
+      "createdAt": "2026-05-24T02:24:11.880Z",
+      "updatedAt": "2026-05-24T02:24:11.880Z",
       "__v": 0
     }
   ],
