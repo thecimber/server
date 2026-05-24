@@ -12611,19 +12611,21 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        10,
+        2,
         22,
-        24
+        24,
+        65,
+        78
       ],
       "size": "17 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/13j8rVFkxArljWw48Lg_njQ",
           "_id": "68e08df59e798a708ef8c6d9"
         },
         {
-          "type": "Actualizacion",
+          "type": "actualizacion",
           "link": "https://cuty.io/3gsie8Z4kbiD",
           "_id": "68e08df59e798a708ef8c6da"
         }
@@ -12632,7 +12634,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-24T02:14:11.815Z",
       "oldImage": "Naruto x Boruto Ultimate ninja storm Connections.jpeg"
     },
     {
