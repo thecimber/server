@@ -12156,13 +12156,14 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        14,
-        31
+        9,
+        31,
+        63
       ],
-      "size": "0",
+      "size": "6 Gb",
       "downloadMethods": [
         {
-          "type": "Mediafire",
+          "type": "mediafire",
           "link": "https://cuty.io/pz3nEDVt76X",
           "_id": "68e08df59e798a708ef8c754"
         }
@@ -12171,7 +12172,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-24T02:18:36.248Z",
       "oldImage": "The Pools .jpeg"
     },
     {
