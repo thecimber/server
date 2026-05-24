@@ -11939,7 +11939,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c6d1",
       "id": "OveoK8c2",
       "name": "Naruto Shippuden ultimate ninja Storm 2",
@@ -11965,8 +11964,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-24T02:08:35.920Z",
-      "oldImage": "Naruto Shippuden ultimate ninja Storm 2.jpeg"
+      "updatedAt": "2026-05-24T02:08:44.891Z",
+      "oldImage": "Naruto Shippuden ultimate ninja Storm 2.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c70c",
