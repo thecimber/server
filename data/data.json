@@ -8976,7 +8976,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c65d",
       "id": "K7rTrpjS",
       "name": "Blasphemous 2",
@@ -9001,8 +9000,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-24T02:27:16.005Z",
-      "oldImage": "Blasphemous 2.jpeg"
+      "updatedAt": "2026-05-24T02:27:19.501Z",
+      "oldImage": "Blasphemous 2.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c649",
