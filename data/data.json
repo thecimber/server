@@ -12817,14 +12817,16 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        10,
+        2,
         22,
-        24
+        24,
+        65,
+        78
       ],
       "size": "14 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1pxbqldEweYdtAVucTtU4yg",
           "_id": "68e08df59e798a708ef8c6d7"
         }
@@ -12833,7 +12835,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-24T02:13:36.216Z",
       "oldImage": "Naruto Ultimate Ninja Storm 4.jpeg"
     },
     {
