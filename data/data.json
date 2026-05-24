@@ -10018,7 +10018,8 @@
       "genre": [
         2,
         22,
-        78
+        78,
+        155
       ],
       "size": "12GB",
       "downloadMethods": [
@@ -10032,7 +10033,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-24T02:34:21.558Z",
+      "updatedAt": "2026-05-24T02:35:06.751Z",
       "oldImage": "Kimetsu no Yaiba the Hinokami Chronicles [Demon Slayer] .jpeg",
       "isUpdate": true
     },
@@ -32017,6 +32018,14 @@
       "name": "Simulación deportiva",
       "createdAt": "2026-05-24T02:30:43.768Z",
       "updatedAt": "2026-05-24T02:30:43.768Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1263c2ac4186cff41e6152",
+      "id": 155,
+      "name": "Un jugador y multijugador",
+      "createdAt": "2026-05-24T02:34:42.111Z",
+      "updatedAt": "2026-05-24T02:34:42.111Z",
       "__v": 0
     }
   ],
