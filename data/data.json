@@ -11763,13 +11763,14 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        24
+        24,
+        65,
+        71
       ],
       "size": "18.6 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1IywPLt4rFuIFJ21qGALeeA",
           "_id": "68e08df59e798a708ef8c744"
         }
@@ -11778,7 +11779,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-24T02:28:11.547Z",
       "oldImage": "Super Smash bros Ultimate.jpeg"
     },
     {
