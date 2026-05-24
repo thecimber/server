@@ -10009,7 +10009,6 @@
       "oldImage": "Magical Bakery.jpeg"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c69c",
       "id": "f0w4YSIQ",
       "name": "Kimetsu no Yaiba the Hinokami Chronicles v1.53 [Demon Slayer] ",
@@ -10033,8 +10032,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-24T02:34:05.548Z",
-      "oldImage": "Kimetsu no Yaiba the Hinokami Chronicles [Demon Slayer] .jpeg"
+      "updatedAt": "2026-05-24T02:34:08.584Z",
+      "oldImage": "Kimetsu no Yaiba the Hinokami Chronicles [Demon Slayer] .jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c679",
