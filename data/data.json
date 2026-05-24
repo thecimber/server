@@ -9932,13 +9932,14 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
+        6,
         4,
-        6
+        154
       ],
       "size": "25.7 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/19qa8LE9ttaJ-uAPohFedcQ",
           "_id": "68e08df59e798a708ef8c67c"
         }
@@ -9947,7 +9948,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-05-24T02:30:57.696Z",
       "oldImage": "EA SPORTS FC 24.jpeg"
     },
     {
@@ -32007,6 +32008,14 @@
       "name": "Multijugador local y en línea",
       "createdAt": "2026-05-24T02:28:34.263Z",
       "updatedAt": "2026-05-24T02:28:34.263Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1262d3ac4186cff41dfd7b",
+      "id": 154,
+      "name": "Simulación deportiva",
+      "createdAt": "2026-05-24T02:30:43.768Z",
+      "updatedAt": "2026-05-24T02:30:43.768Z",
       "__v": 0
     }
   ],
