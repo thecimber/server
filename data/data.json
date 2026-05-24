@@ -9148,7 +9148,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c695",
       "id": "Z_SqENC1",
       "name": "Guilty Gear Strive",
@@ -9178,8 +9177,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-05-24T02:02:01.327Z",
-      "oldImage": "Guilty Gear Strive.jpeg"
+      "updatedAt": "2026-05-24T02:02:04.584Z",
+      "oldImage": "Guilty Gear Strive.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c68d",
