@@ -12791,7 +12791,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c716",
       "id": "gNf0spPT",
       "name": "Resident Evil Revelations 2",
@@ -12817,8 +12816,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-24T02:22:48.752Z",
-      "oldImage": "Resident Evil Revelations 2.jpeg"
+      "updatedAt": "2026-05-24T02:22:51.367Z",
+      "oldImage": "Resident Evil Revelations 2.jpeg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c6d6",
