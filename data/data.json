@@ -9525,17 +9525,18 @@
       "id": "TzilDgho",
       "name": "Assassin's Creed The Rebel Collection (Europe)",
       "image": "Assassin's Creed The Rebel Collection (Europe).webp",
-      "format": 2,
+      "format": 9,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        7,
+        3,
+        8,
         12
       ],
       "size": "24.0 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1jg0VCImBxeF8b-XVin9E-g",
           "_id": "68e08df59e798a708ef8c650"
         }
@@ -9544,7 +9545,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-05-24T01:55:51.203Z",
       "oldImage": "Assassin's Creed The Rebel Collection (Europe).jpeg"
     },
     {
