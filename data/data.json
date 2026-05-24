@@ -11107,13 +11107,14 @@
     {
       "_id": "68e08df59e798a708ef8c6cd",
       "id": "KLgJFJAY",
-      "name": "Mortal Kombat 11 Ultimate 1.26",
+      "name": "Mortal Kombat 11 Ultimate ",
       "image": "Mortal Kombat 11 Ultimate.webp",
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        24
+        24,
+        65,
+        118
       ],
       "size": "35.01 Gb",
       "downloadMethods": [
@@ -11127,7 +11128,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.886Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-05-24T02:24:02.547Z",
       "isUpdate": true,
       "oldImage": "Mortal Kombat 11 Ultimate.jpeg"
     },
