@@ -12879,7 +12879,10 @@
       "format": 8,
       "language": "Multi-Idioma",
       "genre": [
-        0
+        9,
+        31,
+        63,
+        147
       ],
       "size": "4 Gb",
       "downloadMethods": [
@@ -12893,7 +12896,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.887Z",
-      "updatedAt": "2026-05-24T02:14:51.329Z",
+      "updatedAt": "2026-05-24T02:15:53.560Z",
       "oldImage": "Platform 8.jpeg"
     },
     {
@@ -31925,6 +31928,14 @@
       "name": "Duelo competitivo",
       "createdAt": "2026-05-23T21:34:42.216Z",
       "updatedAt": "2026-05-23T21:34:42.216Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a125f32ac4186cff41caf31",
+      "id": 147,
+      "name": "Walking simulator",
+      "createdAt": "2026-05-24T02:15:15.000Z",
+      "updatedAt": "2026-05-24T02:15:15.000Z",
       "__v": 0
     }
   ],
