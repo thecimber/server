@@ -9560,13 +9560,14 @@
       "format": 2,
       "language": "Multi-Idioma",
       "genre": [
+        6,
         4,
-        6
+        154
       ],
       "size": "32.7 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1Y7trO0RUMq0FWb2W2dknqw",
           "_id": "68e08df59e798a708ef8c67e"
         }
@@ -9575,7 +9576,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.421Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
+      "updatedAt": "2026-05-24T02:33:11.637Z",
       "oldImage": "EA SPORTS FC 25.jpeg"
     },
     {
