@@ -13570,35 +13570,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df59e798a708ef8c77e",
-      "id": "Wm9Zzj8f",
-      "name": "Assassin's Creed Chronicles India",
-      "image": "Assassins-Creed-Chronicles-India.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        8,
-        12
-      ],
-      "size": "3.0 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1fFcrIRSAC0dEvmkFAWH6jA",
-          "_id": "68e08df59e798a708ef8c77f"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:09.891Z",
-      "updatedAt": "2026-03-28T18:36:52.862Z",
-      "oldImage": "Assassins-Creed-Chronicles-India.jpg"
-    },
-    {
       "_id": "68e08df59e798a708ef8c762",
       "id": "C7JKOMWy",
       "name": "Windbound",
@@ -13684,6 +13655,35 @@
       "createdAt": "2025-10-04T03:01:09.891Z",
       "updatedAt": "2026-03-28T18:36:33.306Z",
       "oldImage": "Assassins-Creed-Chronicles-Russia .jpg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df59e798a708ef8c77e",
+      "id": "Wm9Zzj8f",
+      "name": "Assassin's Creed Chronicles India",
+      "image": "Assassins-Creed-Chronicles-India.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        8,
+        12
+      ],
+      "size": "3.0 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1fFcrIRSAC0dEvmkFAWH6jA",
+          "_id": "68e08df59e798a708ef8c77f"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:09.891Z",
+      "updatedAt": "2026-03-28T18:36:52.862Z",
+      "oldImage": "Assassins-Creed-Chronicles-India.jpg"
     },
     {
       "isUpdate": false,
@@ -13830,6 +13830,36 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df59e798a708ef8c790",
+      "id": "wzTqK0gR",
+      "name": "Batman Arkham Knight ",
+      "image": "Batman Arkham Knight .webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        8,
+        12,
+        45
+      ],
+      "size": "52.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1n4AehpO9dJbvB-0RJ_t6xA",
+          "_id": "68e08df59e798a708ef8c791"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:09.892Z",
+      "updatedAt": "2026-05-12T14:51:01.624Z",
+      "oldImage": "Batman Arkham Knight .jpeg"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c794",
       "id": "P68MNAWw",
       "name": "Batman The Enemy Within ",
@@ -13918,36 +13948,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df59e798a708ef8c790",
-      "id": "wzTqK0gR",
-      "name": "Batman Arkham Knight ",
-      "image": "Batman Arkham Knight .webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        8,
-        12,
-        45
-      ],
-      "size": "52.8 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1n4AehpO9dJbvB-0RJ_t6xA",
-          "_id": "68e08df59e798a708ef8c791"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:09.892Z",
-      "updatedAt": "2026-05-12T14:51:01.624Z",
-      "oldImage": "Batman Arkham Knight .jpeg"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7dd",
       "id": "nNRK-_PL",
       "name": "Devil May Cry HD Collection ",
@@ -13974,6 +13974,35 @@
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-05-12T14:50:38.545Z",
       "oldImage": "Devil May Cry HD Collection .jpeg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c7e5",
+      "id": "3KktHLYI",
+      "name": "Dragon Ball Sparking Zero",
+      "image": "Dragon Ball Sparking Zero.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        24,
+        65,
+        78,
+        22
+      ],
+      "size": "28.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1-UbtrITwiWsnq1lLi_2dBw",
+          "_id": "68e08df69e798a708ef8c7e6"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.635Z",
+      "updatedAt": "2026-05-12T14:57:18.931Z",
+      "oldImage": "Dragon Ball Sparking Zero.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c7bf",
@@ -14225,35 +14254,6 @@
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
       "oldImage": "uTwVzRjOBO.jpeg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c7e5",
-      "id": "3KktHLYI",
-      "name": "Dragon Ball Sparking Zero",
-      "image": "Dragon Ball Sparking Zero.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        24,
-        65,
-        78,
-        22
-      ],
-      "size": "28.8 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1-UbtrITwiWsnq1lLi_2dBw",
-          "_id": "68e08df69e798a708ef8c7e6"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-05-12T14:57:18.931Z",
-      "oldImage": "Dragon Ball Sparking Zero.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c7bd",
@@ -15506,23 +15506,23 @@
       "oldImage": "Five nights at freddy's Help Wanted 2.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c815",
-      "id": "c1U25b6K",
-      "name": "Going Medieval ",
-      "image": "Going Medieval.webp",
+      "_id": "68e08df69e798a708ef8c819",
+      "id": "EESwV3NJ",
+      "name": "Grand Theft Auto 3 The Definitive Edition [GTA]",
+      "image": "Grand Theft Auto 3 The Definitive Edition (GTA).webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        19,
-        28,
-        40
+        2,
+        12,
+        39
       ],
-      "size": "425 Mb",
+      "size": "4.4 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1MCNQLhbXNRjloNg17LRZAw",
-          "_id": "68e08df69e798a708ef8c816"
+          "link": "https://1024terabox.com/s/1hzcV06eu1nHyTvDVehb3vg",
+          "_id": "68e08df69e798a708ef8c81a"
         }
       ],
       "emulatorId": 2,
@@ -15531,7 +15531,7 @@
       "createdAt": "2025-10-04T03:01:10.637Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "Going Medieval.jpeg"
+      "oldImage": "Grand Theft Auto 3 The Definitive Edition (GTA).jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c80b",
@@ -15871,23 +15871,23 @@
       "oldImage": "Five Nights At Freddy's Into the Pit.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c819",
-      "id": "EESwV3NJ",
-      "name": "Grand Theft Auto 3 The Definitive Edition [GTA]",
-      "image": "Grand Theft Auto 3 The Definitive Edition (GTA).webp",
+      "_id": "68e08df69e798a708ef8c815",
+      "id": "c1U25b6K",
+      "name": "Going Medieval ",
+      "image": "Going Medieval.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        12,
-        39
+        19,
+        28,
+        40
       ],
-      "size": "4.4 Gb",
+      "size": "425 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1hzcV06eu1nHyTvDVehb3vg",
-          "_id": "68e08df69e798a708ef8c81a"
+          "link": "https://1024terabox.com/s/1MCNQLhbXNRjloNg17LRZAw",
+          "_id": "68e08df69e798a708ef8c816"
         }
       ],
       "emulatorId": 2,
@@ -15896,7 +15896,7 @@
       "createdAt": "2025-10-04T03:01:10.637Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "Grand Theft Auto 3 The Definitive Edition (GTA).jpeg"
+      "oldImage": "Going Medieval.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c817",
@@ -24091,36 +24091,6 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df89e798a708ef8ca9e",
-      "id": "-gSD1um-",
-      "name": "Dragon Ball Z: Kakarot Daima Edition 1.70",
-      "image": "4HCdVgXpmc.webp",
-      "format": 2,
-      "language": "Multi-Idioma",
-      "genre": [
-        9,
-        10,
-        12,
-        22,
-        7
-      ],
-      "size": "28GB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/14XKG11npUj3aJY6rntcc3Q",
-          "_id": "68e08df89e798a708ef8ca9f"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "4HCdVgXpmc.jpg"
-    },
-    {
       "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca7e",
       "id": "YYdMuJcq",
@@ -24310,6 +24280,36 @@
       "oldImage": "NY3m_pruuU.jpg"
     },
     {
+      "_id": "68e08df89e798a708ef8ca9e",
+      "id": "-gSD1um-",
+      "name": "Dragon Ball Z: Kakarot Daima Edition 1.70",
+      "image": "4HCdVgXpmc.webp",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        9,
+        10,
+        12,
+        22,
+        7
+      ],
+      "size": "28GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/14XKG11npUj3aJY6rntcc3Q",
+          "_id": "68e08df89e798a708ef8ca9f"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "4HCdVgXpmc.jpg"
+    },
+    {
       "_id": "68e08df89e798a708ef8ca94",
       "id": "Cf1wEeKn",
       "name": "Darksiders Genesis ",
@@ -24366,34 +24366,6 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df89e798a708ef8ca88",
-      "id": "H1J6s4jo",
-      "name": "Hitman 2 Silent Assassin ",
-      "image": "PDYGg51sb9.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8,
-        30
-      ],
-      "size": "546 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Onz_htVlShh40ZG9WqE5QQ",
-          "_id": "68e08df89e798a708ef8ca89"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "PDYGg51sb9.jpg"
-    },
-    {
       "_id": "68e08df89e798a708ef8ca82",
       "id": "1TZgK5O4",
       "name": "Hitman Blood Money ",
@@ -24421,202 +24393,6 @@
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
       "oldImage": "-ZBnAHt_tj.jpg"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca8e",
-      "id": "Exy190Oj",
-      "name": "Hitman Absolution ",
-      "image": "dPVJkMICsh.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8,
-        30
-      ],
-      "size": "15,9 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Kjk54P-IUJs_a-4Q1vb4dA",
-          "_id": "68e08df89e798a708ef8ca8f"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-28T18:22:27.742Z",
-      "oldImage": "dPVJkMICsh.jpg",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca90",
-      "id": "L3BHagb6",
-      "name": "Hitman 2 ",
-      "image": "FzMV69PJNo.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8,
-        30
-      ],
-      "size": "74,1 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Qr-Hwu5rc6mhGuzJtBDijA",
-          "_id": "68e08df89e798a708ef8ca91"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "FzMV69PJNo.jpg"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca96",
-      "id": "VsvfU9db",
-      "name": "Darksiders Warmastered Edition ",
-      "image": "TxBlBdVIVm.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        27,
-        9
-      ],
-      "size": "23,5 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1nyY3N1UR2zOZBW6ltrRgpg",
-          "_id": "68e08df89e798a708ef8ca97"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "TxBlBdVIVm.jpg"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca9a",
-      "id": "3lsgWRaY",
-      "name": "Darksiders 3 ",
-      "image": "OQ-EyUm_nH.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        9,
-        16
-      ],
-      "size": "23,8 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1lVOpl8u2RvVquywLwhRmYg",
-          "_id": "68e08df89e798a708ef8ca9b"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "OQ-EyUm_nH.jpg"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca92",
-      "id": "X3pMNZUq",
-      "name": "Aliens vs Predator ",
-      "image": "56S1e9b4V3.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        31,
-        11
-      ],
-      "size": "18,4 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://terabox.com/s/1Njrp60g_0FTyEkRJkVtHKg",
-          "_id": "68e08df89e798a708ef8ca93"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "56S1e9b4V3.jpg"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca86",
-      "id": "78bizS1b",
-      "name": "Hitman 3 Deluxe Edition ",
-      "image": "kulOXyZgfk.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8,
-        30
-      ],
-      "size": "72 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1-wm6bolC5xlm2n90yBtaUg",
-          "_id": "68e08df89e798a708ef8ca87"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "kulOXyZgfk.jpg"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca8c",
-      "id": "co_-vGVd",
-      "name": "Hitman Codename 47 ",
-      "image": "5L0F6gWFvx.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8,
-        30
-      ],
-      "size": "282 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1T1bNjMr5nOvXSMS9crN7sQ",
-          "_id": "68e08df89e798a708ef8ca8d"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "5L0F6gWFvx.jpg"
     },
     {
       "isUpdate": false,
@@ -24647,32 +24423,228 @@
       "oldImage": "Aojfdsjo-32.jpg"
     },
     {
-      "_id": "68e08df89e798a708ef8caa4",
-      "id": "HSwsoC80sX",
-      "name": "Hollow Knight SILKSONG",
-      "image": "holsw62672vs.webp",
-      "format": 2,
+      "_id": "68e08df89e798a708ef8ca8c",
+      "id": "co_-vGVd",
+      "name": "Hitman Codename 47 ",
+      "image": "5L0F6gWFvx.webp",
+      "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        9,
-        3
+        7,
+        8,
+        30
       ],
-      "size": "2.4 Gb",
+      "size": "282 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://terabox.com/s/1aH-LFyRqL9i2CZkRwicpEQ",
-          "_id": "68e08df89e798a708ef8caa5"
+          "link": "https://1024terabox.com/s/1T1bNjMr5nOvXSMS9crN7sQ",
+          "_id": "68e08df89e798a708ef8ca8d"
         }
       ],
-      "emulatorId": 8,
+      "emulatorId": 2,
       "captures": [],
       "__v": 0,
-      "createdAt": "2025-10-08T03:01:12.243Z",
-      "updatedAt": "2026-05-23T20:48:05.775Z",
-      "oldImage": "holsw62672vs.jpeg",
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "5L0F6gWFvx.jpg"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca86",
+      "id": "78bizS1b",
+      "name": "Hitman 3 Deluxe Edition ",
+      "image": "kulOXyZgfk.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        8,
+        30
+      ],
+      "size": "72 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1-wm6bolC5xlm2n90yBtaUg",
+          "_id": "68e08df89e798a708ef8ca87"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "kulOXyZgfk.jpg"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca92",
+      "id": "X3pMNZUq",
+      "name": "Aliens vs Predator ",
+      "image": "56S1e9b4V3.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        31,
+        11
+      ],
+      "size": "18,4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://terabox.com/s/1Njrp60g_0FTyEkRJkVtHKg",
+          "_id": "68e08df89e798a708ef8ca93"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "56S1e9b4V3.jpg"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca9a",
+      "id": "3lsgWRaY",
+      "name": "Darksiders 3 ",
+      "image": "OQ-EyUm_nH.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        9,
+        16
+      ],
+      "size": "23,8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1lVOpl8u2RvVquywLwhRmYg",
+          "_id": "68e08df89e798a708ef8ca9b"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "OQ-EyUm_nH.jpg"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca96",
+      "id": "VsvfU9db",
+      "name": "Darksiders Warmastered Edition ",
+      "image": "TxBlBdVIVm.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        27,
+        9
+      ],
+      "size": "23,5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1nyY3N1UR2zOZBW6ltrRgpg",
+          "_id": "68e08df89e798a708ef8ca97"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "TxBlBdVIVm.jpg"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca90",
+      "id": "L3BHagb6",
+      "name": "Hitman 2 ",
+      "image": "FzMV69PJNo.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        8,
+        30
+      ],
+      "size": "74,1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Qr-Hwu5rc6mhGuzJtBDijA",
+          "_id": "68e08df89e798a708ef8ca91"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "FzMV69PJNo.jpg"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca8e",
+      "id": "Exy190Oj",
+      "name": "Hitman Absolution ",
+      "image": "dPVJkMICsh.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        8,
+        30
+      ],
+      "size": "15,9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Kjk54P-IUJs_a-4Q1vb4dA",
+          "_id": "68e08df89e798a708ef8ca8f"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-28T18:22:27.742Z",
+      "oldImage": "dPVJkMICsh.jpg",
       "isUpdate": true
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca88",
+      "id": "H1J6s4jo",
+      "name": "Hitman 2 Silent Assassin ",
+      "image": "PDYGg51sb9.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        8,
+        30
+      ],
+      "size": "546 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Onz_htVlShh40ZG9WqE5QQ",
+          "_id": "68e08df89e798a708ef8ca89"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "PDYGg51sb9.jpg"
     },
     {
       "isUpdate": false,
@@ -24701,6 +24673,34 @@
       "createdAt": "2025-10-08T03:01:12.243Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "hol34221423.png"
+    },
+    {
+      "_id": "68e08df89e798a708ef8caa4",
+      "id": "HSwsoC80sX",
+      "name": "Hollow Knight SILKSONG",
+      "image": "holsw62672vs.webp",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        9,
+        3
+      ],
+      "size": "2.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://terabox.com/s/1aH-LFyRqL9i2CZkRwicpEQ",
+          "_id": "68e08df89e798a708ef8caa5"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-08T03:01:12.243Z",
+      "updatedAt": "2026-05-23T20:48:05.775Z",
+      "oldImage": "holsw62672vs.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -30738,6 +30738,39 @@
       "captures": [],
       "createdAt": "2026-05-25T05:43:43.229Z",
       "updatedAt": "2026-05-25T05:43:43.229Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e1d5ac4186cff41f75a8",
+      "id": "YjFELbLn",
+      "name": "Constance",
+      "image": "1779687892298-0ff4b31e.jpg",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        9,
+        46,
+        3
+      ],
+      "size": "1.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1sIXYMRGU8EpEeep5xte3JA",
+          "_id": "6a13e1d5ac4186cff41f75a9"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/miJBKAEKHbtC",
+          "_id": "6a13e1d5ac4186cff41f75aa"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T05:44:53.393Z",
+      "updatedAt": "2026-05-25T05:44:53.393Z",
       "__v": 0
     },
     {
