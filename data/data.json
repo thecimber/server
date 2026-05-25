@@ -30980,7 +30980,8 @@
       "genre": [
         2,
         35,
-        50
+        50,
+        167
       ],
       "size": "2.2 Gb",
       "downloadMethods": [
@@ -30999,7 +31000,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-25T06:09:30.640Z",
-      "updatedAt": "2026-05-25T06:09:30.640Z",
+      "updatedAt": "2026-05-25T06:10:11.874Z",
       "__v": 0
     },
     {
@@ -32530,6 +32531,14 @@
       "name": "Colección remasterizada",
       "createdAt": "2026-05-25T06:06:45.885Z",
       "updatedAt": "2026-05-25T06:06:45.885Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e7a7ac4186cff4202a40",
+      "id": 167,
+      "name": "Shooter en tercera persona",
+      "createdAt": "2026-05-25T06:09:43.063Z",
+      "updatedAt": "2026-05-25T06:09:43.063Z",
       "__v": 0
     }
   ],
