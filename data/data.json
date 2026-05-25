@@ -30662,7 +30662,7 @@
         22,
         24,
         65,
-        118
+        162
       ],
       "size": "1.8 Gb",
       "downloadMethods": [
@@ -30670,13 +30670,18 @@
           "type": "terabox",
           "link": "https://1024terabox.com/s/17LRVx3u9p7J5IjlKV5LCsQ",
           "_id": "6a13e052ac4186cff41f2b7f"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/VRDUNzJUv",
+          "_id": "6a13e0aeac4186cff41f3ced"
         }
       ],
       "emulatorId": 8,
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-25T05:38:26.434Z",
-      "updatedAt": "2026-05-25T05:38:26.434Z",
+      "updatedAt": "2026-05-25T05:39:58.588Z",
       "__v": 0
     },
     {
@@ -32167,6 +32172,14 @@
       "name": "Deckbuilding",
       "createdAt": "2026-05-25T05:36:14.462Z",
       "updatedAt": "2026-05-25T05:36:14.462Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e05eac4186cff41f388c",
+      "id": 162,
+      "name": "competitivo 3D",
+      "createdAt": "2026-05-25T05:38:38.087Z",
+      "updatedAt": "2026-05-25T05:38:38.087Z",
       "__v": 0
     }
   ],
