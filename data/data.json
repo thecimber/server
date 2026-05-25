@@ -16122,23 +16122,22 @@
       "oldImage": "Little Kitty Big City.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c82b",
-      "id": "oRpWtUa1",
-      "name": "Haste Broken Worlds v1.2",
-      "image": "Haste Broken Worlds.webp",
+      "_id": "68e08df69e798a708ef8c857",
+      "id": "bzDGXan0",
+      "name": "Look Outside",
+      "image": "Look Outside.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        7,
-        10
+        3,
+        34
       ],
-      "size": "1.9 Gb",
+      "size": "812 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1w8nV_jOBm1ZZLHYP8c-U1w",
-          "_id": "68e08df69e798a708ef8c82c"
+          "link": "https://1024terabox.com/s/1y3_kap8h3TTqC_6YPk0rTQ",
+          "_id": "68e08df69e798a708ef8c858"
         }
       ],
       "emulatorId": 2,
@@ -16147,7 +16146,7 @@
       "createdAt": "2025-10-04T03:01:10.638Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "Haste Broken Worlds.jpeg"
+      "oldImage": "Look Outside.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c847",
@@ -16179,23 +16178,23 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df69e798a708ef8c825",
-      "id": "pmzoLl0a",
-      "name": "Guilty Gear Strive",
-      "image": "Guilty Gear Strive.webp",
+      "_id": "68e08df69e798a708ef8c82b",
+      "id": "oRpWtUa1",
+      "name": "Haste Broken Worlds v1.2",
+      "image": "Haste Broken Worlds.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        24,
-        22
+        2,
+        7,
+        10
       ],
-      "size": "31.8 Gb",
+      "size": "1.9 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/10dOdA3B9XKyQs9frwHzARA",
-          "_id": "68e08df69e798a708ef8c826"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1w8nV_jOBm1ZZLHYP8c-U1w",
+          "_id": "68e08df69e798a708ef8c82c"
         }
       ],
       "emulatorId": 2,
@@ -16204,7 +16203,7 @@
       "createdAt": "2025-10-04T03:01:10.638Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "Guilty Gear Strive.jpeg"
+      "oldImage": "Haste Broken Worlds.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c83d",
@@ -16488,22 +16487,23 @@
       "oldImage": "Left 4 Dead 1.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c857",
-      "id": "bzDGXan0",
-      "name": "Look Outside",
-      "image": "Look Outside.webp",
+      "_id": "68e08df69e798a708ef8c825",
+      "id": "pmzoLl0a",
+      "name": "Guilty Gear Strive",
+      "image": "Guilty Gear Strive.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        34
+        10,
+        24,
+        22
       ],
-      "size": "812 Mb",
+      "size": "31.8 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1y3_kap8h3TTqC_6YPk0rTQ",
-          "_id": "68e08df69e798a708ef8c858"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/10dOdA3B9XKyQs9frwHzARA",
+          "_id": "68e08df69e798a708ef8c826"
         }
       ],
       "emulatorId": 2,
@@ -16512,7 +16512,7 @@
       "createdAt": "2025-10-04T03:01:10.638Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "Look Outside.jpeg"
+      "oldImage": "Guilty Gear Strive.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c83f",
@@ -30869,6 +30869,39 @@
       "captures": [],
       "createdAt": "2026-05-25T05:55:19.946Z",
       "updatedAt": "2026-05-25T05:55:19.946Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e4fcac4186cff41fdf0b",
+      "id": "Sq_w0sA-",
+      "name": "Five Nights at Freddy's Security Breach ",
+      "image": "1779688699615-bd257d5e.jpg",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        9,
+        31,
+        21,
+        119
+      ],
+      "size": "18 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1iGMv-tVq3SpmG4kRyz0F6A",
+          "_id": "6a13e4fcac4186cff41fdf0c"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/UDtQVO",
+          "_id": "6a13e4fcac4186cff41fdf0d"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T05:58:20.711Z",
+      "updatedAt": "2026-05-25T05:58:20.711Z",
       "__v": 0
     },
     {
