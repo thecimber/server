@@ -30946,7 +30946,9 @@
       "language": "Multi-Idioma",
       "genre": [
         2,
-        12
+        12,
+        165,
+        166
       ],
       "size": "18. 4 Gb",
       "downloadMethods": [
@@ -30965,7 +30967,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-25T06:06:09.406Z",
-      "updatedAt": "2026-05-25T06:06:09.406Z",
+      "updatedAt": "2026-05-25T06:07:14.861Z",
       "__v": 0
     },
     {
@@ -32480,6 +32482,22 @@
       "name": "Aventura psicológica",
       "createdAt": "2026-05-25T05:45:21.601Z",
       "updatedAt": "2026-05-25T05:45:21.601Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e6ebac4186cff4200b39",
+      "id": 165,
+      "name": "Crimen",
+      "createdAt": "2026-05-25T06:06:35.455Z",
+      "updatedAt": "2026-05-25T06:06:35.455Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e6f5ac4186cff4200b3e",
+      "id": 166,
+      "name": "Colección remasterizada",
+      "createdAt": "2026-05-25T06:06:45.885Z",
+      "updatedAt": "2026-05-25T06:06:45.885Z",
       "__v": 0
     }
   ],
