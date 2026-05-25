@@ -30751,7 +30751,7 @@
         2,
         9,
         46,
-        3
+        164
       ],
       "size": "1.8 Gb",
       "downloadMethods": [
@@ -30770,7 +30770,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-25T05:44:53.393Z",
-      "updatedAt": "2026-05-25T05:44:53.393Z",
+      "updatedAt": "2026-05-25T05:45:40.749Z",
       "__v": 0
     },
     {
@@ -32277,6 +32277,14 @@
       "name": "Destrucción",
       "createdAt": "2026-05-25T05:41:47.989Z",
       "updatedAt": "2026-05-25T05:41:47.989Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e1f1ac4186cff41f82db",
+      "id": 164,
+      "name": "Aventura psicológica",
+      "createdAt": "2026-05-25T05:45:21.601Z",
+      "updatedAt": "2026-05-25T05:45:21.601Z",
       "__v": 0
     }
   ],
