@@ -25208,18 +25208,23 @@
         43,
         17
       ],
-      "size": "500MB",
+      "size": "280 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1Z8RHUcMBa-L9Kq0Ew0kZZg",
+          "link": "https://1024terabox.com/s/1XlP3oE94XimNX4hvQQZaFg",
           "_id": "69542595bfae0fe5e82a63dd"
+        },
+        {
+          "type": "terabox",
+          "link": "https://cuty.io/imge",
+          "_id": "6a13e22bac4186cff41f9466"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "createdAt": "2025-12-30T19:18:45.959Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "updatedAt": "2026-05-25T05:46:19.622Z",
       "__v": 0,
       "isUpdate": true,
       "oldImage": "1767122325266-d8d477de.jpg"
