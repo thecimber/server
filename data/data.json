@@ -15421,34 +15421,6 @@
       "oldImage": "bzpuFouX3-.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c7fb",
-      "id": "Tmz_dDWs",
-      "name": "Fallout 3",
-      "image": "Fallout 3.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        12,
-        16,
-        41
-      ],
-      "size": "7.0 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1vJ5kSnylMeA0iI-O2WE2tg",
-          "_id": "68e08df69e798a708ef8c7fc"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.637Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "Fallout 3.jpeg"
-    },
-    {
       "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7fd",
       "id": "TrSQhiBN",
@@ -15476,6 +15448,34 @@
       "createdAt": "2025-10-04T03:01:10.637Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "Fallout 76.jpeg"
+    },
+    {
+      "_id": "68e08df69e798a708ef8c7fb",
+      "id": "Tmz_dDWs",
+      "name": "Fallout 3",
+      "image": "Fallout 3.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        12,
+        16,
+        41
+      ],
+      "size": "7.0 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1vJ5kSnylMeA0iI-O2WE2tg",
+          "_id": "68e08df69e798a708ef8c7fc"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.637Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "Fallout 3.jpeg"
     },
     {
       "isUpdate": false,
@@ -15506,33 +15506,32 @@
       "oldImage": "Five nights at freddy's Help Wanted 2.jpeg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c807",
-      "id": "aoh00268",
-      "name": "Five Nights At Freddy's Into the Pit",
-      "image": "Five Nights At Freddy's Into the Pit.webp",
+      "_id": "68e08df69e798a708ef8c815",
+      "id": "c1U25b6K",
+      "name": "Going Medieval ",
+      "image": "Going Medieval.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        31,
-        21,
-        50
+        19,
+        28,
+        40
       ],
-      "size": "970.0 Mb",
+      "size": "425 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/14gM3T5rAJRO9dkXyZTwfeQ",
-          "_id": "68e08df69e798a708ef8c808"
+          "link": "https://1024terabox.com/s/1MCNQLhbXNRjloNg17LRZAw",
+          "_id": "68e08df69e798a708ef8c816"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.637Z",
-      "updatedAt": "2026-05-12T15:01:48.634Z",
-      "oldImage": "Five Nights At Freddy's Into the Pit.jpeg"
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "Going Medieval.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c80b",
@@ -15843,32 +15842,33 @@
       "oldImage": "Goat Simulator 3 goat in a box edition.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c815",
-      "id": "c1U25b6K",
-      "name": "Going Medieval ",
-      "image": "Going Medieval.webp",
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c807",
+      "id": "aoh00268",
+      "name": "Five Nights At Freddy's Into the Pit",
+      "image": "Five Nights At Freddy's Into the Pit.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        19,
-        28,
-        40
+        3,
+        31,
+        21,
+        50
       ],
-      "size": "425 Mb",
+      "size": "970.0 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1MCNQLhbXNRjloNg17LRZAw",
-          "_id": "68e08df69e798a708ef8c816"
+          "link": "https://1024terabox.com/s/14gM3T5rAJRO9dkXyZTwfeQ",
+          "_id": "68e08df69e798a708ef8c808"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.637Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "Going Medieval.jpeg"
+      "updatedAt": "2026-05-12T15:01:48.634Z",
+      "oldImage": "Five Nights At Freddy's Into the Pit.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c819",
@@ -30682,6 +30682,33 @@
       "captures": [],
       "createdAt": "2026-05-25T05:38:26.434Z",
       "updatedAt": "2026-05-25T05:39:58.588Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e10aac4186cff41f4a00",
+      "id": "Q1V9aILF",
+      "name": "Kill It With Fire 2 ",
+      "image": "1779687689138-6a13d44b.jpg",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        54,
+        113
+      ],
+      "size": "3.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1VTaIrz229A5lOPgPpgseJw",
+          "_id": "6a13e10aac4186cff41f4a01"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T05:41:30.222Z",
+      "updatedAt": "2026-05-25T05:41:30.222Z",
       "__v": 0
     },
     {
