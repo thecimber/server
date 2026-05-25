@@ -30694,7 +30694,8 @@
       "genre": [
         2,
         54,
-        113
+        113,
+        163
       ],
       "size": "3.8 Gb",
       "downloadMethods": [
@@ -30708,7 +30709,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-25T05:41:30.222Z",
-      "updatedAt": "2026-05-25T05:41:30.222Z",
+      "updatedAt": "2026-05-25T05:42:29.932Z",
       "__v": 0
     },
     {
@@ -32207,6 +32208,14 @@
       "name": "competitivo 3D",
       "createdAt": "2026-05-25T05:38:38.087Z",
       "updatedAt": "2026-05-25T05:38:38.087Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e11bac4186cff41f5714",
+      "id": 163,
+      "name": "Destrucción",
+      "createdAt": "2026-05-25T05:41:47.989Z",
+      "updatedAt": "2026-05-25T05:41:47.989Z",
       "__v": 0
     }
   ],
