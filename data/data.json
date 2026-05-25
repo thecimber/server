@@ -31081,7 +31081,7 @@
         2,
         45,
         93,
-        113
+        168
       ],
       "size": "20 Gb",
       "downloadMethods": [
@@ -31100,7 +31100,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-25T06:16:02.090Z",
-      "updatedAt": "2026-05-25T06:16:02.090Z",
+      "updatedAt": "2026-05-25T06:16:36.443Z",
       "__v": 0
     },
     {
@@ -32639,6 +32639,14 @@
       "name": "Shooter en tercera persona",
       "createdAt": "2026-05-25T06:09:43.063Z",
       "updatedAt": "2026-05-25T06:09:43.063Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e92dac4186cff4206404",
+      "id": 168,
+      "name": "Cooperativo dungeon crawler",
+      "createdAt": "2026-05-25T06:16:13.599Z",
+      "updatedAt": "2026-05-25T06:16:13.599Z",
       "__v": 0
     }
   ],
