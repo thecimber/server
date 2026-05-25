@@ -22664,21 +22664,21 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca52",
-      "id": "wfwPBu4U",
-      "name": "PAC-MAN and the Ghostly Adventures",
-      "image": "m7HIsc2t1x.webp",
+      "_id": "68e08df89e798a708ef8ca2c",
+      "id": "SfiwPKxY",
+      "name": "Mario Tennis Ultra Smash ",
+      "image": "N_oOKhV5kK.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        1
+        4
       ],
-      "size": "2,9 gb",
+      "size": "831 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1R5_VQnmJ6mt4-y6UnsonRA",
-          "_id": "68e08df89e798a708ef8ca53"
+          "link": "https://1024terabox.com/s/16DK6Bg-B6gjlhPnolR865w",
+          "_id": "68e08df89e798a708ef8ca2d"
         }
       ],
       "emulatorId": 5,
@@ -22686,7 +22686,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "m7HIsc2t1x.jpg"
+      "oldImage": "N_oOKhV5kK.jpg"
     },
     {
       "isUpdate": false,
@@ -22983,23 +22983,21 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca18",
-      "id": "92w4jfEL",
-      "name": "LEGO CITY Undercover",
-      "image": "WAJW2h6DdV.webp",
+      "_id": "68e08df89e798a708ef8ca52",
+      "id": "wfwPBu4U",
+      "name": "PAC-MAN and the Ghostly Adventures",
+      "image": "m7HIsc2t1x.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        12,
-        44
+        1
       ],
-      "size": "18.9 Gb",
+      "size": "2,9 gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1PqW3YAp7eLelIYovdpKhCw",
-          "_id": "68e08df89e798a708ef8ca19"
+          "link": "https://1024terabox.com/s/1R5_VQnmJ6mt4-y6UnsonRA",
+          "_id": "68e08df89e798a708ef8ca53"
         }
       ],
       "emulatorId": 5,
@@ -23007,7 +23005,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "WAJW2h6DdV.jpg"
+      "oldImage": "m7HIsc2t1x.jpg"
     },
     {
       "isUpdate": false,
@@ -23466,21 +23464,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca2c",
-      "id": "SfiwPKxY",
-      "name": "Mario Tennis Ultra Smash ",
-      "image": "N_oOKhV5kK.webp",
+      "_id": "68e08df89e798a708ef8ca18",
+      "id": "92w4jfEL",
+      "name": "LEGO CITY Undercover",
+      "image": "WAJW2h6DdV.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        4
+        2,
+        12,
+        44
       ],
-      "size": "831 Mb",
+      "size": "18.9 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/16DK6Bg-B6gjlhPnolR865w",
-          "_id": "68e08df89e798a708ef8ca2d"
+          "link": "https://1024terabox.com/s/1PqW3YAp7eLelIYovdpKhCw",
+          "_id": "68e08df89e798a708ef8ca19"
         }
       ],
       "emulatorId": 5,
@@ -23488,7 +23488,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "N_oOKhV5kK.jpg"
+      "oldImage": "WAJW2h6DdV.jpg"
     },
     {
       "isUpdate": false,
@@ -30968,6 +30968,38 @@
       "captures": [],
       "createdAt": "2026-05-25T06:06:09.406Z",
       "updatedAt": "2026-05-25T06:07:14.861Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e79aac4186cff4201cf8",
+      "id": "X3fR4pkr",
+      "name": "IronFall Invasion",
+      "image": "1779689369366-b643f15e.jpg",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        50
+      ],
+      "size": "2.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1FaI8A9O8pBZ7NzBhL8M6hw",
+          "_id": "6a13e79aac4186cff4201cf9"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/H9ZZT",
+          "_id": "6a13e79aac4186cff4201cfa"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T06:09:30.640Z",
+      "updatedAt": "2026-05-25T06:09:30.640Z",
       "__v": 0
     },
     {
