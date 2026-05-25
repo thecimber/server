@@ -31004,6 +31004,40 @@
       "__v": 0
     },
     {
+      "_id": "6a13e80fac4186cff4203c00",
+      "id": "xmZYmJb7",
+      "name": "Marvel Maximum Collectio",
+      "image": "1779689485982-f1b6fb1a.jpg",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        45,
+        43,
+        113,
+        86
+      ],
+      "size": "1.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1yOA7PxLX6-GhJ9wcvAf-Fg",
+          "_id": "6a13e80fac4186cff4203c01"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/SCZmHrMHNGE",
+          "_id": "6a13e80fac4186cff4203c02"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T06:11:27.249Z",
+      "updatedAt": "2026-05-25T06:11:27.249Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
