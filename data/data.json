@@ -31423,6 +31423,39 @@
       "__v": 0
     },
     {
+      "_id": "6a15ab70ac4186cff4214565",
+      "id": "UR0bsf_E",
+      "name": "Shadow Fight 2",
+      "image": "1779805038998-d6a5ef2e.jpg",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        24,
+        93,
+        86
+      ],
+      "size": "16 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1fyuZFdGd-zfmXYOk_SGFZw",
+          "_id": "6a15ab70ac4186cff4214566"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/uRnNZ7v",
+          "_id": "6a15ab70ac4186cff4214567"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:17:20.413Z",
+      "updatedAt": "2026-05-26T14:17:20.413Z",
+      "__v": 0
+    },
+    {
       "_id": "6a15a76cac4186cff4209ab9",
       "id": "RJxQMJfG",
       "name": "Slime Rancher ",
