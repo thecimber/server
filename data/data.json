@@ -31466,9 +31466,9 @@
       "genre": [
         3,
         9,
-        19,
+        22,
         70,
-        22
+        173
       ],
       "size": "2.6 Gb",
       "downloadMethods": [
@@ -31487,7 +31487,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-26T14:19:04.389Z",
-      "updatedAt": "2026-05-26T14:19:04.389Z",
+      "updatedAt": "2026-05-26T14:19:31.905Z",
       "__v": 0
     },
     {
@@ -33094,6 +33094,14 @@
       "name": "Combate 2D",
       "createdAt": "2026-05-26T14:17:31.116Z",
       "updatedAt": "2026-05-26T14:17:31.116Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a15abe4ac4186cff42172b7",
+      "id": 173,
+      "name": "Simulación de vida",
+      "createdAt": "2026-05-26T14:19:16.935Z",
+      "updatedAt": "2026-05-26T14:19:16.935Z",
       "__v": 0
     }
   ],
