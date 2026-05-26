@@ -16038,23 +16038,23 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df69e798a708ef8c829",
-      "id": "Qkix-nai",
-      "name": "Hades v1.38290",
-      "image": "bnk9fDd9xt.webp",
+      "_id": "68e08df69e798a708ef8c833",
+      "id": "cqQDnJmN",
+      "name": "Hero Siege",
+      "image": "Hero Siege.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         16,
         27,
-        36
+        41
       ],
-      "size": "11.0 Gb",
+      "size": "2.4 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1HR3_mzhP4pkVN7EY5ua6_w",
-          "_id": "68e08df69e798a708ef8c82a"
+          "link": "https://1024terabox.com/s/1Pd-mt6eYT9DyEmMMHlZeWw",
+          "_id": "68e08df69e798a708ef8c834"
         }
       ],
       "emulatorId": 2,
@@ -16063,7 +16063,7 @@
       "createdAt": "2025-10-04T03:01:10.638Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "bnk9fDd9xt.jpg"
+      "oldImage": "Hero Siege.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c85d",
@@ -16686,23 +16686,23 @@
       "oldImage": "Lego Batman 2 Dc Super Heroes.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c833",
-      "id": "cqQDnJmN",
-      "name": "Hero Siege",
-      "image": "Hero Siege.webp",
+      "_id": "68e08df69e798a708ef8c829",
+      "id": "Qkix-nai",
+      "name": "Hades v1.38290",
+      "image": "bnk9fDd9xt.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         16,
         27,
-        41
+        36
       ],
-      "size": "2.4 Gb",
+      "size": "11.0 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1Pd-mt6eYT9DyEmMMHlZeWw",
-          "_id": "68e08df69e798a708ef8c834"
+          "link": "https://1024terabox.com/s/1HR3_mzhP4pkVN7EY5ua6_w",
+          "_id": "68e08df69e798a708ef8c82a"
         }
       ],
       "emulatorId": 2,
@@ -16711,7 +16711,7 @@
       "createdAt": "2025-10-04T03:01:10.638Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "Hero Siege.jpeg"
+      "oldImage": "bnk9fDd9xt.jpg"
     },
     {
       "_id": "68e08df69e798a708ef8c857",
@@ -31194,6 +31194,41 @@
       "__v": 0
     },
     {
+      "_id": "6a15a8aeac4186cff420c76f",
+      "id": "PEo5W71e",
+      "name": "Blazblue Entropy Effect X",
+      "image": "1779804333125-dc9366bd.jpg",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        32,
+        1,
+        27,
+        58,
+        22
+      ],
+      "size": "4.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1bO79vcIyizovqfhdn3XtvA",
+          "_id": "6a15a8aeac4186cff420c770"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/BlRj9D37FO",
+          "_id": "6a15a8aeac4186cff420c771"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:05:34.803Z",
+      "updatedAt": "2026-05-26T14:05:34.803Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
@@ -32750,9 +32785,9 @@
     {
       "_id": "6a15a847ac4186cff420b585",
       "id": 170,
-      "name": "Survival horro",
+      "name": "Survival horror",
       "createdAt": "2026-05-26T14:03:51.546Z",
-      "updatedAt": "2026-05-26T14:03:51.546Z",
+      "updatedAt": "2026-05-26T14:04:22.404Z",
       "__v": 0
     }
   ],
