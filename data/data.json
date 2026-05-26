@@ -21908,33 +21908,6 @@
       "oldImage": "iQpf3uUyG9.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c9d9",
-      "id": "dHFFCqeZ",
-      "name": "LEGO Builders Journey",
-      "image": "ty-QUE2AP9.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        44
-      ],
-      "size": "1.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/15W_ZjTZU2gDZ5BFUIw37jw",
-          "_id": "68e08df79e798a708ef8c9da"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "ty-QUE2AP9.jpg"
-    },
-    {
       "_id": "68e08df79e798a708ef8c9e3",
       "id": "Qisn9j2M",
       "name": "LEGO The Lord Of The Rings",
@@ -22077,6 +22050,33 @@
       "createdAt": "2025-10-04T03:01:11.689Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "ydWe--Wcuu.jpg"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9d9",
+      "id": "dHFFCqeZ",
+      "name": "LEGO Builders Journey",
+      "image": "ty-QUE2AP9.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        44
+      ],
+      "size": "1.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/15W_ZjTZU2gDZ5BFUIw37jw",
+          "_id": "68e08df79e798a708ef8c9da"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "ty-QUE2AP9.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c9eb",
@@ -22251,33 +22251,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca06",
-      "id": "QUfMNhpM",
-      "name": "Burnout Dominator ",
-      "image": "eRf65rrylI.webp",
-      "format": 4,
-      "language": "Español",
-      "genre": [
-        13,
-        42
-      ],
-      "size": "777 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/142aRMX0U3Dq4U_j7G_STLg",
-          "_id": "68e08df89e798a708ef8ca07"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "eRf65rrylI.jpg"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca0e",
       "id": "MKcPh2xV",
       "name": "Killzone Liberation ",
@@ -22357,6 +22330,33 @@
       "createdAt": "2025-10-04T03:01:12.241Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "HzoEOjHpqj.jpg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca06",
+      "id": "QUfMNhpM",
+      "name": "Burnout Dominator ",
+      "image": "eRf65rrylI.webp",
+      "format": 4,
+      "language": "Español",
+      "genre": [
+        13,
+        42
+      ],
+      "size": "777 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/142aRMX0U3Dq4U_j7G_STLg",
+          "_id": "68e08df89e798a708ef8ca07"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "eRf65rrylI.jpg"
     },
     {
       "isUpdate": false,
@@ -24091,23 +24091,23 @@
       "oldImage": "dRWuFo4vv_.jpg"
     },
     {
-      "_id": "68e08df89e798a708ef8ca92",
-      "id": "X3pMNZUq",
-      "name": "Aliens vs Predator ",
-      "image": "56S1e9b4V3.webp",
+      "_id": "68e08df89e798a708ef8ca94",
+      "id": "Cf1wEeKn",
+      "name": "Darksiders Genesis ",
+      "image": "9QRxr8V6TP.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        31,
-        11
+        3,
+        27
       ],
-      "size": "18,4 Gb",
+      "size": "10,4 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://terabox.com/s/1Njrp60g_0FTyEkRJkVtHKg",
-          "_id": "68e08df89e798a708ef8ca93"
+          "link": "https://1024terabox.com/s/19CXslc_bq0QDoHJn2qQ3JQ",
+          "_id": "68e08df89e798a708ef8ca95"
         }
       ],
       "emulatorId": 2,
@@ -24116,7 +24116,7 @@
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "56S1e9b4V3.jpg"
+      "oldImage": "9QRxr8V6TP.jpg"
     },
     {
       "_id": "68e08df89e798a708ef8ca98",
@@ -24565,23 +24565,23 @@
       "oldImage": "4HCdVgXpmc.jpg"
     },
     {
-      "_id": "68e08df89e798a708ef8ca94",
-      "id": "Cf1wEeKn",
-      "name": "Darksiders Genesis ",
-      "image": "9QRxr8V6TP.webp",
+      "_id": "68e08df89e798a708ef8ca92",
+      "id": "X3pMNZUq",
+      "name": "Aliens vs Predator ",
+      "image": "56S1e9b4V3.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        3,
-        27
+        31,
+        11
       ],
-      "size": "10,4 Gb",
+      "size": "18,4 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/19CXslc_bq0QDoHJn2qQ3JQ",
-          "_id": "68e08df89e798a708ef8ca95"
+          "link": "https://terabox.com/s/1Njrp60g_0FTyEkRJkVtHKg",
+          "_id": "68e08df89e798a708ef8ca93"
         }
       ],
       "emulatorId": 2,
@@ -24590,7 +24590,7 @@
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "9QRxr8V6TP.jpg"
+      "oldImage": "56S1e9b4V3.jpg"
     },
     {
       "_id": "68e08df89e798a708ef8ca7c",
@@ -31226,6 +31226,35 @@
       "captures": [],
       "createdAt": "2026-05-26T14:05:34.803Z",
       "updatedAt": "2026-05-26T14:05:34.803Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a15a932ac4186cff420d4dc",
+      "id": "OxQ2ifTS",
+      "name": "BloodShed",
+      "image": "1779804464458-54349a67.jpg",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        21,
+        58,
+        169,
+        20
+      ],
+      "size": "600 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1kQQfyhYPgykjTv37TzkhlQ",
+          "_id": "6a15a932ac4186cff420d4dd"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:07:46.188Z",
+      "updatedAt": "2026-05-26T14:07:46.188Z",
       "__v": 0
     },
     {
