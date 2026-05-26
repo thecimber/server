@@ -31335,8 +31335,9 @@
       "language": "Multi-Idioma",
       "genre": [
         3,
+        50,
         139,
-        50
+        171
       ],
       "size": "11 Gb",
       "downloadMethods": [
@@ -31355,7 +31356,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-26T14:14:00.651Z",
-      "updatedAt": "2026-05-26T14:14:00.651Z",
+      "updatedAt": "2026-05-26T14:14:20.263Z",
       "__v": 0
     },
     {
@@ -32946,6 +32947,14 @@
       "name": "Survival horror",
       "createdAt": "2026-05-26T14:03:51.546Z",
       "updatedAt": "2026-05-26T14:04:22.404Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a15aaafac4186cff4211843",
+      "id": 171,
+      "name": "Cinemático",
+      "createdAt": "2026-05-26T14:14:07.660Z",
+      "updatedAt": "2026-05-26T14:14:07.660Z",
       "__v": 0
     }
   ],
