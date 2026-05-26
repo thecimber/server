@@ -31432,8 +31432,9 @@
       "genre": [
         2,
         24,
+        86,
         93,
-        86
+        172
       ],
       "size": "16 Gb",
       "downloadMethods": [
@@ -31452,7 +31453,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-26T14:17:20.413Z",
-      "updatedAt": "2026-05-26T14:17:20.413Z",
+      "updatedAt": "2026-05-26T14:17:44.765Z",
       "__v": 0
     },
     {
@@ -33051,6 +33052,14 @@
       "name": "Cinemático",
       "createdAt": "2026-05-26T14:14:07.660Z",
       "updatedAt": "2026-05-26T14:14:07.660Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a15ab7bac4186cff42152f8",
+      "id": 172,
+      "name": "Combate 2D",
+      "createdAt": "2026-05-26T14:17:31.116Z",
+      "updatedAt": "2026-05-26T14:17:31.116Z",
       "__v": 0
     }
   ],
