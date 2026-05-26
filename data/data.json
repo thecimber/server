@@ -31169,7 +31169,9 @@
       "genre": [
         2,
         3,
-        50
+        50,
+        170,
+        169
       ],
       "size": "21 Gb",
       "downloadMethods": [
@@ -31188,7 +31190,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-26T14:03:24.467Z",
-      "updatedAt": "2026-05-26T14:03:24.467Z",
+      "updatedAt": "2026-05-26T14:04:16.670Z",
       "__v": 0
     },
     {
@@ -32735,6 +32737,22 @@
       "name": "Cooperativo dungeon crawler",
       "createdAt": "2026-05-25T06:16:13.599Z",
       "updatedAt": "2026-05-25T06:16:13.599Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a15a83dac4186cff420b580",
+      "id": 169,
+      "name": "Shooter FPS",
+      "createdAt": "2026-05-26T14:03:41.614Z",
+      "updatedAt": "2026-05-26T14:03:41.614Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a15a847ac4186cff420b585",
+      "id": 170,
+      "name": "Survival horro",
+      "createdAt": "2026-05-26T14:03:51.546Z",
+      "updatedAt": "2026-05-26T14:03:51.546Z",
       "__v": 0
     }
   ],
