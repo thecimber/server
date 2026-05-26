@@ -31491,6 +31491,40 @@
       "__v": 0
     },
     {
+      "_id": "6a15ac3cac4186cff42184e0",
+      "id": "aL3vPE1K",
+      "name": "Tales of Berseria Remastered",
+      "image": "1779805243365-6da29e34.jpg",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        55,
+        127,
+        22
+      ],
+      "size": "8.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1JJ9Kfbu3oKiz8wdonkR1aA",
+          "_id": "6a15ac3cac4186cff42184e1"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/3Q3oJ",
+          "_id": "6a15ac3cac4186cff42184e2"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:20:44.955Z",
+      "updatedAt": "2026-05-26T14:20:44.955Z",
+      "__v": 0
+    },
+    {
       "_id": "6a15a76cac4186cff4209ab9",
       "id": "RJxQMJfG",
       "name": "Slime Rancher ",
