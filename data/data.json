@@ -31104,6 +31104,34 @@
       "__v": 0
     },
     {
+      "_id": "6a1522bcac4186cff4208713",
+      "id": "q8bN5VvO",
+      "name": "Death Stranding Director's Cut",
+      "image": "1779770042395-fd6e8bb8.jpeg",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        21,
+        12,
+        9
+      ],
+      "size": "69.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1H6WejlBXNCKMgHky6I_Hyg",
+          "_id": "6a1522bcac4186cff4208714"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T04:34:04.272Z",
+      "updatedAt": "2026-05-26T04:34:04.272Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
