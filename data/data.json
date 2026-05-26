@@ -31457,6 +31457,40 @@
       "__v": 0
     },
     {
+      "_id": "6a15abd8ac4186cff421651d",
+      "id": "tvmnCOmh",
+      "name": "Shin chan Shiro of Coal Town",
+      "image": "1779805142231-7edcb842.jpg",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        9,
+        19,
+        70,
+        22
+      ],
+      "size": "2.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Naf1I-YDmNzwne4xhUkp6g",
+          "_id": "6a15abd8ac4186cff421651e"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/3Q3oJ",
+          "_id": "6a15abd8ac4186cff421651f"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:19:04.389Z",
+      "updatedAt": "2026-05-26T14:19:04.389Z",
+      "__v": 0
+    },
+    {
       "_id": "6a15a76cac4186cff4209ab9",
       "id": "RJxQMJfG",
       "name": "Slime Rancher ",
