@@ -16010,6 +16010,35 @@
       "isUpdate": true
     },
     {
+      "_id": "68e08df69e798a708ef8c84f",
+      "id": "xRQbzVMa",
+      "name": "Lego Batman 2 Dc Super Heroes ",
+      "image": "Lego Batman 2 Dc Super Heroes.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        7,
+        44,
+        45
+      ],
+      "size": "3.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1KYwOLeuyuSIa-t7f0Ta41A",
+          "_id": "68e08df69e798a708ef8c850"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.638Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "Lego Batman 2 Dc Super Heroes.jpeg"
+    },
+    {
       "_id": "68e08df69e798a708ef8c835",
       "id": "Sk120LP7",
       "name": "High Hell",
@@ -16036,34 +16065,6 @@
       "updatedAt": "2026-03-28T18:29:37.705Z",
       "oldImage": "High Hell.jpeg",
       "isUpdate": true
-    },
-    {
-      "_id": "68e08df69e798a708ef8c833",
-      "id": "cqQDnJmN",
-      "name": "Hero Siege",
-      "image": "Hero Siege.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        16,
-        27,
-        41
-      ],
-      "size": "2.4 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Pd-mt6eYT9DyEmMMHlZeWw",
-          "_id": "68e08df69e798a708ef8c834"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "Hero Siege.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c85d",
@@ -16657,24 +16658,23 @@
       "oldImage": "Little Nightmares 2.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c84f",
-      "id": "xRQbzVMa",
-      "name": "Lego Batman 2 Dc Super Heroes ",
-      "image": "Lego Batman 2 Dc Super Heroes.webp",
+      "_id": "68e08df69e798a708ef8c833",
+      "id": "cqQDnJmN",
+      "name": "Hero Siege",
+      "image": "Hero Siege.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        7,
-        44,
-        45
+        16,
+        27,
+        41
       ],
-      "size": "3.2 Gb",
+      "size": "2.4 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1KYwOLeuyuSIa-t7f0Ta41A",
-          "_id": "68e08df69e798a708ef8c850"
+          "link": "https://1024terabox.com/s/1Pd-mt6eYT9DyEmMMHlZeWw",
+          "_id": "68e08df69e798a708ef8c834"
         }
       ],
       "emulatorId": 2,
@@ -16683,7 +16683,7 @@
       "createdAt": "2025-10-04T03:01:10.638Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "Lego Batman 2 Dc Super Heroes.jpeg"
+      "oldImage": "Hero Siege.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c829",
@@ -31255,6 +31255,40 @@
       "captures": [],
       "createdAt": "2026-05-26T14:07:46.188Z",
       "updatedAt": "2026-05-26T14:07:46.188Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a15a9a7ac4186cff420e24b",
+      "id": "-9vROX8t",
+      "name": "NAZUMA ELEVEN Victory Road",
+      "image": "1779804581674-a6e0af4b.jpg",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        22,
+        6,
+        4,
+        93,
+        28
+      ],
+      "size": "28 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1oam_a7Z5ri5P6Ss0OSFipA",
+          "_id": "6a15a9a7ac4186cff420e24c"
+        },
+        {
+          "type": "mediafire",
+          "link": "https://cuty.io/HXDpE",
+          "_id": "6a15a9a7ac4186cff420e24d"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:09:43.166Z",
+      "updatedAt": "2026-05-26T14:09:43.166Z",
       "__v": 0
     },
     {
