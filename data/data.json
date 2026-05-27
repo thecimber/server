@@ -31631,9 +31631,10 @@
       "format": 8,
       "language": "Multi-Idioma",
       "genre": [
+        22,
         50,
         56,
-        22
+        178
       ],
       "size": "9 Gb",
       "downloadMethods": [
@@ -31647,7 +31648,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-27T01:47:11.584Z",
-      "updatedAt": "2026-05-27T01:47:11.584Z",
+      "updatedAt": "2026-05-27T01:47:38.285Z",
       "__v": 0
     },
     {
@@ -33294,6 +33295,14 @@
       "name": "Shooter",
       "createdAt": "2026-05-27T01:44:59.116Z",
       "updatedAt": "2026-05-27T01:44:59.116Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a164d26ac4186cff421ff1b",
+      "id": 178,
+      "name": "RPG táctico",
+      "createdAt": "2026-05-27T01:47:18.180Z",
+      "updatedAt": "2026-05-27T01:47:18.180Z",
       "__v": 0
     }
   ],
