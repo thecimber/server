@@ -31533,7 +31533,10 @@
       "language": "Multi-Idioma",
       "genre": [
         3,
-        99
+        99,
+        174,
+        175,
+        176
       ],
       "size": "1.5 Gb",
       "downloadMethods": [
@@ -31547,7 +31550,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-27T01:41:32.625Z",
-      "updatedAt": "2026-05-27T01:41:32.625Z",
+      "updatedAt": "2026-05-27T01:42:26.769Z",
       "__v": 0
     },
     {
@@ -33162,6 +33165,30 @@
       "name": "Simulación de vida",
       "createdAt": "2026-05-26T14:19:16.935Z",
       "updatedAt": "2026-05-26T14:19:16.935Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a164bdeac4186cff421acf1",
+      "id": 174,
+      "name": "Puzzle",
+      "createdAt": "2026-05-27T01:41:50.449Z",
+      "updatedAt": "2026-05-27T01:41:50.449Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a164be8ac4186cff421acf6",
+      "id": 175,
+      "name": "Indie",
+      "createdAt": "2026-05-27T01:42:00.187Z",
+      "updatedAt": "2026-05-27T01:42:00.187Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a164bf0ac4186cff421acfb",
+      "id": 176,
+      "name": "Humor oscuro",
+      "createdAt": "2026-05-27T01:42:08.514Z",
+      "updatedAt": "2026-05-27T01:42:08.514Z",
       "__v": 0
     }
   ],
