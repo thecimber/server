@@ -24394,34 +24394,6 @@
       "oldImage": "PDYGg51sb9.jpg"
     },
     {
-      "_id": "68e08df89e798a708ef8ca84",
-      "id": "zZp_A7gq",
-      "name": "Hitman Contracts",
-      "image": "1WPPkqVdpB.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8,
-        30
-      ],
-      "size": "900 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1mNNkaqVDNg2ZhSypwkDweg",
-          "_id": "68e08df89e798a708ef8ca85"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-28T18:21:48.779Z",
-      "oldImage": "1WPPkqVdpB.jpg",
-      "isUpdate": true
-    },
-    {
       "_id": "68e08df89e798a708ef8ca8c",
       "id": "co_-vGVd",
       "name": "Hitman Codename 47 ",
@@ -24478,39 +24450,10 @@
       "oldImage": "kulOXyZgfk.jpg"
     },
     {
-      "_id": "68e08df89e798a708ef8ca82",
-      "id": "1TZgK5O4",
-      "name": "Hitman Blood Money ",
-      "image": "-ZBnAHt_tj.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        8,
-        30
-      ],
-      "size": "4,0 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Ce3toivprDQBUPKceNt0tg",
-          "_id": "68e08df89e798a708ef8ca83"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "-ZBnAHt_tj.jpg"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca90",
-      "id": "L3BHagb6",
-      "name": "Hitman 2 ",
-      "image": "FzMV69PJNo.webp",
+      "_id": "68e08df89e798a708ef8ca8e",
+      "id": "Exy190Oj",
+      "name": "Hitman Absolution ",
+      "image": "dPVJkMICsh.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
@@ -24518,49 +24461,21 @@
         8,
         30
       ],
-      "size": "74,1 Gb",
+      "size": "15,9 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1Qr-Hwu5rc6mhGuzJtBDijA",
-          "_id": "68e08df89e798a708ef8ca91"
+          "link": "https://1024terabox.com/s/1Kjk54P-IUJs_a-4Q1vb4dA",
+          "_id": "68e08df89e798a708ef8ca8f"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "FzMV69PJNo.jpg"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca96",
-      "id": "VsvfU9db",
-      "name": "Darksiders Warmastered Edition ",
-      "image": "TxBlBdVIVm.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        27,
-        9
-      ],
-      "size": "23,5 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1nyY3N1UR2zOZBW6ltrRgpg",
-          "_id": "68e08df89e798a708ef8ca97"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "TxBlBdVIVm.jpg"
+      "updatedAt": "2026-03-28T18:22:27.742Z",
+      "oldImage": "dPVJkMICsh.jpg",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca9a",
@@ -24591,6 +24506,119 @@
       "oldImage": "OQ-EyUm_nH.jpg"
     },
     {
+      "_id": "68e08df89e798a708ef8ca96",
+      "id": "VsvfU9db",
+      "name": "Darksiders Warmastered Edition ",
+      "image": "TxBlBdVIVm.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        27,
+        9
+      ],
+      "size": "23,5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1nyY3N1UR2zOZBW6ltrRgpg",
+          "_id": "68e08df89e798a708ef8ca97"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "TxBlBdVIVm.jpg"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca90",
+      "id": "L3BHagb6",
+      "name": "Hitman 2 ",
+      "image": "FzMV69PJNo.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        8,
+        30
+      ],
+      "size": "74,1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Qr-Hwu5rc6mhGuzJtBDijA",
+          "_id": "68e08df89e798a708ef8ca91"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "FzMV69PJNo.jpg"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca82",
+      "id": "1TZgK5O4",
+      "name": "Hitman Blood Money ",
+      "image": "-ZBnAHt_tj.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        8,
+        30
+      ],
+      "size": "4,0 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Ce3toivprDQBUPKceNt0tg",
+          "_id": "68e08df89e798a708ef8ca83"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "-ZBnAHt_tj.jpg"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca84",
+      "id": "zZp_A7gq",
+      "name": "Hitman Contracts",
+      "image": "1WPPkqVdpB.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        8,
+        30
+      ],
+      "size": "900 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1mNNkaqVDNg2ZhSypwkDweg",
+          "_id": "68e08df89e798a708ef8ca85"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-03-28T18:21:48.779Z",
+      "oldImage": "1WPPkqVdpB.jpg",
+      "isUpdate": true
+    },
+    {
       "_id": "68e08df89e798a708ef8ca92",
       "id": "X3pMNZUq",
       "name": "Aliens vs Predator ",
@@ -24619,32 +24647,32 @@
       "oldImage": "56S1e9b4V3.jpg"
     },
     {
-      "_id": "68e08df89e798a708ef8ca8e",
-      "id": "Exy190Oj",
-      "name": "Hitman Absolution ",
-      "image": "dPVJkMICsh.webp",
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8caa2",
+      "id": "HfgSrewpd",
+      "name": "Hollow Knight SILKSONG",
+      "image": "hol34221423.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        8,
-        30
+        1,
+        2,
+        9
       ],
-      "size": "15,9 Gb",
+      "size": "1.9 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Kjk54P-IUJs_a-4Q1vb4dA",
-          "_id": "68e08df89e798a708ef8ca8f"
+          "type": "Terabox",
+          "link": "https://terabox.com/s/1EZOSJFrJC7jM0cq_9Mm-9Q",
+          "_id": "68e08df89e798a708ef8caa3"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-03-28T18:22:27.742Z",
-      "oldImage": "dPVJkMICsh.jpg",
-      "isUpdate": true
+      "createdAt": "2025-10-08T03:01:12.243Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "hol34221423.png"
     },
     {
       "isUpdate": false,
@@ -24673,34 +24701,6 @@
       "createdAt": "2025-10-08T03:01:12.243Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "1759155363188-3c71e339.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8caa2",
-      "id": "HfgSrewpd",
-      "name": "Hollow Knight SILKSONG",
-      "image": "hol34221423.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        2,
-        9
-      ],
-      "size": "1.9 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/1EZOSJFrJC7jM0cq_9Mm-9Q",
-          "_id": "68e08df89e798a708ef8caa3"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-08T03:01:12.243Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "hol34221423.png"
     },
     {
       "_id": "68e08df89e798a708ef8caa4",
@@ -31586,6 +31586,41 @@
       "captures": [],
       "createdAt": "2026-05-27T01:43:55.580Z",
       "updatedAt": "2026-05-27T01:43:55.580Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a164c92ac4186cff421ccdf",
+      "id": "VfZAjWrG",
+      "name": "Space Adventure Cobra The Awakening",
+      "image": "1779846289592-d34e2dfc.jpg",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        22,
+        50,
+        169,
+        1
+      ],
+      "size": "5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1ijT9L7XYlQf8daIhyRcWZg",
+          "_id": "6a164c92ac4186cff421cce0"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/XR5D",
+          "_id": "6a164c92ac4186cff421cce1"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-27T01:44:50.815Z",
+      "updatedAt": "2026-05-27T01:44:50.815Z",
       "__v": 0
     },
     {
