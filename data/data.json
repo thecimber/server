@@ -880,7 +880,7 @@
       "isUpdate": false,
       "_id": "68e08df39e798a708ef8c401",
       "id": "tZDOovHA",
-      "name": "Grand Theft Auto 4 [GTA 4, GTA IV]",
+      "name": "Grand Theft Auto 4 [ GTA 4 , GTA IV ]",
       "image": "Grand Theft Auto 4.webp",
       "format": 4,
       "language": "Multi-Idioma",
@@ -893,7 +893,7 @@
       "size": "9.47 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1slLB-gmHqoUKoqBDDVdCmQ",
           "_id": "68e08df39e798a708ef8c402"
         }
@@ -902,8 +902,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:07.486Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
-      "oldImage": "Grand Theft Auto 4.jpeg"
+      "updatedAt": "2026-05-27T17:51:35.859Z",
+      "oldImage": "Grand Theft Auto 4.jpeg",
+      "gameplayLink": ""
     },
     {
       "isUpdate": false,
