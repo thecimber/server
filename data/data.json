@@ -1210,7 +1210,7 @@
       "isUpdate": false,
       "_id": "68e08df39e798a708ef8c403",
       "id": "X1F_-Vrn",
-      "name": "Grand Theft Auto 5 [GTA 5, GTA V]",
+      "name": "Grand Theft Auto 5 [ GTA 5 , GTA V ]",
       "image": "GTA 5 [Grand Theft Auto 5].webp",
       "format": 4,
       "language": "Multi-Idioma",
@@ -1223,7 +1223,7 @@
       "size": "17.3 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
+          "type": "terabox",
           "link": "https://1024terabox.com/s/1_HlXDBq1o2TjcOgA0ixScA",
           "_id": "68e08df39e798a708ef8c404"
         }
@@ -1232,8 +1232,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:07.486Z",
-      "updatedAt": "2026-03-06T03:44:02.431Z",
-      "oldImage": "GTA 5 [Grand Theft Auto 5].jpeg"
+      "updatedAt": "2026-05-27T17:51:51.892Z",
+      "oldImage": "GTA 5 [Grand Theft Auto 5].jpeg",
+      "gameplayLink": ""
     },
     {
       "isUpdate": false,
