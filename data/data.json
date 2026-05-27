@@ -26675,7 +26675,7 @@
     {
       "_id": "69ac504bdc8e591e5cb5ceca",
       "id": "gt1Wqe_o",
-      "name": "Grand Theft Auto 3",
+      "name": "Grand Theft Auto 3 [ GTA 3 ]",
       "image": "1772900427247-41dacb56",
       "format": 11,
       "language": "Multi-Idioma",
@@ -26696,8 +26696,9 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-03-07T16:20:27.885Z",
-      "updatedAt": "2026-03-07T16:20:27.885Z",
-      "__v": 0
+      "updatedAt": "2026-05-27T17:54:56.407Z",
+      "__v": 0,
+      "gameplayLink": ""
     },
     {
       "_id": "69ac508adc8e591e5cb5da2f",
