@@ -26703,7 +26703,7 @@
     {
       "_id": "69ac508adc8e591e5cb5da2f",
       "id": "edbarXac",
-      "name": "Grand Theft Auto Vice City",
+      "name": "Grand Theft Auto Vice City [ GTA Vice City ]",
       "image": "1772900489411-43940553",
       "format": 11,
       "language": "Multi-Idioma",
@@ -26724,8 +26724,9 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-03-07T16:21:30.085Z",
-      "updatedAt": "2026-03-07T16:21:30.085Z",
-      "__v": 0
+      "updatedAt": "2026-05-27T17:55:11.153Z",
+      "__v": 0,
+      "gameplayLink": ""
     },
     {
       "_id": "69ac50dcdc8e591e5cb5e965",
