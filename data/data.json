@@ -31713,8 +31713,9 @@
       "format": 8,
       "language": "Multi-Idioma",
       "genre": [
-        93,
-        3
+        3,
+        179,
+        180
       ],
       "size": "4.5 Gb",
       "downloadMethods": [
@@ -31733,7 +31734,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-28T18:24:32.311Z",
-      "updatedAt": "2026-05-28T18:24:32.311Z",
+      "updatedAt": "2026-05-28T18:26:23.030Z",
       "__v": 0
     },
     {
@@ -33388,6 +33389,22 @@
       "name": "RPG táctico",
       "createdAt": "2026-05-27T01:47:18.180Z",
       "updatedAt": "2026-05-27T01:47:18.180Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1888a186205522b19318a4",
+      "id": 179,
+      "name": "RPG de acción ",
+      "createdAt": "2026-05-28T18:25:37.448Z",
+      "updatedAt": "2026-05-28T18:25:37.448Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1888ae86205522b19318a9",
+      "id": 180,
+      "name": "Recolección de criaturas",
+      "createdAt": "2026-05-28T18:25:50.440Z",
+      "updatedAt": "2026-05-28T18:25:50.440Z",
       "__v": 0
     }
   ],
