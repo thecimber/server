@@ -15962,35 +15962,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c853",
-      "id": "FaiJCX-7",
-      "name": "Little Kitty Big City",
-      "image": "Little Kitty Big City.webp",
-      "format": 0,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        9,
-        1,
-        70
-      ],
-      "size": "501.3 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1S8mGNT_DauD0W8o0x4zNHw",
-          "_id": "68e08df69e798a708ef8c854"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-05-12T14:46:07.161Z",
-      "oldImage": "Little Kitty Big City.jpeg"
-    },
-    {
       "_id": "68e08df69e798a708ef8c847",
       "id": "NTntFSmz",
       "name": "Karma Zoo",
@@ -16018,6 +15989,35 @@
       "updatedAt": "2026-03-28T18:28:07.718Z",
       "oldImage": "Karma Zoo.jpeg",
       "isUpdate": true
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c853",
+      "id": "FaiJCX-7",
+      "name": "Little Kitty Big City",
+      "image": "Little Kitty Big City.webp",
+      "format": 0,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        9,
+        1,
+        70
+      ],
+      "size": "501.3 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1S8mGNT_DauD0W8o0x4zNHw",
+          "_id": "68e08df69e798a708ef8c854"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.638Z",
+      "updatedAt": "2026-05-12T14:46:07.161Z",
+      "oldImage": "Little Kitty Big City.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c85d",
@@ -16048,33 +16048,32 @@
       "oldImage": "Manhunt 2.jpeg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c831",
-      "id": "h8fcFB8E",
-      "name": "Help Wanted ",
-      "image": "Help Wanted .webp",
+      "_id": "68e08df69e798a708ef8c839",
+      "id": "CYQWy8fY",
+      "name": "How To Survive",
+      "image": "_R3c1DGi9-.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        31,
-        21,
-        50
+        2,
+        14,
+        21
       ],
-      "size": "10.7 Gb",
+      "size": "3.8 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1rAPFBRQRQKBQ5oBfZD5XRQ",
-          "_id": "68e08df69e798a708ef8c832"
+          "link": "https://1024terabox.com/s/16l4f5B_O1wZsf5wK7bWGug",
+          "_id": "68e08df69e798a708ef8c83a"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-05-12T15:02:10.346Z",
-      "oldImage": "Help Wanted .jpeg"
+      "updatedAt": "2026-03-28T18:20:04.218Z",
+      "oldImage": "_R3c1DGi9-.jpeg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -16580,32 +16579,33 @@
       "oldImage": "Gunbrella.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c839",
-      "id": "CYQWy8fY",
-      "name": "How To Survive",
-      "image": "_R3c1DGi9-.webp",
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c831",
+      "id": "h8fcFB8E",
+      "name": "Help Wanted ",
+      "image": "Help Wanted .webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        14,
-        21
+        3,
+        31,
+        21,
+        50
       ],
-      "size": "3.8 Gb",
+      "size": "10.7 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/16l4f5B_O1wZsf5wK7bWGug",
-          "_id": "68e08df69e798a708ef8c83a"
+          "link": "https://1024terabox.com/s/1rAPFBRQRQKBQ5oBfZD5XRQ",
+          "_id": "68e08df69e798a708ef8c832"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-03-28T18:20:04.218Z",
-      "oldImage": "_R3c1DGi9-.jpeg",
-      "isUpdate": true
+      "updatedAt": "2026-05-12T15:02:10.346Z",
+      "oldImage": "Help Wanted .jpeg"
     },
     {
       "isUpdate": false,
@@ -31702,6 +31702,38 @@
       "captures": [],
       "createdAt": "2026-05-27T01:49:17.148Z",
       "updatedAt": "2026-05-27T01:49:17.148Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a18886086205522b1930ade",
+      "id": "qN3z9Hmi",
+      "name": "LumenTale Memories Of trey ",
+      "image": "1779992670736-0ee25de2.jpg",
+      "gameplayLink": "",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        93,
+        3
+      ],
+      "size": "4.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1LGx2oU3Y_15l63tmVp9urQ",
+          "_id": "6a18886086205522b1930adf"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/3tzCwk",
+          "_id": "6a18886086205522b1930ae0"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-28T18:24:32.311Z",
+      "updatedAt": "2026-05-28T18:24:32.311Z",
       "__v": 0
     },
     {
