@@ -15991,6 +15991,34 @@
       "isUpdate": true
     },
     {
+      "_id": "68e08df69e798a708ef8c83d",
+      "id": "lpt2sQvJ",
+      "name": "Huntdown",
+      "image": "Huntdown.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        32,
+        43
+      ],
+      "size": "421 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1EviW3d8mLy7SQ2vGgs3ZAA",
+          "_id": "68e08df69e798a708ef8c83e"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.638Z",
+      "updatedAt": "2026-03-28T18:30:07.816Z",
+      "oldImage": "Huntdown.jpeg",
+      "isUpdate": true
+    },
+    {
       "isUpdate": false,
       "_id": "68e08df69e798a708ef8c853",
       "id": "FaiJCX-7",
@@ -16018,34 +16046,6 @@
       "createdAt": "2025-10-04T03:01:10.638Z",
       "updatedAt": "2026-05-12T14:46:07.161Z",
       "oldImage": "Little Kitty Big City.jpeg"
-    },
-    {
-      "_id": "68e08df69e798a708ef8c827",
-      "id": "_hpWUd-c",
-      "name": "Gunbrella",
-      "image": "Gunbrella.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        7,
-        32
-      ],
-      "size": "320 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1kk-K2mHTcVrATXqumTizRw",
-          "_id": "68e08df69e798a708ef8c828"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "Gunbrella.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c85d",
@@ -16215,32 +16215,32 @@
       "oldImage": "Haste Broken Worlds.jpeg"
     },
     {
-      "_id": "68e08df69e798a708ef8c83d",
-      "id": "lpt2sQvJ",
-      "name": "Huntdown",
-      "image": "Huntdown.webp",
+      "_id": "68e08df69e798a708ef8c827",
+      "id": "_hpWUd-c",
+      "name": "Gunbrella",
+      "image": "Gunbrella.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        32,
-        43
+        7,
+        32
       ],
-      "size": "421 Mb",
+      "size": "320 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1EviW3d8mLy7SQ2vGgs3ZAA",
-          "_id": "68e08df69e798a708ef8c83e"
+          "link": "https://1024terabox.com/s/1kk-K2mHTcVrATXqumTizRw",
+          "_id": "68e08df69e798a708ef8c828"
         }
       ],
       "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.638Z",
-      "updatedAt": "2026-03-28T18:30:07.816Z",
-      "oldImage": "Huntdown.jpeg",
-      "isUpdate": true
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "Gunbrella.jpeg"
     },
     {
       "isUpdate": false,
@@ -32017,6 +32017,34 @@
       "captures": [],
       "createdAt": "2026-05-30T02:01:20.496Z",
       "updatedAt": "2026-05-30T02:01:45.182Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1a453f86205522b193fce8",
+      "id": "CTJxkNbS",
+      "name": "Bakugan: Defenders of the Core",
+      "image": "1780106557790-f700cc52.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        65
+      ],
+      "size": "2.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1W68wQl-2iqu_RYsGln0jWg",
+          "_id": "6a1a453f86205522b193fce9"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T02:02:39.076Z",
+      "updatedAt": "2026-05-30T02:02:39.076Z",
       "__v": 0
     },
     {
