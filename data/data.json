@@ -32384,6 +32384,34 @@
       "__v": 0
     },
     {
+      "_id": "6a1a694a313e73c23a7d9bf6",
+      "id": "sLpSV7T6",
+      "name": "Battlefield: Bad Company 2",
+      "image": "1780115785078-009909d8.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        185
+      ],
+      "size": "4.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1K6J1M9jZoDEhInyyKEOuKw",
+          "_id": "6a1a694a313e73c23a7d9bf7"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T04:36:26.161Z",
+      "updatedAt": "2026-05-30T04:36:26.161Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
