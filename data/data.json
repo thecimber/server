@@ -31851,6 +31851,34 @@
       "__v": 0
     },
     {
+      "_id": "6a1a441386205522b1939764",
+      "id": "QPIAWNhG",
+      "name": "Assassin's Creed IV: Black Flag",
+      "image": "1780106258602-a86db55f.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        8
+      ],
+      "size": "9.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1tK4vx6HGbjZLrD5Uu1X1Zw",
+          "_id": "6a1a441386205522b1939765"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T01:57:39.765Z",
+      "updatedAt": "2026-05-30T01:57:39.765Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
