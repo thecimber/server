@@ -24099,30 +24099,33 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca7a",
-      "id": "BHMQxwyy",
-      "name": "Poppy PlayTime Chapter 4 ",
-      "image": "NY3m_pruuU.webp",
-      "format": 6,
+      "_id": "68e08df89e798a708ef8ca98",
+      "id": "Kz-eji9q",
+      "name": "Darksiders 2 Deathinitive edition ",
+      "image": "W2yybzypX6.webp",
+      "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        31
+        1,
+        7,
+        9,
+        27
       ],
-      "size": "1,9 Gb",
+      "size": "14,8 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/1Fx0hATvzSH8RMGHXkI4vUA",
-          "_id": "68e08df89e798a708ef8ca7b"
+          "type": "terabox",
+          "link": "https://terabox.com/s/12up7_-rKjBl18e2umjNDdQ",
+          "_id": "68e08df89e798a708ef8ca99"
         }
       ],
-      "emulatorId": 10,
+      "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "NY3m_pruuU.jpg"
+      "isUpdate": true,
+      "oldImage": "W2yybzypX6.jpg"
     },
     {
       "isUpdate": false,
@@ -24259,33 +24262,30 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df89e798a708ef8ca98",
-      "id": "Kz-eji9q",
-      "name": "Darksiders 2 Deathinitive edition ",
-      "image": "W2yybzypX6.webp",
-      "format": 3,
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca7a",
+      "id": "BHMQxwyy",
+      "name": "Poppy PlayTime Chapter 4 ",
+      "image": "NY3m_pruuU.webp",
+      "format": 6,
       "language": "Multi-Idioma",
       "genre": [
-        1,
-        7,
-        9,
-        27
+        31
       ],
-      "size": "14,8 Gb",
+      "size": "1,9 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://terabox.com/s/12up7_-rKjBl18e2umjNDdQ",
-          "_id": "68e08df89e798a708ef8ca99"
+          "type": "Terabox",
+          "link": "https://terabox.com/s/1Fx0hATvzSH8RMGHXkI4vUA",
+          "_id": "68e08df89e798a708ef8ca7b"
         }
       ],
-      "emulatorId": 2,
+      "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "W2yybzypX6.jpg"
+      "oldImage": "NY3m_pruuU.jpg"
     },
     {
       "_id": "68e08df89e798a708ef8ca94",
@@ -32325,6 +32325,34 @@
       "captures": [],
       "createdAt": "2026-05-30T04:34:24.568Z",
       "updatedAt": "2026-05-30T04:34:24.568Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1a68f8313e73c23a7d7ff1",
+      "id": "V5RGGdTU",
+      "name": "Batman: Arkham Origins",
+      "image": "1780115703542-0ecdeffe.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        12
+      ],
+      "size": "13.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1H6b4Y92sVs5mhsDS40j8Fg",
+          "_id": "6a1a68f8313e73c23a7d7ff2"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T04:35:04.771Z",
+      "updatedAt": "2026-05-30T04:35:04.771Z",
       "__v": 0
     },
     {
