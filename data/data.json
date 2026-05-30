@@ -15116,33 +15116,6 @@
       "oldImage": "KzbxI_0u1q.jpg"
     },
     {
-      "_id": "68e08df69e798a708ef8c7b3",
-      "id": "SPq1xfFl",
-      "name": "Call Of Duty Modern Warfare 3 bunble",
-      "image": "Call Of Duty Modern Warfare 3 bunble.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        11
-      ],
-      "size": "18 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1JGhDWOOWhEgdSoeqZv8erw",
-          "_id": "68e08df69e798a708ef8c7b4"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "Call Of Duty Modern Warfare 3 bunble.jpeg"
-    },
-    {
       "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7a7",
       "id": "taCIdDrF",
@@ -15170,6 +15143,33 @@
       "createdAt": "2025-10-04T03:01:10.635Z",
       "updatedAt": "2026-05-12T14:24:20.998Z",
       "oldImage": "Call Of Cthulhu .jpeg"
+    },
+    {
+      "_id": "68e08df69e798a708ef8c7b3",
+      "id": "SPq1xfFl",
+      "name": "Call Of Duty Modern Warfare 3 bunble",
+      "image": "Call Of Duty Modern Warfare 3 bunble.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        11
+      ],
+      "size": "18 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1JGhDWOOWhEgdSoeqZv8erw",
+          "_id": "68e08df69e798a708ef8c7b4"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.635Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "Call Of Duty Modern Warfare 3 bunble.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c7c1",
@@ -15453,34 +15453,6 @@
       "oldImage": "Fallout 76.jpeg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df69e798a708ef8c805",
-      "id": "h0_oMVjD",
-      "name": "Five nights at freddy's Help Wanted 2",
-      "image": "Five nights at freddy's Help Wanted 2.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        14,
-        20,
-        31
-      ],
-      "size": "10.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Nw2CItBHeyIMwOBeZQ2sDw",
-          "_id": "68e08df69e798a708ef8c806"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:10.637Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Five nights at freddy's Help Wanted 2.jpeg"
-    },
-    {
       "_id": "68e08df69e798a708ef8c7fb",
       "id": "Tmz_dDWs",
       "name": "Fallout 3",
@@ -15507,6 +15479,34 @@
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
       "oldImage": "Fallout 3.jpeg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df69e798a708ef8c805",
+      "id": "h0_oMVjD",
+      "name": "Five nights at freddy's Help Wanted 2",
+      "image": "Five nights at freddy's Help Wanted 2.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        14,
+        20,
+        31
+      ],
+      "size": "10.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1Nw2CItBHeyIMwOBeZQ2sDw",
+          "_id": "68e08df69e798a708ef8c806"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:10.637Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Five nights at freddy's Help Wanted 2.jpeg"
     },
     {
       "_id": "68e08df69e798a708ef8c823",
@@ -32353,6 +32353,34 @@
       "captures": [],
       "createdAt": "2026-05-30T04:35:04.771Z",
       "updatedAt": "2026-05-30T04:35:04.771Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1a691f313e73c23a7d8df0",
+      "id": "rCQBdMI0",
+      "name": "Battlefield 3",
+      "image": "1780115742448-c254063b.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        185
+      ],
+      "size": "11.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/19VFO4YNF9BdGdaFHL65Y5Q",
+          "_id": "6a1a691f313e73c23a7d8df1"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T04:35:43.576Z",
+      "updatedAt": "2026-05-30T04:35:43.576Z",
       "__v": 0
     },
     {
