@@ -32254,7 +32254,7 @@
       "genre": [
         2,
         35,
-        184
+        185
       ],
       "size": "5.9 Gb",
       "downloadMethods": [
@@ -32268,7 +32268,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-30T03:29:07.599Z",
-      "updatedAt": "2026-05-30T03:29:07.599Z",
+      "updatedAt": "2026-05-30T03:29:37.901Z",
       "__v": 0
     },
     {
@@ -33943,6 +33943,14 @@
       "name": "Guerra Naval",
       "createdAt": "2026-05-30T03:25:06.272Z",
       "updatedAt": "2026-05-30T03:25:06.272Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1a598b86205522b194c0a3",
+      "id": 185,
+      "name": "Guerra Moderna",
+      "createdAt": "2026-05-30T03:29:15.652Z",
+      "updatedAt": "2026-05-30T03:29:15.652Z",
       "__v": 0
     }
   ],
