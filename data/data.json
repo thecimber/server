@@ -32048,6 +32048,34 @@
       "__v": 0
     },
     {
+      "_id": "6a1a45c886205522b1940ad1",
+      "id": "xpyPTLMv",
+      "name": "Bakugan Battle Brawlers",
+      "image": "1780106695256-6b0875cc.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        65
+      ],
+      "size": "1.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/17FFIXwNUCE-AsQWI-4UBWQ",
+          "_id": "6a1a45c886205522b1940ad2"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T02:04:56.422Z",
+      "updatedAt": "2026-05-30T02:04:56.422Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
