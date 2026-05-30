@@ -32197,7 +32197,8 @@
       "language": "Multi-Idioma",
       "genre": [
         3,
-        50
+        50,
+        183
       ],
       "size": "1.8 Gb",
       "downloadMethods": [
@@ -32211,7 +32212,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-30T02:11:10.346Z",
-      "updatedAt": "2026-05-30T02:11:10.346Z",
+      "updatedAt": "2026-05-30T02:11:32.159Z",
       "__v": 0
     },
     {
@@ -33870,6 +33871,14 @@
       "name": "Off-Road",
       "createdAt": "2026-05-30T02:07:02.958Z",
       "updatedAt": "2026-05-30T02:07:02.958Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1a474586205522b19470e1",
+      "id": 183,
+      "name": " Point and Click",
+      "createdAt": "2026-05-30T02:11:17.934Z",
+      "updatedAt": "2026-05-30T02:11:17.934Z",
       "__v": 0
     }
   ],
