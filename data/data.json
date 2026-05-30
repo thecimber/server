@@ -32440,6 +32440,34 @@
       "__v": 0
     },
     {
+      "_id": "6a1a699e313e73c23a7db806",
+      "id": "GQ-44_wW",
+      "name": "Battlefield Hardline",
+      "image": "1780115869518-b0660c95.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        165
+      ],
+      "size": "11 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1lJNYiU7-QSlQ7oJ9d6m-Gw",
+          "_id": "6a1a699e313e73c23a7db807"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T04:37:50.607Z",
+      "updatedAt": "2026-05-30T04:37:50.607Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
