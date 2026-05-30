@@ -32224,8 +32224,9 @@
       "format": 14,
       "language": "Multi-Idioma",
       "genre": [
+        2,
         28,
-        2
+        184
       ],
       "size": "5 Gb",
       "downloadMethods": [
@@ -32239,7 +32240,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-05-30T03:24:56.454Z",
-      "updatedAt": "2026-05-30T03:24:56.454Z",
+      "updatedAt": "2026-05-30T03:25:16.407Z",
       "__v": 0
     },
     {
@@ -33906,6 +33907,14 @@
       "name": " Point and Click",
       "createdAt": "2026-05-30T02:11:17.934Z",
       "updatedAt": "2026-05-30T02:11:17.934Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1a589286205522b194a006",
+      "id": 184,
+      "name": "Guerra Naval",
+      "createdAt": "2026-05-30T03:25:06.272Z",
+      "updatedAt": "2026-05-30T03:25:06.272Z",
       "__v": 0
     }
   ],
