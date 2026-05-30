@@ -32244,6 +32244,34 @@
       "__v": 0
     },
     {
+      "_id": "6a1a598386205522b194b2ae",
+      "id": "ZGGdT60S",
+      "name": "Battlefield 2: Modern Combat",
+      "image": "1780111746448-a75b4293.jpg",
+      "gameplayLink": "",
+      "format": 9,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        184
+      ],
+      "size": "5.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/113igvNY9gRNKDl3paVGZ2w",
+          "_id": "6a1a598386205522b194b2af"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T03:29:07.599Z",
+      "updatedAt": "2026-05-30T03:29:07.599Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
