@@ -33107,6 +33107,34 @@
       "__v": 0
     },
     {
+      "_id": "6a1cae7f37ad3ea450e52ef3",
+      "id": "xemR1hrJ",
+      "name": "Bionic Commando",
+      "image": "1780264573978-3a8218a3.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        35
+      ],
+      "size": "6GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1cUlYTQoNgP1mfc9yhYDP2Q",
+          "_id": "6a1cae7f37ad3ea450e52ef4"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:56:15.158Z",
+      "updatedAt": "2026-05-31T21:56:15.158Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
