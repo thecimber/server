@@ -32997,6 +32997,34 @@
       "__v": 0
     },
     {
+      "_id": "6a1cadb437ad3ea450e508bf",
+      "id": "wbxkYAJz",
+      "name": "Ben 10 Ultimate Alien: Cosmic Destruction",
+      "image": "1780264371540-3990337c.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        1
+      ],
+      "size": "1,5GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1jY-oQsVQQvCcXqYzR_LGbg",
+          "_id": "6a1cadb437ad3ea450e508c0"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:52:52.732Z",
+      "updatedAt": "2026-05-31T21:52:52.732Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
