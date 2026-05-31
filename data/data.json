@@ -23315,22 +23315,21 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca62",
-      "id": "1LvWLfpn",
-      "name": "SONIC LOST WORLD (USA) (DLC) (v48)",
-      "image": "zGSxPN8DeE.webp",
+      "_id": "68e08df89e798a708ef8ca2e",
+      "id": "Abz193Fk",
+      "name": "Mario Vs Donkey Kong Tipping Stars",
+      "image": "j_sUYhFUwU.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        13,
-        7
+        3
       ],
-      "size": "6,6 Gb",
+      "size": "386 Mb",
       "downloadMethods": [
         {
-          "type": "Repuesto",
-          "link": "https://1024terabox.com/s/1Kw7bPZMyKFJwdTU_8DzWQw",
-          "_id": "68e08df89e798a708ef8ca63"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1x1uHSqzWF1t2QJjkzaVrew",
+          "_id": "68e08df89e798a708ef8ca2f"
         }
       ],
       "emulatorId": 5,
@@ -23338,7 +23337,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "zGSxPN8DeE.jpg"
+      "oldImage": "j_sUYhFUwU.jpg"
     },
     {
       "_id": "68e08df89e798a708ef8ca6e",
@@ -23369,21 +23368,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca2e",
-      "id": "Abz193Fk",
-      "name": "Mario Vs Donkey Kong Tipping Stars",
-      "image": "j_sUYhFUwU.webp",
+      "_id": "68e08df89e798a708ef8ca62",
+      "id": "1LvWLfpn",
+      "name": "SONIC LOST WORLD (USA) (DLC) (v48)",
+      "image": "zGSxPN8DeE.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        3
+        13,
+        7
       ],
-      "size": "386 Mb",
+      "size": "6,6 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1x1uHSqzWF1t2QJjkzaVrew",
-          "_id": "68e08df89e798a708ef8ca2f"
+          "type": "Repuesto",
+          "link": "https://1024terabox.com/s/1Kw7bPZMyKFJwdTU_8DzWQw",
+          "_id": "68e08df89e798a708ef8ca63"
         }
       ],
       "emulatorId": 5,
@@ -23391,7 +23391,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "j_sUYhFUwU.jpg"
+      "oldImage": "zGSxPN8DeE.jpg"
     },
     {
       "isUpdate": false,
@@ -33077,6 +33077,33 @@
       "captures": [],
       "createdAt": "2026-05-31T21:54:29.673Z",
       "updatedAt": "2026-05-31T21:54:29.673Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1cae4d37ad3ea450e52563",
+      "id": "l-35b2zV",
+      "name": "Bee Movie Game",
+      "image": "1780264524090-5419b04a.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        3
+      ],
+      "size": "3,2GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1_uAM91hIB3JcTLguqjJsUw",
+          "_id": "6a1cae4d37ad3ea450e52564"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:55:25.262Z",
+      "updatedAt": "2026-05-31T21:55:25.262Z",
       "__v": 0
     },
     {
