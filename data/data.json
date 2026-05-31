@@ -32496,6 +32496,34 @@
       "__v": 0
     },
     {
+      "_id": "6a1ba2e8cfaf11dd15a0db6d",
+      "id": "gears-of-war-3",
+      "name": "Gears of War 3",
+      "image": "1780196071335-7d0983cc.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        2,
+        50
+      ],
+      "size": "7,5GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1DXFDfqq0UVK2ISdWQU8x2w",
+          "_id": "6a1ba2e8cfaf11dd15a0db6e"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T02:54:32.461Z",
+      "updatedAt": "2026-05-31T02:54:32.461Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
