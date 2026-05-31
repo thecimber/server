@@ -33053,6 +33053,33 @@
       "__v": 0
     },
     {
+      "_id": "6a1cae1537ad3ea450e51bd5",
+      "id": "SvQCrjtq",
+      "name": "Ben 10 Alien Force: Vilgax Attacks",
+      "image": "1780264468449-0da188e6.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        3
+      ],
+      "size": "1,5GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1TALAMS_OzgfcMsSOaKk8Ow",
+          "_id": "6a1cae1537ad3ea450e51bd6"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:54:29.673Z",
+      "updatedAt": "2026-05-31T21:54:29.673Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
