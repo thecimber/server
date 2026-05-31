@@ -32636,6 +32636,33 @@
       "__v": 0
     },
     {
+      "_id": "6a1bc33bcfaf11dd15a11162",
+      "id": "halo-2",
+      "name": "Halo 2",
+      "image": "1780204346297-d6d31d9a.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        50
+      ],
+      "size": "3,4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1G3F1OPDXiQQvyX2z1CwnMQ",
+          "_id": "6a1bc33bcfaf11dd15a11163"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T05:12:27.695Z",
+      "updatedAt": "2026-05-31T05:12:27.695Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
