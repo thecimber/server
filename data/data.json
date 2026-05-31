@@ -32608,6 +32608,34 @@
       "__v": 0
     },
     {
+      "_id": "6a1bc318cfaf11dd15a10ca6",
+      "id": "halo-combat-evolved-anniversary",
+      "name": "Halo: Combat Evolved Anniversary",
+      "image": "1780204310874-6b94a7d0.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Desconocido",
+      "genre": [
+        35,
+        7,
+        50
+      ],
+      "size": "7,6GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1VwLvGIpwA3-36E4Cu0AF4w",
+          "_id": "6a1bc318cfaf11dd15a10ca7"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T05:11:52.084Z",
+      "updatedAt": "2026-05-31T05:11:52.084Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
