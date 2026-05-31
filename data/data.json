@@ -32580,6 +32580,34 @@
       "__v": 0
     },
     {
+      "_id": "6a1bc2f0cfaf11dd15a107eb",
+      "id": "halo-combat-evolved",
+      "name": "Halo: Combat Evolved",
+      "image": "1780204271599-01102257.jpg",
+      "gameplayLink": "",
+      "format": 19,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        7,
+        50
+      ],
+      "size": "5,6GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1G2hlOnBALMPaJMRkE00D1w",
+          "_id": "6a1bc2f0cfaf11dd15a107ec"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T05:11:12.640Z",
+      "updatedAt": "2026-05-31T05:11:12.640Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
