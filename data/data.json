@@ -32943,6 +32943,33 @@
       "__v": 0
     },
     {
+      "_id": "6a1cad5737ad3ea450e4f5b1",
+      "id": "O_ytIhX0",
+      "name": "Ben 10 Omniverse",
+      "image": "1780264278030-96c95762.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        43
+      ],
+      "size": "2,4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1CtwaajH2udXqlmyuJELfOw",
+          "_id": "6a1cad5737ad3ea450e4f5b2"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:51:19.727Z",
+      "updatedAt": "2026-05-31T21:51:19.727Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
