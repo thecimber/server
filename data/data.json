@@ -32663,6 +32663,33 @@
       "__v": 0
     },
     {
+      "_id": "6a1bc38acfaf11dd15a11623",
+      "id": "halo-3",
+      "name": "Halo 3",
+      "image": "1780204425110-dfbfbf85.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        50
+      ],
+      "size": "5,3GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1O32WrrPQIeyUd24aUA1NvA",
+          "_id": "6a1bc38acfaf11dd15a11624"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T05:13:46.252Z",
+      "updatedAt": "2026-05-31T05:13:46.252Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
