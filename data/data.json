@@ -33163,6 +33163,34 @@
       "__v": 0
     },
     {
+      "_id": "6a1caeed37ad3ea450e54219",
+      "id": "XEzQB2dG",
+      "name": "BioShock 2",
+      "image": "1780264683947-fde0f69d.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        93,
+        50
+      ],
+      "size": "6,4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1RSPXWfclyrsplFh9R-6tsg",
+          "_id": "6a1caeed37ad3ea450e5421a"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:58:05.234Z",
+      "updatedAt": "2026-05-31T21:58:05.234Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
