@@ -22031,52 +22031,24 @@
       "oldImage": "G7eHri7c_B.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c9dd",
-      "id": "Civims3f",
-      "name": "LIES OF P ",
-      "image": "YWRPUPWraS.webp",
+      "_id": "68e08df79e798a708ef8c9e3",
+      "id": "Qisn9j2M",
+      "name": "LEGO The Lord Of The Rings",
+      "image": "9B6ypJwO0K.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
         3,
-        0
-      ],
-      "size": "58.6 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1swTQmRdqacv4nZ5Gezk9TA",
-          "_id": "68e08df79e798a708ef8c9de"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "YWRPUPWraS.jpg"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9db",
-      "id": "T18ZVjv4",
-      "name": "LEGO Batman The Videogame",
-      "image": "XWuJ5jNuRu.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        45,
+        12,
         44
       ],
-      "size": "4.1 Gb",
+      "size": "5.8 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/14OGNebR1OTVKvTPxkdwLng",
-          "_id": "68e08df79e798a708ef8c9dc"
+          "link": "https://1024terabox.com/s/1C76Q_RbBVNILK123H0IXog",
+          "_id": "68e08df79e798a708ef8c9e4"
         }
       ],
       "emulatorId": 2,
@@ -22085,120 +22057,7 @@
       "createdAt": "2025-10-04T03:01:11.689Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "XWuJ5jNuRu.jpg"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9e1",
-      "id": "NYf5Q7Ld",
-      "name": "DOOM 2016",
-      "image": "OOvlCqvgKg.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        11,
-        31,
-        2
-      ],
-      "size": "65.8 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1_aS4bu9LXc4SeqK36PBcGA",
-          "_id": "68e08df79e798a708ef8c9e2"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "isUpdate": true,
-      "oldImage": "OOvlCqvgKg.jpg"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9eb",
-      "id": "-n42v4Im5n",
-      "name": "NINE SOLS",
-      "image": "8CBsgsu43sguyO.webp",
-      "format": 2,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        2,
-        32,
-        55
-      ],
-      "size": "2.3 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Mvnw-bgY6snKsUZXzZM4Aw",
-          "_id": "68e08df79e798a708ef8c9ec"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-05-20T23:34:39.381Z",
-      "oldImage": "8CBsgsu43sguyO.jpg",
-      "isUpdate": true
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c9ed",
-      "id": "-lsRXKUg",
-      "name": "Poppy PlayTime Chapter 4 ",
-      "image": "ydWe--Wcuu.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        14,
-        3
-      ],
-      "size": "7.1 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/16CzOEK0bGvXrmYvtowmkqQ",
-          "_id": "68e08df79e798a708ef8c9ee"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "ydWe--Wcuu.jpg"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9ef",
-      "id": "IPjBqOfF",
-      "name": "Poppy playtime chapter 4",
-      "image": "4hWDXXdtsB.webp",
-      "format": 9,
-      "language": "Español",
-      "genre": [
-        31,
-        21,
-        49,
-        3
-      ],
-      "size": "4GB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1UxNYDpAK36-t_mP5QDyC1Q",
-          "_id": "68e08df79e798a708ef8c9f0"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-05-23T20:12:40.131Z",
-      "oldImage": "4hWDXXdtsB.jpg",
-      "isUpdate": true
+      "oldImage": "9B6ypJwO0K.jpg"
     },
     {
       "_id": "68e08df79e798a708ef8c9e5",
@@ -22230,24 +22089,108 @@
       "oldImage": "eE3VU48QqY.jpg"
     },
     {
-      "_id": "68e08df79e798a708ef8c9e3",
-      "id": "Qisn9j2M",
-      "name": "LEGO The Lord Of The Rings",
-      "image": "9B6ypJwO0K.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
+      "_id": "68e08df79e798a708ef8c9ef",
+      "id": "IPjBqOfF",
+      "name": "Poppy playtime chapter 4",
+      "image": "4hWDXXdtsB.webp",
+      "format": 9,
+      "language": "Español",
       "genre": [
-        2,
-        3,
-        12,
-        44
+        31,
+        21,
+        49,
+        3
       ],
-      "size": "5.8 Gb",
+      "size": "4GB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1C76Q_RbBVNILK123H0IXog",
-          "_id": "68e08df79e798a708ef8c9e4"
+          "link": "https://1024terabox.com/s/1UxNYDpAK36-t_mP5QDyC1Q",
+          "_id": "68e08df79e798a708ef8c9f0"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-05-23T20:12:40.131Z",
+      "oldImage": "4hWDXXdtsB.jpg",
+      "isUpdate": true
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c9ed",
+      "id": "-lsRXKUg",
+      "name": "Poppy PlayTime Chapter 4 ",
+      "image": "ydWe--Wcuu.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        14,
+        3
+      ],
+      "size": "7.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/16CzOEK0bGvXrmYvtowmkqQ",
+          "_id": "68e08df79e798a708ef8c9ee"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "ydWe--Wcuu.jpg"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9eb",
+      "id": "-n42v4Im5n",
+      "name": "NINE SOLS",
+      "image": "8CBsgsu43sguyO.webp",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        2,
+        32,
+        55
+      ],
+      "size": "2.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Mvnw-bgY6snKsUZXzZM4Aw",
+          "_id": "68e08df79e798a708ef8c9ec"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-05-20T23:34:39.381Z",
+      "oldImage": "8CBsgsu43sguyO.jpg",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9e1",
+      "id": "NYf5Q7Ld",
+      "name": "DOOM 2016",
+      "image": "OOvlCqvgKg.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        11,
+        31,
+        2
+      ],
+      "size": "65.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1_aS4bu9LXc4SeqK36PBcGA",
+          "_id": "68e08df79e798a708ef8c9e2"
         }
       ],
       "emulatorId": 2,
@@ -22256,33 +22199,64 @@
       "createdAt": "2025-10-04T03:01:11.689Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "isUpdate": true,
-      "oldImage": "9B6ypJwO0K.jpg"
+      "oldImage": "OOvlCqvgKg.jpg"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca0e",
-      "id": "MKcPh2xV",
-      "name": "Killzone Liberation ",
-      "image": "CSoJgz1_n2.webp",
-      "format": 4,
-      "language": "Español",
+      "_id": "68e08df79e798a708ef8c9db",
+      "id": "T18ZVjv4",
+      "name": "LEGO Batman The Videogame",
+      "image": "XWuJ5jNuRu.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
       "genre": [
-        30
+        2,
+        3,
+        45,
+        44
       ],
-      "size": "510 Mb",
+      "size": "4.1 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1eQefxjeHChu3m2prikiNrw",
-          "_id": "68e08df89e798a708ef8ca0f"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/14OGNebR1OTVKvTPxkdwLng",
+          "_id": "68e08df79e798a708ef8c9dc"
         }
       ],
-      "emulatorId": 3,
+      "emulatorId": 2,
       "captures": [],
       "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
+      "createdAt": "2025-10-04T03:01:11.689Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "CSoJgz1_n2.jpg"
+      "isUpdate": true,
+      "oldImage": "XWuJ5jNuRu.jpg"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9dd",
+      "id": "Civims3f",
+      "name": "LIES OF P ",
+      "image": "YWRPUPWraS.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        0
+      ],
+      "size": "58.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1swTQmRdqacv4nZ5Gezk9TA",
+          "_id": "68e08df79e798a708ef8c9de"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "isUpdate": true,
+      "oldImage": "YWRPUPWraS.jpg"
     },
     {
       "isUpdate": false,
@@ -22314,24 +22288,21 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8c9f8",
-      "id": "JJgh7uMH",
-      "name": "Ben 10 Alien Force Vilgax Attacks ",
-      "image": "ao77IuaL_n.webp",
+      "_id": "68e08df89e798a708ef8ca0a",
+      "id": "1T_8dRHz",
+      "name": "Breath Of fire 3 ",
+      "image": "MtxvGhkkWj.webp",
       "format": 4,
       "language": "Español",
       "genre": [
-        1,
-        2,
-        3,
-        45
+        16
       ],
-      "size": "1.6 Gb",
+      "size": "403 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1p5739nA1bKAWCX0AiTc2Lg",
-          "_id": "68e08df89e798a708ef8c9f9"
+          "link": "https://1024terabox.com/s/1d-zVYuUiiMTge-j3PGhQcg",
+          "_id": "68e08df89e798a708ef8ca0b"
         }
       ],
       "emulatorId": 3,
@@ -22339,7 +22310,116 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "ao77IuaL_n.jpg"
+      "oldImage": "MtxvGhkkWj.jpg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8c9fe",
+      "id": "19P2Z17Y",
+      "name": "BlazBlue Calamity trigger",
+      "image": "HzoEOjHpqj.webp",
+      "format": 4,
+      "language": "Español",
+      "genre": [
+        32,
+        7
+      ],
+      "size": "936 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1k7jfnG4sPpoHr_fG2tfqfA",
+          "_id": "68e08df89e798a708ef8c9ff"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "HzoEOjHpqj.jpg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca02",
+      "id": "sztm_0Ol",
+      "name": "Bomberman",
+      "image": "AW3zI0Kuod.webp",
+      "format": 4,
+      "language": "Español",
+      "genre": [
+        2,
+        28
+      ],
+      "size": "156 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1hr74C2cDUbk106j81aIzSA",
+          "_id": "68e08df89e798a708ef8ca03"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "AW3zI0Kuod.jpg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8c9f2",
+      "id": "RO6o9VId",
+      "name": "Astro Boy The Video Game ",
+      "image": "qHSAHFlhBz.webp",
+      "format": 4,
+      "language": "Español",
+      "genre": [
+        1,
+        32,
+        45
+      ],
+      "size": "1.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1fssXxPmIpHxi6B7xyu6qDQ",
+          "_id": "68e08df89e798a708ef8c9f3"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "qHSAHFlhBz.jpg"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca00",
+      "id": "uG9aawfB",
+      "name": "BlazBlue Continuum shift",
+      "image": "Sma8jD7eI6.webp",
+      "format": 4,
+      "language": "Español",
+      "genre": [
+        32,
+        7
+      ],
+      "size": "1.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1CH5tNC3rBtDWkXELto8e0A",
+          "_id": "68e08df89e798a708ef8ca01"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2026-03-06T03:44:02.432Z",
+      "oldImage": "Sma8jD7eI6.jpg"
     },
     {
       "isUpdate": false,
@@ -22372,50 +22452,24 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca00",
-      "id": "uG9aawfB",
-      "name": "BlazBlue Continuum shift",
-      "image": "Sma8jD7eI6.webp",
-      "format": 4,
-      "language": "Español",
-      "genre": [
-        32,
-        7
-      ],
-      "size": "1.3 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1CH5tNC3rBtDWkXELto8e0A",
-          "_id": "68e08df89e798a708ef8ca01"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Sma8jD7eI6.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8c9f2",
-      "id": "RO6o9VId",
-      "name": "Astro Boy The Video Game ",
-      "image": "qHSAHFlhBz.webp",
+      "_id": "68e08df89e798a708ef8c9f8",
+      "id": "JJgh7uMH",
+      "name": "Ben 10 Alien Force Vilgax Attacks ",
+      "image": "ao77IuaL_n.webp",
       "format": 4,
       "language": "Español",
       "genre": [
         1,
-        32,
+        2,
+        3,
         45
       ],
-      "size": "1.2 Gb",
+      "size": "1.6 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1fssXxPmIpHxi6B7xyu6qDQ",
-          "_id": "68e08df89e798a708ef8c9f3"
+          "link": "https://1024terabox.com/s/1p5739nA1bKAWCX0AiTc2Lg",
+          "_id": "68e08df89e798a708ef8c9f9"
         }
       ],
       "emulatorId": 3,
@@ -22423,26 +22477,25 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "qHSAHFlhBz.jpg"
+      "oldImage": "ao77IuaL_n.jpg"
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca02",
-      "id": "sztm_0Ol",
-      "name": "Bomberman",
-      "image": "AW3zI0Kuod.webp",
+      "_id": "68e08df89e798a708ef8ca0e",
+      "id": "MKcPh2xV",
+      "name": "Killzone Liberation ",
+      "image": "CSoJgz1_n2.webp",
       "format": 4,
       "language": "Español",
       "genre": [
-        2,
-        28
+        30
       ],
-      "size": "156 Mb",
+      "size": "510 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1hr74C2cDUbk106j81aIzSA",
-          "_id": "68e08df89e798a708ef8ca03"
+          "link": "https://1024terabox.com/s/1eQefxjeHChu3m2prikiNrw",
+          "_id": "68e08df89e798a708ef8ca0f"
         }
       ],
       "emulatorId": 3,
@@ -22450,60 +22503,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "AW3zI0Kuod.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8c9fe",
-      "id": "19P2Z17Y",
-      "name": "BlazBlue Calamity trigger",
-      "image": "HzoEOjHpqj.webp",
-      "format": 4,
-      "language": "Español",
-      "genre": [
-        32,
-        7
-      ],
-      "size": "936 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1k7jfnG4sPpoHr_fG2tfqfA",
-          "_id": "68e08df89e798a708ef8c9ff"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "HzoEOjHpqj.jpg"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca0a",
-      "id": "1T_8dRHz",
-      "name": "Breath Of fire 3 ",
-      "image": "MtxvGhkkWj.webp",
-      "format": 4,
-      "language": "Español",
-      "genre": [
-        16
-      ],
-      "size": "403 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1d-zVYuUiiMTge-j3PGhQcg",
-          "_id": "68e08df89e798a708ef8ca0b"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "MtxvGhkkWj.jpg"
+      "oldImage": "CSoJgz1_n2.jpg"
     },
     {
       "isUpdate": false,
@@ -23340,33 +23340,6 @@
       "oldImage": "j_sUYhFUwU.jpg"
     },
     {
-      "_id": "68e08df89e798a708ef8ca6e",
-      "id": "yCN_jNhw",
-      "name": "Persona 5 Royal",
-      "image": "C-16R8eLBu.webp",
-      "format": 2,
-      "language": "Multi-Idioma",
-      "genre": [
-        16,
-        19
-      ],
-      "size": "15,2 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1O_r3LfEmPCXeajy8j2Du6Q",
-          "_id": "68e08df89e798a708ef8ca6f"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-05-20T23:39:04.478Z",
-      "oldImage": "C-16R8eLBu.jpg",
-      "isUpdate": true
-    },
-    {
       "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca62",
       "id": "1LvWLfpn",
@@ -23392,6 +23365,33 @@
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
       "oldImage": "zGSxPN8DeE.jpg"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca6e",
+      "id": "yCN_jNhw",
+      "name": "Persona 5 Royal",
+      "image": "C-16R8eLBu.webp",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        16,
+        19
+      ],
+      "size": "15,2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1O_r3LfEmPCXeajy8j2Du6Q",
+          "_id": "68e08df89e798a708ef8ca6f"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-05-20T23:39:04.478Z",
+      "oldImage": "C-16R8eLBu.jpg",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -33132,6 +33132,34 @@
       "captures": [],
       "createdAt": "2026-05-31T21:56:15.158Z",
       "updatedAt": "2026-05-31T21:56:15.158Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1caebd37ad3ea450e53885",
+      "id": "X0M3ZZHO",
+      "name": "BioShock",
+      "image": "1780264635880-a6cdc39f.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        93,
+        50
+      ],
+      "size": "4,7GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1MaZ4t8BnbdZEmj89sUviSw",
+          "_id": "6a1caebd37ad3ea450e53886"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:57:17.174Z",
+      "updatedAt": "2026-05-31T21:57:17.174Z",
       "__v": 0
     },
     {
