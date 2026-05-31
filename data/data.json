@@ -32746,6 +32746,34 @@
       "__v": 0
     },
     {
+      "_id": "6a1bc434cfaf11dd15a1246c",
+      "id": "halo-reach",
+      "name": "Halo: Reach",
+      "image": "1780204595353-aa4275d9.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        7,
+        50
+      ],
+      "size": "5,8GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1waBaJ2Rx7siDVTgwEHjZVQ",
+          "_id": "6a1bc434cfaf11dd15a1246d"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T05:16:36.514Z",
+      "updatedAt": "2026-05-31T05:16:36.514Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
