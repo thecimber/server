@@ -33360,6 +33360,34 @@
       "__v": 0
     },
     {
+      "_id": "6a27a90b37ad3ea450e5b74d",
+      "id": "ysICLR6r",
+      "name": "Blue Dragon",
+      "image": "1780984074623-1753e2b5.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        55,
+        93
+      ],
+      "size": "19,8GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1AgSPinXxr4tTJWIGdJLf4w",
+          "_id": "6a27a90b37ad3ea450e5b74e"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:47:55.923Z",
+      "updatedAt": "2026-06-09T05:47:55.923Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
