@@ -33304,6 +33304,34 @@
       "__v": 0
     },
     {
+      "_id": "6a27a73937ad3ea450e5a40b",
+      "id": "D-yr5QFr",
+      "name": "BlazBlue: Calamity Trigger",
+      "image": "1780983607894-722c296b.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        65,
+        22,
+        118
+      ],
+      "size": "3,2GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1u86j2Qt7-CNJZOuBt1sXNQ",
+          "_id": "6a27a73937ad3ea450e5a40c"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:40:09.175Z",
+      "updatedAt": "2026-06-09T05:40:09.175Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
