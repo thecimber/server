@@ -33192,6 +33192,34 @@
       "__v": 0
     },
     {
+      "_id": "6a27a51737ad3ea450e57d9f",
+      "id": "N8XmL155",
+      "name": "Left 4 Dead",
+      "image": "1780983061432-dac34f11.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        21,
+        31
+      ],
+      "size": "4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Rlg045AUvi9Pr6XJwWCe3Q",
+          "_id": "6a27a51737ad3ea450e57da0"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:31:03.625Z",
+      "updatedAt": "2026-06-09T05:31:03.625Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
