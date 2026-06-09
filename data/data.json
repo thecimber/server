@@ -23371,22 +23371,21 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca22",
-      "id": "eYDCboGB",
-      "name": "Legend Of Kay Anniversary ",
-      "image": "Yt9GZ4sXIa.webp",
+      "_id": "68e08df89e798a708ef8ca24",
+      "id": "keQdzVGu",
+      "name": "Luv Me Buddies Wonderland ",
+      "image": "k7yaZnmYxc.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        41
+        3
       ],
-      "size": "3.3 Gb",
+      "size": "55.37 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1_kvZ4ODd7Yj_Z_D5vNSlkA",
-          "_id": "68e08df89e798a708ef8ca23"
+          "link": "https://1024terabox.com/s/1NHenJxlZoRwJfuNd_Em7wA",
+          "_id": "68e08df89e798a708ef8ca25"
         }
       ],
       "emulatorId": 5,
@@ -23394,7 +23393,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "Yt9GZ4sXIa.jpg"
+      "oldImage": "k7yaZnmYxc.jpg"
     },
     {
       "isUpdate": false,
@@ -23704,21 +23703,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca24",
-      "id": "keQdzVGu",
-      "name": "Luv Me Buddies Wonderland ",
-      "image": "k7yaZnmYxc.webp",
+      "_id": "68e08df89e798a708ef8ca22",
+      "id": "eYDCboGB",
+      "name": "Legend Of Kay Anniversary ",
+      "image": "Yt9GZ4sXIa.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        3
+        7,
+        41
       ],
-      "size": "55.37 Mb",
+      "size": "3.3 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1NHenJxlZoRwJfuNd_Em7wA",
-          "_id": "68e08df89e798a708ef8ca25"
+          "link": "https://1024terabox.com/s/1_kvZ4ODd7Yj_Z_D5vNSlkA",
+          "_id": "68e08df89e798a708ef8ca23"
         }
       ],
       "emulatorId": 5,
@@ -23726,7 +23726,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-03-06T03:44:02.432Z",
-      "oldImage": "k7yaZnmYxc.jpg"
+      "oldImage": "Yt9GZ4sXIa.jpg"
     },
     {
       "isUpdate": false,
@@ -33385,6 +33385,34 @@
       "captures": [],
       "createdAt": "2026-06-09T05:47:55.923Z",
       "updatedAt": "2026-06-09T05:47:55.923Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a27a94637ad3ea450e5c0f1",
+      "id": "ae3VCW4m",
+      "name": "Blur",
+      "image": "1780984133054-63dfd3ed.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        86,
+        10
+      ],
+      "size": "5,2GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1P5VU6xaVZzm9WeKdAIVOpQ",
+          "_id": "6a27a94637ad3ea450e5c0f2"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:48:54.347Z",
+      "updatedAt": "2026-06-09T05:48:54.347Z",
       "__v": 0
     },
     {
