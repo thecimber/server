@@ -33248,6 +33248,34 @@
       "__v": 0
     },
     {
+      "_id": "6a27a6f437ad3ea450e590d1",
+      "id": "3hxXZ5tr",
+      "name": "BlazBlue: Continuum Shift",
+      "image": "1780983539350-455c07e5.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        22,
+        65,
+        118
+      ],
+      "size": "6,4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/127Wiw5xVfF1pPFww1rGx3w",
+          "_id": "6a27a6f437ad3ea450e590d2"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:39:00.642Z",
+      "updatedAt": "2026-06-09T05:39:00.642Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
