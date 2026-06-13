@@ -17449,6 +17449,34 @@
       "oldImage": "Reventure.webp"
     },
     {
+      "_id": "68e08df79e798a708ef8c86e",
+      "id": "tZsA_klg",
+      "name": "Minecraft Story Mode The Complete Adventure ",
+      "image": "Minecraft Story Mode The Complete Adventure.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        7,
+        23
+      ],
+      "size": "5.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/10ZbA2RQxPUI7y_hOaueKJw",
+          "_id": "68e08df79e798a708ef8c86f"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "Minecraft Story Mode The Complete Adventure.webp"
+    },
+    {
       "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8c2",
       "id": "hz29Jppe",
@@ -17476,34 +17504,6 @@
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "Risk of Rain 2.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c86c",
-      "id": "domp5rX_",
-      "name": "Minecraft Story Mode Season Two The Complete Adventure (2)",
-      "image": "Minecraft Story Mode Season Two The Complete Adventure (2).webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        7,
-        23
-      ],
-      "size": "6.6 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1ENYrNcmE_8TyBCYlRkW22A",
-          "_id": "68e08df79e798a708ef8c86d"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "Minecraft Story Mode Season Two The Complete Adventure (2).webp"
     },
     {
       "isUpdate": false,
@@ -17617,10 +17617,10 @@
       "oldImage": "Minecraft Dungeons.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c86e",
-      "id": "tZsA_klg",
-      "name": "Minecraft Story Mode The Complete Adventure ",
-      "image": "Minecraft Story Mode The Complete Adventure.webp",
+      "_id": "68e08df79e798a708ef8c86c",
+      "id": "domp5rX_",
+      "name": "Minecraft Story Mode Season Two The Complete Adventure (2)",
+      "image": "Minecraft Story Mode Season Two The Complete Adventure (2).webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
@@ -17628,12 +17628,12 @@
         7,
         23
       ],
-      "size": "5.8 Gb",
+      "size": "6.6 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/10ZbA2RQxPUI7y_hOaueKJw",
-          "_id": "68e08df79e798a708ef8c86f"
+          "link": "https://1024terabox.com/s/1ENYrNcmE_8TyBCYlRkW22A",
+          "_id": "68e08df79e798a708ef8c86d"
         }
       ],
       "emulatorId": 2,
@@ -17642,7 +17642,7 @@
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "Minecraft Story Mode The Complete Adventure.webp"
+      "oldImage": "Minecraft Story Mode Season Two The Complete Adventure (2).webp"
     },
     {
       "isUpdate": false,
@@ -33992,6 +33992,34 @@
       "captures": [],
       "createdAt": "2026-06-13T23:42:39.229Z",
       "updatedAt": "2026-06-13T23:42:39.229Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2deb4b14dabecb3ecfd6c3",
+      "id": "XsGrVgGu",
+      "name": "Blasphemous 2",
+      "image": "1781394249627-6a107338.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        46,
+        120
+      ],
+      "size": "4,4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1211kZ8hWHBmJJqRCUeK0Vw",
+          "_id": "6a2deb4b14dabecb3ecfd6c4"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-13T23:44:11.076Z",
+      "updatedAt": "2026-06-13T23:44:11.076Z",
       "__v": 0
     },
     {
