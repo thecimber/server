@@ -17478,6 +17478,34 @@
       "oldImage": "Risk of Rain 2.webp"
     },
     {
+      "_id": "68e08df79e798a708ef8c86c",
+      "id": "domp5rX_",
+      "name": "Minecraft Story Mode Season Two The Complete Adventure (2)",
+      "image": "Minecraft Story Mode Season Two The Complete Adventure (2).webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        7,
+        23
+      ],
+      "size": "6.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1ENYrNcmE_8TyBCYlRkW22A",
+          "_id": "68e08df79e798a708ef8c86d"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "Minecraft Story Mode Season Two The Complete Adventure (2).webp"
+    },
+    {
       "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8c4",
       "id": "N-aMpvSx",
@@ -17503,33 +17531,6 @@
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "txnwcfLKOQ.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c86a",
-      "id": "_7l3mXoP",
-      "name": "Minecraft Dungeons",
-      "image": "Minecraft Dungeons.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        16,
-        27
-      ],
-      "size": "2.3 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1PTWadggRF_g8-WwxHDu_NQ",
-          "_id": "68e08df79e798a708ef8c86b"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "Minecraft Dungeons.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c894",
@@ -17589,23 +17590,22 @@
       "oldImage": "Planet Crafter.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c86c",
-      "id": "domp5rX_",
-      "name": "Minecraft Story Mode Season Two The Complete Adventure (2)",
-      "image": "Minecraft Story Mode Season Two The Complete Adventure (2).webp",
+      "_id": "68e08df79e798a708ef8c86a",
+      "id": "_7l3mXoP",
+      "name": "Minecraft Dungeons",
+      "image": "Minecraft Dungeons.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        7,
-        23
+        16,
+        27
       ],
-      "size": "6.6 Gb",
+      "size": "2.3 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1ENYrNcmE_8TyBCYlRkW22A",
-          "_id": "68e08df79e798a708ef8c86d"
+          "link": "https://1024terabox.com/s/1PTWadggRF_g8-WwxHDu_NQ",
+          "_id": "68e08df79e798a708ef8c86b"
         }
       ],
       "emulatorId": 2,
@@ -17614,7 +17614,7 @@
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "Minecraft Story Mode Season Two The Complete Adventure (2).webp"
+      "oldImage": "Minecraft Dungeons.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c86e",
@@ -22792,22 +22792,22 @@
       "oldImage": "EKf2_PHZfA.webp"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca58",
-      "id": "6m6jXMap",
-      "name": "RISE OF THE GUARDIANS (USA)",
-      "image": "Prh84CISZj.webp",
+      "_id": "68e08df89e798a708ef8ca56",
+      "id": "fUodemuZ",
+      "name": "New SUPER MARIO BROS. U (USA) (DLC) (v64)",
+      "image": "1kvqSwbTn7.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        7
+        3,
+        1
       ],
-      "size": "2,3 gb",
+      "size": "1,2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1AcBynOOtFpij1P47l1T3xA",
-          "_id": "68e08df89e798a708ef8ca59"
+          "link": "https://1024terabox.com/s/16lMxVddjVQ1W18pKiChzUQ",
+          "_id": "68e08df89e798a708ef8ca57"
         }
       ],
       "emulatorId": 5,
@@ -22815,7 +22815,8 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Prh84CISZj.webp"
+      "isUpdate": true,
+      "oldImage": "1kvqSwbTn7.webp"
     },
     {
       "isUpdate": false,
@@ -23357,22 +23358,22 @@
       "oldImage": "w2E-3pN4Sp.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca56",
-      "id": "fUodemuZ",
-      "name": "New SUPER MARIO BROS. U (USA) (DLC) (v64)",
-      "image": "1kvqSwbTn7.webp",
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca58",
+      "id": "6m6jXMap",
+      "name": "RISE OF THE GUARDIANS (USA)",
+      "image": "Prh84CISZj.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        1
+        7
       ],
-      "size": "1,2 Gb",
+      "size": "2,3 gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/16lMxVddjVQ1W18pKiChzUQ",
-          "_id": "68e08df89e798a708ef8ca57"
+          "link": "https://1024terabox.com/s/1AcBynOOtFpij1P47l1T3xA",
+          "_id": "68e08df89e798a708ef8ca59"
         }
       ],
       "emulatorId": 5,
@@ -23380,8 +23381,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "1kvqSwbTn7.webp"
+      "oldImage": "Prh84CISZj.webp"
     },
     {
       "isUpdate": false,
@@ -33936,6 +33936,34 @@
       "captures": [],
       "createdAt": "2026-06-13T16:29:35.910Z",
       "updatedAt": "2026-06-13T16:39:39.110Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2deab814dabecb3ecfc351",
+      "id": "11aDC2HN",
+      "name": "Uncharted 4: A Thief's End",
+      "image": "1781394102780-8e4744d3.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        35
+      ],
+      "size": "70GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1jDK7zQac10ZPI8hmq40oJA",
+          "_id": "6a2deab814dabecb3ecfc352"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-13T23:41:44.739Z",
+      "updatedAt": "2026-06-13T23:41:44.739Z",
       "__v": 0
     },
     {
