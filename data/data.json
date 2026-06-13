@@ -33967,6 +33967,34 @@
       "__v": 0
     },
     {
+      "_id": "6a2deaef14dabecb3ecfcd09",
+      "id": "9QQo5YAq",
+      "name": "Days Gone",
+      "image": "1781394157980-dbe2e12d.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        21
+      ],
+      "size": "47,6GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1y2yVsWFArehu7Zp7wfJawQ",
+          "_id": "6a2deaef14dabecb3ecfcd0a"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-13T23:42:39.229Z",
+      "updatedAt": "2026-06-13T23:42:39.229Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
