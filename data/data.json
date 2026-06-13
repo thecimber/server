@@ -1235,27 +1235,29 @@
       "_id": "68e08df39e798a708ef8c3e1",
       "id": "142702",
       "name": "Dragon Ball: Raging Blast",
-      "image": "Raging-Blast-ps3.webp",
+      "image": "1781366417033-e3128f20.webp",
       "format": 1,
-      "language": "Español",
+      "language": "Multi-Idioma",
       "genre": [
-        16,
-        24
+        65,
+        22,
+        118
       ],
-      "size": "3,21",
+      "size": "5GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1DvIE3EpeutR3_thiCSHFzw",
-          "_id": "68e08df39e798a708ef8c3e2"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/11dZVIeRvEhTiBsdM77tRvA",
+          "_id": "6a2d7e9214dabecb3ecf5d7f"
         }
       ],
       "emulatorId": 1,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:07.486Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Raging-Blast-ps3.webp"
+      "updatedAt": "2026-06-13T16:00:18.702Z",
+      "oldImage": "Raging-Blast-ps3.webp",
+      "gameplayLink": ""
     },
     {
       "isUpdate": false,
