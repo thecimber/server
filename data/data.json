@@ -4491,32 +4491,33 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4c8",
       "id": "XJlZMJwt",
       "name": "Dragon ball z Shin Budokai",
-      "image": "Dragon ball z Shin Budokai.webp",
-      "format": 4,
+      "image": "1781493637931-97426e29.webp",
+      "format": 1,
       "language": "Multi-Idioma",
       "genre": [
-        10,
         24,
-        22
+        22,
+        118
       ],
-      "size": "500 Mb",
+      "size": "500MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/10fiu5Tl5zinwskkXU9GY0A",
-          "_id": "68e08df49e798a708ef8c4c9"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1hxatrqNOLJGLtYyD7qMQug",
+          "_id": "6a2f6f8714dabecb3ed050f9"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Dragon ball z Shin Budokai.webp"
+      "updatedAt": "2026-06-15T03:20:39.355Z",
+      "oldImage": "Dragon ball z Shin Budokai.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
