@@ -22463,7 +22463,6 @@
       "oldImage": "AW3zI0Kuod.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8c9fe",
       "id": "19P2Z17Y",
       "name": "BlazBlue Calamity trigger",
@@ -22486,9 +22485,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-15T03:00:40.849Z",
+      "updatedAt": "2026-06-15T03:00:40.899Z",
       "oldImage": "HzoEOjHpqj.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -22519,7 +22519,6 @@
       "oldImage": "xvEPE4-q_n.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca00",
       "id": "uG9aawfB",
       "name": "BlazBlue Continuum shift",
@@ -22542,8 +22541,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Sma8jD7eI6.webp"
+      "updatedAt": "2026-06-15T03:08:30.431Z",
+      "oldImage": "Sma8jD7eI6.webp",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
