@@ -4521,32 +4521,33 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4cc",
       "id": "5j9_JgO-",
       "name": "Dragon Ball Z Tenkaichi Tag team",
-      "image": "Dragon Ball Z Tenkaichi Tag team.webp",
-      "format": 4,
+      "image": "1781493912264-6c1189bc.webp",
+      "format": 1,
       "language": "Multi-Idioma",
       "genre": [
-        10,
         24,
-        22
+        22,
+        118
       ],
-      "size": "1.09 Gb",
+      "size": "1,09GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1jHb_vRSPFgilYsBCvm0hgA",
-          "_id": "68e08df49e798a708ef8c4cd"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1t4HXrLt0NB_39obTXTbiCw",
+          "_id": "6a2f709914dabecb3ed08695"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Dragon Ball Z Tenkaichi Tag team.webp"
+      "updatedAt": "2026-06-15T03:25:13.752Z",
+      "oldImage": "Dragon Ball Z Tenkaichi Tag team.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
