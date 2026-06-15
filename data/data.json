@@ -4466,28 +4466,29 @@
       "_id": "68e08df49e798a708ef8c4c6",
       "id": "Sf2teo6A",
       "name": "Crash Tag Team Racing",
-      "image": "Crash Tag Team Racing.webp",
+      "image": "1781493248690-9409a0ba.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
         13,
-        39,
-        10
+        86,
+        1
       ],
-      "size": "959 Mb",
+      "size": "959MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/18-pEtOwpJn5EqfwTrybpxA",
-          "_id": "68e08df49e798a708ef8c4c7"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1QddCGwT8sIIknZRyLXRhuQ",
+          "_id": "6a2f6e0214dabecb3ed029f8"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Crash Tag Team Racing.webp"
+      "updatedAt": "2026-06-15T03:14:10.135Z",
+      "oldImage": "Crash Tag Team Racing.webp",
+      "gameplayLink": ""
     },
     {
       "isUpdate": false,
