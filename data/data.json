@@ -34085,6 +34085,34 @@
       "__v": 0
     },
     {
+      "_id": "6a2f715a14dabecb3ed09536",
+      "id": "sMdR8iG9",
+      "name": "FIFA 06 (Europe)",
+      "image": "1781494105005-2950cc22.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        6,
+        19
+      ],
+      "size": "644MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1NDwTh38k_Bjq71B0hn_IYQ",
+          "_id": "6a2f715a14dabecb3ed09537"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-15T03:28:26.332Z",
+      "updatedAt": "2026-06-15T03:28:26.332Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
