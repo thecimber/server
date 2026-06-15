@@ -22467,27 +22467,28 @@
       "_id": "68e08df89e798a708ef8c9fe",
       "id": "19P2Z17Y",
       "name": "BlazBlue Calamity trigger",
-      "image": "HzoEOjHpqj.webp",
+      "image": "1781492439208-a4e3038b.webp",
       "format": 4,
-      "language": "Español",
+      "language": "Español-Ingles",
       "genre": [
         32,
         7
       ],
-      "size": "936 Mb",
+      "size": "936MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1k7jfnG4sPpoHr_fG2tfqfA",
-          "_id": "68e08df89e798a708ef8c9ff"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1oFNeVPZaGKArveqWtthmew",
+          "_id": "6a2f6ad814dabecb3ed00cb9"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "HzoEOjHpqj.webp"
+      "updatedAt": "2026-06-15T03:00:40.849Z",
+      "oldImage": "HzoEOjHpqj.webp",
+      "gameplayLink": ""
     },
     {
       "isUpdate": false,
