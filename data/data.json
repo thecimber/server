@@ -4462,7 +4462,6 @@
       "oldImage": "LEGO Batman - The Video Game.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4c6",
       "id": "Sf2teo6A",
       "name": "Crash Tag Team Racing",
@@ -4486,9 +4485,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-15T03:14:10.135Z",
+      "updatedAt": "2026-06-15T03:14:10.189Z",
       "oldImage": "Crash Tag Team Racing.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -34079,6 +34079,34 @@
       "captures": [],
       "createdAt": "2026-06-13T23:48:48.811Z",
       "updatedAt": "2026-06-13T23:48:48.811Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f6e0f14dabecb3ed03899",
+      "id": "yCGrK4oK",
+      "name": "Crash of the Titans (Europe)",
+      "image": "1781493261861-3dd083ca.webp",
+      "gameplayLink": "",
+      "format": 1,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        2,
+        3
+      ],
+      "size": "819MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1jj4oJ-1WgfRU0NyEyxljbQ",
+          "_id": "6a2f6e0f14dabecb3ed0389a"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-15T03:14:23.337Z",
+      "updatedAt": "2026-06-15T03:14:23.337Z",
       "__v": 0
     },
     {
