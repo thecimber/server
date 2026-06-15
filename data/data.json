@@ -4496,28 +4496,29 @@
       "_id": "68e08df49e798a708ef8c4ca",
       "id": "FK0hh7Hr",
       "name": "Dragon Ball z Shin Budokai 2",
-      "image": "Dragon Ball z Shin Budokai 2.webp",
-      "format": 4,
+      "image": "1781493898457-a23a7768.webp",
+      "format": 1,
       "language": "Multi-Idioma",
       "genre": [
-        10,
         24,
-        22
+        22,
+        118
       ],
-      "size": "540 Mb",
+      "size": "540MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/11eQh6yYKtEcFBosiBUsamQ",
-          "_id": "68e08df49e798a708ef8c4cb"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1PVYI4epNzHeTge13zmw8IA",
+          "_id": "6a2f708b14dabecb3ed077f3"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Dragon Ball z Shin Budokai 2.webp"
+      "updatedAt": "2026-06-15T03:24:59.855Z",
+      "oldImage": "Dragon Ball z Shin Budokai 2.webp",
+      "gameplayLink": ""
     },
     {
       "isUpdate": false,
