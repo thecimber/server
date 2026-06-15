@@ -4492,7 +4492,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4ca",
       "id": "FK0hh7Hr",
       "name": "Dragon Ball z Shin Budokai 2",
@@ -4516,9 +4515,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-15T03:24:59.855Z",
+      "updatedAt": "2026-06-15T03:24:59.908Z",
       "oldImage": "Dragon Ball z Shin Budokai 2.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
