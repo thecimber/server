@@ -4380,22 +4380,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4de",
-      "id": "rsfUDaGP",
-      "name": "FIFA World Cup Germany 2006",
-      "image": "FIFA World Cup Germany 2006.webp",
+      "_id": "68e08df49e798a708ef8c4e0",
+      "id": "HD_FXHQv",
+      "name": "God of War - Chains of Olympus",
+      "image": "God of War - Chains of Olympus.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        4,
-        6
+        2,
+        7,
+        27
       ],
-      "size": "700 Mb",
+      "size": "1.2 GB",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1oGgJRDe2rrMltRzsra8hAw",
-          "_id": "68e08df49e798a708ef8c4df"
+          "link": "https://1024terabox.com/s/1mUnmMQIobmUZQbicIP93sA",
+          "_id": "68e08df49e798a708ef8c4e1"
         }
       ],
       "emulatorId": 3,
@@ -4403,7 +4404,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "FIFA World Cup Germany 2006.webp"
+      "oldImage": "God of War - Chains of Olympus.webp"
     },
     {
       "isUpdate": false,
@@ -4460,35 +4461,6 @@
       "createdAt": "2025-10-04T03:01:08.450Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "LEGO Batman - The Video Game.webp"
-    },
-    {
-      "_id": "68e08df49e798a708ef8c4c6",
-      "id": "Sf2teo6A",
-      "name": "Crash Tag Team Racing",
-      "image": "1781493248690-9409a0ba.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        13,
-        86,
-        1
-      ],
-      "size": "959MB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1QddCGwT8sIIknZRyLXRhuQ",
-          "_id": "6a2f6e0214dabecb3ed029f8"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-15T03:14:10.189Z",
-      "oldImage": "Crash Tag Team Racing.webp",
-      "gameplayLink": "",
-      "isUpdate": true
     },
     {
       "_id": "68e08df49e798a708ef8c4c8",
@@ -4766,23 +4738,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4c4",
-      "id": "iqB6q8ko",
-      "name": "Crash of the Titans",
-      "image": "Crash of the Titans.webp",
+      "_id": "68e08df49e798a708ef8c4de",
+      "id": "rsfUDaGP",
+      "name": "FIFA World Cup Germany 2006",
+      "image": "FIFA World Cup Germany 2006.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        1,
-        7,
-        10
+        4,
+        6
       ],
-      "size": "819 Mb",
+      "size": "700 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1jj4oJ-1WgfRU0NyEyxljbQ",
-          "_id": "68e08df49e798a708ef8c4c5"
+          "link": "https://1024terabox.com/s/1oGgJRDe2rrMltRzsra8hAw",
+          "_id": "68e08df49e798a708ef8c4df"
         }
       ],
       "emulatorId": 3,
@@ -4790,35 +4761,36 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Crash of the Titans.webp"
+      "oldImage": "FIFA World Cup Germany 2006.webp"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4e0",
-      "id": "HD_FXHQv",
-      "name": "God of War - Chains of Olympus",
-      "image": "God of War - Chains of Olympus.webp",
+      "_id": "68e08df49e798a708ef8c4c6",
+      "id": "Sf2teo6A",
+      "name": "Crash Tag Team Racing",
+      "image": "1781493248690-9409a0ba.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        7,
-        27
+        13,
+        86,
+        1
       ],
-      "size": "1.2 GB",
+      "size": "959MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1mUnmMQIobmUZQbicIP93sA",
-          "_id": "68e08df49e798a708ef8c4e1"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1QddCGwT8sIIknZRyLXRhuQ",
+          "_id": "6a2f6e0214dabecb3ed029f8"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "God of War - Chains of Olympus.webp"
+      "updatedAt": "2026-06-15T03:14:10.189Z",
+      "oldImage": "Crash Tag Team Racing.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -5865,22 +5837,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c53b",
-      "id": "XHoeB2Gd",
-      "name": "Mario vs. Donkey Kong: Mini-Land Mayhem!",
-      "image": "Mario vs. Donkey-Kong:Mini-Land-Mayhem!.webp",
+      "_id": "68e08df49e798a708ef8c53d",
+      "id": "L8yFw6TO",
+      "name": "Metal Slug 7",
+      "image": "Metal-Slug-7.webp",
       "format": 7,
       "language": "Español",
       "genre": [
-        1,
-        32
+        2,
+        43
       ],
       "size": "40 Mb",
       "downloadMethods": [
         {
           "type": "Mediafire",
-          "link": "https://cuty.io/tq5fAE7tSir",
-          "_id": "68e08df49e798a708ef8c53c"
+          "link": "https://cuty.io/0WyQ7Pu9azq2",
+          "_id": "68e08df49e798a708ef8c53e"
         }
       ],
       "emulatorId": 4,
@@ -5888,7 +5860,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.886Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Mario vs. Donkey-Kong:Mini-Land-Mayhem!.webp"
+      "oldImage": "Metal-Slug-7.webp"
     },
     {
       "isUpdate": false,
@@ -5973,6 +5945,33 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c53b",
+      "id": "XHoeB2Gd",
+      "name": "Mario vs. Donkey Kong: Mini-Land Mayhem!",
+      "image": "Mario vs. Donkey-Kong:Mini-Land-Mayhem!.webp",
+      "format": 7,
+      "language": "Español",
+      "genre": [
+        1,
+        32
+      ],
+      "size": "40 Mb",
+      "downloadMethods": [
+        {
+          "type": "Mediafire",
+          "link": "https://cuty.io/tq5fAE7tSir",
+          "_id": "68e08df49e798a708ef8c53c"
+        }
+      ],
+      "emulatorId": 4,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.886Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Mario vs. Donkey-Kong:Mini-Land-Mayhem!.webp"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c537",
       "id": "MrBnBwVW",
       "name": "Mario & Luigi: Partners In Time",
@@ -5998,33 +5997,6 @@
       "createdAt": "2025-10-04T03:01:08.886Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "Mario-&-Luigi:Partners-In-Time.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c53d",
-      "id": "L8yFw6TO",
-      "name": "Metal Slug 7",
-      "image": "Metal-Slug-7.webp",
-      "format": 7,
-      "language": "Español",
-      "genre": [
-        2,
-        43
-      ],
-      "size": "40 Mb",
-      "downloadMethods": [
-        {
-          "type": "Mediafire",
-          "link": "https://cuty.io/0WyQ7Pu9azq2",
-          "_id": "68e08df49e798a708ef8c53e"
-        }
-      ],
-      "emulatorId": 4,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.886Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Metal-Slug-7.webp"
     },
     {
       "isUpdate": false,
@@ -17396,6 +17368,34 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c872",
+      "id": "PTlHpEU7",
+      "name": "Monaco 2",
+      "image": "Monaco 2.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        17,
+        43
+      ],
+      "size": "3.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1yQIInWg2MdxyNlQooQTHbg",
+          "_id": "68e08df79e798a708ef8c873"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "Monaco 2.webp"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8be",
       "id": "2PC5MXyS",
       "name": "Resident evil village",
@@ -17422,34 +17422,6 @@
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "Resident evil village.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c870",
-      "id": "ob8JYtkc",
-      "name": "Miside",
-      "image": "Miside.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        9,
-        34
-      ],
-      "size": "1.6 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1eL3U01GH6D7_-KkJLJsIEw",
-          "_id": "68e08df79e798a708ef8c871"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Miside.webp"
     },
     {
       "isUpdate": false,
@@ -17676,23 +17648,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c872",
-      "id": "PTlHpEU7",
-      "name": "Monaco 2",
-      "image": "Monaco 2.webp",
+      "_id": "68e08df79e798a708ef8c870",
+      "id": "ob8JYtkc",
+      "name": "Miside",
+      "image": "Miside.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        17,
-        43
+        3,
+        9,
+        34
       ],
-      "size": "3.1 Gb",
+      "size": "1.6 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1yQIInWg2MdxyNlQooQTHbg",
-          "_id": "68e08df79e798a708ef8c873"
+          "link": "https://1024terabox.com/s/1eL3U01GH6D7_-KkJLJsIEw",
+          "_id": "68e08df79e798a708ef8c871"
         }
       ],
       "emulatorId": 2,
@@ -17700,7 +17672,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Monaco 2.webp"
+      "oldImage": "Miside.webp"
     },
     {
       "isUpdate": false,
