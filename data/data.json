@@ -4495,19 +4495,21 @@
       "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4d0",
       "id": "ew__Qvkl",
-      "name": "FIFA 07",
+      "name": "FIFA 07 (Europe)",
       "image": "FIFA 07.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
+        6,
         4,
-        6
+        19,
+        118
       ],
       "size": "838 Mb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1GsZQmd5xvcyaWTE0cHOksQ",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1HLJt5wEVKn_CuxVZpyFfjA",
           "_id": "68e08df49e798a708ef8c4d1"
         }
       ],
@@ -4515,8 +4517,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "FIFA 07.webp"
+      "updatedAt": "2026-06-21T14:51:28.031Z",
+      "oldImage": "FIFA 07.webp",
+      "gameplayLink": ""
     },
     {
       "isUpdate": false,
