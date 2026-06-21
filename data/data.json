@@ -22475,6 +22475,34 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca0c",
+      "id": "YmwSBoB9",
+      "name": "Little Big planet [Special Edition]",
+      "image": "qWQQhqoKcw.webp",
+      "format": 4,
+      "language": "Español",
+      "genre": [
+        1,
+        3,
+        17
+      ],
+      "size": "1.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/12GfHzDKpMrC-fGiA951uxQ",
+          "_id": "68e08df89e798a708ef8ca0d"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "qWQQhqoKcw.webp"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df89e798a708ef8c9f6",
       "id": "H4fK5b6S",
       "name": "Ben 10 Protector Of Earth ",
@@ -22501,33 +22529,6 @@
       "createdAt": "2025-10-04T03:01:12.241Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "glvSu40pXZ.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca08",
-      "id": "STxoLzhR",
-      "name": "Burnout Legends ",
-      "image": "H5asG3xv24.webp",
-      "format": 4,
-      "language": "Español",
-      "genre": [
-        13,
-        42
-      ],
-      "size": "505 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1x96VTWkIysS0Gxj7TGPMMw",
-          "_id": "68e08df89e798a708ef8ca09"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "H5asG3xv24.webp"
     },
     {
       "isUpdate": false,
@@ -22641,23 +22642,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca0c",
-      "id": "YmwSBoB9",
-      "name": "Little Big planet [Special Edition]",
-      "image": "qWQQhqoKcw.webp",
+      "_id": "68e08df89e798a708ef8ca08",
+      "id": "STxoLzhR",
+      "name": "Burnout Legends ",
+      "image": "H5asG3xv24.webp",
       "format": 4,
       "language": "Español",
       "genre": [
-        1,
-        3,
-        17
+        13,
+        42
       ],
-      "size": "1.3 Gb",
+      "size": "505 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/12GfHzDKpMrC-fGiA951uxQ",
-          "_id": "68e08df89e798a708ef8ca0d"
+          "link": "https://1024terabox.com/s/1x96VTWkIysS0Gxj7TGPMMw",
+          "_id": "68e08df89e798a708ef8ca09"
         }
       ],
       "emulatorId": 3,
@@ -22665,7 +22665,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "qWQQhqoKcw.webp"
+      "oldImage": "H5asG3xv24.webp"
     },
     {
       "isUpdate": false,
@@ -34258,6 +34258,35 @@
       "captures": [],
       "createdAt": "2026-06-21T14:27:22.155Z",
       "updatedAt": "2026-06-21T14:27:22.155Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a37f4d614dabecb3ed12dce",
+      "id": "72SRxVjm",
+      "name": "FIFA 07 (Europe)",
+      "image": "1782052053038-039f04e4.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        6,
+        19,
+        118
+      ],
+      "size": "838MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1HLJt5wEVKn_CuxVZpyFfjA",
+          "_id": "6a37f4d614dabecb3ed12dcf"
+        }
+      ],
+      "emulatorId": 5,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-21T14:27:34.621Z",
+      "updatedAt": "2026-06-21T14:27:34.621Z",
       "__v": 0
     },
     {
