@@ -17392,6 +17392,35 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c896",
+      "id": "1zgoqTrI",
+      "name": "Planet Crafter ",
+      "image": "Planet Crafter.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        9,
+        21,
+        64,
+        50
+      ],
+      "size": "2.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Hh1HCR-bNokuEsGs_QSqSQ",
+          "_id": "68e08df79e798a708ef8c897"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "Planet Crafter.webp"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c882",
       "id": "YcpJhg-Z",
       "name": "Need For Speed Shift ",
@@ -17418,34 +17447,6 @@
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "Need For Speed Shift .webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c88e",
-      "id": "XDUKzsv3",
-      "name": "Outward Definitive Edition",
-      "image": "JxDy8ARU9s.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        12,
-        16,
-        21
-      ],
-      "size": "14.7 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://terabox.com/s/1RUsq7sjeo4YESJQBfgPLFg",
-          "_id": "68e08df79e798a708ef8c88f"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "JxDy8ARU9s.webp"
     },
     {
       "isUpdate": false,
@@ -17707,24 +17708,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c896",
-      "id": "1zgoqTrI",
-      "name": "Planet Crafter ",
-      "image": "Planet Crafter.webp",
+      "_id": "68e08df79e798a708ef8c88e",
+      "id": "XDUKzsv3",
+      "name": "Outward Definitive Edition",
+      "image": "JxDy8ARU9s.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        9,
-        21,
-        64,
-        50
+        12,
+        16,
+        21
       ],
-      "size": "2.4 Gb",
+      "size": "14.7 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1Hh1HCR-bNokuEsGs_QSqSQ",
-          "_id": "68e08df79e798a708ef8c897"
+          "link": "https://terabox.com/s/1RUsq7sjeo4YESJQBfgPLFg",
+          "_id": "68e08df79e798a708ef8c88f"
         }
       ],
       "emulatorId": 2,
@@ -17732,7 +17732,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Planet Crafter.webp"
+      "oldImage": "JxDy8ARU9s.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c8ae",
@@ -34229,6 +34229,35 @@
       "captures": [],
       "createdAt": "2026-06-21T14:26:58.569Z",
       "updatedAt": "2026-06-21T14:26:58.569Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a37f4ca14dabecb3ed12402",
+      "id": "zU9f8uRl",
+      "name": "FIFA 08 (Europe)",
+      "image": "1782052040753-1d22a65a.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        6,
+        19,
+        118
+      ],
+      "size": "849MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1iAZOGtmyFa-tRolHuqambQ",
+          "_id": "6a37f4ca14dabecb3ed12403"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-21T14:27:22.155Z",
+      "updatedAt": "2026-06-21T14:27:22.155Z",
       "__v": 0
     },
     {
