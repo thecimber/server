@@ -17418,6 +17418,34 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c88e",
+      "id": "XDUKzsv3",
+      "name": "Outward Definitive Edition",
+      "image": "JxDy8ARU9s.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        12,
+        16,
+        21
+      ],
+      "size": "14.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://terabox.com/s/1RUsq7sjeo4YESJQBfgPLFg",
+          "_id": "68e08df79e798a708ef8c88f"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "JxDy8ARU9s.webp"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c886",
       "id": "HfaEut5Q",
       "name": "Orcs must die! ",
@@ -17444,34 +17472,6 @@
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "Orcs must die! .webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c88c",
-      "id": "OnSaxpiV",
-      "name": "Outlast 2",
-      "image": "Outlast 2.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        14,
-        20,
-        31
-      ],
-      "size": "23.2 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1JLCzzCQH1gzmgY9mbgO9tw",
-          "_id": "68e08df79e798a708ef8c88d"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "Outlast 2.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c8a8",
@@ -17933,24 +17933,23 @@
       "oldImage": "Need For Speed Most Wanted .webp"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c88e",
-      "id": "XDUKzsv3",
-      "name": "Outward Definitive Edition",
-      "image": "JxDy8ARU9s.webp",
+      "_id": "68e08df79e798a708ef8c88c",
+      "id": "OnSaxpiV",
+      "name": "Outlast 2",
+      "image": "Outlast 2.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        12,
-        16,
-        21
+        14,
+        20,
+        31
       ],
-      "size": "14.7 Gb",
+      "size": "23.2 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://terabox.com/s/1RUsq7sjeo4YESJQBfgPLFg",
-          "_id": "68e08df79e798a708ef8c88f"
+          "link": "https://1024terabox.com/s/1JLCzzCQH1gzmgY9mbgO9tw",
+          "_id": "68e08df79e798a708ef8c88d"
         }
       ],
       "emulatorId": 2,
@@ -17958,7 +17957,8 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "JxDy8ARU9s.webp"
+      "isUpdate": true,
+      "oldImage": "Outlast 2.webp"
     },
     {
       "isUpdate": false,
@@ -34168,6 +34168,35 @@
       "captures": [],
       "createdAt": "2026-06-21T14:26:34.629Z",
       "updatedAt": "2026-06-21T14:26:34.629Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a37f4a514dabecb3ed101bf",
+      "id": "B2cf1rhs",
+      "name": "FIFA 11 (Europe)",
+      "image": "1782052004609-3c784ca0.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        6,
+        19,
+        118
+      ],
+      "size": "826MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/18ALqM-GTPwxDVK9cjAyJfA",
+          "_id": "6a37f4a514dabecb3ed101c0"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-21T14:26:45.931Z",
+      "updatedAt": "2026-06-21T14:26:45.931Z",
       "__v": 0
     },
     {
