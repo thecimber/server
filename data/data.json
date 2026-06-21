@@ -4492,7 +4492,6 @@
       "oldImage": "LEGO Star Wars 3 the clone wars.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4d0",
       "id": "ew__Qvkl",
       "name": "FIFA 07 (Europe)",
@@ -4517,9 +4516,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-21T14:51:28.031Z",
+      "updatedAt": "2026-06-21T14:51:34.112Z",
       "oldImage": "FIFA 07.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
