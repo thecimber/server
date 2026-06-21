@@ -4714,7 +4714,6 @@
       "oldImage": "Naruto Ultimate Ninja Heroes 2.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4d8",
       "id": "ybYHaBCB",
       "name": "FIFA 11",
@@ -4737,8 +4736,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "FIFA 11.webp"
+      "updatedAt": "2026-06-21T14:48:32.194Z",
+      "oldImage": "FIFA 11.webp",
+      "isUpdate": true
     },
     {
       "_id": "68e08df49e798a708ef8c4c6",
