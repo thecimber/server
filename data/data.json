@@ -34164,13 +34164,12 @@
     {
       "_id": "6a4f106614dabecb3ed22fa9",
       "id": "nqaUejSd",
-      "name": "Fifa",
+      "name": "FIFA",
       "image": "",
       "gameplayLink": "",
       "format": 0,
       "language": "Desconocido",
       "genre": [
-        4,
         6
       ],
       "size": "",
@@ -34179,7 +34178,7 @@
       "isUpdate": false,
       "captures": [],
       "createdAt": "2026-07-09T03:07:18.474Z",
-      "updatedAt": "2026-07-09T03:07:18.474Z",
+      "updatedAt": "2026-07-09T03:07:30.968Z",
       "__v": 0
     },
     {
