@@ -24243,23 +24243,23 @@
       "oldImage": "PDYGg51sb9.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca92",
-      "id": "X3pMNZUq",
-      "name": "Aliens vs Predator ",
-      "image": "56S1e9b4V3.webp",
+      "_id": "68e08df89e798a708ef8ca8c",
+      "id": "co_-vGVd",
+      "name": "Hitman Codename 47 ",
+      "image": "5L0F6gWFvx.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        31,
-        11
+        7,
+        8,
+        30
       ],
-      "size": "18,4 Gb",
+      "size": "282 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://terabox.com/s/1Njrp60g_0FTyEkRJkVtHKg",
-          "_id": "68e08df89e798a708ef8ca93"
+          "link": "https://1024terabox.com/s/1T1bNjMr5nOvXSMS9crN7sQ",
+          "_id": "68e08df89e798a708ef8ca8d"
         }
       ],
       "emulatorId": 2,
@@ -24268,7 +24268,7 @@
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "56S1e9b4V3.webp"
+      "oldImage": "5L0F6gWFvx.webp"
     },
     {
       "_id": "68e08df89e798a708ef8ca82",
@@ -24356,32 +24356,34 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df89e798a708ef8ca8c",
-      "id": "co_-vGVd",
-      "name": "Hitman Codename 47 ",
-      "image": "5L0F6gWFvx.webp",
-      "format": 3,
+      "_id": "68e08df89e798a708ef8ca9e",
+      "id": "-gSD1um-",
+      "name": "Dragon Ball Z: Kakarot Daima Edition 1.70",
+      "image": "4HCdVgXpmc.webp",
+      "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        8,
-        30
+        9,
+        10,
+        12,
+        22,
+        7
       ],
-      "size": "282 Mb",
+      "size": "28GB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1T1bNjMr5nOvXSMS9crN7sQ",
-          "_id": "68e08df89e798a708ef8ca8d"
+          "link": "https://1024terabox.com/s/14XKG11npUj3aJY6rntcc3Q",
+          "_id": "68e08df89e798a708ef8ca9f"
         }
       ],
-      "emulatorId": 2,
+      "emulatorId": 8,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "5L0F6gWFvx.webp"
+      "oldImage": "4HCdVgXpmc.webp"
     },
     {
       "_id": "68e08df89e798a708ef8ca86",
@@ -24524,34 +24526,32 @@
       "oldImage": "FzMV69PJNo.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca9e",
-      "id": "-gSD1um-",
-      "name": "Dragon Ball Z: Kakarot Daima Edition 1.70",
-      "image": "4HCdVgXpmc.webp",
-      "format": 2,
+      "_id": "68e08df89e798a708ef8ca92",
+      "id": "X3pMNZUq",
+      "name": "Aliens vs Predator ",
+      "image": "56S1e9b4V3.webp",
+      "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        9,
-        10,
-        12,
-        22,
-        7
+        2,
+        31,
+        11
       ],
-      "size": "28GB",
+      "size": "18,4 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/14XKG11npUj3aJY6rntcc3Q",
-          "_id": "68e08df89e798a708ef8ca9f"
+          "link": "https://terabox.com/s/1Njrp60g_0FTyEkRJkVtHKg",
+          "_id": "68e08df89e798a708ef8ca93"
         }
       ],
-      "emulatorId": 8,
+      "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "4HCdVgXpmc.webp"
+      "oldImage": "56S1e9b4V3.webp"
     },
     {
       "isUpdate": false,
@@ -34386,6 +34386,33 @@
       "captures": [],
       "createdAt": "2026-07-11T03:58:23.550Z",
       "updatedAt": "2026-07-11T03:58:23.550Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a51bfad14dabecb3ed3020b",
+      "id": "wJYmc3A5",
+      "name": "Assetto Corsa",
+      "image": "1783742380081-d5a3bf3c.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        19
+      ],
+      "size": "18GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/18V1NEqScLB_KboaYrGnTKg",
+          "_id": "6a51bfad14dabecb3ed3020c"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-07-11T03:59:41.530Z",
+      "updatedAt": "2026-07-11T03:59:41.530Z",
       "__v": 0
     },
     {
