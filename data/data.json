@@ -18253,23 +18253,25 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df79e798a708ef8c910",
-      "id": "bR3iynW8",
-      "name": "The Evil Within ",
-      "image": "The Evil Within.webp",
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c91a",
+      "id": "q3QUESLO",
+      "name": "The Rift Breaker",
+      "image": "The Rift Breaker.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        14,
-        31
+        28,
+        21,
+        64
       ],
-      "size": "54.7 Gb",
+      "size": "13.3 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1xJIz_WS7R1-qvkf1zJZMAw",
-          "_id": "68e08df79e798a708ef8c911"
+          "link": "https://1024terabox.com/s/1vC7snlqZHG3VthHSkbjGBA",
+          "_id": "68e08df79e798a708ef8c91b"
         }
       ],
       "emulatorId": 2,
@@ -18277,8 +18279,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "The Evil Within.webp",
-      "isUpdate": true
+      "oldImage": "The Rift Breaker.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c8ee",
@@ -18532,23 +18533,23 @@
       "oldImage": "SCHEDULE 1.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c914",
-      "id": "hBNT7gms",
-      "name": "The Last Of Us PART 2 Remastered ",
-      "image": "V2JOLKlCmG.webp",
+      "_id": "68e08df79e798a708ef8c910",
+      "id": "bR3iynW8",
+      "name": "The Evil Within ",
+      "image": "The Evil Within.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        7,
-        14
+        14,
+        31
       ],
-      "size": "150.0 Gb",
+      "size": "54.7 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1c9t95rg3rYgoZHumf9_i0w",
-          "_id": "68e08df79e798a708ef8c915"
+          "link": "https://1024terabox.com/s/1xJIz_WS7R1-qvkf1zJZMAw",
+          "_id": "68e08df79e798a708ef8c911"
         }
       ],
       "emulatorId": 2,
@@ -18556,7 +18557,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "V2JOLKlCmG.webp",
+      "oldImage": "The Evil Within.webp",
       "isUpdate": true
     },
     {
@@ -18782,25 +18783,23 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c91a",
-      "id": "q3QUESLO",
-      "name": "The Rift Breaker",
-      "image": "The Rift Breaker.webp",
+      "_id": "68e08df79e798a708ef8c914",
+      "id": "hBNT7gms",
+      "name": "The Last Of Us PART 2 Remastered ",
+      "image": "V2JOLKlCmG.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        28,
-        21,
-        64
+        7,
+        14
       ],
-      "size": "13.3 Gb",
+      "size": "150.0 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1vC7snlqZHG3VthHSkbjGBA",
-          "_id": "68e08df79e798a708ef8c91b"
+          "link": "https://1024terabox.com/s/1c9t95rg3rYgoZHumf9_i0w",
+          "_id": "68e08df79e798a708ef8c915"
         }
       ],
       "emulatorId": 2,
@@ -18808,7 +18807,8 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.296Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "The Rift Breaker.webp"
+      "oldImage": "V2JOLKlCmG.webp",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -34246,6 +34246,34 @@
       "captures": [],
       "createdAt": "2026-07-09T16:41:07.494Z",
       "updatedAt": "2026-07-09T16:41:07.494Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a51bc3b14dabecb3ed2b3a1",
+      "id": "1v6ZKRpq",
+      "name": "Still Wakes the Deep",
+      "image": "1783741496828-67ce0631.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        20,
+        3,
+        34
+      ],
+      "size": "12,4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1AX-cu-bMZ1oasGI0L9NBOg",
+          "_id": "6a51bc3b14dabecb3ed2b3a2"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-07-11T03:44:59.152Z",
+      "updatedAt": "2026-07-11T03:44:59.152Z",
       "__v": 0
     },
     {
