@@ -17204,6 +17204,34 @@
       "oldImage": "Need For Speed Hot Pursuit 2.webp"
     },
     {
+      "_id": "68e08df79e798a708ef8c894",
+      "id": "L-szijec",
+      "name": "Phasmophobia",
+      "image": "Phasmophobia.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        14,
+        20,
+        31
+      ],
+      "size": "10.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1TQs-8GlD7d2ND3Yndmx-bQ",
+          "_id": "68e08df79e798a708ef8c895"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "Phasmophobia.webp"
+    },
+    {
       "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8b2",
       "id": "4YWIFmR8",
@@ -17232,35 +17260,6 @@
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "Resident Evil 2 DirectX11.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c87c",
-      "id": "qe-tf5RK",
-      "name": "Need For Speed Most Wanted ",
-      "image": "Need For Speed Most Wanted .webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        13,
-        67,
-        86,
-        12
-      ],
-      "size": "2.1 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Z9Zit8Xsdy6h9Q1TWnKM1Q",
-          "_id": "68e08df79e798a708ef8c87d"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Need For Speed Most Wanted .webp"
     },
     {
       "_id": "68e08df79e798a708ef8c86e",
@@ -18000,23 +17999,25 @@
       "oldImage": "Minecraft Dungeons.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c894",
-      "id": "L-szijec",
-      "name": "Phasmophobia",
-      "image": "Phasmophobia.webp",
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c87c",
+      "id": "qe-tf5RK",
+      "name": "Need For Speed Most Wanted ",
+      "image": "Need For Speed Most Wanted .webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        14,
-        20,
-        31
+        13,
+        67,
+        86,
+        12
       ],
-      "size": "10.5 Gb",
+      "size": "2.1 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1TQs-8GlD7d2ND3Yndmx-bQ",
-          "_id": "68e08df79e798a708ef8c895"
+          "link": "https://1024terabox.com/s/1Z9Zit8Xsdy6h9Q1TWnKM1Q",
+          "_id": "68e08df79e798a708ef8c87d"
         }
       ],
       "emulatorId": 2,
@@ -18024,8 +18025,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "Phasmophobia.webp"
+      "oldImage": "Need For Speed Most Wanted .webp"
     },
     {
       "_id": "68e08df79e798a708ef8c8d4",
@@ -34358,6 +34358,34 @@
       "captures": [],
       "createdAt": "2026-07-11T03:57:11.478Z",
       "updatedAt": "2026-07-11T03:57:11.478Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a51bf5f14dabecb3ed2f837",
+      "id": "S_jhE43a",
+      "name": "Crysis Remastered",
+      "image": "1783742301948-343eee8a.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        7,
+        50
+      ],
+      "size": "19,5GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/15PPF-oA5-ImxY-31fj97RA",
+          "_id": "6a51bf5f14dabecb3ed2f838"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-07-11T03:58:23.550Z",
+      "updatedAt": "2026-07-11T03:58:23.550Z",
       "__v": 0
     },
     {
