@@ -34277,6 +34277,34 @@
       "__v": 0
     },
     {
+      "_id": "6a51be2214dabecb3ed2cc1e",
+      "id": "7ZKBuXhe",
+      "name": "The Forest",
+      "image": "1783741984970-db1cd49e.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        21,
+        12,
+        31
+      ],
+      "size": "4.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1vSnGWTdNFZY9_bW3h4I5DQ",
+          "_id": "6a51be2214dabecb3ed2cc1f"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-07-11T03:53:06.625Z",
+      "updatedAt": "2026-07-11T03:53:06.625Z",
+      "__v": 0
+    },
+    {
       "_id": "69e287c960af684b008b9811",
       "id": "kxpmswH7",
       "name": "Tomodachi Life Living The Dream v1.0.2",
