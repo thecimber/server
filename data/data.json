@@ -16751,25 +16751,24 @@
       "oldImage": "nCgJaZCc3y.webp"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c8be",
-      "id": "2PC5MXyS",
-      "name": "Resident evil village",
-      "image": "Resident evil village.webp",
+      "_id": "68e08df79e798a708ef8c8ae",
+      "id": "SF4zqDMw",
+      "name": "Rayman Origins",
+      "image": "Rayman Origins.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        21,
-        114,
-        48
+        32,
+        3,
+        1,
+        2
       ],
-      "size": "34.2 Gb",
+      "size": "2.2 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/14MN2ZHOInqsE7bLLMJh8NQ",
-          "_id": "68e08df79e798a708ef8c8bf"
+          "link": "https://1024terabox.com/s/1yITu9qbXgAuKAU1MTyu1xw",
+          "_id": "68e08df79e798a708ef8c8af"
         }
       ],
       "emulatorId": 2,
@@ -16777,7 +16776,8 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Resident evil village.webp"
+      "oldImage": "Rayman Origins.webp",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -17204,23 +17204,25 @@
       "oldImage": "Need For Speed Hot Pursuit 2.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c894",
-      "id": "L-szijec",
-      "name": "Phasmophobia",
-      "image": "Phasmophobia.webp",
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c8be",
+      "id": "2PC5MXyS",
+      "name": "Resident evil village",
+      "image": "Resident evil village.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        14,
-        20,
-        31
+        2,
+        21,
+        114,
+        48
       ],
-      "size": "10.5 Gb",
+      "size": "34.2 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1TQs-8GlD7d2ND3Yndmx-bQ",
-          "_id": "68e08df79e798a708ef8c895"
+          "link": "https://1024terabox.com/s/14MN2ZHOInqsE7bLLMJh8NQ",
+          "_id": "68e08df79e798a708ef8c8bf"
         }
       ],
       "emulatorId": 2,
@@ -17228,8 +17230,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "Phasmophobia.webp"
+      "oldImage": "Resident evil village.webp"
     },
     {
       "isUpdate": false,
@@ -17656,24 +17657,23 @@
       "oldImage": "Outlast 2.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c8ae",
-      "id": "SF4zqDMw",
-      "name": "Rayman Origins",
-      "image": "Rayman Origins.webp",
+      "_id": "68e08df79e798a708ef8c894",
+      "id": "L-szijec",
+      "name": "Phasmophobia",
+      "image": "Phasmophobia.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        32,
-        3,
-        1,
-        2
+        14,
+        20,
+        31
       ],
-      "size": "2.2 Gb",
+      "size": "10.5 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1yITu9qbXgAuKAU1MTyu1xw",
-          "_id": "68e08df79e798a708ef8c8af"
+          "link": "https://1024terabox.com/s/1TQs-8GlD7d2ND3Yndmx-bQ",
+          "_id": "68e08df79e798a708ef8c895"
         }
       ],
       "emulatorId": 2,
@@ -17681,8 +17681,8 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Rayman Origins.webp",
-      "isUpdate": true
+      "isUpdate": true,
+      "oldImage": "Phasmophobia.webp"
     },
     {
       "isUpdate": false,
@@ -34413,6 +34413,34 @@
       "captures": [],
       "createdAt": "2026-07-11T03:59:41.530Z",
       "updatedAt": "2026-07-11T03:59:41.530Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a51bff514dabecb3ed30be1",
+      "id": "rH2lid95",
+      "name": "A Way Out",
+      "image": "1783742452505-c8bc4910.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        17
+      ],
+      "size": "22,1GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1GrKQM-nocXGDOiYdssA8JQ",
+          "_id": "6a51bff514dabecb3ed30be2"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-07-11T04:00:53.997Z",
+      "updatedAt": "2026-07-11T04:00:53.997Z",
       "__v": 0
     },
     {
