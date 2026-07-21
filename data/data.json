@@ -16978,35 +16978,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c886",
-      "id": "HfaEut5Q",
-      "name": "Orcs must die! ",
-      "image": "Orcs must die! .webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        28,
-        27,
-        116
-      ],
-      "size": "10.2 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1r_oSp8uMp--WYC_-hz3yvA",
-          "_id": "68e08df79e798a708ef8c887"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Orcs must die! .webp"
-    },
-    {
       "_id": "68e08df79e798a708ef8c8aa",
       "id": "5x0p3IpP",
       "name": "Rain World Remix Now Available",
@@ -17034,6 +17005,33 @@
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "Rain World Remix Now Available.webp",
       "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c884",
+      "id": "0YcSi22n",
+      "name": "Northgard",
+      "image": "Xr7yhUNMr3.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        19,
+        28
+      ],
+      "size": "1.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1hyVTAbyYMjGyrOmeKsDOvQ",
+          "_id": "68e08df79e798a708ef8c885"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "Xr7yhUNMr3.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c8ac",
@@ -17807,22 +17805,25 @@
       "oldImage": "Need For Speed Shift .webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c884",
-      "id": "0YcSi22n",
-      "name": "Northgard",
-      "image": "Xr7yhUNMr3.webp",
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c886",
+      "id": "HfaEut5Q",
+      "name": "Orcs must die! ",
+      "image": "Orcs must die! .webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        19,
-        28
+        2,
+        28,
+        27,
+        116
       ],
-      "size": "1.5 Gb",
+      "size": "10.2 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1hyVTAbyYMjGyrOmeKsDOvQ",
-          "_id": "68e08df79e798a708ef8c885"
+          "link": "https://1024terabox.com/s/1r_oSp8uMp--WYC_-hz3yvA",
+          "_id": "68e08df79e798a708ef8c887"
         }
       ],
       "emulatorId": 2,
@@ -17830,8 +17831,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "Xr7yhUNMr3.webp"
+      "oldImage": "Orcs must die! .webp"
     },
     {
       "_id": "68e08df79e798a708ef8c888",
@@ -33960,34 +33960,6 @@
       "captures": [],
       "createdAt": "2026-06-13T23:48:48.811Z",
       "updatedAt": "2026-06-13T23:48:48.811Z",
-      "__v": 0
-    },
-    {
-      "_id": "6a2f6e0f14dabecb3ed03899",
-      "id": "yCGrK4oK",
-      "name": "Crash of the Titans (Europe)",
-      "image": "1784677873254-2d65da7a.webp",
-      "gameplayLink": "",
-      "format": 1,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        2,
-        3
-      ],
-      "size": "819MB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1UBHcryemcHEtYIMXwr6L7w",
-          "_id": "6a6005f314dabecb3ed33a3e"
-        }
-      ],
-      "emulatorId": 3,
-      "isUpdate": true,
-      "captures": [],
-      "createdAt": "2026-06-15T03:14:23.337Z",
-      "updatedAt": "2026-07-21T23:51:15.424Z",
       "__v": 0
     },
     {
