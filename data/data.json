@@ -21952,24 +21952,22 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df79e798a708ef8c9db",
-      "id": "T18ZVjv4",
-      "name": "LEGO Batman The Videogame",
-      "image": "XWuJ5jNuRu.webp",
+      "_id": "68e08df79e798a708ef8c9d9",
+      "id": "dHFFCqeZ",
+      "name": "LEGO Builders Journey",
+      "image": "ty-QUE2AP9.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
         3,
-        45,
         44
       ],
-      "size": "4.1 Gb",
+      "size": "1.5 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/14OGNebR1OTVKvTPxkdwLng",
-          "_id": "68e08df79e798a708ef8c9dc"
+          "link": "https://1024terabox.com/s/15W_ZjTZU2gDZ5BFUIw37jw",
+          "_id": "68e08df79e798a708ef8c9da"
         }
       ],
       "emulatorId": 2,
@@ -21978,7 +21976,7 @@
       "createdAt": "2025-10-04T03:01:11.689Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "XWuJ5jNuRu.webp"
+      "oldImage": "ty-QUE2AP9.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c9e3",
@@ -22094,22 +22092,24 @@
       "oldImage": "YWRPUPWraS.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9d9",
-      "id": "dHFFCqeZ",
-      "name": "LEGO Builders Journey",
-      "image": "ty-QUE2AP9.webp",
+      "_id": "68e08df79e798a708ef8c9db",
+      "id": "T18ZVjv4",
+      "name": "LEGO Batman The Videogame",
+      "image": "XWuJ5jNuRu.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        2,
         3,
+        45,
         44
       ],
-      "size": "1.5 Gb",
+      "size": "4.1 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/15W_ZjTZU2gDZ5BFUIw37jw",
-          "_id": "68e08df79e798a708ef8c9da"
+          "link": "https://1024terabox.com/s/14OGNebR1OTVKvTPxkdwLng",
+          "_id": "68e08df79e798a708ef8c9dc"
         }
       ],
       "emulatorId": 2,
@@ -22118,7 +22118,7 @@
       "createdAt": "2025-10-04T03:01:11.689Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "ty-QUE2AP9.webp"
+      "oldImage": "XWuJ5jNuRu.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c9e5",
@@ -22862,21 +22862,22 @@
       "oldImage": "bG9m6t-wKE.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca72",
-      "id": "Fzey-12J",
-      "name": "Persona 5 Tactica",
-      "image": "aVCSxixmqo.webp",
+      "_id": "68e08df89e798a708ef8ca70",
+      "id": "gZITCQMN",
+      "name": "Persona 5 Strikers ",
+      "image": "1rrKc_aAWz.webp",
       "format": 8,
       "language": "Multi-Idioma",
       "genre": [
-        16
+        16,
+        19
       ],
-      "size": "7,5 Gb",
+      "size": "15,1 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1S4cvJ_b-ZJwdbOmZJvM8ww",
-          "_id": "68e08df89e798a708ef8ca73"
+          "link": "https://1024terabox.com/s/1F0fePixvY_y2dgNqxViNcw",
+          "_id": "68e08df89e798a708ef8ca71"
         }
       ],
       "emulatorId": 8,
@@ -22884,7 +22885,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "aVCSxixmqo.webp",
+      "oldImage": "1rrKc_aAWz.webp",
       "isUpdate": true
     },
     {
@@ -23156,22 +23157,21 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df89e798a708ef8ca70",
-      "id": "gZITCQMN",
-      "name": "Persona 5 Strikers ",
-      "image": "1rrKc_aAWz.webp",
+      "_id": "68e08df89e798a708ef8ca72",
+      "id": "Fzey-12J",
+      "name": "Persona 5 Tactica",
+      "image": "aVCSxixmqo.webp",
       "format": 8,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        19
+        16
       ],
-      "size": "15,1 Gb",
+      "size": "7,5 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1F0fePixvY_y2dgNqxViNcw",
-          "_id": "68e08df89e798a708ef8ca71"
+          "link": "https://1024terabox.com/s/1S4cvJ_b-ZJwdbOmZJvM8ww",
+          "_id": "68e08df89e798a708ef8ca73"
         }
       ],
       "emulatorId": 8,
@@ -23179,7 +23179,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "1rrKc_aAWz.webp",
+      "oldImage": "aVCSxixmqo.webp",
       "isUpdate": true
     },
     {
@@ -34441,26 +34441,6 @@
       "captures": [],
       "createdAt": "2026-07-11T04:00:53.997Z",
       "updatedAt": "2026-07-11T04:00:53.997Z",
-      "__v": 0
-    },
-    {
-      "_id": "6a5798fe14dabecb3ed3255d",
-      "id": "A3Jr1RjY",
-      "name": "Gta",
-      "image": "",
-      "gameplayLink": "",
-      "format": 0,
-      "language": "Desconocido",
-      "genre": [
-        7
-      ],
-      "size": "",
-      "downloadMethods": [],
-      "emulatorId": 2,
-      "isUpdate": false,
-      "captures": [],
-      "createdAt": "2026-07-15T14:28:14.122Z",
-      "updatedAt": "2026-07-15T14:28:14.122Z",
       "__v": 0
     },
     {
