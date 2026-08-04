@@ -34513,6 +34513,33 @@
       "__v": 0
     },
     {
+      "_id": "6a726a1b7d9816a180de5e8b",
+      "id": "do-sov9x",
+      "name": "Prince of Persia – Boukyaku no Suna",
+      "image": "1785883161907-5245f271.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        7
+      ],
+      "size": "483MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1KPlNbyTjyWOA0UaaGXl6Ag",
+          "_id": "6a726a1b7d9816a180de5e8c"
+        }
+      ],
+      "emulatorId": 5,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-08-04T22:39:23.431Z",
+      "updatedAt": "2026-08-04T22:39:23.431Z",
+      "__v": 0
+    },
+    {
       "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7e5",
       "id": "3KktHLYI",
@@ -36399,4 +36426,4 @@
       "__v": 0
     }
   ]
-}}
+}
