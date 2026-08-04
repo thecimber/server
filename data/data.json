@@ -22228,31 +22228,31 @@
       "gameplayLink": ""
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca06",
       "id": "QUfMNhpM",
-      "name": "Burnout Dominator ",
-      "image": "eRf65rrylI.webp",
+      "name": "Burnout Dominator",
+      "image": "1785881213676-65d74f6d.webp",
       "format": 4,
-      "language": "Español",
+      "language": "Español-Ingles",
       "genre": [
-        13,
         42
       ],
-      "size": "777 Mb",
+      "size": "777MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/142aRMX0U3Dq4U_j7G_STLg",
-          "_id": "68e08df89e798a708ef8ca07"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/100K1WHtGGfpKwgiXNhA00g",
+          "_id": "6a7262807d9816a180dd58be"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "eRf65rrylI.webp"
+      "updatedAt": "2026-08-04T22:06:56.748Z",
+      "oldImage": "eRf65rrylI.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8c9fe",
