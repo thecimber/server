@@ -5183,32 +5183,32 @@
       "oldImage": "UEFA champions league 2006-2007.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c504",
       "id": "2FVW2KT6",
       "name": "Prince of Persia – The Forgotten Sands",
-      "image": "Prince of Persia – The Forgotten Sands.webp",
+      "image": "1785882856539-6229b03d.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        7,
-        15
+        10
       ],
-      "size": "529 Mb",
+      "size": "529MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1JPISX9la_y_vW9cr0i6wsw",
-          "_id": "68e08df49e798a708ef8c505"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Zu2wFZxOKrurVHub5jEiIg",
+          "_id": "6a7268ea7d9816a180ddf1e5"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Prince of Persia – The Forgotten Sands.webp"
+      "updatedAt": "2026-08-04T22:34:18.211Z",
+      "oldImage": "Prince of Persia – The Forgotten Sands.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -36349,4 +36349,4 @@
       "__v": 0
     }
   ]
-}
+}}
