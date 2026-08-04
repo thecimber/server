@@ -4963,32 +4963,31 @@
       "oldImage": "Cars.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c512",
       "id": "KsN97421",
       "name": "Star Wars - The Clone Wars - Republic Heroes",
-      "image": "Star Wars - The Clone Wars - Republic Heroes.webp",
+      "image": "1785882704918-13dbde45.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        7,
-        35
+        14
       ],
-      "size": "1.0 Gb",
+      "size": "1GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1pVIwkIEGlmPL-1LfHw8LSw",
-          "_id": "68e08df49e798a708ef8c513"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/19Lcy1OlrXKP9uLo0_IVquw",
+          "_id": "6a7268527d9816a180ddc57d"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Star Wars - The Clone Wars - Republic Heroes.webp"
+      "updatedAt": "2026-08-04T22:31:46.576Z",
+      "oldImage": "Star Wars - The Clone Wars - Republic Heroes.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
