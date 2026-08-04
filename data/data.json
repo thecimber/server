@@ -34463,6 +34463,32 @@
       "__v": 0
     },
     {
+      "_id": "6a7269337d9816a180de0f80",
+      "id": "TcI51Lwo",
+      "name": "UEFA Champions League 2006-2007",
+      "image": "1785882929450-7069722f.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        4
+      ],
+      "size": "700MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1YYCFtyZhowLrQ8UCcymdXw",
+          "_id": "6a7269337d9816a180de0f81"
+        }
+      ],
+      "emulatorId": 5,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-08-04T22:35:31.216Z",
+      "updatedAt": "2026-08-04T22:35:31.216Z",
+      "__v": 0
+    },
+    {
       "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7e5",
       "id": "3KktHLYI",
