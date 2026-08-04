@@ -4071,7 +4071,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4e0",
       "id": "HD_FXHQv",
       "name": "God of War - Chains of Olympus",
@@ -4094,9 +4093,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T22:10:33.291Z",
+      "updatedAt": "2026-08-04T22:10:33.326Z",
       "oldImage": "God of War - Chains of Olympus.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -22369,33 +22369,33 @@
       "oldImage": "glvSu40pXZ.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8c9f8",
       "id": "JJgh7uMH",
-      "name": "Ben 10 Alien Force Vilgax Attacks ",
-      "image": "ao77IuaL_n.webp",
+      "name": "Ben 10 Alien Force Vilgax Attacks",
+      "image": "1785882586636-93d755b2.webp",
       "format": 4,
-      "language": "Español",
+      "language": "Español-Ingles",
       "genre": [
         1,
-        2,
         3,
         45
       ],
-      "size": "1.6 Gb",
+      "size": "1,6GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1p5739nA1bKAWCX0AiTc2Lg",
-          "_id": "68e08df89e798a708ef8c9f9"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1MaWcp1DNi9vOtpf566NgKg",
+          "_id": "6a7267dc7d9816a180dd9919"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "ao77IuaL_n.webp"
+      "updatedAt": "2026-08-04T22:29:48.361Z",
+      "oldImage": "ao77IuaL_n.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -36349,4 +36349,4 @@
       "__v": 0
     }
   ]
-}
+}}
