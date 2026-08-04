@@ -4406,32 +4406,31 @@
       "oldImage": "FIFA 06.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4f4",
       "id": "dp0LHOqI",
       "name": "Naruto Shippuden Kizuna Drive",
-      "image": "Naruto Shippuden Kizuna Drive.webp",
+      "image": "1785879174181-0d5a997a.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        22,
         24
       ],
-      "size": "1.22 Gb",
+      "size": "1,22GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1vsB-e49CiPMNCDLEiWCeVg",
-          "_id": "68e08df49e798a708ef8c4f5"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1qgOeOaYWWvuRTyuJdO80iA",
+          "_id": "6a725a877d9816a180dd1d7c"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Naruto Shippuden Kizuna Drive.webp"
+      "updatedAt": "2026-08-04T21:32:55.930Z",
+      "oldImage": "Naruto Shippuden Kizuna Drive.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
