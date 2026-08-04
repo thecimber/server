@@ -4610,28 +4610,27 @@
       "_id": "68e08df49e798a708ef8c4fe",
       "id": "SneUELth",
       "name": "Naruto Ultimate Ninja Heroes 2",
-      "image": "Naruto Ultimate Ninja Heroes 2.webp",
+      "image": "1785879119672-671be94f.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        22,
         24
       ],
-      "size": "1.27 Gb",
+      "size": "1,27GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/15E-DpGrTBdvW28Gmhdz6yA",
-          "_id": "68e08df49e798a708ef8c4ff"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1UlqeH_WFOLQh-Jl1VwfZ9Q",
+          "_id": "6a725a517d9816a180dce74a"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Naruto Ultimate Ninja Heroes 2.webp"
+      "updatedAt": "2026-08-04T21:32:01.314Z",
+      "oldImage": "Naruto Ultimate Ninja Heroes 2.webp",
+      "gameplayLink": ""
     },
     {
       "_id": "68e08df49e798a708ef8c4c6",
