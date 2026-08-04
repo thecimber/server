@@ -22510,31 +22510,31 @@
       "oldImage": "qWQQhqoKcw.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca08",
       "id": "STxoLzhR",
-      "name": "Burnout Legends ",
-      "image": "H5asG3xv24.webp",
+      "name": "Burnout Legends",
+      "image": "1785881301220-3bac8bcb.webp",
       "format": 4,
-      "language": "Español",
+      "language": "Español-Ingles",
       "genre": [
-        13,
         42
       ],
-      "size": "505 Mb",
+      "size": "505MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1x96VTWkIysS0Gxj7TGPMMw",
-          "_id": "68e08df89e798a708ef8ca09"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/13Y37ZE3PUPbIJ7-QwCvqFA",
+          "_id": "6a7262d67d9816a180dd6790"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "H5asG3xv24.webp"
+      "updatedAt": "2026-08-04T22:08:22.986Z",
+      "oldImage": "H5asG3xv24.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
