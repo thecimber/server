@@ -3960,32 +3960,31 @@
       "oldImage": "Uncharted-2-Among-Thieves.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4fa",
       "id": "79y1gaf7",
       "name": "Naruto Shippuden Ultimate Ninja Impact",
-      "image": "Naruto Shippuden Ultimate Ninja Impact.webp",
+      "image": "1785879160270-12b9ead0.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        22,
         24
       ],
-      "size": "915 Mb",
+      "size": "915GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Lhz3LiyZ4et-xwdz_sZhXQ",
-          "_id": "68e08df49e798a708ef8c4fb"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1nQqEiOp-cyJQsT46sqt1bw",
+          "_id": "6a725a797d9816a180dd0eb3"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Naruto Shippuden Ultimate Ninja Impact.webp"
+      "updatedAt": "2026-08-04T21:32:41.934Z",
+      "oldImage": "Naruto Shippuden Ultimate Ninja Impact.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df49e798a708ef8c4c8",
@@ -4521,7 +4520,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4f6",
       "id": "9_eX6BUh",
       "name": "Naruto Shippuden Legends Akatsuki Rising",
@@ -4543,9 +4541,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T21:32:29.075Z",
+      "updatedAt": "2026-08-04T21:32:29.122Z",
       "oldImage": "Naruto Shippuden Legends Akatsuki Rising.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df49e798a708ef8c4cc",
