@@ -4525,28 +4525,27 @@
       "_id": "68e08df49e798a708ef8c4f6",
       "id": "9_eX6BUh",
       "name": "Naruto Shippuden Legends Akatsuki Rising",
-      "image": "Naruto Shippuden Legends Akatsuki Rising.webp",
+      "image": "1785879146208-1efb1f9f.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        22,
         24
       ],
-      "size": "545 Mb",
+      "size": "545GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/11ZeyQkaS_LQvo8mM9Cpa6A",
-          "_id": "68e08df49e798a708ef8c4f7"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1LoxHajvqXSvEKwoyM8_U2g",
+          "_id": "6a725a6d7d9816a180dcffea"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Naruto Shippuden Legends Akatsuki Rising.webp"
+      "updatedAt": "2026-08-04T21:32:29.075Z",
+      "oldImage": "Naruto Shippuden Legends Akatsuki Rising.webp",
+      "gameplayLink": ""
     },
     {
       "_id": "68e08df49e798a708ef8c4cc",
