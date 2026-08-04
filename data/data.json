@@ -4433,32 +4433,32 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4e2",
       "id": "JvP5H6-3",
       "name": "God of War - Ghost of Sparta",
-      "image": "God of War - Ghost of Sparta.webp",
+      "image": "1785881418100-92cd9070.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        7,
-        27
+        24,
+        7
       ],
-      "size": "1.2 Gb",
+      "size": "1,2GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Ufs03Pxl0z4ct1hWu3wHJw",
-          "_id": "68e08df49e798a708ef8c4e3"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1csb3PzJWxneS2WYBvofCNQ",
+          "_id": "6a72634c7d9816a180dd765f"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "God of War - Ghost of Sparta.webp"
+      "updatedAt": "2026-08-04T22:10:20.731Z",
+      "oldImage": "God of War - Ghost of Sparta.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -36349,4 +36349,4 @@
       "__v": 0
     }
   ]
-}}
+}
