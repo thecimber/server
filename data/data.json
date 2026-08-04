@@ -4769,7 +4769,6 @@
       "oldImage": "UEFA Euro 2008.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c510",
       "id": "vJwKhHKL",
       "name": "Star Wars - Lethal Alliance",
@@ -4791,9 +4790,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-08-04T22:32:23.661Z",
+      "updatedAt": "2026-08-04T22:32:23.694Z",
       "oldImage": "Star Wars - Lethal Alliance.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -5017,32 +5017,33 @@
       "oldImage": "Castlevania:Dawn-of-Sorrow.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c50e",
       "id": "fErxdplC",
       "name": "Star Wars - Battlefront II",
-      "image": "Star Wars - Battlefront II.webp",
+      "image": "1785882812472-43e96a96.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        12,
+        7,
+        11,
         35
       ],
-      "size": "1.13 Gb",
+      "size": "1,13GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1FQ9qCK4fY968sOETEiqP-w",
-          "_id": "68e08df49e798a708ef8c50f"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/14FMM7BWIfxJHFkwZXdkvYQ",
+          "_id": "6a7268be7d9816a180dde317"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Star Wars - Battlefront II.webp"
+      "updatedAt": "2026-08-04T22:33:34.100Z",
+      "oldImage": "Star Wars - Battlefront II.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
