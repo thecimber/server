@@ -5298,28 +5298,27 @@
       "_id": "68e08df49e798a708ef8c516",
       "id": "ampVnULe",
       "name": "Star Wars Battlefront - Elite Squadron",
-      "image": "Star Wars Battlefront - Elite Squadron.webp",
+      "image": "1785883046807-62048712.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        12,
-        35
+        10
       ],
-      "size": "1.2 Gb",
+      "size": "1,2GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1vXynjl2FW0C2HwltB_lMMQ",
-          "_id": "68e08df49e798a708ef8c517"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1wOb-zWRErEbcUswpjuXr1w",
+          "_id": "6a7269a87d9816a180de233f"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Star Wars Battlefront - Elite Squadron.webp"
+      "updatedAt": "2026-08-04T22:37:28.395Z",
+      "oldImage": "Star Wars Battlefront - Elite Squadron.webp",
+      "gameplayLink": ""
     },
     {
       "isUpdate": false,
