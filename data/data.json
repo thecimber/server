@@ -22454,30 +22454,30 @@
       "isUpdate": false,
       "_id": "68e08df89e798a708ef8c9fa",
       "id": "SSOs9BEz",
-      "name": "Ben 10 Alien Force ",
-      "image": "aP3hyfS2kk.webp",
+      "name": "Ben 10 Alien Force",
+      "image": "1785884958745-355a095a.webp",
       "format": 4,
-      "language": "Español",
+      "language": "Español-Ingles",
       "genre": [
         1,
-        2,
         3,
         45
       ],
-      "size": "774 Mb",
+      "size": "774MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1dzxlvXkCjRy1Do4lfTqqFg",
-          "_id": "68e08df89e798a708ef8c9fb"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1r07owJOgPMqtxKuOanDs2w",
+          "_id": "6a7271207d9816a180de7777"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "aP3hyfS2kk.webp"
+      "updatedAt": "2026-08-04T23:09:20.814Z",
+      "oldImage": "aP3hyfS2kk.webp",
+      "gameplayLink": ""
     },
     {
       "isUpdate": false,
