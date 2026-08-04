@@ -4045,7 +4045,6 @@
       "oldImage": "Prince of Persia – Boukyaku no Suna.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4fc",
       "id": "Jeo-MerP",
       "name": "Naruto Ultimate Ninja Heroes",
@@ -4067,9 +4066,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T21:31:48.071Z",
+      "updatedAt": "2026-08-04T21:31:48.128Z",
       "oldImage": "Naruto Ultimate Ninja Heroes.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
