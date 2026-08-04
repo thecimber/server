@@ -5046,32 +5046,31 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c514",
       "id": "DfNQ7PgO",
       "name": "Star Wars - The Force Unleashed",
-      "image": "Star Wars - The Force Unleashed.webp",
+      "image": "1785883059710-15745ba1.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        7,
-        35
+        14
       ],
-      "size": "829 Mb",
+      "size": "829MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1sBrVONFbRXQSEAzo21UfSw",
-          "_id": "68e08df49e798a708ef8c515"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1jNxvyGtgLnEKerjfGm9bOg",
+          "_id": "6a7269b57d9816a180de3211"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Star Wars - The Force Unleashed.webp"
+      "updatedAt": "2026-08-04T22:37:41.278Z",
+      "oldImage": "Star Wars - The Force Unleashed.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -5294,7 +5293,6 @@
       "oldImage": "Prince Of Persia Rival Swords.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c516",
       "id": "ampVnULe",
       "name": "Star Wars Battlefront - Elite Squadron",
@@ -5316,9 +5314,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-08-04T22:37:28.395Z",
+      "updatedAt": "2026-08-04T22:37:28.431Z",
       "oldImage": "Star Wars Battlefront - Elite Squadron.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -36400,4 +36399,4 @@
       "__v": 0
     }
   ]
-}
+}}
