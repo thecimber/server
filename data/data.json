@@ -17056,6 +17056,34 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c8b4",
+      "id": "hyeG7Rag",
+      "name": "Resident Evil 3 DirectX11",
+      "image": "Resident Evil 3 DirectX11.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        14,
+        31
+      ],
+      "size": "21.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1G36EwB-apfdgKuyPxSfR1Q",
+          "_id": "68e08df79e798a708ef8c8b5"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "Resident Evil 3 DirectX11.webp"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df79e798a708ef8c8c2",
       "id": "hz29Jppe",
       "name": "Risk of Rain 2",
@@ -17082,36 +17110,6 @@
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "Risk of Rain 2.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c8b0",
-      "id": "theSHfrY",
-      "name": "Resident Evil 0",
-      "image": "Resident Evil 0.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        31,
-        21,
-        114,
-        48
-      ],
-      "size": "12.3 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/18YowtcS100A5by7kguESwg",
-          "_id": "68e08df79e798a708ef8c8b1"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Resident Evil 0.webp"
     },
     {
       "isUpdate": false,
@@ -17570,23 +17568,25 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c8b4",
-      "id": "hyeG7Rag",
-      "name": "Resident Evil 3 DirectX11",
-      "image": "Resident Evil 3 DirectX11.webp",
+      "_id": "68e08df79e798a708ef8c8b0",
+      "id": "theSHfrY",
+      "name": "Resident Evil 0",
+      "image": "Resident Evil 0.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        14,
-        31
+        31,
+        21,
+        114,
+        48
       ],
-      "size": "21.6 Gb",
+      "size": "12.3 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1G36EwB-apfdgKuyPxSfR1Q",
-          "_id": "68e08df79e798a708ef8c8b5"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/18YowtcS100A5by7kguESwg",
+          "_id": "68e08df79e798a708ef8c8b1"
         }
       ],
       "emulatorId": 2,
@@ -17594,7 +17594,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Resident Evil 3 DirectX11.webp"
+      "oldImage": "Resident Evil 0.webp"
     },
     {
       "isUpdate": false,
@@ -19336,23 +19336,78 @@
       "oldImage": "wTgPG7EFrm.webp"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c94b",
-      "id": "YqdTOdFE",
-      "name": "Voidborn",
-      "image": "Voidborn.webp",
+      "_id": "68e08df79e798a708ef8c967",
+      "id": "HHfdR20I",
+      "name": "THE GAME OF LIFE 2 APK v1.0.4",
+      "image": "80LwGxXhFM.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        19,
+        25
+      ],
+      "size": "1.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/14XNOEohycJaR6QBPsIqFmQ",
+          "_id": "68e08df79e798a708ef8c968"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "80LwGxXhFM.webp",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c95f",
+      "id": "LOOQLUaC",
+      "name": "Ashworld APK v1.8.2",
+      "image": "uJm_S492Kp.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        12
+      ],
+      "size": "12.5 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1YUTDbYI-dNhnwt6HUs49mA",
+          "_id": "68e08df79e798a708ef8c960"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "uJm_S492Kp.webp",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c955",
+      "id": "zzoy07h-",
+      "name": "Yakuza Zero 0 v4.0",
+      "image": "M3VFClooBJ.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        27
+        2,
+        3,
+        12,
+        65
       ],
-      "size": "1.7 Gb",
+      "size": "22.6 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/13TAe-VV0RdQLeTelW0oKpA",
-          "_id": "68e08df79e798a708ef8c94c"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1I07KOWY0JnouUoaqPS3PHQ",
+          "_id": "68e08df79e798a708ef8c956"
         }
       ],
       "emulatorId": 2,
@@ -19360,25 +19415,166 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Voidborn.webp"
+      "oldImage": "M3VFClooBJ.webp",
+      "isUpdate": true
     },
     {
-      "_id": "68e08df79e798a708ef8c931",
-      "id": "KhZQNiKz",
-      "name": "Tiny Glade",
-      "image": "Tiny Glade.webp",
+      "_id": "68e08df79e798a708ef8c93f",
+      "id": "9KMWN1Fs",
+      "name": "UltraKill",
+      "image": "UltraKill.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        81,
+        82
+      ],
+      "size": "2.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/19ZZpwe694GPs_nELXf_ZOA",
+          "_id": "68e08df79e798a708ef8c940"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "UltraKill.webp",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c939",
+      "id": "cnvVwf54",
+      "name": "Tomb Raider Remastered [1,2,3] (Europe)",
+      "image": "Tomb Raider Remastered [1,2,3].webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        7,
+        9
+      ],
+      "size": "3.0 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1n5rpKubBQLtShFM2ffdOnQ",
+          "_id": "68e08df79e798a708ef8c93a"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "Tomb Raider Remastered [1,2,3].webp",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c92b",
+      "id": "ixny0EUy",
+      "name": "The Walking Dead The Final Season [The Telltale Series] ",
+      "image": "xOSy3EjIfS.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        23
+      ],
+      "size": "15.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://terabox.com/s/189psBe5AM0-Ys9gVUPTL9Q",
+          "_id": "68e08df79e798a708ef8c92c"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "xOSy3EjIfS.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c961",
+      "id": "k-v1Q6X0",
+      "name": "There Is No Game: Wrong Dimension APK v1.0.38",
+      "image": "fQ_lHxZeV6.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        23
+      ],
+      "size": "388 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1KPFCZ-ohpSvgxpA_RCBZoA",
+          "_id": "68e08df79e798a708ef8c962"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "fQ_lHxZeV6.webp",
+      "isUpdate": true
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c953",
+      "id": "iCPdK1OL",
+      "name": "xenoverse 2 [última Actualización]",
+      "image": "xenoverse 2 [última Actualización].webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        10,
+        22,
+        24
+      ],
+      "size": "28.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/14Is9qG95OifPQePtdhRrrw",
+          "_id": "68e08df79e798a708ef8c954"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "xenoverse 2 [última Actualización].webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c957",
+      "id": "bFopdPSq",
+      "name": "Youtubers Life 2 ",
+      "image": "Youtubers Life 2 .webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         19,
-        39
+        51,
+        80
       ],
-      "size": "2.0 Gb",
+      "size": "1.8 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1Y3ONiASXRv-XiQGg3Wub6g",
-          "_id": "68e08df79e798a708ef8c932"
+          "link": "https://1024terabox.com/s/1AhEIQ1lz2Y3ys0sGVXcfgw",
+          "_id": "68e08df79e798a708ef8c958"
         }
       ],
       "emulatorId": 2,
@@ -19386,7 +19582,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Tiny Glade.webp",
+      "oldImage": "Youtubers Life 2 .webp",
       "isUpdate": true
     },
     {
@@ -19419,52 +19615,79 @@
       "oldImage": "Valheim.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c957",
-      "id": "bFopdPSq",
-      "name": "Youtubers Life 2 ",
-      "image": "Youtubers Life 2 .webp",
-      "format": 3,
+      "_id": "68e08df79e798a708ef8c969",
+      "id": "rRubxWY-",
+      "name": "Kingdom Two Crowns APK v2.1.4",
+      "image": "SUuwaBO0ed.webp",
+      "format": 6,
       "language": "Multi-Idioma",
       "genre": [
-        19,
-        51,
-        80
+        16,
+        28
       ],
-      "size": "1.8 Gb",
+      "size": "946 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1AhEIQ1lz2Y3ys0sGVXcfgw",
-          "_id": "68e08df79e798a708ef8c958"
+          "link": "https://1024terabox.com/s/1iUSWv5jWFHaRne_9ziZT7w",
+          "_id": "68e08df79e798a708ef8c96a"
         }
       ],
-      "emulatorId": 2,
+      "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Youtubers Life 2 .webp",
+      "oldImage": "SUuwaBO0ed.webp",
       "isUpdate": true
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c951",
-      "id": "LZaGj9-I",
-      "name": "Wwe2k25",
-      "image": "Wwe2k25.webp",
+      "_id": "68e08df79e798a708ef8c95d",
+      "id": "uVuZN_8g",
+      "name": "Sunset Hills APK",
+      "image": "WshVSc60-F.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        7
+      ],
+      "size": "1.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1c5qsv1YUEz_k1zhi0KZ7nA",
+          "_id": "68e08df79e798a708ef8c95e"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "WshVSc60-F.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c93d",
+      "id": "Po0d6Cb1",
+      "name": "Twilight Monk",
+      "image": "Twilight Monk.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        4,
-        10,
-        24
+        1,
+        2,
+        16,
+        55
       ],
-      "size": "80 Gb",
+      "size": "1.4 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1NaGRl1o-I9P1Syi3U3z9qA",
-          "_id": "68e08df79e798a708ef8c952"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1bJk1GoRxthvpetu4K0xQBg",
+          "_id": "68e08df79e798a708ef8c93e"
         }
       ],
       "emulatorId": 2,
@@ -19472,27 +19695,54 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Wwe2k25.webp"
+      "oldImage": "Twilight Monk.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c93b",
-      "id": "sQ83j25F",
-      "name": "Travellers Rest ",
-      "image": "Travellers Rest.webp",
+      "_id": "68e08df79e798a708ef8c949",
+      "id": "ThF15nWO",
+      "name": "VISAGE",
+      "image": "VISAGE.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        20,
+        31,
+        63,
+        21
+      ],
+      "size": "8.0 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1e2jxzr7ZNZYfazRDHTtzkw",
+          "_id": "68e08df79e798a708ef8c94a"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "VISAGE.webp",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c92f",
+      "id": "8DxoHQr_",
+      "name": "TheoTown v1.10.89",
+      "image": "TheoTown v1.10.89.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         19,
-        51,
-        57,
-        3
+        39
       ],
-      "size": "4656 Mb",
+      "size": "172 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1pQ-QPZJBepsGZHLTE1HJZg",
-          "_id": "68e08df79e798a708ef8c93c"
+          "link": "https://1024terabox.com/s/1Kb8sPkD7wp5Y5VEJpKfcVw",
+          "_id": "68e08df79e798a708ef8c930"
         }
       ],
       "emulatorId": 2,
@@ -19500,7 +19750,36 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Travellers Rest.webp",
+      "oldImage": "TheoTown v1.10.89.webp",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c941",
+      "id": "xPTa9mgU",
+      "name": "Uncle Chop's Rocket Shop",
+      "image": "Uncle Chop's Rocket Shop.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        19,
+        51,
+        54
+      ],
+      "size": "1.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1yVL3VfEURJUGlvRSGfNrQg",
+          "_id": "68e08df79e798a708ef8c942"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "Uncle Chop's Rocket Shop.webp",
       "isUpdate": true
     },
     {
@@ -19534,51 +19813,24 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df79e798a708ef8c961",
-      "id": "k-v1Q6X0",
-      "name": "There Is No Game: Wrong Dimension APK v1.0.38",
-      "image": "fQ_lHxZeV6.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        23
-      ],
-      "size": "388 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1KPFCZ-ohpSvgxpA_RCBZoA",
-          "_id": "68e08df79e798a708ef8c962"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "fQ_lHxZeV6.webp",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df79e798a708ef8c941",
-      "id": "xPTa9mgU",
-      "name": "Uncle Chop's Rocket Shop",
-      "image": "Uncle Chop's Rocket Shop.webp",
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c951",
+      "id": "LZaGj9-I",
+      "name": "Wwe2k25",
+      "image": "Wwe2k25.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        19,
-        51,
-        54
+        4,
+        10,
+        24
       ],
-      "size": "1.4 Gb",
+      "size": "80 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1yVL3VfEURJUGlvRSGfNrQg",
-          "_id": "68e08df79e798a708ef8c942"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1NaGRl1o-I9P1Syi3U3z9qA",
+          "_id": "68e08df79e798a708ef8c952"
         }
       ],
       "emulatorId": 2,
@@ -19586,26 +19838,25 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Uncle Chop's Rocket Shop.webp",
-      "isUpdate": true
+      "oldImage": "Wwe2k25.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c92f",
-      "id": "8DxoHQr_",
-      "name": "TheoTown v1.10.89",
-      "image": "TheoTown v1.10.89.webp",
+      "_id": "68e08df79e798a708ef8c931",
+      "id": "KhZQNiKz",
+      "name": "Tiny Glade",
+      "image": "Tiny Glade.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         19,
         39
       ],
-      "size": "172 Mb",
+      "size": "2.0 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1Kb8sPkD7wp5Y5VEJpKfcVw",
-          "_id": "68e08df79e798a708ef8c930"
+          "link": "https://1024terabox.com/s/1Y3ONiASXRv-XiQGg3Wub6g",
+          "_id": "68e08df79e798a708ef8c932"
         }
       ],
       "emulatorId": 2,
@@ -19613,225 +19864,55 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "TheoTown v1.10.89.webp",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df79e798a708ef8c92b",
-      "id": "ixny0EUy",
-      "name": "The Walking Dead The Final Season [The Telltale Series] ",
-      "image": "xOSy3EjIfS.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        23
-      ],
-      "size": "15.3 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://terabox.com/s/189psBe5AM0-Ys9gVUPTL9Q",
-          "_id": "68e08df79e798a708ef8c92c"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "xOSy3EjIfS.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c939",
-      "id": "cnvVwf54",
-      "name": "Tomb Raider Remastered [1,2,3] (Europe)",
-      "image": "Tomb Raider Remastered [1,2,3].webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        7,
-        9
-      ],
-      "size": "3.0 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1n5rpKubBQLtShFM2ffdOnQ",
-          "_id": "68e08df79e798a708ef8c93a"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Tomb Raider Remastered [1,2,3].webp",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df79e798a708ef8c93f",
-      "id": "9KMWN1Fs",
-      "name": "UltraKill",
-      "image": "UltraKill.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        35,
-        81,
-        82
-      ],
-      "size": "2.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/19ZZpwe694GPs_nELXf_ZOA",
-          "_id": "68e08df79e798a708ef8c940"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "UltraKill.webp",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df79e798a708ef8c955",
-      "id": "zzoy07h-",
-      "name": "Yakuza Zero 0 v4.0",
-      "image": "M3VFClooBJ.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        12,
-        65
-      ],
-      "size": "22.6 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1I07KOWY0JnouUoaqPS3PHQ",
-          "_id": "68e08df79e798a708ef8c956"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "M3VFClooBJ.webp",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df79e798a708ef8c95f",
-      "id": "LOOQLUaC",
-      "name": "Ashworld APK v1.8.2",
-      "image": "uJm_S492Kp.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        12
-      ],
-      "size": "12.5 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1YUTDbYI-dNhnwt6HUs49mA",
-          "_id": "68e08df79e798a708ef8c960"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "uJm_S492Kp.webp",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df79e798a708ef8c967",
-      "id": "HHfdR20I",
-      "name": "THE GAME OF LIFE 2 APK v1.0.4",
-      "image": "80LwGxXhFM.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        19,
-        25
-      ],
-      "size": "1.2 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/14XNOEohycJaR6QBPsIqFmQ",
-          "_id": "68e08df79e798a708ef8c968"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "80LwGxXhFM.webp",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df79e798a708ef8c949",
-      "id": "ThF15nWO",
-      "name": "VISAGE",
-      "image": "VISAGE.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        20,
-        31,
-        63,
-        21
-      ],
-      "size": "8.0 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1e2jxzr7ZNZYfazRDHTtzkw",
-          "_id": "68e08df79e798a708ef8c94a"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "VISAGE.webp",
+      "oldImage": "Tiny Glade.webp",
       "isUpdate": true
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c93d",
-      "id": "Po0d6Cb1",
-      "name": "Twilight Monk",
-      "image": "Twilight Monk.webp",
+      "_id": "68e08df79e798a708ef8c94b",
+      "id": "YqdTOdFE",
+      "name": "Voidborn",
+      "image": "Voidborn.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        1,
+        16,
+        27
+      ],
+      "size": "1.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/13TAe-VV0RdQLeTelW0oKpA",
+          "_id": "68e08df79e798a708ef8c94c"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "Voidborn.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c94d",
+      "id": "iIMU-id2",
+      "name": "Weird West Definitive Edition ",
+      "image": "Weird West Definitive Edition.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
         2,
         16,
-        55
+        35,
+        12
       ],
-      "size": "1.4 Gb",
+      "size": "7.4 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1bJk1GoRxthvpetu4K0xQBg",
-          "_id": "68e08df79e798a708ef8c93e"
+          "link": "https://1024terabox.com/s/1WcAKgKPMFAvP2lkufN3wPw",
+          "_id": "68e08df79e798a708ef8c94e"
         }
       ],
       "emulatorId": 2,
@@ -19839,34 +19920,35 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Twilight Monk.webp"
+      "oldImage": "Weird West Definitive Edition.webp",
+      "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c95d",
-      "id": "uVuZN_8g",
-      "name": "Sunset Hills APK",
-      "image": "WshVSc60-F.webp",
-      "format": 6,
+      "_id": "68e08df79e798a708ef8c933",
+      "id": "b6YAO5eN",
+      "name": "Tiny Rogues",
+      "image": "Tiny Rogues.webp",
+      "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        7
+        16,
+        27
       ],
-      "size": "1.9 Gb",
+      "size": "476 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1c5qsv1YUEz_k1zhi0KZ7nA",
-          "_id": "68e08df79e798a708ef8c95e"
+          "link": "https://1024terabox.com/s/1NlL2xPjmRwK0cXEG0mO0Tw",
+          "_id": "68e08df79e798a708ef8c934"
         }
       ],
-      "emulatorId": 10,
+      "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "WshVSc60-F.webp"
+      "oldImage": "Tiny Rogues.webp",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c92d",
@@ -19896,61 +19978,6 @@
       "oldImage": "6MTTts1JXK.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c937",
-      "id": "GXMF8oKc",
-      "name": "Titan Souls ",
-      "image": "Titan Souls.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        16,
-        36
-      ],
-      "size": "225 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1G-LITs0fLxz3yMrZGObyxQ",
-          "_id": "68e08df79e798a708ef8c938"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Titan Souls.webp",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df79e798a708ef8c969",
-      "id": "rRubxWY-",
-      "name": "Kingdom Two Crowns APK v2.1.4",
-      "image": "SUuwaBO0ed.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        16,
-        28
-      ],
-      "size": "946 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1iUSWv5jWFHaRne_9ziZT7w",
-          "_id": "68e08df79e798a708ef8c96a"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "SUuwaBO0ed.webp",
-      "isUpdate": true
-    },
-    {
       "_id": "68e08df79e798a708ef8c95b",
       "id": "qPktfvXg",
       "name": "Dirt Trackin 3 APK v1.5",
@@ -19978,22 +20005,22 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df79e798a708ef8c963",
-      "id": "1CbU2Npg",
-      "name": "Shambles: Sons of Apocalypse APK v1.2.4",
-      "image": "kNgl7K7Ray.webp",
+      "_id": "68e08df79e798a708ef8c96b",
+      "id": "OujQwqD7",
+      "name": "20 Minutes Till Dawn APK v5.3",
+      "image": "O46zCCGDQT.webp",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        12
+        16
       ],
-      "size": "1.5 Gb",
+      "size": "69.5 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1IKn2SnX4c-S4RQ7iVsqgBA",
-          "_id": "68e08df79e798a708ef8c964"
+          "link": "https://1024terabox.com/s/1hu3sY6C1Eio7jcjlEhg1yw",
+          "_id": "68e08df79e798a708ef8c96c"
         }
       ],
       "emulatorId": 10,
@@ -20001,7 +20028,34 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "kNgl7K7Ray.webp",
+      "oldImage": "O46zCCGDQT.webp",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c965",
+      "id": "Q0O-v1OV",
+      "name": "9th Dawn Remake RPG APK v1.184",
+      "image": "PGLMRFHU_a.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        16,
+        41
+      ],
+      "size": "407 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Mp01hAUidiN9Pg0dd2OvGw",
+          "_id": "68e08df79e798a708ef8c966"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "PGLMRFHU_a.webp",
       "isUpdate": true
     },
     {
@@ -20033,22 +20087,23 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df79e798a708ef8c965",
-      "id": "Q0O-v1OV",
-      "name": "9th Dawn Remake RPG APK v1.184",
-      "image": "PGLMRFHU_a.webp",
+      "_id": "68e08df79e798a708ef8c959",
+      "id": "JX8A1iZY",
+      "name": "Monster Train APK v2.3.5",
+      "image": "LVrJAnSy3h.webp",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
         16,
-        41
+        25,
+        28
       ],
-      "size": "407 Mb",
+      "size": "369 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1Mp01hAUidiN9Pg0dd2OvGw",
-          "_id": "68e08df79e798a708ef8c966"
+          "link": "https://1024terabox.com/s/1pVCGYX7Sew-4ccsA24JHbA",
+          "_id": "68e08df79e798a708ef8c95a"
         }
       ],
       "emulatorId": 10,
@@ -20056,62 +20111,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.679Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "PGLMRFHU_a.webp",
-      "isUpdate": true
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c953",
-      "id": "iCPdK1OL",
-      "name": "xenoverse 2 [última Actualización]",
-      "image": "xenoverse 2 [última Actualización].webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        10,
-        22,
-        24
-      ],
-      "size": "28.1 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/14Is9qG95OifPQePtdhRrrw",
-          "_id": "68e08df79e798a708ef8c954"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "xenoverse 2 [última Actualización].webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c933",
-      "id": "b6YAO5eN",
-      "name": "Tiny Rogues",
-      "image": "Tiny Rogues.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        16,
-        27
-      ],
-      "size": "476 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1NlL2xPjmRwK0cXEG0mO0Tw",
-          "_id": "68e08df79e798a708ef8c934"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Tiny Rogues.webp",
+      "oldImage": "LVrJAnSy3h.webp",
       "isUpdate": true
     },
     {
@@ -20144,6 +20144,90 @@
       "isUpdate": true
     },
     {
+      "_id": "68e08df79e798a708ef8c93b",
+      "id": "sQ83j25F",
+      "name": "Travellers Rest ",
+      "image": "Travellers Rest.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        19,
+        51,
+        57,
+        3
+      ],
+      "size": "4656 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1pQ-QPZJBepsGZHLTE1HJZg",
+          "_id": "68e08df79e798a708ef8c93c"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "Travellers Rest.webp",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c963",
+      "id": "1CbU2Npg",
+      "name": "Shambles: Sons of Apocalypse APK v1.2.4",
+      "image": "kNgl7K7Ray.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        12
+      ],
+      "size": "1.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1IKn2SnX4c-S4RQ7iVsqgBA",
+          "_id": "68e08df79e798a708ef8c964"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "kNgl7K7Ray.webp",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c937",
+      "id": "GXMF8oKc",
+      "name": "Titan Souls ",
+      "image": "Titan Souls.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        16,
+        36
+      ],
+      "size": "225 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1G-LITs0fLxz3yMrZGObyxQ",
+          "_id": "68e08df79e798a708ef8c938"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.679Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "Titan Souls.webp",
+      "isUpdate": true
+    },
+    {
       "isUpdate": false,
       "_id": "68e08df79e798a708ef8c935",
       "id": "EbfspENE",
@@ -20173,106 +20257,23 @@
       "oldImage": "Titan Fall 2.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c959",
-      "id": "JX8A1iZY",
-      "name": "Monster Train APK v2.3.5",
-      "image": "LVrJAnSy3h.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        16,
-        25,
-        28
-      ],
-      "size": "369 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1pVCGYX7Sew-4ccsA24JHbA",
-          "_id": "68e08df79e798a708ef8c95a"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "LVrJAnSy3h.webp",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df79e798a708ef8c96b",
-      "id": "OujQwqD7",
-      "name": "20 Minutes Till Dawn APK v5.3",
-      "image": "O46zCCGDQT.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        16
-      ],
-      "size": "69.5 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1hu3sY6C1Eio7jcjlEhg1yw",
-          "_id": "68e08df79e798a708ef8c96c"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "O46zCCGDQT.webp",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df79e798a708ef8c94d",
-      "id": "iIMU-id2",
-      "name": "Weird West Definitive Edition ",
-      "image": "Weird West Definitive Edition.webp",
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c975",
+      "id": "fFyfJlKf",
+      "name": "FIFA 19",
+      "image": "8Xg6wQqTtX.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        16,
-        35,
-        12
+        4,
+        6
       ],
-      "size": "7.4 Gb",
+      "size": "35.7 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1WcAKgKPMFAvP2lkufN3wPw",
-          "_id": "68e08df79e798a708ef8c94e"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.679Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Weird West Definitive Edition.webp",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9a1",
-      "id": "cTZptL1I",
-      "name": "Teenage Mutant Ninja Turtles: The Cowabunga Collection PC Full Español",
-      "image": "-okKZYrJRn.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3
-      ],
-      "size": "9.1 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1zeVoITQ0UT1jgjTbvaAoYw",
-          "_id": "68e08df79e798a708ef8c9a2"
+          "type": "Terabox",
+          "link": "https://terabox.com/s/1oe0hN4IjygDvt4jZwKv0YQ",
+          "_id": "68e08df79e798a708ef8c976"
         }
       ],
       "emulatorId": 2,
@@ -20280,7 +20281,61 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "-okKZYrJRn.webp",
+      "oldImage": "8Xg6wQqTtX.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c98d",
+      "id": "vHydoH8L",
+      "name": "Samurai Jack Battle Through Time ",
+      "image": "LxF13U1Tg0.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        27
+      ],
+      "size": "4.0 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1b66w6MMV3T_fhaoNAzjM4w",
+          "_id": "68e08df79e798a708ef8c98e"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "LxF13U1Tg0.webp",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c991",
+      "id": "-stqTJuk",
+      "name": "FIFA 13 ",
+      "image": "VOODsKyaj8.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        6,
+        19
+      ],
+      "size": "7.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1QBIceXp-mWsYVIdzF8Kr4g",
+          "_id": "68e08df79e798a708ef8c992"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "VOODsKyaj8.webp",
       "isUpdate": true
     },
     {
@@ -20369,93 +20424,6 @@
       "oldImage": "0C7fGrGzVR.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9a9",
-      "id": "Zwl3sS0D",
-      "name": "Xenoblade Chronicles 2 ",
-      "image": "h06bc6qbB-.webp",
-      "format": 2,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        9,
-        12,
-        57,
-        138
-      ],
-      "size": "16 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1owQdQm0AgMxcIe8mlXDAOQ",
-          "_id": "68e08df79e798a708ef8c9aa"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "h06bc6qbB-.webp",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df79e798a708ef8c97b",
-      "id": "Ufs4Lzy2",
-      "name": "Metal Gear Solid V Ground Zeroes ",
-      "image": "tOgpfZIUAS.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        7,
-        8,
-        29
-      ],
-      "size": "3.0 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1_B62bbDXda3RFPHRJIvGdA",
-          "_id": "68e08df79e798a708ef8c97c"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "tOgpfZIUAS.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c977",
-      "id": "AH96K0fX",
-      "name": "Sacred 3 ",
-      "image": "bFLvsuoiZi.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        16,
-        27
-      ],
-      "size": "22.0 gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/19oWlQpwVZ-pbOVusvJ4Knw",
-          "_id": "68e08df79e798a708ef8c978"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "bFLvsuoiZi.webp",
-      "isUpdate": true
-    },
-    {
       "isUpdate": false,
       "_id": "68e08df79e798a708ef8c983",
       "id": "jvdZ9MlF",
@@ -20483,61 +20451,6 @@
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "tAkdun9zfG.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c975",
-      "id": "fFyfJlKf",
-      "name": "FIFA 19",
-      "image": "8Xg6wQqTtX.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        4,
-        6
-      ],
-      "size": "35.7 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/1oe0hN4IjygDvt4jZwKv0YQ",
-          "_id": "68e08df79e798a708ef8c976"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "8Xg6wQqTtX.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c99f",
-      "id": "t5-aWX5B",
-      "name": "Teenage Mutant Ninja Turtles Mutants Unleashed PC Full Español",
-      "image": "L2eg0sL7fm.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        2,
-        3
-      ],
-      "size": "11.8 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1IsQNRMBqOnsHsu24nxYLYQ",
-          "_id": "68e08df79e798a708ef8c9a0"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "L2eg0sL7fm.webp",
-      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -20569,6 +20482,61 @@
       "oldImage": "_tYpe3HvzS.webp"
     },
     {
+      "_id": "68e08df79e798a708ef8c99f",
+      "id": "t5-aWX5B",
+      "name": "Teenage Mutant Ninja Turtles Mutants Unleashed PC Full Español",
+      "image": "L2eg0sL7fm.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        2,
+        3
+      ],
+      "size": "11.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1IsQNRMBqOnsHsu24nxYLYQ",
+          "_id": "68e08df79e798a708ef8c9a0"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "L2eg0sL7fm.webp",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9a1",
+      "id": "cTZptL1I",
+      "name": "Teenage Mutant Ninja Turtles: The Cowabunga Collection PC Full Español",
+      "image": "-okKZYrJRn.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3
+      ],
+      "size": "9.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1zeVoITQ0UT1jgjTbvaAoYw",
+          "_id": "68e08df79e798a708ef8c9a2"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "-okKZYrJRn.webp",
+      "isUpdate": true
+    },
+    {
       "_id": "68e08df79e798a708ef8c9a3",
       "id": "3v-szlTu",
       "name": "Teenage Mutant Ninja Turtles: Shredder’s Revenge PC Full Español",
@@ -20595,6 +20563,94 @@
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "ZpwM2OT3Ts.webp",
       "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9b1",
+      "id": "Y_bGuiUo",
+      "name": "Far cry 2",
+      "image": "BWJG-WMpbH.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        11,
+        12,
+        3
+      ],
+      "size": "2.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1oU7EtnUNqM8HZd0dnp3U6w",
+          "_id": "68e08df79e798a708ef8c9b2"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "BWJG-WMpbH.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c995",
+      "id": "ooOzkmv8",
+      "name": "Dark Souls: Prepare To Die Edition PC",
+      "image": "a_MnlN5lWC.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        10,
+        16,
+        37,
+        34
+      ],
+      "size": "3.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/18AyxWknf4jlqlF4PGOgAmA",
+          "_id": "68e08df79e798a708ef8c996"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "a_MnlN5lWC.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9b5",
+      "id": "qJ9_FHO7",
+      "name": "Far Cry 4",
+      "image": "1781394857569-973fda21.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        11,
+        12
+      ],
+      "size": "25GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/17SOUFTlTSXYY5Pi4IxWLww",
+          "_id": "6a2dedab14dabecb3ecff8d9"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-06-13T23:54:19.123Z",
+      "isUpdate": true,
+      "oldImage": "GZ_ofbyeMq.webp",
+      "gameplayLink": ""
     },
     {
       "_id": "68e08df79e798a708ef8c96f",
@@ -20684,24 +20740,22 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df79e798a708ef8c9b1",
-      "id": "Y_bGuiUo",
-      "name": "Far cry 2",
-      "image": "BWJG-WMpbH.webp",
+      "_id": "68e08df79e798a708ef8c987",
+      "id": "8KLkSECq",
+      "name": "Metal Gear Rising: Revengeance",
+      "image": "UsOR_wdmos.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        11,
-        12,
-        3
+        8
       ],
-      "size": "2.5 Gb",
+      "size": "25.3 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1oU7EtnUNqM8HZd0dnp3U6w",
-          "_id": "68e08df79e798a708ef8c9b2"
+          "link": "https://1024terabox.com/s/1aw8seuJJoYs65gb4ZxvsHg",
+          "_id": "68e08df79e798a708ef8c988"
         }
       ],
       "emulatorId": 2,
@@ -20710,28 +20764,28 @@
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "BWJG-WMpbH.webp"
+      "oldImage": "UsOR_wdmos.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9af",
-      "id": "7fA15HwI",
-      "name": "Far cry",
-      "image": "xa3_bIGinG.webp",
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c997",
+      "id": "gAIEsehj",
+      "name": "Dark Souls: Remastered PC Full Español",
+      "image": "QqzTmHguya.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        11,
-        12,
-        21,
-        3
+        10,
+        16,
+        34,
+        37
       ],
-      "size": "2.6 Gb",
+      "size": "7.2 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1m_FdQhtmAQZ2hwvikD8wOA",
-          "_id": "68e08df79e798a708ef8c9b0"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/19mPzR7dCpn9viJ81Gjqgzg",
+          "_id": "68e08df79e798a708ef8c998"
         }
       ],
       "emulatorId": 2,
@@ -20739,26 +20793,52 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "xa3_bIGinG.webp"
+      "oldImage": "QqzTmHguya.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c98d",
-      "id": "vHydoH8L",
-      "name": "Samurai Jack Battle Through Time ",
-      "image": "LxF13U1Tg0.webp",
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c989",
+      "id": "Y0gfYqgF",
+      "name": "Resident Evil 2 Remake Directx12",
+      "image": "b7WKp2R0iA.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        14,
+        7
+      ],
+      "size": "24.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1rYY9dEuIlaarMUG2XG5B5w",
+          "_id": "68e08df79e798a708ef8c98a"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "b7WKp2R0iA.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c985",
+      "id": "jRlm3-vy",
+      "name": "METAL GEAR SOLID V: THE PHANTOM PAIN (v1.15)",
+      "image": "3mOJ4vHWee.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         7,
-        27
+        8
       ],
-      "size": "4.0 Gb",
+      "size": "22.8 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1b66w6MMV3T_fhaoNAzjM4w",
-          "_id": "68e08df79e798a708ef8c98e"
+          "link": "https://1024terabox.com/s/1sQU4rpkuYslMrFcFiTfhog",
+          "_id": "68e08df79e798a708ef8c986"
         }
       ],
       "emulatorId": 2,
@@ -20766,36 +20846,8 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "LxF13U1Tg0.webp",
-      "isUpdate": true
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c981",
-      "id": "QiY-Lj2L",
-      "name": "METAL GEAR SOLID 2: Sons of Liberty – Master Collection (v2.0.1)",
-      "image": "v9uCELFr0a.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        8
-      ],
-      "size": "22.3 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1VcdXy9MM8RUAxKFhzEUw3g",
-          "_id": "68e08df79e798a708ef8c982"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "v9uCELFr0a.webp"
+      "isUpdate": true,
+      "oldImage": "3mOJ4vHWee.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c98b",
@@ -20827,25 +20879,25 @@
       "oldImage": "oeKS7b8lMW.webp"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c997",
-      "id": "gAIEsehj",
-      "name": "Dark Souls: Remastered PC Full Español",
-      "image": "QqzTmHguya.webp",
+      "_id": "68e08df79e798a708ef8c9a7",
+      "id": "ZfEWs8SF",
+      "name": "No Man’s Sky PC Full Español",
+      "image": "7QmzfygIVv.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        10,
-        16,
-        34,
-        37
+        2,
+        3,
+        12,
+        21,
+        9
       ],
-      "size": "7.2 Gb",
+      "size": "22.4 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/19mPzR7dCpn9viJ81Gjqgzg",
-          "_id": "68e08df79e798a708ef8c998"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/14ee8vn6sk0mU7RsEzw3pJg",
+          "_id": "68e08df79e798a708ef8c9a8"
         }
       ],
       "emulatorId": 2,
@@ -20853,7 +20905,36 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "QqzTmHguya.webp"
+      "isUpdate": true,
+      "oldImage": "7QmzfygIVv.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c97f",
+      "id": "eVWsF1bq",
+      "name": "Bread and Fred ",
+      "image": "PriUjr24N6.webp",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        17,
+        2
+      ],
+      "size": "406.0 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1iQrjBanqXC_zSPIDpjYFvg",
+          "_id": "68e08df79e798a708ef8c980"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "PriUjr24N6.webp",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c979",
@@ -20915,105 +20996,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c989",
-      "id": "Y0gfYqgF",
-      "name": "Resident Evil 2 Remake Directx12",
-      "image": "b7WKp2R0iA.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        14,
-        7
-      ],
-      "size": "24.1 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1rYY9dEuIlaarMUG2XG5B5w",
-          "_id": "68e08df79e798a708ef8c98a"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "b7WKp2R0iA.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c985",
-      "id": "jRlm3-vy",
-      "name": "METAL GEAR SOLID V: THE PHANTOM PAIN (v1.15)",
-      "image": "3mOJ4vHWee.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8
-      ],
-      "size": "22.8 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1sQU4rpkuYslMrFcFiTfhog",
-          "_id": "68e08df79e798a708ef8c986"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "3mOJ4vHWee.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9a7",
-      "id": "ZfEWs8SF",
-      "name": "No Man’s Sky PC Full Español",
-      "image": "7QmzfygIVv.webp",
+      "_id": "68e08df79e798a708ef8c981",
+      "id": "QiY-Lj2L",
+      "name": "METAL GEAR SOLID 2: Sons of Liberty – Master Collection (v2.0.1)",
+      "image": "v9uCELFr0a.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
         3,
-        12,
-        21,
-        9
-      ],
-      "size": "22.4 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/14ee8vn6sk0mU7RsEzw3pJg",
-          "_id": "68e08df79e798a708ef8c9a8"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "7QmzfygIVv.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c987",
-      "id": "8KLkSECq",
-      "name": "Metal Gear Rising: Revengeance",
-      "image": "UsOR_wdmos.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
         8
       ],
-      "size": "25.3 Gb",
+      "size": "22.3 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1aw8seuJJoYs65gb4ZxvsHg",
-          "_id": "68e08df79e798a708ef8c988"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1VcdXy9MM8RUAxKFhzEUw3g",
+          "_id": "68e08df79e798a708ef8c982"
         }
       ],
       "emulatorId": 2,
@@ -21021,8 +21020,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "UsOR_wdmos.webp"
+      "oldImage": "v9uCELFr0a.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c99d",
@@ -21053,31 +21051,31 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df79e798a708ef8c97f",
-      "id": "eVWsF1bq",
-      "name": "Bread and Fred ",
-      "image": "PriUjr24N6.webp",
-      "format": 2,
+      "_id": "68e08df79e798a708ef8c977",
+      "id": "AH96K0fX",
+      "name": "Sacred 3 ",
+      "image": "bFLvsuoiZi.webp",
+      "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        17,
-        2
+        2,
+        16,
+        27
       ],
-      "size": "406.0 Mb",
+      "size": "22.0 gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1iQrjBanqXC_zSPIDpjYFvg",
-          "_id": "68e08df79e798a708ef8c980"
+          "link": "https://1024terabox.com/s/19oWlQpwVZ-pbOVusvJ4Knw",
+          "_id": "68e08df79e798a708ef8c978"
         }
       ],
-      "emulatorId": 8,
+      "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "PriUjr24N6.webp",
+      "oldImage": "bFLvsuoiZi.webp",
       "isUpdate": true
     },
     {
@@ -21106,6 +21104,35 @@
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "cJtR7WkEqF.webp",
       "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c97b",
+      "id": "Ufs4Lzy2",
+      "name": "Metal Gear Solid V Ground Zeroes ",
+      "image": "tOgpfZIUAS.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        7,
+        8,
+        29
+      ],
+      "size": "3.0 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1_B62bbDXda3RFPHRJIvGdA",
+          "_id": "68e08df79e798a708ef8c97c"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.680Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "tOgpfZIUAS.webp"
     },
     {
       "isUpdate": false,
@@ -21164,65 +21191,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c995",
-      "id": "ooOzkmv8",
-      "name": "Dark Souls: Prepare To Die Edition PC",
-      "image": "a_MnlN5lWC.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        10,
-        16,
-        37,
-        34
-      ],
-      "size": "3.8 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/18AyxWknf4jlqlF4PGOgAmA",
-          "_id": "68e08df79e798a708ef8c996"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "a_MnlN5lWC.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9b5",
-      "id": "qJ9_FHO7",
-      "name": "Far Cry 4",
-      "image": "1781394857569-973fda21.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        11,
-        12
-      ],
-      "size": "25GB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/17SOUFTlTSXYY5Pi4IxWLww",
-          "_id": "6a2dedab14dabecb3ecff8d9"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.680Z",
-      "updatedAt": "2026-06-13T23:54:19.123Z",
-      "isUpdate": true,
-      "oldImage": "GZ_ofbyeMq.webp",
-      "gameplayLink": ""
-    },
-    {
       "_id": "68e08df79e798a708ef8c9ad",
       "id": "iHUEyzu5",
       "name": "Far Cry Primal",
@@ -21252,23 +21220,25 @@
       "oldImage": "pe3jhFU4Co.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c991",
-      "id": "-stqTJuk",
-      "name": "FIFA 13 ",
-      "image": "VOODsKyaj8.webp",
+      "_id": "68e08df79e798a708ef8c9af",
+      "id": "7fA15HwI",
+      "name": "Far cry",
+      "image": "xa3_bIGinG.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        4,
-        6,
-        19
+        2,
+        11,
+        12,
+        21,
+        3
       ],
-      "size": "7.9 Gb",
+      "size": "2.6 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1QBIceXp-mWsYVIdzF8Kr4g",
-          "_id": "68e08df79e798a708ef8c992"
+          "link": "https://1024terabox.com/s/1m_FdQhtmAQZ2hwvikD8wOA",
+          "_id": "68e08df79e798a708ef8c9b0"
         }
       ],
       "emulatorId": 2,
@@ -21276,37 +21246,38 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "VOODsKyaj8.webp",
-      "isUpdate": true
+      "isUpdate": true,
+      "oldImage": "xa3_bIGinG.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9cf",
-      "id": "0wPSXJSM",
-      "name": "LEGO THE LEGO MOVIE VIDEOGAME",
-      "image": "1D9CaaBNe3.webp",
-      "format": 3,
+      "_id": "68e08df79e798a708ef8c9a9",
+      "id": "Zwl3sS0D",
+      "name": "Xenoblade Chronicles 2 ",
+      "image": "h06bc6qbB-.webp",
+      "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        3,
+        2,
+        9,
         12,
-        44,
-        1
+        57,
+        138
       ],
-      "size": "7.3 Gb",
+      "size": "16 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1HsrVQQvjz_O0-_q1lBvd_A",
-          "_id": "68e08df79e798a708ef8c9d0"
+          "link": "https://1024terabox.com/s/1owQdQm0AgMxcIe8mlXDAOQ",
+          "_id": "68e08df79e798a708ef8c9aa"
         }
       ],
-      "emulatorId": 2,
+      "emulatorId": 8,
       "captures": [],
       "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.688Z",
+      "createdAt": "2025-10-04T03:01:11.680Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "1D9CaaBNe3.webp"
+      "oldImage": "h06bc6qbB-.webp",
+      "isUpdate": true
     },
     {
       "_id": "68e08df79e798a708ef8c9d3",
@@ -21366,35 +21337,6 @@
       "oldImage": "o9rJB4VOR7.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9c3",
-      "id": "0dACPbqx",
-      "name": "LEGO Piratas del Caribe ",
-      "image": "CBq6WbK22f.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        17,
-        44
-      ],
-      "size": "7.8 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1U_vnBzBnv3NpjaoZvj8JAA",
-          "_id": "68e08df79e798a708ef8c9c4"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "CBq6WbK22f.webp"
-    },
-    {
       "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9bd",
       "id": "gtVZse3P",
@@ -21424,53 +21366,24 @@
       "oldImage": "BrCpqqiVum.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9cd",
-      "id": "bzi4TVgG",
-      "name": "LEGO THE INCREIBLES ",
-      "image": "WfFnv7PxmW.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        12,
-        44,
-        45,
-        3
-      ],
-      "size": "14.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1jEGvbyJsdHGcXlV4yyzOcw",
-          "_id": "68e08df79e798a708ef8c9ce"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "WfFnv7PxmW.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9d7",
-      "id": "4F40y8Bd",
-      "name": "LEGO Horizon Adventures ",
-      "image": "gKCqTlOWkm.webp",
+      "_id": "68e08df79e798a708ef8c9cf",
+      "id": "0wPSXJSM",
+      "name": "LEGO THE LEGO MOVIE VIDEOGAME",
+      "image": "1D9CaaBNe3.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         3,
+        12,
         44,
-        2
+        1
       ],
-      "size": "13.8 Gb",
+      "size": "7.3 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1YaoY2FT4wPcOc_-YgtHFvQ",
-          "_id": "68e08df79e798a708ef8c9d8"
+          "link": "https://1024terabox.com/s/1HsrVQQvjz_O0-_q1lBvd_A",
+          "_id": "68e08df79e798a708ef8c9d0"
         }
       ],
       "emulatorId": 2,
@@ -21479,7 +21392,7 @@
       "createdAt": "2025-10-04T03:01:11.688Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "gKCqTlOWkm.webp"
+      "oldImage": "1D9CaaBNe3.webp"
     },
     {
       "isUpdate": false,
@@ -21511,141 +21424,24 @@
       "oldImage": "8BsCFT5m1R.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9b7",
-      "id": "C7uAEnX9",
-      "name": "Far Cry 5 Gold Edition",
-      "image": "ErMEDU32Iq.webp",
+      "_id": "68e08df79e798a708ef8c9d1",
+      "id": "JL0jFBPg",
+      "name": "LEGO HARRY POTTER COLLECTION ",
+      "image": "vJnWE9JmMd.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
         3,
-        12,
-        11
-      ],
-      "size": "82.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/15iZ4wGyGeLlOCxupkj632w",
-          "_id": "68e08df79e798a708ef8c9b8"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "ErMEDU32Iq.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9c7",
-      "id": "6ap3nIVV",
-      "name": "LEGO STAR WARS The Skywalker Saga ",
-      "image": "xRULYWC6VQ.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        2,
         44,
-        3
-      ],
-      "size": "29.9 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1yJAf_KPl6Gfqpt5p7o0bmw",
-          "_id": "68e08df79e798a708ef8c9c8"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "xRULYWC6VQ.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9bb",
-      "id": "vNFd_y57",
-      "name": "Far Cry New Dawn",
-      "image": "EieEGzfPku.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        12,
-        11
-      ],
-      "size": "32.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1XdUaK68UvFtD4_WE_rJrEA",
-          "_id": "68e08df79e798a708ef8c9bc"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "EieEGzfPku.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9b9",
-      "id": "cZjZq6V2",
-      "name": "Far Cry 6 ",
-      "image": "h6FX4Fcm-9.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        12,
-        11
-      ],
-      "size": "140 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1BpJ1Cx994GbM2DlnUnqlgQ",
-          "_id": "68e08df79e798a708ef8c9ba"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "h6FX4Fcm-9.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c9c1",
-      "id": "Nd4xZBhf",
-      "name": "Five Nights At Freddy's Secret Of The Mimic ",
-      "image": "iQpf3uUyG9.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        9,
-        14,
         12
       ],
-      "size": "19.6 Gb",
+      "size": "13.6 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1aHQPaAbsI-aYaqeWRCQr9g",
-          "_id": "68e08df79e798a708ef8c9c2"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1yjG5hskenlGV-trCKUgoOw",
+          "_id": "68e08df79e798a708ef8c9d2"
         }
       ],
       "emulatorId": 2,
@@ -21653,7 +21449,8 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.688Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "iQpf3uUyG9.webp"
+      "isUpdate": true,
+      "oldImage": "vJnWE9JmMd.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c9c9",
@@ -21686,24 +21483,52 @@
       "oldImage": "04UygABmaj.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9d1",
-      "id": "JL0jFBPg",
-      "name": "LEGO HARRY POTTER COLLECTION ",
-      "image": "vJnWE9JmMd.webp",
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c9c1",
+      "id": "Nd4xZBhf",
+      "name": "Five Nights At Freddy's Secret Of The Mimic ",
+      "image": "iQpf3uUyG9.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
         3,
-        44,
+        9,
+        14,
         12
       ],
-      "size": "13.6 Gb",
+      "size": "19.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1aHQPaAbsI-aYaqeWRCQr9g",
+          "_id": "68e08df79e798a708ef8c9c2"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.688Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "iQpf3uUyG9.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9d7",
+      "id": "4F40y8Bd",
+      "name": "LEGO Horizon Adventures ",
+      "image": "gKCqTlOWkm.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        44,
+        2
+      ],
+      "size": "13.8 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1yjG5hskenlGV-trCKUgoOw",
-          "_id": "68e08df79e798a708ef8c9d2"
+          "link": "https://1024terabox.com/s/1YaoY2FT4wPcOc_-YgtHFvQ",
+          "_id": "68e08df79e798a708ef8c9d8"
         }
       ],
       "emulatorId": 2,
@@ -21712,7 +21537,182 @@
       "createdAt": "2025-10-04T03:01:11.688Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "vJnWE9JmMd.webp"
+      "oldImage": "gKCqTlOWkm.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9cd",
+      "id": "bzi4TVgG",
+      "name": "LEGO THE INCREIBLES ",
+      "image": "WfFnv7PxmW.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        12,
+        44,
+        45,
+        3
+      ],
+      "size": "14.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1jEGvbyJsdHGcXlV4yyzOcw",
+          "_id": "68e08df79e798a708ef8c9ce"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.688Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "WfFnv7PxmW.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9b7",
+      "id": "C7uAEnX9",
+      "name": "Far Cry 5 Gold Edition",
+      "image": "ErMEDU32Iq.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        12,
+        11
+      ],
+      "size": "82.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/15iZ4wGyGeLlOCxupkj632w",
+          "_id": "68e08df79e798a708ef8c9b8"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.688Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "ErMEDU32Iq.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9c3",
+      "id": "0dACPbqx",
+      "name": "LEGO Piratas del Caribe ",
+      "image": "CBq6WbK22f.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        17,
+        44
+      ],
+      "size": "7.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1U_vnBzBnv3NpjaoZvj8JAA",
+          "_id": "68e08df79e798a708ef8c9c4"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.688Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "CBq6WbK22f.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9bb",
+      "id": "vNFd_y57",
+      "name": "Far Cry New Dawn",
+      "image": "EieEGzfPku.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        12,
+        11
+      ],
+      "size": "32.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1XdUaK68UvFtD4_WE_rJrEA",
+          "_id": "68e08df79e798a708ef8c9bc"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.688Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "EieEGzfPku.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9c7",
+      "id": "6ap3nIVV",
+      "name": "LEGO STAR WARS The Skywalker Saga ",
+      "image": "xRULYWC6VQ.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        2,
+        44,
+        3
+      ],
+      "size": "29.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1yJAf_KPl6Gfqpt5p7o0bmw",
+          "_id": "68e08df79e798a708ef8c9c8"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.688Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "xRULYWC6VQ.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9b9",
+      "id": "cZjZq6V2",
+      "name": "Far Cry 6 ",
+      "image": "h6FX4Fcm-9.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        12,
+        11
+      ],
+      "size": "140 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1BpJ1Cx994GbM2DlnUnqlgQ",
+          "_id": "68e08df79e798a708ef8c9ba"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.688Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "h6FX4Fcm-9.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c9d5",
@@ -21803,35 +21803,6 @@
       "oldImage": "8CB8u30uyO.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9e3",
-      "id": "Qisn9j2M",
-      "name": "LEGO The Lord Of The Rings",
-      "image": "9B6ypJwO0K.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        12,
-        44
-      ],
-      "size": "5.8 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1C76Q_RbBVNILK123H0IXog",
-          "_id": "68e08df79e798a708ef8c9e4"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "9B6ypJwO0K.webp"
-    },
-    {
       "_id": "68e08df79e798a708ef8c9d9",
       "id": "dHFFCqeZ",
       "name": "LEGO Builders Journey",
@@ -21857,147 +21828,6 @@
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
       "oldImage": "ty-QUE2AP9.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c9ed",
-      "id": "-lsRXKUg",
-      "name": "Poppy PlayTime Chapter 4 ",
-      "image": "ydWe--Wcuu.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        14,
-        3
-      ],
-      "size": "7.1 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/16CzOEK0bGvXrmYvtowmkqQ",
-          "_id": "68e08df79e798a708ef8c9ee"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "ydWe--Wcuu.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9e5",
-      "id": "Akl-wFN8",
-      "name": "LEGO The Hobbit ",
-      "image": "eE3VU48QqY.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        12,
-        44
-      ],
-      "size": "7.3 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1P7Wko_tIq1Y6-DRcVtpD7Q",
-          "_id": "68e08df79e798a708ef8c9e6"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "eE3VU48QqY.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9ef",
-      "id": "IPjBqOfF",
-      "name": "Poppy playtime chapter 4",
-      "image": "4hWDXXdtsB.webp",
-      "format": 9,
-      "language": "Español",
-      "genre": [
-        31,
-        21,
-        49,
-        3
-      ],
-      "size": "4GB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1UxNYDpAK36-t_mP5QDyC1Q",
-          "_id": "68e08df79e798a708ef8c9f0"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "4hWDXXdtsB.webp",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9df",
-      "id": "nwjO7MgN",
-      "name": "DOOM ETERNAL ",
-      "image": "G7eHri7c_B.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        11,
-        31
-      ],
-      "size": "90.1 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1YOR-vU5WNHZh50DqAhL9aw",
-          "_id": "68e08df79e798a708ef8c9e0"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "G7eHri7c_B.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9dd",
-      "id": "Civims3f",
-      "name": "LIES OF P ",
-      "image": "YWRPUPWraS.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        0
-      ],
-      "size": "58.6 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1swTQmRdqacv4nZ5Gezk9TA",
-          "_id": "68e08df79e798a708ef8c9de"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "YWRPUPWraS.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c9db",
@@ -22029,6 +21859,121 @@
       "oldImage": "XWuJ5jNuRu.webp"
     },
     {
+      "_id": "68e08df79e798a708ef8c9df",
+      "id": "nwjO7MgN",
+      "name": "DOOM ETERNAL ",
+      "image": "G7eHri7c_B.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        11,
+        31
+      ],
+      "size": "90.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1YOR-vU5WNHZh50DqAhL9aw",
+          "_id": "68e08df79e798a708ef8c9e0"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "G7eHri7c_B.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9ef",
+      "id": "IPjBqOfF",
+      "name": "Poppy playtime chapter 4",
+      "image": "4hWDXXdtsB.webp",
+      "format": 9,
+      "language": "Español",
+      "genre": [
+        31,
+        21,
+        49,
+        3
+      ],
+      "size": "4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1UxNYDpAK36-t_mP5QDyC1Q",
+          "_id": "68e08df79e798a708ef8c9f0"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "4hWDXXdtsB.webp",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9e3",
+      "id": "Qisn9j2M",
+      "name": "LEGO The Lord Of The Rings",
+      "image": "9B6ypJwO0K.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        12,
+        44
+      ],
+      "size": "5.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1C76Q_RbBVNILK123H0IXog",
+          "_id": "68e08df79e798a708ef8c9e4"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "9B6ypJwO0K.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9e5",
+      "id": "Akl-wFN8",
+      "name": "LEGO The Hobbit ",
+      "image": "eE3VU48QqY.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        12,
+        44
+      ],
+      "size": "7.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1P7Wko_tIq1Y6-DRcVtpD7Q",
+          "_id": "68e08df79e798a708ef8c9e6"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "eE3VU48QqY.webp"
+    },
+    {
       "_id": "68e08df79e798a708ef8c9e7",
       "id": "k1T0Y9Gj",
       "name": "LEGO DC SUPER VILLAINS ",
@@ -22058,23 +22003,23 @@
       "oldImage": "a9QYQ37GLF.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9e1",
-      "id": "NYf5Q7Ld",
-      "name": "DOOM 2016",
-      "image": "OOvlCqvgKg.webp",
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c9ed",
+      "id": "-lsRXKUg",
+      "name": "Poppy PlayTime Chapter 4 ",
+      "image": "ydWe--Wcuu.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        11,
-        31,
-        2
+        14,
+        3
       ],
-      "size": "65.8 Gb",
+      "size": "7.1 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1_aS4bu9LXc4SeqK36PBcGA",
-          "_id": "68e08df79e798a708ef8c9e2"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/16CzOEK0bGvXrmYvtowmkqQ",
+          "_id": "68e08df79e798a708ef8c9ee"
         }
       ],
       "emulatorId": 2,
@@ -22082,8 +22027,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.689Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "OOvlCqvgKg.webp"
+      "oldImage": "ydWe--Wcuu.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c9eb",
@@ -22115,6 +22059,88 @@
       "isUpdate": true
     },
     {
+      "_id": "68e08df79e798a708ef8c9e1",
+      "id": "NYf5Q7Ld",
+      "name": "DOOM 2016",
+      "image": "OOvlCqvgKg.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        11,
+        31,
+        2
+      ],
+      "size": "65.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1_aS4bu9LXc4SeqK36PBcGA",
+          "_id": "68e08df79e798a708ef8c9e2"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "OOvlCqvgKg.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9dd",
+      "id": "Civims3f",
+      "name": "LIES OF P ",
+      "image": "YWRPUPWraS.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        0
+      ],
+      "size": "58.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1swTQmRdqacv4nZ5Gezk9TA",
+          "_id": "68e08df79e798a708ef8c9de"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "YWRPUPWraS.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca0a",
+      "id": "1T_8dRHz",
+      "name": "Breath Of fire 3 ",
+      "image": "MtxvGhkkWj.webp",
+      "format": 4,
+      "language": "Español",
+      "genre": [
+        16
+      ],
+      "size": "403 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1d-zVYuUiiMTge-j3PGhQcg",
+          "_id": "68e08df89e798a708ef8ca0b"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "MtxvGhkkWj.webp"
+    },
+    {
       "isUpdate": false,
       "_id": "68e08df89e798a708ef8c9f4",
       "id": "X43xWeOe",
@@ -22143,30 +22169,32 @@
       "oldImage": "W60upn230K.webp"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca0a",
-      "id": "1T_8dRHz",
-      "name": "Breath Of fire 3 ",
-      "image": "MtxvGhkkWj.webp",
+      "_id": "68e08df89e798a708ef8ca02",
+      "id": "sztm_0Ol",
+      "name": "Bomberman",
+      "image": "1785879321330-a6ccc5aa.webp",
       "format": 4,
-      "language": "Español",
+      "language": "Español-Ingles",
       "genre": [
-        16
+        2,
+        28
       ],
-      "size": "403 Mb",
+      "size": "156MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1d-zVYuUiiMTge-j3PGhQcg",
-          "_id": "68e08df89e798a708ef8ca0b"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1wJTuUNit0MV1_H2PGzdj4A",
+          "_id": "6a725b1a7d9816a180dd44ed"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "MtxvGhkkWj.webp"
+      "updatedAt": "2026-08-04T21:35:22.841Z",
+      "oldImage": "AW3zI0Kuod.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8c9f2",
@@ -22226,118 +22254,6 @@
       "oldImage": "Sma8jD7eI6.webp",
       "isUpdate": true,
       "gameplayLink": ""
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca06",
-      "id": "QUfMNhpM",
-      "name": "Burnout Dominator",
-      "image": "1785881213676-65d74f6d.webp",
-      "format": 4,
-      "language": "Español-Ingles",
-      "genre": [
-        42
-      ],
-      "size": "777MB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/100K1WHtGGfpKwgiXNhA00g",
-          "_id": "6a7262807d9816a180dd58be"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-08-04T22:06:56.748Z",
-      "oldImage": "eRf65rrylI.webp",
-      "gameplayLink": "",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df89e798a708ef8c9fe",
-      "id": "19P2Z17Y",
-      "name": "BlazBlue Calamity trigger",
-      "image": "1781492439208-a4e3038b.webp",
-      "format": 4,
-      "language": "Español-Ingles",
-      "genre": [
-        32,
-        7
-      ],
-      "size": "936MB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1oFNeVPZaGKArveqWtthmew",
-          "_id": "6a2f6ad814dabecb3ed00cb9"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-15T03:00:40.899Z",
-      "oldImage": "HzoEOjHpqj.webp",
-      "gameplayLink": "",
-      "isUpdate": true
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8c9fa",
-      "id": "SSOs9BEz",
-      "name": "Ben 10 Alien Force ",
-      "image": "aP3hyfS2kk.webp",
-      "format": 4,
-      "language": "Español",
-      "genre": [
-        1,
-        2,
-        3,
-        45
-      ],
-      "size": "774 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1dzxlvXkCjRy1Do4lfTqqFg",
-          "_id": "68e08df89e798a708ef8c9fb"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "aP3hyfS2kk.webp"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca02",
-      "id": "sztm_0Ol",
-      "name": "Bomberman",
-      "image": "1785879321330-a6ccc5aa.webp",
-      "format": 4,
-      "language": "Español-Ingles",
-      "genre": [
-        2,
-        28
-      ],
-      "size": "156MB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1wJTuUNit0MV1_H2PGzdj4A",
-          "_id": "6a725b1a7d9816a180dd44ed"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-08-04T21:35:22.841Z",
-      "oldImage": "AW3zI0Kuod.webp",
-      "gameplayLink": "",
-      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -22425,23 +22341,24 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8c9fc",
-      "id": "bOcEkrqv",
-      "name": "Blade Dancer Lineage Of Light",
-      "image": "xvEPE4-q_n.webp",
+      "_id": "68e08df89e798a708ef8c9fa",
+      "id": "SSOs9BEz",
+      "name": "Ben 10 Alien Force ",
+      "image": "aP3hyfS2kk.webp",
       "format": 4,
       "language": "Español",
       "genre": [
+        1,
         2,
-        41,
-        3
+        3,
+        45
       ],
-      "size": "1.4 Gb",
+      "size": "774 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1MfoVwA-xCoXLiibFkHBCgw",
-          "_id": "68e08df89e798a708ef8c9fd"
+          "link": "https://1024terabox.com/s/1dzxlvXkCjRy1Do4lfTqqFg",
+          "_id": "68e08df89e798a708ef8c9fb"
         }
       ],
       "emulatorId": 3,
@@ -22449,35 +22366,33 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "xvEPE4-q_n.webp"
+      "oldImage": "aP3hyfS2kk.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca04",
-      "id": "MGVHga6i",
-      "name": "Bomberman Land",
-      "image": "1782052372048-cc91c2a0.webp",
+      "_id": "68e08df89e798a708ef8c9fe",
+      "id": "19P2Z17Y",
+      "name": "BlazBlue Calamity trigger",
+      "image": "1781492439208-a4e3038b.webp",
       "format": 4,
       "language": "Español-Ingles",
       "genre": [
-        69,
-        68,
-        3,
-        71
+        32,
+        7
       ],
-      "size": "510MB",
+      "size": "936MB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/19PnmM0YeY4xv_KiW4jx6pQ",
-          "_id": "6a37f61514dabecb3ed14654"
+          "link": "https://1024terabox.com/s/1oFNeVPZaGKArveqWtthmew",
+          "_id": "6a2f6ad814dabecb3ed00cb9"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-21T14:32:53.512Z",
-      "oldImage": "TfxUzF-wXH.webp",
+      "updatedAt": "2026-06-15T03:00:40.899Z",
+      "oldImage": "HzoEOjHpqj.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
@@ -22538,6 +22453,91 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df89e798a708ef8c9fc",
+      "id": "bOcEkrqv",
+      "name": "Blade Dancer Lineage Of Light",
+      "image": "xvEPE4-q_n.webp",
+      "format": 4,
+      "language": "Español",
+      "genre": [
+        2,
+        41,
+        3
+      ],
+      "size": "1.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1MfoVwA-xCoXLiibFkHBCgw",
+          "_id": "68e08df89e798a708ef8c9fd"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "xvEPE4-q_n.webp"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca04",
+      "id": "MGVHga6i",
+      "name": "Bomberman Land",
+      "image": "1782052372048-cc91c2a0.webp",
+      "format": 4,
+      "language": "Español-Ingles",
+      "genre": [
+        69,
+        68,
+        3,
+        71
+      ],
+      "size": "510MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/19PnmM0YeY4xv_KiW4jx6pQ",
+          "_id": "6a37f61514dabecb3ed14654"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2026-06-21T14:32:53.512Z",
+      "oldImage": "TfxUzF-wXH.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca06",
+      "id": "QUfMNhpM",
+      "name": "Burnout Dominator",
+      "image": "1785881213676-65d74f6d.webp",
+      "format": 4,
+      "language": "Español-Ingles",
+      "genre": [
+        42
+      ],
+      "size": "777MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/100K1WHtGGfpKwgiXNhA00g",
+          "_id": "6a7262807d9816a180dd58be"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2026-08-04T22:06:56.748Z",
+      "oldImage": "eRf65rrylI.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca1e",
       "id": "Q84lwyw1",
       "name": "LEGO Star Wars El Despertar de la Fuerza",
@@ -22564,76 +22564,23 @@
       "oldImage": "1gt3ndCcSu.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca6c",
-      "id": "IbgyKzo0",
-      "name": "Persona 3 Portable",
-      "image": "pv-Po8XUVy.webp",
-      "format": 2,
-      "language": "Multi-Idioma",
-      "genre": [
-        16,
-        19
-      ],
-      "size": "7,6 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/103Y8V6_xiu5oqP7CDM7G_A",
-          "_id": "68e08df89e798a708ef8ca6d"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "pv-Po8XUVy.webp",
-      "isUpdate": true
-    },
-    {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca66",
-      "id": "EAwwkWf6",
-      "name": "Scribblenauts Unmasked (USA)",
-      "image": "77K6kgppFO.webp",
+      "_id": "68e08df89e798a708ef8ca46",
+      "id": "dJBdL0yt",
+      "name": "Phineas and Ferb - Quest for Cool Stuff (USA)",
+      "image": "iRpptvI-07.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        39
-      ],
-      "size": "981 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/18RkthFvs4ZKwC8YU3V4HmQ",
-          "_id": "68e08df89e798a708ef8ca67"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "77K6kgppFO.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca6a",
-      "id": "Y-yGuZZp",
-      "name": "Shantae Half-Genie Hero (USA) (DLC) (v80)",
-      "image": "urBBkzlQ4d.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
+        3,
         1
       ],
-      "size": "2,4 Gb",
+      "size": "211 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/18337Kfxew7M9H1BBX_iltg",
-          "_id": "68e08df89e798a708ef8ca6b"
+          "link": "https://1024terabox.com/s/1W_rfTiO6_iKWl_p7R9VE7A",
+          "_id": "68e08df89e798a708ef8ca47"
         }
       ],
       "emulatorId": 5,
@@ -22641,60 +22588,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "urBBkzlQ4d.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca52",
-      "id": "wfwPBu4U",
-      "name": "PAC-MAN and the Ghostly Adventures",
-      "image": "m7HIsc2t1x.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        1
-      ],
-      "size": "2,9 gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1R5_VQnmJ6mt4-y6UnsonRA",
-          "_id": "68e08df89e798a708ef8ca53"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "m7HIsc2t1x.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca2a",
-      "id": "w1VoOMQH",
-      "name": "Mario Party 10 ",
-      "image": "0bj3Z6enwh.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3
-      ],
-      "size": "2.8 gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1JXlgNcd14fnZFJkjPX4SnA",
-          "_id": "68e08df89e798a708ef8ca2b"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "0bj3Z6enwh.webp"
+      "oldImage": "iRpptvI-07.webp"
     },
     {
       "isUpdate": false,
@@ -22722,61 +22616,6 @@
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "eL3gOesWqt.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca60",
-      "id": "3rEJdOo4",
-      "name": "Runbow Deluxe (USA)",
-      "image": "4msru_Bwoy.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        13,
-        1
-      ],
-      "size": "226 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1li1DuSofBF8YLRYuTBS8Vg",
-          "_id": "68e08df89e798a708ef8ca61"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "4msru_Bwoy.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca1a",
-      "id": "pXazO5lz",
-      "name": "LEGO Jurassic World ",
-      "image": "78iZn_DxkM.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        44
-      ],
-      "size": "5.9 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1S-IC5k-HkGA7Z7tisG9klw",
-          "_id": "68e08df89e798a708ef8ca1b"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "78iZn_DxkM.webp"
     },
     {
       "isUpdate": false,
@@ -22939,22 +22778,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca68",
-      "id": "hHOrzj9Q",
-      "name": "Shakedown Hawaii (USA)",
-      "image": "F3W_-xkHZr.webp",
+      "_id": "68e08df89e798a708ef8ca60",
+      "id": "3rEJdOo4",
+      "name": "Runbow Deluxe (USA)",
+      "image": "4msru_Bwoy.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        12
+        13,
+        1
       ],
-      "size": "55 Mb",
+      "size": "226 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Z4x0NNeTc_a2rTqpVqsDbA",
-          "_id": "68e08df89e798a708ef8ca69"
+          "link": "https://1024terabox.com/s/1li1DuSofBF8YLRYuTBS8Vg",
+          "_id": "68e08df89e798a708ef8ca61"
         }
       ],
       "emulatorId": 5,
@@ -22962,7 +22801,166 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "F3W_-xkHZr.webp"
+      "oldImage": "4msru_Bwoy.webp"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca72",
+      "id": "Fzey-12J",
+      "name": "Persona 5 Tactica",
+      "image": "aVCSxixmqo.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        16
+      ],
+      "size": "7,5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1S4cvJ_b-ZJwdbOmZJvM8ww",
+          "_id": "68e08df89e798a708ef8ca73"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "aVCSxixmqo.webp",
+      "isUpdate": true
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca6a",
+      "id": "Y-yGuZZp",
+      "name": "Shantae Half-Genie Hero (USA) (DLC) (v80)",
+      "image": "urBBkzlQ4d.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        1
+      ],
+      "size": "2,4 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/18337Kfxew7M9H1BBX_iltg",
+          "_id": "68e08df89e798a708ef8ca6b"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "urBBkzlQ4d.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca2a",
+      "id": "w1VoOMQH",
+      "name": "Mario Party 10 ",
+      "image": "0bj3Z6enwh.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3
+      ],
+      "size": "2.8 gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1JXlgNcd14fnZFJkjPX4SnA",
+          "_id": "68e08df89e798a708ef8ca2b"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "0bj3Z6enwh.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca52",
+      "id": "wfwPBu4U",
+      "name": "PAC-MAN and the Ghostly Adventures",
+      "image": "m7HIsc2t1x.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        1
+      ],
+      "size": "2,9 gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1R5_VQnmJ6mt4-y6UnsonRA",
+          "_id": "68e08df89e798a708ef8ca53"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "m7HIsc2t1x.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca66",
+      "id": "EAwwkWf6",
+      "name": "Scribblenauts Unmasked (USA)",
+      "image": "77K6kgppFO.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        39
+      ],
+      "size": "981 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/18RkthFvs4ZKwC8YU3V4HmQ",
+          "_id": "68e08df89e798a708ef8ca67"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "77K6kgppFO.webp"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca6c",
+      "id": "IbgyKzo0",
+      "name": "Persona 3 Portable",
+      "image": "pv-Po8XUVy.webp",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        16,
+        19
+      ],
+      "size": "7,6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/103Y8V6_xiu5oqP7CDM7G_A",
+          "_id": "68e08df89e798a708ef8ca6d"
+        }
+      ],
+      "emulatorId": 8,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "pv-Po8XUVy.webp",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -23127,60 +23125,6 @@
       "oldImage": "NbD2q5QAhn.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca70",
-      "id": "gZITCQMN",
-      "name": "Persona 5 Strikers ",
-      "image": "1rrKc_aAWz.webp",
-      "format": 8,
-      "language": "Multi-Idioma",
-      "genre": [
-        16,
-        19
-      ],
-      "size": "15,1 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1F0fePixvY_y2dgNqxViNcw",
-          "_id": "68e08df89e798a708ef8ca71"
-        }
-      ],
-      "emulatorId": 8,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "1rrKc_aAWz.webp",
-      "isUpdate": true
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca4e",
-      "id": "nrjtR9YC",
-      "name": "PAPER MARIO Color Splash (USA)",
-      "image": "eyNJoMCYkD.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        16
-      ],
-      "size": "6,7 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1pCLTTzcI7ZKn7BT6MLLc-Q",
-          "_id": "68e08df89e798a708ef8ca4f"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "eyNJoMCYkD.webp"
-    },
-    {
       "_id": "68e08df89e798a708ef8ca16",
       "id": "K64tb0-u",
       "name": "Mortal Kombat 11 Ultimate Edition",
@@ -23260,33 +23204,6 @@
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "Y-fMBzi-rC.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca32",
-      "id": "-pisnbWK",
-      "name": "Need for Speed Most Wanted U (USA) (v32)",
-      "image": "xNvRbgKY9D.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        13,
-        42
-      ],
-      "size": "5.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1h07XCVB9eFcTZdZUJnFtuQ",
-          "_id": "68e08df89e798a708ef8ca33"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "xNvRbgKY9D.webp"
     },
     {
       "isUpdate": false,
@@ -23370,22 +23287,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca20",
-      "id": "5cxrNh8-",
-      "name": "LEGO The Hobbit ",
-      "image": "UYe1j55Vqq.webp",
+      "_id": "68e08df89e798a708ef8ca1a",
+      "id": "pXazO5lz",
+      "name": "LEGO Jurassic World ",
+      "image": "78iZn_DxkM.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        7,
+        2,
+        3,
         44
       ],
       "size": "5.9 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1LW32o_WYKYmDxYW94YBsNw",
-          "_id": "68e08df89e798a708ef8ca21"
+          "link": "https://1024terabox.com/s/1S-IC5k-HkGA7Z7tisG9klw",
+          "_id": "68e08df89e798a708ef8ca1b"
         }
       ],
       "emulatorId": 5,
@@ -23393,7 +23311,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "UYe1j55Vqq.webp"
+      "oldImage": "78iZn_DxkM.webp"
     },
     {
       "_id": "68e08df89e798a708ef8ca74",
@@ -23421,6 +23339,63 @@
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "y2Om6LAcyM.webp",
       "isUpdate": true
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca68",
+      "id": "hHOrzj9Q",
+      "name": "Shakedown Hawaii (USA)",
+      "image": "F3W_-xkHZr.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        12
+      ],
+      "size": "55 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1Z4x0NNeTc_a2rTqpVqsDbA",
+          "_id": "68e08df89e798a708ef8ca69"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "F3W_-xkHZr.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca1c",
+      "id": "O_4bvu8Y",
+      "name": "LEGO Marvel Avengers ",
+      "image": "w0bB4jRuvx.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        12,
+        44,
+        45,
+        3
+      ],
+      "size": "8.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1do972pWVT-DU4_FC55v4rA",
+          "_id": "68e08df89e798a708ef8ca1d"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "w0bB4jRuvx.webp"
     },
     {
       "isUpdate": false,
@@ -23475,26 +23450,22 @@
       "oldImage": "Prh84CISZj.webp"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca1c",
-      "id": "O_4bvu8Y",
-      "name": "LEGO Marvel Avengers ",
-      "image": "w0bB4jRuvx.webp",
+      "_id": "68e08df89e798a708ef8ca56",
+      "id": "fUodemuZ",
+      "name": "New SUPER MARIO BROS. U (USA) (DLC) (v64)",
+      "image": "1kvqSwbTn7.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        12,
-        44,
-        45,
-        3
+        3,
+        1
       ],
-      "size": "8.1 Gb",
+      "size": "1,2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1do972pWVT-DU4_FC55v4rA",
-          "_id": "68e08df89e798a708ef8ca1d"
+          "link": "https://1024terabox.com/s/16lMxVddjVQ1W18pKiChzUQ",
+          "_id": "68e08df89e798a708ef8ca57"
         }
       ],
       "emulatorId": 5,
@@ -23502,7 +23473,62 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "w0bB4jRuvx.webp"
+      "isUpdate": true,
+      "oldImage": "1kvqSwbTn7.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca4a",
+      "id": "3sMCS9q7",
+      "name": "POKKÉN TOURNAMENT (USA) (v64)",
+      "image": "namzdn2clR.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        24
+      ],
+      "size": "3.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/17Y0OY-qVrKPH8DvCb-0HHw",
+          "_id": "68e08df89e798a708ef8ca4b"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "namzdn2clR.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca20",
+      "id": "5cxrNh8-",
+      "name": "LEGO The Hobbit ",
+      "image": "UYe1j55Vqq.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        44
+      ],
+      "size": "5.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1LW32o_WYKYmDxYW94YBsNw",
+          "_id": "68e08df89e798a708ef8ca21"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "UYe1j55Vqq.webp"
     },
     {
       "_id": "68e08df89e798a708ef8ca12",
@@ -23725,50 +23751,22 @@
       "oldImage": "w2E-3pN4Sp.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca56",
-      "id": "fUodemuZ",
-      "name": "New SUPER MARIO BROS. U (USA) (DLC) (v64)",
-      "image": "1kvqSwbTn7.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        1
-      ],
-      "size": "1,2 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/16lMxVddjVQ1W18pKiChzUQ",
-          "_id": "68e08df89e798a708ef8ca57"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "1kvqSwbTn7.webp"
-    },
-    {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca4a",
-      "id": "3sMCS9q7",
-      "name": "POKKÉN TOURNAMENT (USA) (v64)",
-      "image": "namzdn2clR.webp",
+      "_id": "68e08df89e798a708ef8ca24",
+      "id": "keQdzVGu",
+      "name": "Luv Me Buddies Wonderland ",
+      "image": "k7yaZnmYxc.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        24
+        3
       ],
-      "size": "3.5 Gb",
+      "size": "55.37 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/17Y0OY-qVrKPH8DvCb-0HHw",
-          "_id": "68e08df89e798a708ef8ca4b"
+          "link": "https://1024terabox.com/s/1NHenJxlZoRwJfuNd_Em7wA",
+          "_id": "68e08df89e798a708ef8ca25"
         }
       ],
       "emulatorId": 5,
@@ -23776,7 +23774,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "namzdn2clR.webp"
+      "oldImage": "k7yaZnmYxc.webp"
     },
     {
       "isUpdate": false,
@@ -23806,21 +23804,22 @@
       "oldImage": "dRWuFo4vv_.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca72",
-      "id": "Fzey-12J",
-      "name": "Persona 5 Tactica",
-      "image": "aVCSxixmqo.webp",
+      "_id": "68e08df89e798a708ef8ca70",
+      "id": "gZITCQMN",
+      "name": "Persona 5 Strikers ",
+      "image": "1rrKc_aAWz.webp",
       "format": 8,
       "language": "Multi-Idioma",
       "genre": [
-        16
+        16,
+        19
       ],
-      "size": "7,5 Gb",
+      "size": "15,1 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1S4cvJ_b-ZJwdbOmZJvM8ww",
-          "_id": "68e08df89e798a708ef8ca73"
+          "link": "https://1024terabox.com/s/1F0fePixvY_y2dgNqxViNcw",
+          "_id": "68e08df89e798a708ef8ca71"
         }
       ],
       "emulatorId": 8,
@@ -23828,27 +23827,27 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "aVCSxixmqo.webp",
+      "oldImage": "1rrKc_aAWz.webp",
       "isUpdate": true
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca46",
-      "id": "dJBdL0yt",
-      "name": "Phineas and Ferb - Quest for Cool Stuff (USA)",
-      "image": "iRpptvI-07.webp",
+      "_id": "68e08df89e798a708ef8ca4e",
+      "id": "nrjtR9YC",
+      "name": "PAPER MARIO Color Splash (USA)",
+      "image": "eyNJoMCYkD.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        1
+        7,
+        16
       ],
-      "size": "211 Mb",
+      "size": "6,7 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1W_rfTiO6_iKWl_p7R9VE7A",
-          "_id": "68e08df89e798a708ef8ca47"
+          "link": "https://1024terabox.com/s/1pCLTTzcI7ZKn7BT6MLLc-Q",
+          "_id": "68e08df89e798a708ef8ca4f"
         }
       ],
       "emulatorId": 5,
@@ -23856,7 +23855,34 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "iRpptvI-07.webp"
+      "oldImage": "eyNJoMCYkD.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca32",
+      "id": "-pisnbWK",
+      "name": "Need for Speed Most Wanted U (USA) (v32)",
+      "image": "xNvRbgKY9D.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        42
+      ],
+      "size": "5.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1h07XCVB9eFcTZdZUJnFtuQ",
+          "_id": "68e08df89e798a708ef8ca33"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "xNvRbgKY9D.webp"
     },
     {
       "isUpdate": false,
@@ -23883,32 +23909,6 @@
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "iymK5rWHzT.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca5c",
-      "id": "zyPAJdzy",
-      "name": "Rapala Pro Bass Fishing (USA)",
-      "image": "-e_5gwbpXT.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        4
-      ],
-      "size": "4,4 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1HVW4cZw1q0qo2sNLdVwgJQ",
-          "_id": "68e08df89e798a708ef8ca5d"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "-e_5gwbpXT.webp"
     },
     {
       "isUpdate": false,
@@ -23940,21 +23940,21 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca24",
-      "id": "keQdzVGu",
-      "name": "Luv Me Buddies Wonderland ",
-      "image": "k7yaZnmYxc.webp",
+      "_id": "68e08df89e798a708ef8ca5c",
+      "id": "zyPAJdzy",
+      "name": "Rapala Pro Bass Fishing (USA)",
+      "image": "-e_5gwbpXT.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        3
+        4
       ],
-      "size": "55.37 Mb",
+      "size": "4,4 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1NHenJxlZoRwJfuNd_Em7wA",
-          "_id": "68e08df89e798a708ef8ca25"
+          "link": "https://1024terabox.com/s/1HVW4cZw1q0qo2sNLdVwgJQ",
+          "_id": "68e08df89e798a708ef8ca5d"
         }
       ],
       "emulatorId": 5,
@@ -23962,41 +23962,13 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "k7yaZnmYxc.webp"
+      "oldImage": "-e_5gwbpXT.webp"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca9c",
-      "id": "HaS_CAky",
-      "name": "Transformers Prime",
-      "image": "O0TulmC5AJ.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        30,
-        28
-      ],
-      "size": "1,9 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/1yARy93TT7grBYCKk2tK8Rw",
-          "_id": "68e08df89e798a708ef8ca9d"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "O0TulmC5AJ.webp"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca90",
-      "id": "L3BHagb6",
-      "name": "Hitman 2 ",
-      "image": "FzMV69PJNo.webp",
+      "_id": "68e08df89e798a708ef8ca8a",
+      "id": "yKaYhI6Z",
+      "name": "Hitman 2016 ",
+      "image": "hMLJrAJP7G.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
@@ -24004,12 +23976,12 @@
         8,
         30
       ],
-      "size": "74,1 Gb",
+      "size": "45,2 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1Qr-Hwu5rc6mhGuzJtBDijA",
-          "_id": "68e08df89e798a708ef8ca91"
+          "link": "https://1024terabox.com/s/1x5C618b4tjCKvpCRX2qjCA",
+          "_id": "68e08df89e798a708ef8ca8b"
         }
       ],
       "emulatorId": 2,
@@ -24017,36 +23989,34 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "FzMV69PJNo.webp"
+      "oldImage": "hMLJrAJP7G.webp",
+      "isUpdate": true
     },
     {
-      "_id": "68e08df89e798a708ef8ca96",
-      "id": "VsvfU9db",
-      "name": "Darksiders Warmastered Edition ",
-      "image": "TxBlBdVIVm.webp",
-      "format": 3,
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca7a",
+      "id": "BHMQxwyy",
+      "name": "Poppy PlayTime Chapter 4 ",
+      "image": "NY3m_pruuU.webp",
+      "format": 6,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        27,
-        9
+        31
       ],
-      "size": "23,5 Gb",
+      "size": "1,9 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1nyY3N1UR2zOZBW6ltrRgpg",
-          "_id": "68e08df89e798a708ef8ca97"
+          "type": "Terabox",
+          "link": "https://terabox.com/s/1Fx0hATvzSH8RMGHXkI4vUA",
+          "_id": "68e08df89e798a708ef8ca7b"
         }
       ],
-      "emulatorId": 2,
+      "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "TxBlBdVIVm.webp"
+      "oldImage": "NY3m_pruuU.webp"
     },
     {
       "_id": "68e08df89e798a708ef8ca98",
@@ -24079,109 +24049,31 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca7a",
-      "id": "BHMQxwyy",
-      "name": "Poppy PlayTime Chapter 4 ",
-      "image": "NY3m_pruuU.webp",
-      "format": 6,
+      "_id": "68e08df89e798a708ef8ca9c",
+      "id": "HaS_CAky",
+      "name": "Transformers Prime",
+      "image": "O0TulmC5AJ.webp",
+      "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        31
+        7,
+        30,
+        28
       ],
       "size": "1,9 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://terabox.com/s/1Fx0hATvzSH8RMGHXkI4vUA",
-          "_id": "68e08df89e798a708ef8ca7b"
+          "link": "https://terabox.com/s/1yARy93TT7grBYCKk2tK8Rw",
+          "_id": "68e08df89e798a708ef8ca9d"
         }
       ],
-      "emulatorId": 10,
+      "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "NY3m_pruuU.webp"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca9a",
-      "id": "3lsgWRaY",
-      "name": "Darksiders 3 ",
-      "image": "OQ-EyUm_nH.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        9,
-        16
-      ],
-      "size": "23,8 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1lVOpl8u2RvVquywLwhRmYg",
-          "_id": "68e08df89e798a708ef8ca9b"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "OQ-EyUm_nH.webp"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca7c",
-      "id": "PmhZyr0j",
-      "name": "Poppy PlayTime Chapter 1",
-      "image": "lnutX8xxdn.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        31
-      ],
-      "size": "1,0 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/133KH_-poY6eYyqVC105VFA",
-          "_id": "68e08df89e798a708ef8ca7d"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "lnutX8xxdn.webp",
-      "isUpdate": true
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca80",
-      "id": "JN8QRODn",
-      "name": "Poppy PlayTime Chapter 3",
-      "image": "D3b1as4L9L.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        31
-      ],
-      "size": "2,2 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://terabox.com/s/1kpUZsaLn6fvJEx2vSkQxPw",
-          "_id": "68e08df89e798a708ef8ca81"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "D3b1as4L9L.webp"
+      "oldImage": "O0TulmC5AJ.webp"
     },
     {
       "_id": "68e08df89e798a708ef8ca88",
@@ -24212,23 +24104,49 @@
       "oldImage": "PDYGg51sb9.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca86",
-      "id": "78bizS1b",
-      "name": "Hitman 3 Deluxe Edition ",
-      "image": "kulOXyZgfk.webp",
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca80",
+      "id": "JN8QRODn",
+      "name": "Poppy PlayTime Chapter 3",
+      "image": "D3b1as4L9L.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        31
+      ],
+      "size": "2,2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://terabox.com/s/1kpUZsaLn6fvJEx2vSkQxPw",
+          "_id": "68e08df89e798a708ef8ca81"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "D3b1as4L9L.webp"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca96",
+      "id": "VsvfU9db",
+      "name": "Darksiders Warmastered Edition ",
+      "image": "TxBlBdVIVm.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         7,
-        8,
-        30
+        27,
+        9
       ],
-      "size": "72 Gb",
+      "size": "23,5 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1-wm6bolC5xlm2n90yBtaUg",
-          "_id": "68e08df89e798a708ef8ca87"
+          "link": "https://1024terabox.com/s/1nyY3N1UR2zOZBW6ltrRgpg",
+          "_id": "68e08df89e798a708ef8ca97"
         }
       ],
       "emulatorId": 2,
@@ -24237,26 +24155,26 @@
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "kulOXyZgfk.webp"
+      "oldImage": "TxBlBdVIVm.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca92",
-      "id": "X3pMNZUq",
-      "name": "Aliens vs Predator ",
-      "image": "56S1e9b4V3.webp",
+      "_id": "68e08df89e798a708ef8ca90",
+      "id": "L3BHagb6",
+      "name": "Hitman 2 ",
+      "image": "FzMV69PJNo.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        31,
-        11
+        7,
+        8,
+        30
       ],
-      "size": "18,4 Gb",
+      "size": "74,1 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://terabox.com/s/1Njrp60g_0FTyEkRJkVtHKg",
-          "_id": "68e08df89e798a708ef8ca93"
+          "link": "https://1024terabox.com/s/1Qr-Hwu5rc6mhGuzJtBDijA",
+          "_id": "68e08df89e798a708ef8ca91"
         }
       ],
       "emulatorId": 2,
@@ -24265,62 +24183,32 @@
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "56S1e9b4V3.webp"
+      "oldImage": "FzMV69PJNo.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca8c",
-      "id": "co_-vGVd",
-      "name": "Hitman Codename 47 ",
-      "image": "5L0F6gWFvx.webp",
-      "format": 3,
+      "_id": "68e08df89e798a708ef8ca7c",
+      "id": "PmhZyr0j",
+      "name": "Poppy PlayTime Chapter 1",
+      "image": "lnutX8xxdn.webp",
+      "format": 6,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        8,
-        30
+        31
       ],
-      "size": "282 Mb",
+      "size": "1,0 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1T1bNjMr5nOvXSMS9crN7sQ",
-          "_id": "68e08df89e798a708ef8ca8d"
+          "link": "https://1024terabox.com/s/133KH_-poY6eYyqVC105VFA",
+          "_id": "68e08df89e798a708ef8ca7d"
         }
       ],
-      "emulatorId": 2,
+      "emulatorId": 10,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "5L0F6gWFvx.webp"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca8e",
-      "id": "Exy190Oj",
-      "name": "Hitman Absolution ",
-      "image": "dPVJkMICsh.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8,
-        30
-      ],
-      "size": "15,9 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Kjk54P-IUJs_a-4Q1vb4dA",
-          "_id": "68e08df89e798a708ef8ca8f"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "dPVJkMICsh.webp",
+      "oldImage": "lnutX8xxdn.webp",
       "isUpdate": true
     },
     {
@@ -24381,23 +24269,23 @@
       "oldImage": "-ZBnAHt_tj.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca8a",
-      "id": "yKaYhI6Z",
-      "name": "Hitman 2016 ",
-      "image": "hMLJrAJP7G.webp",
+      "_id": "68e08df89e798a708ef8ca92",
+      "id": "X3pMNZUq",
+      "name": "Aliens vs Predator ",
+      "image": "56S1e9b4V3.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        8,
-        30
+        2,
+        31,
+        11
       ],
-      "size": "45,2 Gb",
+      "size": "18,4 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1x5C618b4tjCKvpCRX2qjCA",
-          "_id": "68e08df89e798a708ef8ca8b"
+          "link": "https://terabox.com/s/1Njrp60g_0FTyEkRJkVtHKg",
+          "_id": "68e08df89e798a708ef8ca93"
         }
       ],
       "emulatorId": 2,
@@ -24405,8 +24293,36 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "hMLJrAJP7G.webp",
-      "isUpdate": true
+      "isUpdate": true,
+      "oldImage": "56S1e9b4V3.webp"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca94",
+      "id": "Cf1wEeKn",
+      "name": "Darksiders Genesis ",
+      "image": "9QRxr8V6TP.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        27
+      ],
+      "size": "10,4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/19CXslc_bq0QDoHJn2qQ3JQ",
+          "_id": "68e08df89e798a708ef8ca95"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "9QRxr8V6TP.webp"
     },
     {
       "_id": "68e08df89e798a708ef8ca9e",
@@ -24439,23 +24355,23 @@
       "oldImage": "4HCdVgXpmc.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca94",
-      "id": "Cf1wEeKn",
-      "name": "Darksiders Genesis ",
-      "image": "9QRxr8V6TP.webp",
+      "_id": "68e08df89e798a708ef8ca8c",
+      "id": "co_-vGVd",
+      "name": "Hitman Codename 47 ",
+      "image": "5L0F6gWFvx.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        3,
-        27
+        7,
+        8,
+        30
       ],
-      "size": "10,4 Gb",
+      "size": "282 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/19CXslc_bq0QDoHJn2qQ3JQ",
-          "_id": "68e08df89e798a708ef8ca95"
+          "link": "https://1024terabox.com/s/1T1bNjMr5nOvXSMS9crN7sQ",
+          "_id": "68e08df89e798a708ef8ca8d"
         }
       ],
       "emulatorId": 2,
@@ -24464,7 +24380,33 @@
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "9QRxr8V6TP.webp"
+      "oldImage": "5L0F6gWFvx.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca7e",
+      "id": "YYdMuJcq",
+      "name": "Poppy PlayTime Chapter 2",
+      "image": "apmgtzCkfW.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        31
+      ],
+      "size": "1,2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://terabox.com/s/1o-a_yJJxVJmBn9mV7OKuYg",
+          "_id": "68e08df89e798a708ef8ca7f"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "apmgtzCkfW.webp"
     },
     {
       "isUpdate": false,
@@ -24495,58 +24437,88 @@
       "oldImage": "Aojfdsjo-32.webp"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca7e",
-      "id": "YYdMuJcq",
-      "name": "Poppy PlayTime Chapter 2",
-      "image": "apmgtzCkfW.webp",
-      "format": 6,
+      "_id": "68e08df89e798a708ef8ca86",
+      "id": "78bizS1b",
+      "name": "Hitman 3 Deluxe Edition ",
+      "image": "kulOXyZgfk.webp",
+      "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        31
+        7,
+        8,
+        30
       ],
-      "size": "1,2 Gb",
+      "size": "72 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://terabox.com/s/1o-a_yJJxVJmBn9mV7OKuYg",
-          "_id": "68e08df89e798a708ef8ca7f"
+          "link": "https://1024terabox.com/s/1-wm6bolC5xlm2n90yBtaUg",
+          "_id": "68e08df89e798a708ef8ca87"
         }
       ],
-      "emulatorId": 10,
+      "emulatorId": 2,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "apmgtzCkfW.webp"
+      "isUpdate": true,
+      "oldImage": "kulOXyZgfk.webp"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8caa6",
-      "id": "riyLrs1T",
-      "name": "hollow knight silksong (1.1.5)",
-      "image": "1759155363188-3c71e339.webp",
-      "format": 6,
+      "_id": "68e08df89e798a708ef8ca9a",
+      "id": "3lsgWRaY",
+      "name": "Darksiders 3 ",
+      "image": "OQ-EyUm_nH.webp",
+      "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        7,
+        3,
         9,
-        46
+        16
       ],
-      "size": "1.2 Gb",
+      "size": "23,8 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1R1g2lIN39Sf4t3QAyHcEnQ",
-          "_id": "68e08df89e798a708ef8caa7"
+          "link": "https://1024terabox.com/s/1lVOpl8u2RvVquywLwhRmYg",
+          "_id": "68e08df89e798a708ef8ca9b"
         }
       ],
-      "emulatorId": 10,
+      "emulatorId": 2,
       "captures": [],
       "__v": 0,
-      "createdAt": "2025-10-08T03:01:12.243Z",
+      "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "1759155363188-3c71e339.webp"
+      "isUpdate": true,
+      "oldImage": "OQ-EyUm_nH.webp"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca8e",
+      "id": "Exy190Oj",
+      "name": "Hitman Absolution ",
+      "image": "dPVJkMICsh.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        8,
+        30
+      ],
+      "size": "15,9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Kjk54P-IUJs_a-4Q1vb4dA",
+          "_id": "68e08df89e798a708ef8ca8f"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "dPVJkMICsh.webp",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8caa4",
@@ -24603,6 +24575,34 @@
       "createdAt": "2025-10-08T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "hol34221423.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8caa6",
+      "id": "riyLrs1T",
+      "name": "hollow knight silksong (1.1.5)",
+      "image": "1759155363188-3c71e339.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        9,
+        46
+      ],
+      "size": "1.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1R1g2lIN39Sf4t3QAyHcEnQ",
+          "_id": "68e08df89e798a708ef8caa7"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-08T03:01:12.243Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "1759155363188-3c71e339.webp"
     },
     {
       "isUpdate": false,
@@ -34486,6 +34486,32 @@
       "captures": [],
       "createdAt": "2026-08-04T22:35:31.216Z",
       "updatedAt": "2026-08-04T22:35:31.216Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a72699a7d9816a180de195e",
+      "id": "RyA6IGtt",
+      "name": "Star Wars Battlefront - Renegade Squadron",
+      "image": "1785883033177-fb6f23c9.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        10
+      ],
+      "size": "1,1GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1YAkaBRd_abrKhBmVmEYbZA",
+          "_id": "6a72699a7d9816a180de195f"
+        }
+      ],
+      "emulatorId": 5,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-08-04T22:37:14.630Z",
+      "updatedAt": "2026-08-04T22:37:14.630Z",
       "__v": 0
     },
     {
