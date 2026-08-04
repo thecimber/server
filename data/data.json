@@ -5269,28 +5269,28 @@
       "_id": "68e08df49e798a708ef8c508",
       "id": "Orf80BsC",
       "name": "Prince Of Persia Rival Swords",
-      "image": "Prince Of Persia Rival Swords.webp",
+      "image": "1785883137568-e83e640d.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        7,
-        15
+        3
       ],
-      "size": "811 Mb",
+      "size": "811MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1NZaVYxB6bVag96iC9CQtFw",
-          "_id": "68e08df49e798a708ef8c509"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1PJp8-BlT3FQWFPwm-oYA5A",
+          "_id": "6a726a037d9816a180de40e3"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Prince Of Persia Rival Swords.webp"
+      "updatedAt": "2026-08-04T22:38:59.092Z",
+      "oldImage": "Prince Of Persia Rival Swords.webp",
+      "gameplayLink": ""
     },
     {
       "_id": "68e08df49e798a708ef8c516",
@@ -36399,4 +36399,4 @@
       "__v": 0
     }
   ]
-}}
+}
