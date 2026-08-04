@@ -3905,31 +3905,31 @@
       "oldImage": "the-amazing-spider-man-2-ps3.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4c0",
       "id": "vlHB-X0u",
       "name": "2010 FIFA World Cup South Africa",
-      "image": "2010 FIFA World Cup South Africa.webp",
+      "image": "1785882653902-ee9fa92c.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        4,
-        6
+        4
       ],
-      "size": "859 Mb",
+      "size": "859MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1v0ByhwB5-gZxXzhQMFnNsg",
-          "_id": "68e08df49e798a708ef8c4c1"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1AI_QCputmPNuJfgPIn8BWA",
+          "_id": "6a72681f7d9816a180ddb6b1"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.449Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "2010 FIFA World Cup South Africa.webp"
+      "updatedAt": "2026-08-04T22:30:55.493Z",
+      "oldImage": "2010 FIFA World Cup South Africa.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -36350,4 +36350,4 @@
       "__v": 0
     }
   ]
-}
+}}
