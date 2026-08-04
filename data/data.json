@@ -4075,28 +4075,28 @@
       "_id": "68e08df49e798a708ef8c4e0",
       "id": "HD_FXHQv",
       "name": "God of War - Chains of Olympus",
-      "image": "God of War - Chains of Olympus.webp",
+      "image": "1785881431763-188f1b29.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        7,
-        27
+        24
       ],
-      "size": "1.2 GB",
+      "size": "1,2GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1mUnmMQIobmUZQbicIP93sA",
-          "_id": "68e08df49e798a708ef8c4e1"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1LKRSoBsX1AQdJ2O0_M_jjw",
+          "_id": "6a7263597d9816a180dd852b"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "God of War - Chains of Olympus.webp"
+      "updatedAt": "2026-08-04T22:10:33.291Z",
+      "oldImage": "God of War - Chains of Olympus.webp",
+      "gameplayLink": ""
     },
     {
       "isUpdate": false,
