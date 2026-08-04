@@ -22170,32 +22170,33 @@
       "oldImage": "MtxvGhkkWj.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8c9f2",
       "id": "RO6o9VId",
-      "name": "Astro Boy The Video Game ",
-      "image": "qHSAHFlhBz.webp",
+      "name": "Astro Boy The Video Game",
+      "image": "1785882622478-aae9fb49.webp",
       "format": 4,
-      "language": "Español",
+      "language": "Español-Ingles",
       "genre": [
-        1,
         32,
+        1,
         45
       ],
-      "size": "1.2 Gb",
+      "size": "1,2GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1fssXxPmIpHxi6B7xyu6qDQ",
-          "_id": "68e08df89e798a708ef8c9f3"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1gtjJldxbpCRADfYyKeVk6Q",
+          "_id": "6a7268007d9816a180dda7e5"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "qHSAHFlhBz.webp"
+      "updatedAt": "2026-08-04T22:30:24.094Z",
+      "oldImage": "qHSAHFlhBz.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca00",
@@ -36349,4 +36350,4 @@
       "__v": 0
     }
   ]
-}}
+}
