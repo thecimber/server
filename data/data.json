@@ -4773,28 +4773,27 @@
       "_id": "68e08df49e798a708ef8c510",
       "id": "vJwKhHKL",
       "name": "Star Wars - Lethal Alliance",
-      "image": "Star Wars - Lethal Alliance.webp",
+      "image": "1785882741955-ec65cf5d.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        7,
-        35
+        14
       ],
-      "size": "730 Mb",
+      "size": "730MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1qVAXJoJ0aTXiErx6T4norw",
-          "_id": "68e08df49e798a708ef8c511"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1H0jsKIBDShZ9Jkc69Bmvbg",
+          "_id": "6a7268777d9816a180ddd44b"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Star Wars - Lethal Alliance.webp"
+      "updatedAt": "2026-08-04T22:32:23.661Z",
+      "oldImage": "Star Wars - Lethal Alliance.webp",
+      "gameplayLink": ""
     },
     {
       "isUpdate": false,
@@ -36349,4 +36348,4 @@
       "__v": 0
     }
   ]
-}}
+}
