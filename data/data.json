@@ -4606,7 +4606,6 @@
       "oldImage": "LEGO Harry Potter - Years 5-7.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4fe",
       "id": "SneUELth",
       "name": "Naruto Ultimate Ninja Heroes 2",
@@ -4628,9 +4627,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T21:32:01.314Z",
+      "updatedAt": "2026-08-04T21:32:01.362Z",
       "oldImage": "Naruto Ultimate Ninja Heroes 2.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df49e798a708ef8c4c6",
