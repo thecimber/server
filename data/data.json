@@ -22312,31 +22312,32 @@
       "oldImage": "aP3hyfS2kk.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca02",
       "id": "sztm_0Ol",
       "name": "Bomberman",
-      "image": "AW3zI0Kuod.webp",
+      "image": "1785879321330-a6ccc5aa.webp",
       "format": 4,
-      "language": "Español",
+      "language": "Español-Ingles",
       "genre": [
         2,
         28
       ],
-      "size": "156 Mb",
+      "size": "156MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1hr74C2cDUbk106j81aIzSA",
-          "_id": "68e08df89e798a708ef8ca03"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1wJTuUNit0MV1_H2PGzdj4A",
+          "_id": "6a725b1a7d9816a180dd44ed"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "AW3zI0Kuod.webp"
+      "updatedAt": "2026-08-04T21:35:22.841Z",
+      "oldImage": "AW3zI0Kuod.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -36348,4 +36349,4 @@
       "__v": 0
     }
   ]
-}
+}}
