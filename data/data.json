@@ -34413,6 +34413,32 @@
       "__v": 0
     },
     {
+      "_id": "6a725a5e7d9816a180dcf60f",
+      "id": "ORFU480s",
+      "name": "Naruto Shippuden Ultimate Ninja heroes 3 (Europe)",
+      "image": "1785879132335-7e425184.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        24
+      ],
+      "size": "1,13GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1R4zS_SOH-SUJy-cLQsh3Iw",
+          "_id": "6a725a5e7d9816a180dcf610"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-08-04T21:32:14.021Z",
+      "updatedAt": "2026-08-04T21:32:14.021Z",
+      "__v": 0
+    },
+    {
       "isUpdate": false,
       "_id": "68e08df69e798a708ef8c7e5",
       "id": "3KktHLYI",
