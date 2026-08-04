@@ -5210,32 +5210,32 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c506",
       "id": "duVXCSPy",
       "name": "Prince Of Persia Revelations",
-      "image": "Prince Of Persia Revelations.webp",
+      "image": "1785883149156-cb12183a.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        7,
-        15
+        10,
+        7
       ],
-      "size": "1.2 Gb",
+      "size": "1,2GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/15TX7xVgbM6dLx-o0QGicVQ",
-          "_id": "68e08df49e798a708ef8c507"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1aPgNTo5XJk2mm81dmarf_A",
+          "_id": "6a726a0e7d9816a180de4fb5"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Prince Of Persia Revelations.webp"
+      "updatedAt": "2026-08-04T22:39:10.670Z",
+      "oldImage": "Prince Of Persia Revelations.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -5265,7 +5265,6 @@
       "oldImage": "Kirby-Super-Star-Ultra.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c508",
       "id": "Orf80BsC",
       "name": "Prince Of Persia Rival Swords",
@@ -5288,9 +5287,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-08-04T22:38:59.092Z",
+      "updatedAt": "2026-08-04T22:38:59.126Z",
       "oldImage": "Prince Of Persia Rival Swords.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df49e798a708ef8c516",
@@ -36399,4 +36399,4 @@
       "__v": 0
     }
   ]
-}
+}}
