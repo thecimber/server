@@ -14294,7 +14294,7 @@
       "_id": "68e08df69e798a708ef8c7e5",
       "id": "3KktHLYI",
       "name": "Dragon Ball Sparking Zero",
-      "image": "Dragon Ball Sparking Zero.webp",
+      "image": "1785812133893-473022fc.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
@@ -14315,7 +14315,7 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:10.635Z",
-      "updatedAt": "2026-08-04T02:20:46.771Z",
+      "updatedAt": "2026-08-04T02:55:36.761Z",
       "oldImage": "Dragon Ball Sparking Zero.webp",
       "gameplayLink": ""
     },
@@ -30443,4 +30443,5862 @@
       "name": "Lego Batman Legacy Of The Dark Knight ",
       "image": "1779469175226-444fcc0f.webp",
       "format": 16,
-      "langu
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        8,
+        12,
+        44,
+        113,
+        10
+      ],
+      "size": "32 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1rnIMUTjgSj9hhfhpf0mcZw",
+          "_id": "6a108b79ac4186cff41508b0"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-22T16:59:37.031Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779469175226-444fcc0f.jpg"
+    },
+    {
+      "_id": "6a12090fac4186cff416348d",
+      "id": "CsMLMMTg",
+      "name": "Poppy Playtime Chapter 1",
+      "image": "1779566862750-72e951a4.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        31,
+        21,
+        49,
+        3
+      ],
+      "size": "2.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1E6DVU91ot8MBecgJOY94GA",
+          "_id": "6a12090fac4186cff416348e"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-23T20:07:43.890Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779566862750-72e951a4.jpg"
+    },
+    {
+      "_id": "6a1209afac4186cff4164193",
+      "id": "5sBRtsLq",
+      "name": "Poppy PlayTime Chapter 2",
+      "image": "1779567022500-96b1020e.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        31,
+        21,
+        49,
+        3
+      ],
+      "size": "6.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1OLKh0_JPQ_saWR6EpHHsDw",
+          "_id": "6a1209afac4186cff4164194"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-23T20:10:23.646Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779567022500-96b1020e.jpg"
+    },
+    {
+      "_id": "6a120a06ac4186cff4165b7e",
+      "id": "-15kBfhD",
+      "name": "Poppy PlayTime Chapter 3",
+      "image": "1779567109744-d32e0bb7.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        31,
+        21,
+        49,
+        3
+      ],
+      "size": "3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1orqbMbVRMPUxlvIhYrwc5g",
+          "_id": "6a120a06ac4186cff4165b7f"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-23T20:11:50.846Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779567109744-d32e0bb7.jpg"
+    },
+    {
+      "_id": "6a120e98ac4186cff41848aa",
+      "id": "tshot50H",
+      "name": "Sonic Racing CrossWorlds",
+      "image": "1779568279084-f5cfad79.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        71,
+        86,
+        130
+      ],
+      "size": "10.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1FZNsC8xnsX5njkqf-0ntAA",
+          "_id": "6a120e98ac4186cff41848ab"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": true,
+      "captures": [],
+      "createdAt": "2026-05-23T20:31:20.172Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779568279084-f5cfad79.jpg"
+    },
+    {
+      "_id": "6a1210cfac4186cff419072f",
+      "id": "y86T5Rzr",
+      "name": "Xenoblade Chronicles 3 ",
+      "image": "1779568846097-e7765eee.webp",
+      "format": 9,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        57,
+        127,
+        136
+      ],
+      "size": "20 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1b4gDtXClLNB6toZ_WHxVcQ",
+          "_id": "6a1210cfac4186cff4190730"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-23T20:40:47.152Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779568846097-e7765eee.jpg"
+    },
+    {
+      "_id": "6a1214acac4186cff41a0b38",
+      "id": "PTalYh8R",
+      "name": "Little Nightmares 2",
+      "image": "1779569835102-cb7f9056.webp",
+      "format": 9,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        31,
+        139
+      ],
+      "size": "7 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://terabox.com/s/1qwHx1QF1L1MnhOdK8NeyXg",
+          "_id": "6a1214acac4186cff41a0b39"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-23T20:57:16.236Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779569835102-cb7f9056.jpg"
+    },
+    {
+      "_id": "6a125e6bac4186cff41c4b5d",
+      "id": "20D3Ilfv",
+      "name": "Naruto Shippuden ultimate ninja Storm ",
+      "image": "1779588714791-a03fea43.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        65,
+        24
+      ],
+      "size": "5.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://cuty.io/EdVsnLdJdV",
+          "_id": "6a125e6bac4186cff41c4b5e"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": true,
+      "captures": [],
+      "createdAt": "2026-05-24T02:11:55.852Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779588714791-a03fea43.jpg"
+    },
+    {
+      "_id": "6a1264e7ac4186cff41ec0e3",
+      "id": "TkGDfoB7",
+      "name": "FC 26",
+      "image": "1779590373908-82849e02.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        19
+      ],
+      "size": "30.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1nV1do1xZ20WzcMouQnAOEw",
+          "_id": "6a1264e7ac4186cff41ec0e4"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": true,
+      "captures": [],
+      "createdAt": "2026-05-24T02:39:35.091Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779590373908-82849e02.jpg"
+    },
+    {
+      "_id": "6a13dfbaac4186cff41f0d04",
+      "id": "4nuEpJum",
+      "name": "Balatro",
+      "image": "1779687353273-ea272c41.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        28,
+        58,
+        79,
+        161
+      ],
+      "size": "182 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1qRRuFgZTtcSazCHAlzoQlw",
+          "_id": "6a13dfbaac4186cff41f0d05"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/qZHA",
+          "_id": "6a13dfbaac4186cff41f0d06"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T05:35:54.745Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779687353273-ea272c41.jpg"
+    },
+    {
+      "_id": "6a13e052ac4186cff41f2b7e",
+      "id": "Tys122cW",
+      "name": "Hunter x  Hunter Nen Impact ",
+      "image": "1779687505260-71c1910f.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        22,
+        24,
+        65,
+        162
+      ],
+      "size": "1.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/17LRVx3u9p7J5IjlKV5LCsQ",
+          "_id": "6a13e052ac4186cff41f2b7f"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/VRDUNzJUv",
+          "_id": "6a13e0aeac4186cff41f3ced"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T05:38:26.434Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779687505260-71c1910f.jpg"
+    },
+    {
+      "_id": "6a13e10aac4186cff41f4a00",
+      "id": "Q1V9aILF",
+      "name": "Kill It With Fire 2 ",
+      "image": "1779687689138-6a13d44b.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        54,
+        113,
+        163
+      ],
+      "size": "3.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1VTaIrz229A5lOPgPpgseJw",
+          "_id": "6a13e10aac4186cff41f4a01"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T05:41:30.222Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779687689138-6a13d44b.jpg"
+    },
+    {
+      "_id": "6a13e18fac4186cff41f688e",
+      "id": "dZcIkAdH",
+      "name": "Lost Twins 2",
+      "image": "1779687822022-4f16ad9d.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        1,
+        49,
+        113
+      ],
+      "size": "473 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Mx154WlrQ74cpiZus0mmWw",
+          "_id": "6a13e18fac4186cff41f688f"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T05:43:43.229Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779687822022-4f16ad9d.jpg"
+    },
+    {
+      "_id": "6a13e1d5ac4186cff41f75a8",
+      "id": "YjFELbLn",
+      "name": "Constance",
+      "image": "1779687892298-0ff4b31e.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        9,
+        46,
+        164
+      ],
+      "size": "1.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1sIXYMRGU8EpEeep5xte3JA",
+          "_id": "6a13e1d5ac4186cff41f75a9"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/miJBKAEKHbtC",
+          "_id": "6a13e1d5ac4186cff41f75aa"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T05:44:53.393Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779687892298-0ff4b31e.jpg"
+    },
+    {
+      "_id": "6a13e2beac4186cff41fa188",
+      "id": "q1gzVZf0",
+      "name": "Rumbral",
+      "image": "1779688125847-e92c2b91.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        9,
+        31,
+        21
+      ],
+      "size": "930 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/17WOXlYnsq_2FiYQAP3Yenw",
+          "_id": "6a13e2beac4186cff41fa189"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/kclqUB",
+          "_id": "6a13e2beac4186cff41fa18a"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T05:48:46.981Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779688125847-e92c2b91.jpg"
+    },
+    {
+      "_id": "6a13e3b5ac4186cff41fbbdd",
+      "id": "C_MKU3ev",
+      "name": "Marvel Cosmic Invasion ",
+      "image": "1779688372098-980f7e47.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        43,
+        113,
+        45
+      ],
+      "size": "780 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1XlP3oE94XimNX4hvQQZaFg",
+          "_id": "6a13e3b5ac4186cff41fbbde"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/imge",
+          "_id": "6a13e3b5ac4186cff41fbbdf"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T05:52:53.266Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779688372098-980f7e47.jpg"
+    },
+    {
+      "_id": "6a13e447ac4186cff41fc908",
+      "id": "7PkNedQg",
+      "name": "Achilles Legends Untold",
+      "image": "1779688518786-ae40e41a.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        27,
+        91
+      ],
+      "size": "9.5",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1UBcUWQSPqKeIF2DA43jURQ",
+          "_id": "6a13e447ac4186cff41fc909"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/fJvZcA8x",
+          "_id": "6a13e447ac4186cff41fc90a"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T05:55:19.946Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779688518786-ae40e41a.jpg"
+    },
+    {
+      "_id": "6a13e4fcac4186cff41fdf0b",
+      "id": "Sq_w0sA-",
+      "name": "Five Nights at Freddy's Security Breach ",
+      "image": "1779688699615-bd257d5e.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        9,
+        31,
+        21,
+        119
+      ],
+      "size": "18 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1iGMv-tVq3SpmG4kRyz0F6A",
+          "_id": "6a13e4fcac4186cff41fdf0c"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/UDtQVO",
+          "_id": "6a13e4fcac4186cff41fdf0d"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T05:58:20.711Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779688699615-bd257d5e.jpg"
+    },
+    {
+      "_id": "6a13e548ac4186cff41fec47",
+      "id": "gc8r-LS8",
+      "name": "Ghostbusters Spirits Unleashed Ecto Edition",
+      "image": "1779688775205-ae7f77d8.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        31,
+        113,
+        71
+      ],
+      "size": "7.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1xQnAyv1DRa3y1ijL0LJd0w",
+          "_id": "6a13e548ac4186cff41fec48"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/OMq4UDP",
+          "_id": "6a13e548ac4186cff41fec49"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T05:59:36.308Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779688775205-ae7f77d8.jpg"
+    },
+    {
+      "_id": "6a13e6d1ac4186cff41ffdf6",
+      "id": "Fgkfun9x",
+      "name": "Grand Theft Auto The Trilogy The Definitive Edition [ GTA ]",
+      "image": "1779689168205-4e620e0b.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        12,
+        165,
+        166
+      ],
+      "size": "18. 4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Uh8sTgtbFWRoStRh9DJWmA",
+          "_id": "6a13e6d1ac4186cff41ffdf7"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/1BLPF5ih",
+          "_id": "6a13e6d1ac4186cff41ffdf8"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T06:06:09.406Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "gameplayLink": "",
+      "oldImage": "1779689168205-4e620e0b.jpg"
+    },
+    {
+      "_id": "6a13e79aac4186cff4201cf8",
+      "id": "X3fR4pkr",
+      "name": "IronFall Invasion",
+      "image": "1779689369366-b643f15e.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        50,
+        167
+      ],
+      "size": "2.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1FaI8A9O8pBZ7NzBhL8M6hw",
+          "_id": "6a13e79aac4186cff4201cf9"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/H9ZZT",
+          "_id": "6a13e79aac4186cff4201cfa"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T06:09:30.640Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779689369366-b643f15e.jpg"
+    },
+    {
+      "_id": "6a13e80fac4186cff4203c00",
+      "id": "xmZYmJb7",
+      "name": "Marvel Maximum Collectio",
+      "image": "1779689485982-f1b6fb1a.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        45,
+        43,
+        113,
+        86
+      ],
+      "size": "1.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1yOA7PxLX6-GhJ9wcvAf-Fg",
+          "_id": "6a13e80fac4186cff4203c01"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/SCZmHrMHNGE",
+          "_id": "6a13e80fac4186cff4203c02"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T06:11:27.249Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779689485982-f1b6fb1a.jpg"
+    },
+    {
+      "_id": "6a13e8c0ac4186cff4204955",
+      "id": "54xSNG9F",
+      "name": "Mega Man Star Force Legacy Collection",
+      "image": "1779689662974-2b7986dd.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        50,
+        93,
+        22
+      ],
+      "size": "8.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1ZW4Il4jKC_n-CGULiPJuAw",
+          "_id": "6a13e8c0ac4186cff4204956"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/4VZzP",
+          "_id": "6a13e8c0ac4186cff4204957"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T06:14:24.206Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779689662974-2b7986dd.jpg"
+    },
+    {
+      "_id": "6a13e922ac4186cff42056aa",
+      "id": "0eVjJHZk",
+      "name": "Marvel Ultimate Alliance 3 The Black orden",
+      "image": "1779689759980-b148b0fc.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        45,
+        93,
+        168
+      ],
+      "size": "20 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/198P9dVtNJJ75crW8tG0yEQ",
+          "_id": "6a13e922ac4186cff42056ab"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/k6Qg3Cc20k7",
+          "_id": "6a13e922ac4186cff42056ac"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-25T06:16:02.090Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779689759980-b148b0fc.jpg"
+    },
+    {
+      "_id": "6a1522bcac4186cff4208713",
+      "id": "q8bN5VvO",
+      "name": "Death Stranding Director's Cut",
+      "image": "1779770042395-fd6e8bb8.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        21,
+        12,
+        9
+      ],
+      "size": "69.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1H6WejlBXNCKMgHky6I_Hyg",
+          "_id": "6a1522bcac4186cff4208714"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T04:34:04.272Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779770042395-fd6e8bb8.jpeg"
+    },
+    {
+      "_id": "6a15a82cac4186cff420a819",
+      "id": "zb-JbCL2",
+      "name": "BioShock Infinite ",
+      "image": "1779804202818-8cec877b.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        50,
+        170,
+        169
+      ],
+      "size": "21 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/19G6szaL8zB8JNsHKq1cYQQ",
+          "_id": "6a15a82cac4186cff420a81a"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/XEWJrEX5LPPR",
+          "_id": "6a15a82cac4186cff420a81b"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:03:24.467Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779804202818-8cec877b.jpg"
+    },
+    {
+      "_id": "6a15a8aeac4186cff420c76f",
+      "id": "PEo5W71e",
+      "name": "Blazblue Entropy Effect X",
+      "image": "1779804333125-dc9366bd.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        32,
+        1,
+        27,
+        58,
+        22
+      ],
+      "size": "4.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1bO79vcIyizovqfhdn3XtvA",
+          "_id": "6a15a8aeac4186cff420c770"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/BlRj9D37FO",
+          "_id": "6a15a8aeac4186cff420c771"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:05:34.803Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779804333125-dc9366bd.jpg"
+    },
+    {
+      "_id": "6a15a932ac4186cff420d4dc",
+      "id": "OxQ2ifTS",
+      "name": "BloodShed",
+      "image": "1779804464458-54349a67.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        21,
+        58,
+        169,
+        20
+      ],
+      "size": "600 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1kQQfyhYPgykjTv37TzkhlQ",
+          "_id": "6a15a932ac4186cff420d4dd"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:07:46.188Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779804464458-54349a67.jpg"
+    },
+    {
+      "_id": "6a15a9a7ac4186cff420e24b",
+      "id": "-9vROX8t",
+      "name": "NAZUMA ELEVEN Victory Road",
+      "image": "1779804581674-a6e0af4b.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        22,
+        6,
+        4,
+        93,
+        28
+      ],
+      "size": "28 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1oam_a7Z5ri5P6Ss0OSFipA",
+          "_id": "6a15a9a7ac4186cff420e24c"
+        },
+        {
+          "type": "mediafire",
+          "link": "https://cuty.io/HXDpE",
+          "_id": "6a15a9a7ac4186cff420e24d"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:09:43.166Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779804581674-a6e0af4b.jpg"
+    },
+    {
+      "_id": "6a15aa27ac4186cff420efc3",
+      "id": "wyyc2tAq",
+      "name": "MIO Memories in Orbit",
+      "image": "1779804709849-5e0b9163.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        1,
+        46,
+        50,
+        9
+      ],
+      "size": "4.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1HGlz-atmVcxEQk07i5YGDA",
+          "_id": "6a15aa27ac4186cff420efc4"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/7Y9Tb3DmzGMh",
+          "_id": "6a15aa27ac4186cff420efc5"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:11:51.442Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779804709849-5e0b9163.jpg"
+    },
+    {
+      "_id": "6a15aa62ac4186cff420fd41",
+      "id": "L0n3A9yZ",
+      "name": "Moto Rush Reborn",
+      "image": "1779804768659-49141999.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        13,
+        86,
+        71
+      ],
+      "size": "8.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1fNOJfTnVI5wxUQUtmWIzPQ",
+          "_id": "6a15aa62ac4186cff420fd42"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:12:50.354Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779804768659-49141999.jpg"
+    },
+    {
+      "_id": "6a15aaa8ac4186cff4210abf",
+      "id": "JCxFcQqp",
+      "name": "Planet of Lana 2 Children of the Leaf",
+      "image": "1779804839215-7183d79a.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        50,
+        139,
+        171
+      ],
+      "size": "11 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1KWD49_Ayf5cLpdotY1Z1LQ",
+          "_id": "6a15aaa8ac4186cff4210ac0"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/7Duc",
+          "_id": "6a15aaa8ac4186cff4210ac1"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:14:00.651Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779804839215-7183d79a.jpg"
+    },
+    {
+      "_id": "6a15aaf6ac4186cff4212a50",
+      "id": "1OPH9Tsu",
+      "name": "Rayman 30th Anniversary edition",
+      "image": "1779804917225-23b67fbf.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        1,
+        113,
+        82
+      ],
+      "size": "3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/10OkIuwik1mQEhPEwdH4DsQ",
+          "_id": "6a15aaf6ac4186cff4212a51"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:15:18.913Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779804917225-23b67fbf.jpg"
+    },
+    {
+      "_id": "6a15ab35ac4186cff42137d7",
+      "id": "DZAh5E06",
+      "name": "Scott Pilgrim Ex",
+      "image": "1779804979637-1ad53125.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        43,
+        86,
+        113,
+        90
+      ],
+      "size": "1.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1f_ZoHMEwNF8Yu6cyViRy6w",
+          "_id": "6a15ab35ac4186cff42137d8"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/WCSh",
+          "_id": "6a15ab35ac4186cff42137d9"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:16:21.095Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779804979637-1ad53125.jpg"
+    },
+    {
+      "_id": "6a15ab70ac4186cff4214565",
+      "id": "UR0bsf_E",
+      "name": "Shadow Fight 2",
+      "image": "1779805038998-d6a5ef2e.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        24,
+        86,
+        93,
+        172
+      ],
+      "size": "16 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1fyuZFdGd-zfmXYOk_SGFZw",
+          "_id": "6a15ab70ac4186cff4214566"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/uRnNZ7v",
+          "_id": "6a15ab70ac4186cff4214567"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:17:20.413Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779805038998-d6a5ef2e.jpg"
+    },
+    {
+      "_id": "6a15abd8ac4186cff421651d",
+      "id": "tvmnCOmh",
+      "name": "Shin chan Shiro of Coal Town",
+      "image": "1779805142231-7edcb842.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        9,
+        22,
+        70,
+        173
+      ],
+      "size": "2.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Naf1I-YDmNzwne4xhUkp6g",
+          "_id": "6a15abd8ac4186cff421651e"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/3Q3oJ",
+          "_id": "6a15abd8ac4186cff421651f"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:19:04.389Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779805142231-7edcb842.jpg"
+    },
+    {
+      "_id": "6a15ac3cac4186cff42184e0",
+      "id": "aL3vPE1K",
+      "name": "Tales of Berseria Remastered",
+      "image": "1779805243365-6da29e34.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        55,
+        127,
+        22
+      ],
+      "size": "8.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1JJ9Kfbu3oKiz8wdonkR1aA",
+          "_id": "6a15ac3cac4186cff42184e1"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/3Q3oJ",
+          "_id": "6a15ac3cac4186cff42184e2"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-26T14:20:44.955Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779805243365-6da29e34.jpg"
+    },
+    {
+      "_id": "6a164bccac4186cff4219f4f",
+      "id": "IL-EQmFS",
+      "name": "This Is Fine: Maximum Cope",
+      "image": "1779846091240-21701bd5.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        99,
+        174,
+        175,
+        176
+      ],
+      "size": "1.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1I8IR_IbNdxDUcrBcw-v3Pg",
+          "_id": "6a164bccac4186cff4219f50"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-27T01:41:32.625Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779846091240-21701bd5.jpg"
+    },
+    {
+      "_id": "6a164c5bac4186cff421bf31",
+      "id": "161qoGpv",
+      "name": "Farming Simulador 26",
+      "image": "1779846234438-8f4176c0.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        19,
+        12,
+        60,
+        67,
+        97,
+        70
+      ],
+      "size": "3.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1kfsLB8yes54I9PiNdy5e7g",
+          "_id": "6a164c5bac4186cff421bf32"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/LpmunU6X",
+          "_id": "6a164c5bac4186cff421bf33"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-27T01:43:55.580Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779846234438-8f4176c0.jpg"
+    },
+    {
+      "_id": "6a164c92ac4186cff421ccdf",
+      "id": "VfZAjWrG",
+      "name": "Space Adventure Cobra The Awakening",
+      "image": "1779846289592-d34e2dfc.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        22,
+        1,
+        50,
+        177
+      ],
+      "size": "5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1ijT9L7XYlQf8daIhyRcWZg",
+          "_id": "6a164c92ac4186cff421cce0"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/XR5D",
+          "_id": "6a164c92ac4186cff421cce1"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-27T01:44:50.815Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779846289592-d34e2dfc.jpg"
+    },
+    {
+      "_id": "6a164d1fac4186cff421f16b",
+      "id": "bMqJM5Iz",
+      "name": "Starbites",
+      "image": "1779846430409-1538022f.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        22,
+        50,
+        56,
+        178
+      ],
+      "size": "9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1AqYqHF5oSzsjqCo4QJirww",
+          "_id": "6a164d1fac4186cff421f16c"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-27T01:47:11.584Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779846430409-1538022f.jpg"
+    },
+    {
+      "_id": "6a164d9dac4186cff4221164",
+      "id": "5R6Spn1Z",
+      "name": "Outbound",
+      "image": "1779846555786-36fc4d45.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        9,
+        21,
+        19,
+        12,
+        107
+      ],
+      "size": "2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1K0ngQM6zvQzkStr2zANR4A",
+          "_id": "6a164d9dac4186cff4221165"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/tmseO",
+          "_id": "6a164d9dac4186cff4221166"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-27T01:49:17.148Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779846555786-36fc4d45.jpg"
+    },
+    {
+      "_id": "6a18886086205522b1930ade",
+      "id": "qN3z9Hmi",
+      "name": "LumenTale Memories Of trey ",
+      "image": "1779992670736-0ee25de2.webp",
+      "gameplayLink": "",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        179,
+        180
+      ],
+      "size": "4.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1LGx2oU3Y_15l63tmVp9urQ",
+          "_id": "6a18886086205522b1930adf"
+        },
+        {
+          "type": "actualizacion",
+          "link": "https://cuty.io/3tzCwk",
+          "_id": "6a18886086205522b1930ae0"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-28T18:24:32.311Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779992670736-0ee25de2.jpg"
+    },
+    {
+      "_id": "6a15a76cac4186cff4209ab9",
+      "id": "RJxQMJfG",
+      "name": "Slime Rancher ",
+      "image": "1779804009854-f84fa663.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        19,
+        60
+      ],
+      "size": "610 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1j6z-Yew7iNbu4tzI1TMg0g",
+          "_id": "6a15a76cac4186cff4209aba"
+        }
+      ],
+      "emulatorId": 10,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-29T14:00:12.329Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1779804009854-f84fa663.jpeg"
+    },
+    {
+      "_id": "6a19cf4086205522b193531f",
+      "id": "2OXuMVXM",
+      "name": "Poppy PlayTime Chapter 5",
+      "image": "1780076351157-23634aba.webp",
+      "gameplayLink": "",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        31,
+        21,
+        49,
+        3
+      ],
+      "size": "8.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1KrffoScdCdf_diMX9lc28A",
+          "_id": "6a19cf4086205522b1935320"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-29T17:39:12.684Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780076351157-23634aba.jpg"
+    },
+    {
+      "_id": "6a1a43a386205522b1937bc8",
+      "id": "9bwxpuv8",
+      "name": "Assassin's Creed Revelations",
+      "image": "1780106145946-7b32b8d2.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        8
+      ],
+      "size": "7.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1cB8aAQZXMeH7SN7b8T-2MA",
+          "_id": "6a1a43a386205522b1937bc9"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T01:55:47.274Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780106145946-7b32b8d2.jpeg"
+    },
+    {
+      "_id": "6a1a43de86205522b1938996",
+      "id": "Bc9lSKqv",
+      "name": "Assassin's Creed III",
+      "image": "1780106204990-d3bebff6.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        8
+      ],
+      "size": "8.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1YtExz3FUla-D93uCdncTpg",
+          "_id": "6a1a43de86205522b1938997"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T01:56:46.254Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780106204990-d3bebff6.jpg"
+    },
+    {
+      "_id": "6a1a441386205522b1939764",
+      "id": "QPIAWNhG",
+      "name": "Assassin's Creed IV: Black Flag",
+      "image": "1780106258602-a86db55f.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        8
+      ],
+      "size": "9.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1tK4vx6HGbjZLrD5Uu1X1Zw",
+          "_id": "6a1a441386205522b1939765"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T01:57:39.765Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780106258602-a86db55f.jpg"
+    },
+    {
+      "_id": "6a1a443d86205522b193a532",
+      "id": "cvXGLra4",
+      "name": "Assassin's Creed Rogue",
+      "image": "1780106300027-2c0f8ccf.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        8
+      ],
+      "size": "8.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Ifzh1FOPe7ZIiRbcStps4w",
+          "_id": "6a1a443d86205522b193a533"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T01:58:21.495Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780106300027-2c0f8ccf.jpg"
+    },
+    {
+      "_id": "6a1a447486205522b193b304",
+      "id": "ajNtPNYR",
+      "name": "Asura's Wrath",
+      "image": "1780106354761-4458c33e.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        27,
+        22
+      ],
+      "size": "6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1G2oO8P3TCCosHgULxvVgtA",
+          "_id": "6a1a447486205522b193b305"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T01:59:16.027Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780106354761-4458c33e.jpg"
+    },
+    {
+      "_id": "6a1a449886205522b193c0d9",
+      "id": "ulNZcFZ3",
+      "name": "Avatar: The Last Airbender - The Burning Earth",
+      "image": "1780106391263-bcf3dbaa.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        98,
+        43
+      ],
+      "size": "5.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1qM7hUGUGeLlHjTS5QHh3_Q",
+          "_id": "6a1a449886205522b193c0da"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T01:59:52.315Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780106391263-bcf3dbaa.jpg"
+    },
+    {
+      "_id": "6a1a44c886205522b193ceae",
+      "id": "tVdLzEN3",
+      "name": "Avatar: The Game",
+      "image": "1780106435453-07791a90.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        167
+      ],
+      "size": "2.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/10TmGGLI26ttgMZ93Jy0bsg",
+          "_id": "6a1a44c886205522b193ceaf"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T02:00:40.006Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780106435453-07791a90.jpg"
+    },
+    {
+      "_id": "6a1a44f086205522b193dc86",
+      "id": "AGJwooTc",
+      "name": "Backbreaker",
+      "image": "1780106479430-40028c62.jpg",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        6,
+        4,
+        19,
+        181
+      ],
+      "size": "904 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1P4XqrUG8utHjN4N-KFdfwg",
+          "_id": "6a1a44f086205522b193dc87"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T02:01:20.496Z",
+      "updatedAt": "2026-05-30T02:01:45.182Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1a453f86205522b193fce8",
+      "id": "CTJxkNbS",
+      "name": "Bakugan: Defenders of the Core",
+      "image": "1780106557790-f700cc52.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        65
+      ],
+      "size": "2.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1W68wQl-2iqu_RYsGln0jWg",
+          "_id": "6a1a453f86205522b193fce9"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T02:02:39.076Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780106557790-f700cc52.jpg"
+    },
+    {
+      "_id": "6a1a45c886205522b1940ad1",
+      "id": "xpyPTLMv",
+      "name": "Bakugan Battle Brawlers",
+      "image": "1780106695256-6b0875cc.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        65
+      ],
+      "size": "1.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/17FFIXwNUCE-AsQWI-4UBWQ",
+          "_id": "6a1a45c886205522b1940ad2"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T02:04:56.422Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780106695256-6b0875cc.jpg"
+    },
+    {
+      "_id": "6a1a464a86205522b19418b7",
+      "id": "35K1Vlil",
+      "name": "BAJA: Edge of Control",
+      "image": "1780106825001-5e84e37c.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        19,
+        182
+      ],
+      "size": "5.2 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1vMqfSvRJpDH7ThSQcjPejw",
+          "_id": "6a1a464a86205522b19418b8"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T02:07:06.205Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780106825001-5e84e37c.jpg"
+    },
+    {
+      "_id": "6a1a46a386205522b1943922",
+      "id": "Yu9Xva-i",
+      "name": "Band Hero",
+      "image": "1780106914457-858ead9b.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        74,
+        100,
+        69
+      ],
+      "size": "5.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1DEV2Hb6m4Lm6qHy66YnDqQ",
+          "_id": "6a1a46a386205522b1943923"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T02:08:35.576Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780106914457-858ead9b.jpg"
+    },
+    {
+      "_id": "6a1a46da86205522b194470c",
+      "id": "ZdfUxWV9",
+      "name": "Banjo-Kazooie: Nuts & Bolts",
+      "image": "1780106969306-03ed79b7.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        1,
+        64
+      ],
+      "size": "4.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1bp93CZYoOC4HqmbpS3AA8g",
+          "_id": "6a1a46da86205522b194470d"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T02:09:30.455Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780106969306-03ed79b7.jpg"
+    },
+    {
+      "_id": "6a1a46ff86205522b19454f9",
+      "id": "3sJ1tNXo",
+      "name": "Batman: Arkham Asylum GOTY Edition",
+      "image": "1780107006212-4ebe3668.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        8
+      ],
+      "size": "7.1",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/15_gVkgFPZsadeCzhG7dilQ",
+          "_id": "6a1a46ff86205522b19454fa"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T02:10:07.327Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780107006212-4ebe3668.jpg"
+    },
+    {
+      "_id": "6a1a473e86205522b19462f2",
+      "id": "gewXgFVI",
+      "name": "Back to the Future: The Game",
+      "image": "1780107069177-abee01e1.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        50,
+        183
+      ],
+      "size": "1.8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1iv5sfluTQfHksGhOnEqUAQ",
+          "_id": "6a1a473e86205522b19462f3"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T02:11:10.346Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780107069177-abee01e1.jpg"
+    },
+    {
+      "_id": "6a1a588886205522b1948d6d",
+      "id": "oBXtZWzC",
+      "name": "Battlestations: Pacific",
+      "image": "1780111495282-29f4d7f3.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        28,
+        184
+      ],
+      "size": "5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1-zFb_eS-dI6AsewcFuF02g",
+          "_id": "6a1a588886205522b1948d6e"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T03:24:56.454Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780111495282-29f4d7f3.jpg"
+    },
+    {
+      "_id": "6a1a598386205522b194b2ae",
+      "id": "ZGGdT60S",
+      "name": "Battlefield 2: Modern Combat",
+      "image": "1780111746448-a75b4293.webp",
+      "gameplayLink": "",
+      "format": 9,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        185
+      ],
+      "size": "5.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/113igvNY9gRNKDl3paVGZ2w",
+          "_id": "6a1a598386205522b194b2af"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T03:29:07.599Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780111746448-a75b4293.jpg"
+    },
+    {
+      "_id": "6a1a689a313e73c23a7d63f8",
+      "id": "-39_VRoR",
+      "name": "Battlefield 4",
+      "image": "1780115608888-2f8189fe.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        185
+      ],
+      "size": "10.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1wcBfPbddXEu9tgexo42cyA",
+          "_id": "6a1a689a313e73c23a7d63f9"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T04:33:30.426Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780115608888-2f8189fe.jpg"
+    },
+    {
+      "_id": "6a1a68d0313e73c23a7d71f3",
+      "id": "WJBBUU-g",
+      "name": "Batman: Arkham City GOTY Edition",
+      "image": "1780115663262-c55b0f0d.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        12
+      ],
+      "size": "8 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1RmnNwo2igANoeTKnau5fWQ",
+          "_id": "6a1a68d0313e73c23a7d71f4"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T04:34:24.568Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780115663262-c55b0f0d.jpg"
+    },
+    {
+      "_id": "6a1a68f8313e73c23a7d7ff1",
+      "id": "V5RGGdTU",
+      "name": "Batman: Arkham Origins",
+      "image": "1780115703542-0ecdeffe.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        12
+      ],
+      "size": "13.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1H6b4Y92sVs5mhsDS40j8Fg",
+          "_id": "6a1a68f8313e73c23a7d7ff2"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T04:35:04.771Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780115703542-0ecdeffe.jpg"
+    },
+    {
+      "_id": "6a1a691f313e73c23a7d8df0",
+      "id": "rCQBdMI0",
+      "name": "Battlefield 3",
+      "image": "1780115742448-c254063b.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        185
+      ],
+      "size": "11.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/19VFO4YNF9BdGdaFHL65Y5Q",
+          "_id": "6a1a691f313e73c23a7d8df1"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T04:35:43.576Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780115742448-c254063b.jpg"
+    },
+    {
+      "_id": "6a1a694a313e73c23a7d9bf6",
+      "id": "sLpSV7T6",
+      "name": "Battlefield: Bad Company 2",
+      "image": "1780115785078-009909d8.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        185
+      ],
+      "size": "4.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1K6J1M9jZoDEhInyyKEOuKw",
+          "_id": "6a1a694a313e73c23a7d9bf7"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T04:36:26.161Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780115785078-009909d8.jpg"
+    },
+    {
+      "_id": "6a1a6972313e73c23a7da9fe",
+      "id": "Kmo6NjBr",
+      "name": "Battlefield: Bad Company",
+      "image": "1780115825746-a3462b07.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        185
+      ],
+      "size": "6.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1_nXvBsltQJwclhDzRuvDeQ",
+          "_id": "6a1a6972313e73c23a7da9ff"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T04:37:06.844Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780115825746-a3462b07.jpg"
+    },
+    {
+      "_id": "6a1a699e313e73c23a7db806",
+      "id": "GQ-44_wW",
+      "name": "Battlefield Hardline",
+      "image": "1780115869518-b0660c95.webp",
+      "gameplayLink": "",
+      "format": 17,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        35,
+        165
+      ],
+      "size": "11 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1lJNYiU7-QSlQ7oJ9d6m-Gw",
+          "_id": "6a1a699e313e73c23a7db807"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-30T04:37:50.607Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780115869518-b0660c95.jpg"
+    },
+    {
+      "_id": "6a1ba2c5cfaf11dd15a0d6b4",
+      "id": "gears-of-war-judgment",
+      "name": "Gears of War: Judgment",
+      "image": "1780196036201-ec151063.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        7,
+        50
+      ],
+      "size": "7,1GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1hrSs1owX757hufpRRYJB-Q",
+          "_id": "6a1ba2c5cfaf11dd15a0d6b5"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T02:53:57.863Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780196036201-ec151063.jpg"
+    },
+    {
+      "_id": "6a1ba2e8cfaf11dd15a0db6d",
+      "id": "gears-of-war-3",
+      "name": "Gears of War 3",
+      "image": "1780196071335-7d0983cc.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        2,
+        50
+      ],
+      "size": "7,5GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1DXFDfqq0UVK2ISdWQU8x2w",
+          "_id": "6a1ba2e8cfaf11dd15a0db6e"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T02:54:32.461Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780196071335-7d0983cc.jpg"
+    },
+    {
+      "_id": "6a1ba3bfcfaf11dd15a0e034",
+      "id": "gears-of-war-2",
+      "name": "Gears of War 2",
+      "image": "1780196285860-ce18e2c2.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        3,
+        50
+      ],
+      "size": "6,6GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1EhlzsvNI4k_hGhu2VtWx3A",
+          "_id": "6a1ba3bfcfaf11dd15a0e035"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T02:58:07.060Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780196285860-ce18e2c2.jpg"
+    },
+    {
+      "_id": "6a1ba3efcfaf11dd15a0e4f2",
+      "id": "gears-of-war",
+      "name": "Gears of War",
+      "image": "1780196334223-c2ce0f46.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        7,
+        50
+      ],
+      "size": "6,1GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/16U2GUGtKs2sw85axkm9i2g",
+          "_id": "6a1ba3efcfaf11dd15a0e4f3"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T02:58:55.445Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780196334223-c2ce0f46.jpg"
+    },
+    {
+      "_id": "6a1bc318cfaf11dd15a10ca6",
+      "id": "halo-combat-evolved-anniversary",
+      "name": "Halo: Combat Evolved Anniversary",
+      "image": "1780204310874-6b94a7d0.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Desconocido",
+      "genre": [
+        35,
+        7,
+        50
+      ],
+      "size": "7,6GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1VwLvGIpwA3-36E4Cu0AF4w",
+          "_id": "6a1bc318cfaf11dd15a10ca7"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T05:11:52.084Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780204310874-6b94a7d0.jpg"
+    },
+    {
+      "_id": "6a1bc38acfaf11dd15a11623",
+      "id": "halo-3",
+      "name": "Halo 3",
+      "image": "1780204425110-dfbfbf85.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        50
+      ],
+      "size": "5,3GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1O32WrrPQIeyUd24aUA1NvA",
+          "_id": "6a1bc38acfaf11dd15a11624"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T05:13:46.252Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780204425110-dfbfbf85.jpg"
+    },
+    {
+      "_id": "6a1bc3c0cfaf11dd15a11ae1",
+      "id": "halo-3-odst",
+      "name": "Halo 3: ODST",
+      "image": "1780204479570-fb2d1f2b.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        7,
+        50
+      ],
+      "size": "3,7GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1PXr51zYGHKkiJKCThvrUsQ",
+          "_id": "6a1bc3c0cfaf11dd15a11ae2"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T05:14:40.719Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780204479570-fb2d1f2b.jpg"
+    },
+    {
+      "_id": "6a1bc3edcfaf11dd15a11fac",
+      "id": "halo-4",
+      "name": "Halo 4",
+      "image": "1780204523587-e2f24ff0.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        7,
+        50
+      ],
+      "size": "6,6GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1jwEAXQQKztzW8AHESM4Kqw",
+          "_id": "6a1bc3edcfaf11dd15a11fad"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T05:15:25.072Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780204523587-e2f24ff0.jpg"
+    },
+    {
+      "_id": "6a1bc434cfaf11dd15a1246c",
+      "id": "halo-reach",
+      "name": "Halo: Reach",
+      "image": "1780204595353-aa4275d9.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        7,
+        50
+      ],
+      "size": "5,8GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1waBaJ2Rx7siDVTgwEHjZVQ",
+          "_id": "6a1bc434cfaf11dd15a1246d"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T05:16:36.514Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780204595353-aa4275d9.jpg"
+    },
+    {
+      "_id": "6a1bc45ccfaf11dd15a1292d",
+      "id": "halo-wars",
+      "name": "Halo Wars",
+      "image": "1780204635502-f24ca587.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        28,
+        126,
+        50
+      ],
+      "size": "6GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1w6n3GRW5X1wVhFTB2jLRjw",
+          "_id": "6a1bc45ccfaf11dd15a1292e"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T05:17:16.781Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780204635502-f24ca587.jpg"
+    },
+    {
+      "_id": "6a1c93142115222bbea9c7d4",
+      "id": "oZWNtEmk",
+      "name": "The Simpsons Hit and Run",
+      "image": "1780257543478-2600b16c.webp",
+      "gameplayLink": "",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        67
+      ],
+      "size": "1,8GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1k3enPnTxbRUyPd7uHbUoIA",
+          "_id": "6a1c93142115222bbea9c7d5"
+        }
+      ],
+      "emulatorId": 10,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T19:59:16.857Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780257543478-2600b16c.jpg"
+    },
+    {
+      "_id": "6a1ca6d5c095b13c3a17ffc3",
+      "id": "hzLLEfa7",
+      "name": "Forza Horizon",
+      "image": "1780262612049-9855fff8.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        12,
+        19
+      ],
+      "size": "7GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1OfJfw3D65PMHbICp4e_trQ",
+          "_id": "6a1ca6d5c095b13c3a17ffc4"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:23:33.290Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780262612049-9855fff8.jpg"
+    },
+    {
+      "_id": "6a1ca6f4c095b13c3a18093d",
+      "id": "ZMAP9TZK",
+      "name": "Forza Horizon 2",
+      "image": "1780262642814-98b01e88.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        12,
+        19
+      ],
+      "size": "7,5GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/19h05oeGMFSATuXkdr0gsmA",
+          "_id": "6a1ca6f4c095b13c3a18093e"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:24:04.150Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780262642814-98b01e88.jpg"
+    },
+    {
+      "_id": "6a1ca724c095b13c3a1812b9",
+      "id": "XCTh_C-Z",
+      "name": "Forza Horizon 2 Presents Fast & Furious",
+      "image": "1780262691036-7d64f560.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        12,
+        86
+      ],
+      "size": "2,4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/15goE3-ghgBXDECdOH0E2XQ",
+          "_id": "6a1ca724c095b13c3a1812ba"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:24:52.282Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780262691036-7d64f560.jpg"
+    },
+    {
+      "_id": "6a1ca744c095b13c3a181c37",
+      "id": "W4iyyEJv",
+      "name": "Forza Motorsport 2",
+      "image": "1780262723059-6cdf1bc3.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Desconocido",
+      "genre": [
+        13,
+        19,
+        118
+      ],
+      "size": "5GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/13IPSWQGnUgSkUAkIF_q2AA",
+          "_id": "6a1ca744c095b13c3a181c38"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:25:24.269Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780262723059-6cdf1bc3.jpg"
+    },
+    {
+      "_id": "6a1ca76ec095b13c3a1825b7",
+      "id": "FuYVep8Y",
+      "name": "Forza Motorsport 3",
+      "image": "1780262765629-de9c5ea1.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        19,
+        118
+      ],
+      "size": "10,6GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1n58U7qe4PWK_GtiTQqpLJQ",
+          "_id": "6a1ca76ec095b13c3a1825b8"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:26:07.000Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780262765629-de9c5ea1.jpg"
+    },
+    {
+      "_id": "6a1ca7c4c095b13c3a182f39",
+      "id": "cSB1D6XP",
+      "name": "Forza Motorsport 4",
+      "image": "1780262851138-d121fbed.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        19,
+        118
+      ],
+      "size": "10GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1FJQva_t3uhdlTo6JTO_RZA",
+          "_id": "6a1ca7c4c095b13c3a182f3a"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:27:32.237Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780262851138-d121fbed.jpg"
+    },
+    {
+      "_id": "6a1cad5737ad3ea450e4f5b1",
+      "id": "O_ytIhX0",
+      "name": "Ben 10 Omniverse",
+      "image": "1780264278030-96c95762.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        43
+      ],
+      "size": "2,4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1CtwaajH2udXqlmyuJELfOw",
+          "_id": "6a1cad5737ad3ea450e4f5b2"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:51:19.727Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780264278030-96c95762.jpg"
+    },
+    {
+      "_id": "6a1cad7b37ad3ea450e4ff37",
+      "id": "pCSLHCDr",
+      "name": "Ben 10 Omniverse 2",
+      "image": "1780264314231-d166b7cf.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        43
+      ],
+      "size": "1,6GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/11557Ph6MtBdObvZovMRIcg",
+          "_id": "6a1cad7b37ad3ea450e4ff38"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:51:55.350Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780264314231-d166b7cf.jpg"
+    },
+    {
+      "_id": "6a1cadb437ad3ea450e508bf",
+      "id": "wbxkYAJz",
+      "name": "Ben 10 Ultimate Alien: Cosmic Destruction",
+      "image": "1780264371540-3990337c.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        1
+      ],
+      "size": "1,5GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1jY-oQsVQQvCcXqYzR_LGbg",
+          "_id": "6a1cadb437ad3ea450e508c0"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:52:52.732Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780264371540-3990337c.jpg"
+    },
+    {
+      "_id": "6a1cadeb37ad3ea450e51249",
+      "id": "tzB7FqET",
+      "name": "Ben 10 Galactic Racing",
+      "image": "1780264426344-81d02379.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        86,
+        50
+      ],
+      "size": "1,9GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/15NmeFMo-2mxq4OR7vLu3QQ",
+          "_id": "6a1cadeb37ad3ea450e5124a"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:53:47.559Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780264426344-81d02379.jpg"
+    },
+    {
+      "_id": "6a1cae1537ad3ea450e51bd5",
+      "id": "SvQCrjtq",
+      "name": "Ben 10 Alien Force: Vilgax Attacks",
+      "image": "1780264468449-0da188e6.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        3
+      ],
+      "size": "1,5GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1TALAMS_OzgfcMsSOaKk8Ow",
+          "_id": "6a1cae1537ad3ea450e51bd6"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:54:29.673Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780264468449-0da188e6.jpg"
+    },
+    {
+      "_id": "6a1cae4d37ad3ea450e52563",
+      "id": "l-35b2zV",
+      "name": "Bee Movie Game",
+      "image": "1780264524090-5419b04a.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        3
+      ],
+      "size": "3,2GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1_uAM91hIB3JcTLguqjJsUw",
+          "_id": "6a1cae4d37ad3ea450e52564"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:55:25.262Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780264524090-5419b04a.jpg"
+    },
+    {
+      "_id": "6a1cae7f37ad3ea450e52ef3",
+      "id": "xemR1hrJ",
+      "name": "Bionic Commando",
+      "image": "1780264573978-3a8218a3.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        35
+      ],
+      "size": "6GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1cUlYTQoNgP1mfc9yhYDP2Q",
+          "_id": "6a1cae7f37ad3ea450e52ef4"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:56:15.158Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780264573978-3a8218a3.jpg"
+    },
+    {
+      "_id": "6a1caebd37ad3ea450e53885",
+      "id": "X0M3ZZHO",
+      "name": "BioShock",
+      "image": "1780264635880-a6cdc39f.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        93,
+        50
+      ],
+      "size": "4,7GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1MaZ4t8BnbdZEmj89sUviSw",
+          "_id": "6a1caebd37ad3ea450e53886"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:57:17.174Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780264635880-a6cdc39f.jpg"
+    },
+    {
+      "_id": "6a1caeed37ad3ea450e54219",
+      "id": "XEzQB2dG",
+      "name": "BioShock 2",
+      "image": "1780264683947-fde0f69d.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        93,
+        50
+      ],
+      "size": "6,4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1RSPXWfclyrsplFh9R-6tsg",
+          "_id": "6a1caeed37ad3ea450e5421a"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-05-31T21:58:05.234Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780264683947-fde0f69d.jpg"
+    },
+    {
+      "_id": "6a27a51737ad3ea450e57d9f",
+      "id": "N8XmL155",
+      "name": "Left 4 Dead",
+      "image": "1780983061432-dac34f11.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        21,
+        31
+      ],
+      "size": "4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Rlg045AUvi9Pr6XJwWCe3Q",
+          "_id": "6a27a51737ad3ea450e57da0"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:31:03.625Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780983061432-dac34f11.jpg"
+    },
+    {
+      "_id": "6a27a53337ad3ea450e58737",
+      "id": "BeQA9a8-",
+      "name": "Left 4 Dead 2",
+      "image": "1780983090756-0c006f2b.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        21,
+        31
+      ],
+      "size": "4,6GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1sdgUp5WCuJUrwh94NzOyCA",
+          "_id": "6a27a53337ad3ea450e58738"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:31:31.988Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780983090756-0c006f2b.jpg"
+    },
+    {
+      "_id": "6a27a6f437ad3ea450e590d1",
+      "id": "3hxXZ5tr",
+      "name": "BlazBlue: Continuum Shift",
+      "image": "1780983539350-455c07e5.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        22,
+        65,
+        118
+      ],
+      "size": "6,4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/127Wiw5xVfF1pPFww1rGx3w",
+          "_id": "6a27a6f437ad3ea450e590d2"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:39:00.642Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780983539350-455c07e5.jpg"
+    },
+    {
+      "_id": "6a27a71237ad3ea450e59a6d",
+      "id": "hAh_Ri2P",
+      "name": "BlazBlue: Continuum Shift Extend",
+      "image": "1780983569305-7bc88363.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        24,
+        22,
+        118
+      ],
+      "size": "6,9GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1oeutId6HXWhYsNAgrF4YBQ",
+          "_id": "6a27a71237ad3ea450e59a6e"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:39:30.658Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780983569305-7bc88363.jpg"
+    },
+    {
+      "_id": "6a27a73937ad3ea450e5a40b",
+      "id": "D-yr5QFr",
+      "name": "BlazBlue: Calamity Trigger",
+      "image": "1780983607894-722c296b.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        65,
+        22,
+        118
+      ],
+      "size": "3,2GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1u86j2Qt7-CNJZOuBt1sXNQ",
+          "_id": "6a27a73937ad3ea450e5a40c"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:40:09.175Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780983607894-722c296b.jpg"
+    },
+    {
+      "_id": "6a27a8c037ad3ea450e5adab",
+      "id": "ATGKQyqi",
+      "name": "Blood Drive",
+      "image": "1780983998676-2e429d03.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        10,
+        48
+      ],
+      "size": "1,8GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1DSgVDEpMLtTuWBJ0zu97NQ",
+          "_id": "6a27a8c037ad3ea450e5adac"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:46:40.014Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780983998676-2e429d03.jpg"
+    },
+    {
+      "_id": "6a27a90b37ad3ea450e5b74d",
+      "id": "ysICLR6r",
+      "name": "Blue Dragon",
+      "image": "1780984074623-1753e2b5.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        55,
+        93
+      ],
+      "size": "19,8GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1AgSPinXxr4tTJWIGdJLf4w",
+          "_id": "6a27a90b37ad3ea450e5b74e"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:47:55.923Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780984074623-1753e2b5.jpg"
+    },
+    {
+      "_id": "6a27a94637ad3ea450e5c0f1",
+      "id": "ae3VCW4m",
+      "name": "Blur",
+      "image": "1780984133054-63dfd3ed.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        86,
+        10
+      ],
+      "size": "5,2GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1P5VU6xaVZzm9WeKdAIVOpQ",
+          "_id": "6a27a94637ad3ea450e5c0f2"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:48:54.347Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780984133054-63dfd3ed.jpg"
+    },
+    {
+      "_id": "6a27aa1537ad3ea450e5ca97",
+      "id": "p5fv-Dv4",
+      "name": "Blades of Time",
+      "image": "1780984339977-d487c907.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        27,
+        3
+      ],
+      "size": "2,2GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Op47Re2DSWzxJc-Xz1H2Yw",
+          "_id": "6a27aa1537ad3ea450e5ca98"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:52:21.192Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780984339977-d487c907.jpg"
+    },
+    {
+      "_id": "6a27aa4837ad3ea450e5d43f",
+      "id": "LZh2mj-a",
+      "name": "BioShock Infinite: The Complete Edition",
+      "image": "1780984391093-b0b2aed4.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        41,
+        50
+      ],
+      "size": "13GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1mnCuEad7Jw9htK-YpUqzUw",
+          "_id": "6a27aa4837ad3ea450e5d440"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:53:12.340Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780984391093-b0b2aed4.jpg"
+    },
+    {
+      "_id": "6a27aa7d37ad3ea450e5dde9",
+      "id": "nIEBENTq",
+      "name": "Blitz: The League",
+      "image": "1780984443852-e9f1499a.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        181,
+        86
+      ],
+      "size": "3,1GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1u3XR2E1xtrylzlKhBTC_tA",
+          "_id": "6a27aa7d37ad3ea450e5ddea"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:54:05.397Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780984443852-e9f1499a.jpg"
+    },
+    {
+      "_id": "6a27aab137ad3ea450e5e795",
+      "id": "O0khOHg2",
+      "name": "Blitz: The League II",
+      "image": "1780984496625-1199a724.webp",
+      "gameplayLink": "",
+      "format": 14,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        181,
+        86
+      ],
+      "size": "6,6GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1QxMTxCOGx9T2uHoksHXUgw",
+          "_id": "6a27aab137ad3ea450e5e796"
+        }
+      ],
+      "emulatorId": 9,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T05:54:57.859Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1780984496625-1199a724.jpg"
+    },
+    {
+      "_id": "6a2827e837ad3ea450e5f616",
+      "id": "lYueXvh8",
+      "name": "Choo-choo Charles",
+      "image": "1781016551013-3edcdfbf.webp",
+      "gameplayLink": "",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        14
+      ],
+      "size": "1GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1swWxr8y0hgeV59haasYKSQ",
+          "_id": "6a2827e837ad3ea450e5f617"
+        }
+      ],
+      "emulatorId": 10,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-09T14:49:12.486Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1781016551013-3edcdfbf.jpg"
+    },
+    {
+      "_id": "6a2ae60837ad3ea450e60502",
+      "id": "5pcsikk2",
+      "name": "Jujutsu Kaisen Cursed Clash",
+      "image": "1781308834142-382501b0.webp",
+      "gameplayLink": "",
+      "format": 9,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        65,
+        22,
+        162
+      ],
+      "size": "14GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1pokum9zPODXpuxSE5paCvQ",
+          "_id": "6a2ae60837ad3ea450e60503"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-11T16:44:56.205Z",
+      "updatedAt": "2026-06-13T00:00:35.807Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2d803214dabecb3ecf70e0",
+      "id": "03nH-iwf",
+      "name": "Marvel Super Hero Squad: The infinity gauntlet",
+      "image": "1781366833175-48d45acf.webp",
+      "gameplayLink": "",
+      "format": 1,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        43
+      ],
+      "size": "5,2GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1rvgS1pGDwmIZ3Cy59a0Zmg",
+          "_id": "6a2d803214dabecb3ecf70e1"
+        }
+      ],
+      "emulatorId": 1,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-13T16:07:14.484Z",
+      "updatedAt": "2026-06-13T16:07:14.484Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2d84e814dabecb3ecf7a94",
+      "id": "_Uvq-TFx",
+      "name": "Uncharted 3: Drake's Deception",
+      "image": "1781368038615-56f9eaf0.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        30
+      ],
+      "size": "45 GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/19iaiJ-0raWq4H1aHKnAHOw",
+          "_id": "6a2d84e814dabecb3ecf7a95"
+        }
+      ],
+      "emulatorId": 1,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-13T16:27:20.012Z",
+      "updatedAt": "2026-06-13T16:33:02.842Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2d856f14dabecb3ecf8920",
+      "id": "vYOCygNb",
+      "name": "Uncharted Drake's fortune",
+      "image": "1781368174507-dfd1024c.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        30
+      ],
+      "size": "22,6GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1fo5MXNSPiq9JuVjtZhRT0A",
+          "_id": "6a2d856f14dabecb3ecf8921"
+        }
+      ],
+      "emulatorId": 1,
+      "isUpdate": true,
+      "captures": [],
+      "createdAt": "2026-06-13T16:29:35.910Z",
+      "updatedAt": "2026-06-13T16:39:39.110Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2deab814dabecb3ecfc351",
+      "id": "11aDC2HN",
+      "name": "Uncharted 4: A Thief's End",
+      "image": "1781394102780-8e4744d3.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        35
+      ],
+      "size": "70GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1jDK7zQac10ZPI8hmq40oJA",
+          "_id": "6a2deab814dabecb3ecfc352"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-13T23:41:44.739Z",
+      "updatedAt": "2026-06-13T23:41:44.739Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2deaef14dabecb3ecfcd09",
+      "id": "9QQo5YAq",
+      "name": "Days Gone",
+      "image": "1781394157980-dbe2e12d.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        21
+      ],
+      "size": "47,6GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1y2yVsWFArehu7Zp7wfJawQ",
+          "_id": "6a2deaef14dabecb3ecfcd0a"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-13T23:42:39.229Z",
+      "updatedAt": "2026-06-13T23:42:39.229Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2deb4b14dabecb3ecfd6c3",
+      "id": "XsGrVgGu",
+      "name": "Blasphemous 2",
+      "image": "1781394249627-6a107338.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        46,
+        120
+      ],
+      "size": "4,4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1211kZ8hWHBmJJqRCUeK0Vw",
+          "_id": "6a2deb4b14dabecb3ecfd6c4"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-13T23:44:11.076Z",
+      "updatedAt": "2026-06-13T23:44:11.076Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2deb8614dabecb3ecfe07f",
+      "id": "dA5oIOaD",
+      "name": "007 First Light",
+      "image": "1781394309086-66da0200.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        8
+      ],
+      "size": "57,3GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1fUbQf_KucsuA_gWGMT6A7Q",
+          "_id": "6a2deb8614dabecb3ecfe080"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-13T23:45:10.539Z",
+      "updatedAt": "2026-06-13T23:45:10.539Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2dec6014dabecb3ecfea3d",
+      "id": "b9Y78h2F",
+      "name": "Subnautica 2",
+      "image": "1781394527492-1a9ac278.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        21,
+        9,
+        3
+      ],
+      "size": "13,4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1VPqdboDUXI0AMwSXH9eG9A",
+          "_id": "6a2dec6014dabecb3ecfea3e"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-13T23:48:48.811Z",
+      "updatedAt": "2026-06-13T23:48:48.811Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2f715a14dabecb3ed09536",
+      "id": "sMdR8iG9",
+      "name": "FIFA 06 (Europe)",
+      "image": "1781494105005-2950cc22.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        6,
+        19
+      ],
+      "size": "644MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1NDwTh38k_Bjq71B0hn_IYQ",
+          "_id": "6a2f715a14dabecb3ed09537"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-15T03:28:26.332Z",
+      "updatedAt": "2026-06-15T03:28:26.332Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a30b93e14dabecb3ed0a414",
+      "id": "dcQD2Hmy",
+      "name": "RWBY: Grimm Eclipse Definitive Edition",
+      "image": "1781578044568-c5946b80.webp",
+      "gameplayLink": "",
+      "format": 2,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        27,
+        113
+      ],
+      "size": "3,5GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1vVlnctxWewemPiZCWSRwww",
+          "_id": "6a30b93e14dabecb3ed0a415"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-06-16T02:47:26.391Z",
+      "updatedAt": "2026-06-16T02:47:26.391Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a37f49a14dabecb3ed0f7f9",
+      "id": "-8Wqc4g4",
+      "name": "FIFA 12 (Europe)",
+      "image": "1782051993083-99f4bf1b.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        6,
+        19,
+        118
+      ],
+      "size": "828,2MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1ZI8CP-_h8lKJ2yoym-1DHQ",
+          "_id": "6a37f49a14dabecb3ed0f7fa"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": true,
+      "captures": [],
+      "createdAt": "2026-06-21T14:26:34.629Z",
+      "updatedAt": "2026-06-21T14:48:19.175Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a37f4a514dabecb3ed101bf",
+      "id": "B2cf1rhs",
+      "name": "FIFA 11 (Europe)",
+      "image": "1782052004609-3c784ca0.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        6,
+        19,
+        118
+      ],
+      "size": "826MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/18ALqM-GTPwxDVK9cjAyJfA",
+          "_id": "6a37f4a514dabecb3ed101c0"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": true,
+      "captures": [],
+      "createdAt": "2026-06-21T14:26:45.931Z",
+      "updatedAt": "2026-06-21T14:48:41.454Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a37f4b214dabecb3ed10b87",
+      "id": "vPfExA32",
+      "name": "FIFA 10 (Europe)",
+      "image": "1782052017213-ae2780ec.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        6,
+        19,
+        118
+      ],
+      "size": "819MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Pr15eKwQANwcraswBH1UWQ",
+          "_id": "6a37f4b214dabecb3ed10b88"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": true,
+      "captures": [],
+      "createdAt": "2026-06-21T14:26:58.569Z",
+      "updatedAt": "2026-06-21T14:49:02.502Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a37f4ca14dabecb3ed12402",
+      "id": "zU9f8uRl",
+      "name": "FIFA 08 (Europe)",
+      "image": "1782052040753-1d22a65a.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        6,
+        19,
+        118
+      ],
+      "size": "849MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1iAZOGtmyFa-tRolHuqambQ",
+          "_id": "6a37f4ca14dabecb3ed12403"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": true,
+      "captures": [],
+      "createdAt": "2026-06-21T14:27:22.155Z",
+      "updatedAt": "2026-06-21T14:49:59.066Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a4fc63a14dabecb3ed24cfa",
+      "id": "L0SSsC1s",
+      "name": "Ben and Ed",
+      "image": "1783612984042-5638850c.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        2,
+        49
+      ],
+      "size": "2GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1TZxT6neyDccG1Y727td9DA",
+          "_id": "6a4fc63a14dabecb3ed24cfb"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-07-09T16:03:06.220Z",
+      "updatedAt": "2026-07-09T16:04:25.452Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a4fc83d14dabecb3ed29623",
+      "id": "oPNtk-fI",
+      "name": "Digimon Story Time Stranger",
+      "image": "1783613500163-d50f6b67.webp",
+      "gameplayLink": "",
+      "format": 9,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        93,
+        122
+      ],
+      "size": "13,5GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1B61Z6NiNTvmVQ4ilR9KniA",
+          "_id": "6a4fc83d14dabecb3ed29624"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-07-09T16:11:41.600Z",
+      "updatedAt": "2026-07-09T16:11:41.600Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a4fcf2314dabecb3ed29feb",
+      "id": "ZL0hDI54",
+      "name": "Dying Light Good Night",
+      "image": "1783615265672-018aa924.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        12,
+        15,
+        21,
+        10,
+        5
+      ],
+      "size": "26,3 GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1s-yYPqW4_xJfgtoqpqxBzA",
+          "_id": "6a4fcf2314dabecb3ed29fec"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-07-09T16:41:07.494Z",
+      "updatedAt": "2026-07-09T16:41:07.494Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a51bc3b14dabecb3ed2b3a1",
+      "id": "1v6ZKRpq",
+      "name": "Still Wakes the Deep",
+      "image": "1783741496828-67ce0631.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        20,
+        3,
+        34
+      ],
+      "size": "12,4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1AX-cu-bMZ1oasGI0L9NBOg",
+          "_id": "6a51bc3b14dabecb3ed2b3a2"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-07-11T03:44:59.152Z",
+      "updatedAt": "2026-07-11T03:44:59.152Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a51be2214dabecb3ed2cc1e",
+      "id": "7ZKBuXhe",
+      "name": "The Forest",
+      "image": "1783741984970-db1cd49e.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        21,
+        12,
+        31
+      ],
+      "size": "4.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1vSnGWTdNFZY9_bW3h4I5DQ",
+          "_id": "6a51be2214dabecb3ed2cc1f"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-07-11T03:53:06.625Z",
+      "updatedAt": "2026-07-11T03:53:06.625Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a51bedc14dabecb3ed2e495",
+      "id": "CeJhsKxJ",
+      "name": "LEGO Star Wars III: The Clone Wars",
+      "image": "1783742171103-655065b5.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        3,
+        7
+      ],
+      "size": "7,2GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1XBRFCi7R7IXnU8Fww6Sl0w",
+          "_id": "6a51bedc14dabecb3ed2e496"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-07-11T03:56:12.629Z",
+      "updatedAt": "2026-07-11T03:56:12.629Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a51bf1714dabecb3ed2ee65",
+      "id": "wwGvlCg_",
+      "name": "Dead Rising 2",
+      "image": "1783742229926-bea52b66.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        21,
+        48
+      ],
+      "size": "6,5GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1b-OdwfVHyggPoEfeEJLwYQ",
+          "_id": "6a51bf1714dabecb3ed2ee66"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-07-11T03:57:11.478Z",
+      "updatedAt": "2026-07-11T03:57:11.478Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a51bf5f14dabecb3ed2f837",
+      "id": "S_jhE43a",
+      "name": "Crysis Remastered",
+      "image": "1783742301948-343eee8a.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        35,
+        7,
+        50
+      ],
+      "size": "19,5GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/15PPF-oA5-ImxY-31fj97RA",
+          "_id": "6a51bf5f14dabecb3ed2f838"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-07-11T03:58:23.550Z",
+      "updatedAt": "2026-07-11T03:58:23.550Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a51bfad14dabecb3ed3020b",
+      "id": "wJYmc3A5",
+      "name": "Assetto Corsa",
+      "image": "1783742380081-d5a3bf3c.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        19
+      ],
+      "size": "18GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/18V1NEqScLB_KboaYrGnTKg",
+          "_id": "6a51bfad14dabecb3ed3020c"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-07-11T03:59:41.530Z",
+      "updatedAt": "2026-07-11T03:59:41.530Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a51bff514dabecb3ed30be1",
+      "id": "rH2lid95",
+      "name": "A Way Out",
+      "image": "1783742452505-c8bc4910.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        17
+      ],
+      "size": "22,1GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1GrKQM-nocXGDOiYdssA8JQ",
+          "_id": "6a51bff514dabecb3ed30be2"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-07-11T04:00:53.997Z",
+      "updatedAt": "2026-07-11T04:00:53.997Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a60074114dabecb3ed35ca8",
+      "id": "nA0CPAPD",
+      "name": "Crash of the Titans (Europe)",
+      "image": "1784678208115-2407182b.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        2,
+        3
+      ],
+      "size": "819 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1UBHcryemcHEtYIMXwr6L7w",
+          "_id": "6a60074114dabecb3ed35ca9"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": true,
+      "captures": [],
+      "createdAt": "2026-07-21T23:56:49.630Z",
+      "updatedAt": "2026-07-21T23:57:16.550Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e287c960af684b008b9811",
+      "id": "kxpmswH7",
+      "name": "Tomodachi Life Living The Dream v1.0.2",
+      "image": "1776453576518-46e22b9e.webp",
+      "format": 8,
+      "language": "Multi-Idioma",
+      "genre": [
+        92
+      ],
+      "size": "7 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1pt75QLlrp5loUDyMMr83-Q",
+          "_id": "69e287c960af684b008b9812"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": true,
+      "captures": [],
+      "createdAt": "2026-09-17T19:19:37.645Z",
+      "updatedAt": "2026-06-12T04:32:54.346Z",
+      "__v": 0,
+      "oldImage": "1776453576518-46e22b9e.jpg"
+    }
+  ],
+  "emulators": [
+    {
+      "_id": "68bd12b9df3315fccb1e9423",
+      "id": 9,
+      "name": "Xbox 360",
+      "path": "xbox360",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/xbox360-logo.png",
+      "index": 3,
+      "active": true,
+      "__v": 0,
+      "createdAt": "2025-09-07T05:06:01.755Z",
+      "updatedAt": "2026-05-31T03:03:56.021Z",
+      "deleted": false,
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/xbox360/",
+      "emulator": "https://1024terabox.com/s/13T9ExXD7I15es9ecV8VYfg"
+    },
+    {
+      "emulator": "",
+      "_id": "68bd12b9df3315fccb1e9424",
+      "id": 6,
+      "name": "Game Cube",
+      "path": "gamecube",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/gamecube-logo.png",
+      "index": 10,
+      "active": false,
+      "__v": 0,
+      "createdAt": "2025-09-07T05:06:01.755Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
+      "deleted": false,
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/dev/ps3/"
+    },
+    {
+      "_id": "68bd12b9df3315fccb1e941d",
+      "id": 1,
+      "name": "PS3",
+      "path": "ps3",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/ps3-png.png",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ps3/",
+      "index": 5,
+      "active": true,
+      "__v": 0,
+      "createdAt": "2025-09-07T05:06:01.754Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
+      "deleted": false,
+      "emulator": "https://1024terabox.com/s/1azjkPBpQkY0Am2OcA67TJQ"
+    },
+    {
+      "_id": "68bd12b9df3315fccb1e941f",
+      "id": 2,
+      "name": "PC",
+      "path": "pc",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/pc-logo4.jpeg",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/pc/",
+      "index": 1,
+      "active": true,
+      "__v": 0,
+      "createdAt": "2025-09-07T05:06:01.755Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
+      "deleted": false,
+      "emulator": "https://1024terabox.com/s/1VvGcTl9TJ31Nji9RucXHdQ"
+    },
+    {
+      "emulator": "",
+      "_id": "68bd12b9df3315fccb1e9426",
+      "id": 10,
+      "name": "Android",
+      "path": "android",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/android-logo.avif",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/android/",
+      "index": 2,
+      "active": true,
+      "__v": 0,
+      "createdAt": "2025-09-07T05:06:01.756Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
+      "deleted": false
+    },
+    {
+      "_id": "68bd12b9df3315fccb1e9425",
+      "id": 7,
+      "name": "PS2",
+      "path": "ps2",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/ps2-logo.webp",
+      "index": 6,
+      "active": true,
+      "__v": 0,
+      "createdAt": "2025-09-07T05:06:01.756Z",
+      "updatedAt": "2026-06-12T05:15:31.212Z",
+      "deleted": false,
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ps2/",
+      "emulator": ""
+    },
+    {
+      "_id": "68bd12b9df3315fccb1e941e",
+      "id": 8,
+      "name": "Nintendo Switch",
+      "path": "sw",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/switch-logo-2.webp",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/sw/",
+      "index": 0,
+      "active": true,
+      "__v": 0,
+      "createdAt": "2025-09-07T05:06:01.755Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
+      "deleted": false,
+      "emulator": "https://1024terabox.com/s/1ogEVXmweTj7eIBz39NecJw"
+    },
+    {
+      "_id": "68bd12b9df3315fccb1e9421",
+      "id": 4,
+      "name": "DS",
+      "path": "ds",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/ds-logo.jpeg",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ds/",
+      "index": 7,
+      "active": true,
+      "__v": 0,
+      "createdAt": "2025-09-07T05:06:01.755Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
+      "deleted": false,
+      "emulator": "https://1024terabox.com/s/1SchDFVvXaL4PcH9ABEk3Og"
+    },
+    {
+      "_id": "68bd12b9df3315fccb1e9420",
+      "id": 3,
+      "name": "PSP",
+      "path": "psp",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/psp-logo.png",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/psp/",
+      "index": 8,
+      "active": true,
+      "__v": 0,
+      "createdAt": "2025-09-07T05:06:01.755Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
+      "deleted": false,
+      "emulator": ""
+    },
+    {
+      "_id": "68bd12b9df3315fccb1e9422",
+      "id": 5,
+      "name": "Wii U",
+      "path": "wiiu",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/wiiu-logo.jpg",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/wiiu/",
+      "index": 9,
+      "active": true,
+      "__v": 0,
+      "createdAt": "2025-09-07T05:06:01.755Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
+      "deleted": false,
+      "emulator": "https://1024terabox.com/s/1ifALCTlRdfYNvCksREvzaA"
+    },
+    {
+      "_id": "69935e2fd3b75b3e2ac56803",
+      "id": 12,
+      "name": "xbox",
+      "path": "xbox",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/1771265582219-506db802.png",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/xbox/",
+      "emulator": "https://www.1024tera.com/wap/share/filelist?surl=Ebkg9JOcBJSXq7vConTuzw",
+      "index": 4,
+      "active": true,
+      "deleted": false,
+      "createdAt": "2026-02-16T18:13:03.259Z",
+      "updatedAt": "2026-03-19T04:42:43.261Z",
+      "__v": 0
+    }
+  ],
+  "genres": [
+    {
+      "_id": "68e08dce9e798a708ef8c373",
+      "id": 0,
+      "name": "Sin genero",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.137Z",
+      "updatedAt": "2025-10-04T03:00:30.137Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c374",
+      "id": 1,
+      "name": "Plataformas",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.137Z",
+      "updatedAt": "2026-08-04T01:45:44.116Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c375",
+      "id": 2,
+      "name": "Acción",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.137Z",
+      "updatedAt": "2025-10-04T03:00:30.137Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c376",
+      "id": 3,
+      "name": "Aventura",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.137Z",
+      "updatedAt": "2025-10-04T03:00:30.137Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c377",
+      "id": 4,
+      "name": "Deportes",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.137Z",
+      "updatedAt": "2025-10-04T03:00:30.137Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c378",
+      "id": 5,
+      "name": "Ciclo de día y noche",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.137Z",
+      "updatedAt": "2025-10-04T03:00:30.137Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c379",
+      "id": 6,
+      "name": "Fútbol",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.137Z",
+      "updatedAt": "2025-10-04T03:00:30.137Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c37a",
+      "id": 7,
+      "name": "Acción - Aventura",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.137Z",
+      "updatedAt": "2025-10-04T03:00:30.137Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c37b",
+      "id": 8,
+      "name": "Sigilo",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.137Z",
+      "updatedAt": "2025-10-04T03:00:30.137Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c37c",
+      "id": 9,
+      "name": "Exploración",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.137Z",
+      "updatedAt": "2025-10-04T03:00:30.137Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c37d",
+      "id": 10,
+      "name": "Combate",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.137Z",
+      "updatedAt": "2025-10-04T03:00:30.137Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c37e",
+      "id": 11,
+      "name": "Disparo en primera persona",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.137Z",
+      "updatedAt": "2025-10-04T03:00:30.137Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c37f",
+      "id": 12,
+      "name": "Mundo Abierto",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.137Z",
+      "updatedAt": "2025-10-04T03:00:30.137Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c380",
+      "id": 13,
+      "name": "Carreras",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c381",
+      "id": 14,
+      "name": "Terror de supervivencia",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c382",
+      "id": 15,
+      "name": "Parkour",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c383",
+      "id": 16,
+      "name": "Rol de acción",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c384",
+      "id": 17,
+      "name": "Modo cooperativo",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c385",
+      "id": 18,
+      "name": "Mecánicas de combate",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c386",
+      "id": 19,
+      "name": "Simulación",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c387",
+      "id": 20,
+      "name": "Horror",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c388",
+      "id": 21,
+      "name": "Supervivencia",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c389",
+      "id": 22,
+      "name": "Anime",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c38a",
+      "id": 23,
+      "name": "Novela visual",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c38b",
+      "id": 24,
+      "name": "Lucha",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c38c",
+      "id": 25,
+      "name": "Juegos de mesa",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c38d",
+      "id": 26,
+      "name": "Anime",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c38e",
+      "id": 27,
+      "name": "Hack and Slash",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c38f",
+      "id": 28,
+      "name": "Estrategia",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c390",
+      "id": 29,
+      "name": "Tercera persona",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c391",
+      "id": 30,
+      "name": "Disparo en tercera persona",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c392",
+      "id": 31,
+      "name": "Terror",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c393",
+      "id": 32,
+      "name": "Juegos 2D",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c394",
+      "id": 33,
+      "name": "Deslizamiento lateral",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c395",
+      "id": 34,
+      "name": "Narrativa ambiental",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c396",
+      "id": 35,
+      "name": "Disparos",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c397",
+      "id": 36,
+      "name": "Combate desafiente",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c398",
+      "id": 37,
+      "name": "Alta dificultad",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c399",
+      "id": 38,
+      "name": "Entornos interconectados",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c39a",
+      "id": 39,
+      "name": "Sandbox",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c39b",
+      "id": 40,
+      "name": "Juego de gestión",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c39c",
+      "id": 41,
+      "name": "Juegos de rol",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c39d",
+      "id": 42,
+      "name": "Carreras de autos",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c39e",
+      "id": 43,
+      "name": "Beat 'em up",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c39f",
+      "id": 44,
+      "name": "Legos",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08dce9e798a708ef8c3a0",
+      "id": 45,
+      "name": "Super Heroes",
+      "__v": 0,
+      "createdAt": "2025-10-04T03:00:30.138Z",
+      "updatedAt": "2025-10-04T03:00:30.138Z"
+    },
+    {
+      "_id": "68e08eb69e798a708ef8d1b9",
+      "id": 46,
+      "name": "Metroidvania",
+      "createdAt": "2025-10-04T03:04:22.994Z",
+      "updatedAt": "2025-10-04T03:04:22.994Z",
+      "__v": 0
+    },
+    {
+      "_id": "6914d6566336ec46e6510300",
+      "id": 47,
+      "name": "Lucha-anime",
+      "createdAt": "2025-11-12T18:47:50.525Z",
+      "updatedAt": "2025-11-12T18:47:50.525Z",
+      "__v": 0
+    },
+    {
+      "_id": "69541606bfae0fe5e82a46e6",
+      "id": 48,
+      "name": "zombies",
+      "createdAt": "2025-12-30T18:12:22.897Z",
+      "updatedAt": "2025-12-30T18:12:22.897Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af1228dc8e591e5cb6d00d",
+      "id": 49,
+      "name": "Rompecabezas",
+      "createdAt": "2026-03-09T18:32:08.553Z",
+      "updatedAt": "2026-03-09T18:32:08.553Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af1231dc8e591e5cb6d012",
+      "id": 50,
+      "name": "Ciencia ficción",
+      "createdAt": "2026-03-09T18:32:17.220Z",
+      "updatedAt": "2026-03-09T18:32:17.220Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af6c95dc8e591e5cb734e4",
+      "id": 51,
+      "name": "Gestión",
+      "createdAt": "2026-03-10T00:57:57.875Z",
+      "updatedAt": "2026-03-10T00:57:57.875Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af6ccedc8e591e5cb753eb",
+      "id": 52,
+      "name": "física",
+      "createdAt": "2026-03-10T00:58:54.780Z",
+      "updatedAt": "2026-03-10T00:58:54.780Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af6cf2dc8e591e5cb76371",
+      "id": 53,
+      "name": "Precisión",
+      "createdAt": "2026-03-10T00:59:30.205Z",
+      "updatedAt": "2026-03-10T00:59:30.205Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af6d32dc8e591e5cb78659",
+      "id": 54,
+      "name": "Comedia",
+      "createdAt": "2026-03-10T01:00:34.573Z",
+      "updatedAt": "2026-03-10T01:00:34.573Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af7009dc8e591e5cb88664",
+      "id": 55,
+      "name": "Fantasía",
+      "createdAt": "2026-03-10T01:12:41.641Z",
+      "updatedAt": "2026-03-10T01:12:41.641Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af704ddc8e591e5cb895ee",
+      "id": 56,
+      "name": "Estrategia por turnos ",
+      "createdAt": "2026-03-10T01:13:49.780Z",
+      "updatedAt": "2026-03-10T01:13:49.780Z",
+      "__v": 0
+    },
+    {
+      "_id": "69af7055dc8e591e5cb895f3",
+      "id": 57,
+      "name": "Rol",
+      "createdAt": "2026-03-10T01:13:57.163Z",
+      "updatedAt": "2026-03-10T01:13:57.163Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b23d46dc8e591e5cb9aa25",
+      "id": 58,
+      "name": "Roguelike",
+      "createdAt": "2026-03-12T04:12:54.261Z",
+      "updatedAt": "2026-03-12T04:12:54.261Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b23d4fdc8e591e5cb9aa2a",
+      "id": 59,
+      "name": "Bullet hell",
+      "createdAt": "2026-03-12T04:13:03.745Z",
+      "updatedAt": "2026-03-12T04:13:03.745Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b23e35dc8e591e5cb9e09e",
+      "id": 60,
+      "name": "Agricultura",
+      "createdAt": "2026-03-12T04:16:53.926Z",
+      "updatedAt": "2026-03-12T04:16:53.926Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b23e7bdc8e591e5cb9fbd9",
+      "id": 61,
+      "name": "MMORPG",
+      "createdAt": "2026-03-12T04:18:03.416Z",
+      "updatedAt": "2026-03-12T04:18:03.416Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b23f58dc8e591e5cba3e0b",
+      "id": 62,
+      "name": "Rol de estilo \"hack and slash\"",
+      "createdAt": "2026-03-12T04:21:44.659Z",
+      "updatedAt": "2026-03-12T04:21:44.659Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b395a4dc8e591e5cbb378d",
+      "id": 63,
+      "name": "Psicológico",
+      "createdAt": "2026-03-13T04:42:12.325Z",
+      "updatedAt": "2026-03-13T04:42:12.325Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b39664dc8e591e5cbb9cf9",
+      "id": 64,
+      "name": "Construcción",
+      "createdAt": "2026-03-13T04:45:24.210Z",
+      "updatedAt": "2026-03-13T04:45:24.210Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5dbe7dc8e591e5cbc3d2c",
+      "id": 65,
+      "name": "Pelea",
+      "createdAt": "2026-03-14T22:06:31.227Z",
+      "updatedAt": "2026-03-14T22:06:31.227Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5dc32dc8e591e5cbc5895",
+      "id": 66,
+      "name": "Guerra",
+      "createdAt": "2026-03-14T22:07:46.622Z",
+      "updatedAt": "2026-03-14T22:07:46.622Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e07bdc8e591e5cbd19cf",
+      "id": 67,
+      "name": "Conducción",
+      "createdAt": "2026-03-14T22:26:03.848Z",
+      "updatedAt": "2026-03-14T22:26:03.848Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e1b3dc8e591e5cbd656f",
+      "id": 68,
+      "name": "Minijuegos",
+      "createdAt": "2026-03-14T22:31:15.982Z",
+      "updatedAt": "2026-03-14T22:31:15.982Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e1b9dc8e591e5cbd6574",
+      "id": 69,
+      "name": "Fiesta",
+      "createdAt": "2026-03-14T22:31:21.438Z",
+      "updatedAt": "2026-03-14T22:31:21.438Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e1bfdc8e591e5cbd6579",
+      "id": 70,
+      "name": "Casual",
+      "createdAt": "2026-03-14T22:31:27.799Z",
+      "updatedAt": "2026-03-14T22:31:27.799Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e227dc8e591e5cbd856c",
+      "id": 71,
+      "name": "Multijugador",
+      "createdAt": "2026-03-14T22:33:11.103Z",
+      "updatedAt": "2026-03-14T22:33:11.103Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e22fdc8e591e5cbd8571",
+      "id": 72,
+      "name": "Crossover",
+      "createdAt": "2026-03-14T22:33:19.462Z",
+      "updatedAt": "2026-03-14T22:33:19.462Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e314dc8e591e5cbdb972",
+      "id": 73,
+      "name": "Disparos sobre rieles",
+      "createdAt": "2026-03-14T22:37:08.267Z",
+      "updatedAt": "2026-03-14T22:37:08.267Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e31cdc8e591e5cbdb977",
+      "id": 74,
+      "name": "Música",
+      "createdAt": "2026-03-14T22:37:16.277Z",
+      "updatedAt": "2026-03-14T22:37:16.277Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5e3d0dc8e591e5cbded9b",
+      "id": 75,
+      "name": "Terror psicológico",
+      "createdAt": "2026-03-14T22:40:16.493Z",
+      "updatedAt": "2026-03-14T22:40:16.493Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b63137dc8e591e5cbe19d0",
+      "id": 76,
+      "name": "Sobrenatural",
+      "createdAt": "2026-03-15T04:10:31.637Z",
+      "updatedAt": "2026-03-15T04:10:31.637Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b6331fdc8e591e5cbe9701",
+      "id": 77,
+      "name": "Caza",
+      "createdAt": "2026-03-15T04:18:39.085Z",
+      "updatedAt": "2026-03-15T04:18:39.085Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b8d99792a5ad4621a5c74f",
+      "id": 78,
+      "name": "Lucha / Arena Fighter",
+      "createdAt": "2026-03-17T04:33:27.516Z",
+      "updatedAt": "2026-03-17T04:33:27.516Z",
+      "__v": 0
+    },
+    {
+      "_id": "69babffb92a5ad4621a7692e",
+      "id": 79,
+      "name": "Cartas",
+      "createdAt": "2026-03-18T15:08:43.112Z",
+      "updatedAt": "2026-03-18T15:08:43.112Z",
+      "__v": 0
+    },
+    {
+      "_id": "69c34f1c9538cea5e4c277ba",
+      "id": 80,
+      "name": "Vida",
+      "createdAt": "2026-03-25T02:57:32.899Z",
+      "updatedAt": "2026-03-25T02:57:32.899Z",
+      "__v": 0
+    },
+    {
+      "_id": "69c81d0ff97f1bcce3526812",
+      "id": 81,
+      "name": "Frenético",
+      "createdAt": "2026-03-28T18:25:19.232Z",
+      "updatedAt": "2026-03-28T18:25:19.232Z",
+      "__v": 0
+    },
+    {
+      "_id": "69c81d19f97f1bcce3526817",
+      "id": 82,
+      "name": "Retro",
+      "createdAt": "2026-03-28T18:25:29.337Z",
+      "updatedAt": "2026-03-28T18:25:29.337Z",
+      "__v": 0
+    },
+    {
+      "_id": "69c81d5df97f1bcce3528519",
+      "id": 83,
+      "name": "Táctica",
+      "createdAt": "2026-03-28T18:26:37.870Z",
+      "updatedAt": "2026-03-28T18:26:37.870Z",
+      "__v": 0
+    },
+    {
+      "_id": "69d2b26ff97f1bcce3541496",
+      "id": 84,
+      "name": "XEX",
+      "createdAt": "2026-04-05T19:05:19.138Z",
+      "updatedAt": "2026-04-05T19:05:19.138Z",
+      "__v": 0
+    },
+    {
+      "_id": "69d2b37af97f1bcce3543e2a",
+      "id": 85,
+      "name": "Aéreo",
+      "createdAt": "2026-04-05T19:09:46.539Z",
+      "updatedAt": "2026-04-05T19:09:46.539Z",
+      "__v": 0
+    },
+    {
+      "_id": "69d2b4fff97f1bcce35499c2",
+      "id": 86,
+      "name": "Arcade",
+      "createdAt": "2026-04-05T19:16:15.205Z",
+      "updatedAt": "2026-04-05T19:16:15.205Z",
+      "__v": 0
+    },
+    {
+      "_id": "69d2b616f97f1bcce354dcac",
+      "id": 87,
+      "name": "Espionaje",
+      "createdAt": "2026-04-05T19:20:55.006Z",
+      "updatedAt": "2026-04-05T19:20:55.006Z",
+      "__v": 0
+    },
+    {
+      "_id": "69d2b66af97f1bcce354f5db",
+      "id": 88,
+      "name": "Snowboard",
+      "createdAt": "2026-04-05T19:22:18.204Z",
+      "updatedAt": "2026-04-05T19:22:18.204Z",
+      "__v": 0
+    },
+    {
+      "_id": "69d2b74af97f1bcce3552414",
+      "id": 89,
+      "name": "Mechas",
+      "createdAt": "2026-04-05T19:26:02.773Z",
+      "updatedAt": "2026-04-05T19:26:02.773Z",
+      "__v": 0
+    },
+    {
+      "_id": "69dff73b60af684b008b540f",
+      "id": 90,
+      "name": "Pixel Art",
+      "createdAt": "2026-04-15T20:38:19.730Z",
+      "updatedAt": "2026-04-15T20:38:19.730Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e0110a60af684b008b76be",
+      "id": 91,
+      "name": "Mitología",
+      "createdAt": "2026-04-15T22:28:26.114Z",
+      "updatedAt": "2026-04-15T22:28:26.114Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e287d660af684b008ba4d1",
+      "id": 92,
+      "name": "Simulación social ",
+      "createdAt": "2026-04-17T19:19:50.936Z",
+      "updatedAt": "2026-04-17T19:19:50.936Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6de7760af684b008c123b",
+      "id": 93,
+      "name": "RPG",
+      "createdAt": "2026-04-21T02:18:31.177Z",
+      "updatedAt": "2026-04-21T02:18:31.177Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6df7c60af684b008c4129",
+      "id": 94,
+      "name": "Lucha / Arena Fighter",
+      "createdAt": "2026-04-21T02:22:52.680Z",
+      "updatedAt": "2026-04-21T02:22:52.680Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6e08960af684b008c8101",
+      "id": 95,
+      "name": "Otome",
+      "createdAt": "2026-04-21T02:27:21.132Z",
+      "updatedAt": "2026-04-21T02:27:21.132Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6e09260af684b008c8106",
+      "id": 96,
+      "name": "Romance",
+      "createdAt": "2026-04-21T02:27:30.835Z",
+      "updatedAt": "2026-04-21T02:27:30.835Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6e0ea60af684b008ca751",
+      "id": 97,
+      "name": "Relajante",
+      "createdAt": "2026-04-21T02:28:58.968Z",
+      "updatedAt": "2026-04-21T02:28:58.968Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6e12d60af684b008ccd9f",
+      "id": 98,
+      "name": "Alquimia",
+      "createdAt": "2026-04-21T02:30:05.411Z",
+      "updatedAt": "2026-04-21T02:30:05.411Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6e2c860af684b008d518f",
+      "id": 99,
+      "name": "Narrativa",
+      "createdAt": "2026-04-21T02:36:56.134Z",
+      "updatedAt": "2026-04-21T02:36:56.134Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6e42160af684b008de67b",
+      "id": 100,
+      "name": "Ritmo",
+      "createdAt": "2026-04-21T02:42:42.004Z",
+      "updatedAt": "2026-04-21T02:42:42.004Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6e49f60af684b008e0ccb",
+      "id": 101,
+      "name": "Dungeon crawler",
+      "createdAt": "2026-04-21T02:44:47.892Z",
+      "updatedAt": "2026-04-21T02:44:47.892Z",
+      "__v": 0
+    },
+    {
+      "_id": "69e6e62b60af684b008e8846",
+      "id": 102,
+      "name": "Automatización",
+      "createdAt": "2026-04-21T02:51:23.315Z",
+      "updatedAt": "2026-04-21T02:51:23.315Z",
+      "__v": 0
+    },
+    {
+      "_id": "69f7886e60af684b00907287",
+      "id": 103,
+      "name": "Musou",
+      "createdAt": "2026-05-03T17:39:58.264Z",
+      "updatedAt": "2026-05-03T17:39:58.264Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0108d460af684b0091eff4",
+      "id": 104,
+      "name": "Drama",
+      "createdAt": "2026-05-10T22:38:12.161Z",
+      "updatedAt": "2026-05-10T22:38:12.161Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0108dc60af684b0091eff9",
+      "id": 105,
+      "name": "Decisiones",
+      "createdAt": "2026-05-10T22:38:20.903Z",
+      "updatedAt": "2026-05-10T22:38:20.903Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0337fa60af684b00929fd6",
+      "id": 106,
+      "name": "Investigación",
+      "createdAt": "2026-05-12T14:23:55.009Z",
+      "updatedAt": "2026-05-12T14:23:55.009Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a03388d60af684b0092cad6",
+      "id": 107,
+      "name": "Crafting",
+      "createdAt": "2026-05-12T14:26:21.986Z",
+      "updatedAt": "2026-05-12T14:26:21.986Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0338db60af684b0092e8f0",
+      "id": 108,
+      "name": "Vida laboral",
+      "createdAt": "2026-05-12T14:27:39.528Z",
+      "updatedAt": "2026-05-12T14:27:39.528Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0338e160af684b0092e8f5",
+      "id": 109,
+      "name": "Comercio",
+      "createdAt": "2026-05-12T14:27:45.866Z",
+      "updatedAt": "2026-05-12T14:27:45.866Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a03393f60af684b0092e8fb",
+      "id": 110,
+      "name": "Comercio",
+      "createdAt": "2026-05-12T14:29:19.078Z",
+      "updatedAt": "2026-05-12T14:29:19.078Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a03398460af684b00930715",
+      "id": 111,
+      "name": "Deducción",
+      "createdAt": "2026-05-12T14:30:28.284Z",
+      "updatedAt": "2026-05-12T14:30:28.284Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a03398c60af684b0093071a",
+      "id": 112,
+      "name": "Suspenso",
+      "createdAt": "2026-05-12T14:30:36.498Z",
+      "updatedAt": "2026-05-12T14:30:36.498Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a033a7960af684b0093321b",
+      "id": 113,
+      "name": "Cooperativo",
+      "createdAt": "2026-05-12T14:34:33.090Z",
+      "updatedAt": "2026-05-12T14:34:33.090Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a033ac260af684b00935d19",
+      "id": 114,
+      "name": "Horror psicológico",
+      "createdAt": "2026-05-12T14:35:46.874Z",
+      "updatedAt": "2026-05-12T14:35:46.874Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a033c4c60af684b00938826",
+      "id": 115,
+      "name": "Extracción",
+      "createdAt": "2026-05-12T14:42:20.941Z",
+      "updatedAt": "2026-05-12T14:42:20.941Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a033c7a60af684b0093a640",
+      "id": 116,
+      "name": "Defensa de torres",
+      "createdAt": "2026-05-12T14:43:06.951Z",
+      "updatedAt": "2026-05-12T14:43:06.951Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a033e2c60af684b00944990",
+      "id": 117,
+      "name": "Fantasía oscura",
+      "createdAt": "2026-05-12T14:50:20.031Z",
+      "updatedAt": "2026-05-12T14:50:20.031Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a033ed760af684b00949b3c",
+      "id": 118,
+      "name": "Competitivo",
+      "createdAt": "2026-05-12T14:53:11.825Z",
+      "updatedAt": "2026-05-12T14:53:11.825Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a03404060af684b00956dd0",
+      "id": 119,
+      "name": "Jumpscare",
+      "createdAt": "2026-05-12T14:59:12.989Z",
+      "updatedAt": "2026-05-12T14:59:12.989Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0340b960af684b0095b296",
+      "id": 120,
+      "name": "Soulslike",
+      "createdAt": "2026-05-12T15:01:13.427Z",
+      "updatedAt": "2026-05-12T15:01:13.427Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0e4233ac4186cff41268a4",
+      "id": 121,
+      "name": "RPG clásico",
+      "createdAt": "2026-05-20T23:22:27.350Z",
+      "updatedAt": "2026-05-20T23:22:27.350Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0e428fac4186cff4127591",
+      "id": 122,
+      "name": "Captura de monstruos",
+      "createdAt": "2026-05-20T23:23:59.831Z",
+      "updatedAt": "2026-05-20T23:23:59.831Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0e4326ac4186cff412dcdb",
+      "id": 123,
+      "name": "Postapocalíptico",
+      "createdAt": "2026-05-20T23:26:30.273Z",
+      "updatedAt": "2026-05-20T23:26:30.273Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0e4422ac4186cff413668d",
+      "id": 124,
+      "name": "Eroge y novela visual",
+      "createdAt": "2026-05-20T23:30:42.428Z",
+      "updatedAt": "2026-05-20T23:30:42.428Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0e446bac4186cff41384ae",
+      "id": 125,
+      "name": "Simulación de citas",
+      "createdAt": "2026-05-20T23:31:56.009Z",
+      "updatedAt": "2026-05-20T23:31:56.009Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a0e454dac4186cff4140a17",
+      "id": 126,
+      "name": "Tiempo real",
+      "createdAt": "2026-05-20T23:35:41.218Z",
+      "updatedAt": "2026-05-20T23:35:41.218Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a120b84ac4186cff4173c59",
+      "id": 127,
+      "name": "JRPG",
+      "createdAt": "2026-05-23T20:18:12.234Z",
+      "updatedAt": "2026-05-23T20:18:12.234Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a120b8bac4186cff4173c5e",
+      "id": 128,
+      "name": "Demonios",
+      "createdAt": "2026-05-23T20:18:19.704Z",
+      "updatedAt": "2026-05-23T20:18:19.704Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a120c55ac4186cff4178193",
+      "id": 129,
+      "name": "Colección clásica",
+      "createdAt": "2026-05-23T20:21:41.827Z",
+      "updatedAt": "2026-05-23T20:21:41.827Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a120c8eac4186cff4179fd9",
+      "id": 130,
+      "name": "Velocidad",
+      "createdAt": "2026-05-23T20:22:38.624Z",
+      "updatedAt": "2026-05-23T20:22:38.624Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a120cecac4186cff417cf75",
+      "id": 131,
+      "name": "Cooperativo 2D",
+      "createdAt": "2026-05-23T20:24:12.724Z",
+      "updatedAt": "2026-05-23T20:24:12.724Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a120d98ac4186cff417f66b",
+      "id": 132,
+      "name": "Clásico 2D",
+      "createdAt": "2026-05-23T20:27:04.342Z",
+      "updatedAt": "2026-05-23T20:27:04.342Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a120ee7ac4186cff41873f0",
+      "id": 133,
+      "name": "Mazmorras",
+      "createdAt": "2026-05-23T20:32:39.207Z",
+      "updatedAt": "2026-05-23T20:32:39.207Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a120f51ac4186cff418b088",
+      "id": 134,
+      "name": "Motion controls",
+      "createdAt": "2026-05-23T20:34:25.349Z",
+      "updatedAt": "2026-05-23T20:34:25.349Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a12106fac4186cff418f5d6",
+      "id": 135,
+      "name": "Fantasía clásica",
+      "createdAt": "2026-05-23T20:39:11.462Z",
+      "updatedAt": "2026-05-23T20:39:11.462Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1210e3ac4186cff419142b",
+      "id": 136,
+      "name": "Mundo abierto sci-fi",
+      "createdAt": "2026-05-23T20:41:07.315Z",
+      "updatedAt": "2026-05-23T20:41:07.315Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a12115eac4186cff41950d8",
+      "id": 137,
+      "name": "Dificultad alta",
+      "createdAt": "2026-05-23T20:43:10.227Z",
+      "updatedAt": "2026-05-23T20:43:10.227Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a121214ac4186cff419a32a",
+      "id": 138,
+      "name": "Combate Dinámico",
+      "createdAt": "2026-05-23T20:46:12.903Z",
+      "updatedAt": "2026-05-23T20:46:12.903Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1213fbac4186cff419f9d6",
+      "id": 139,
+      "name": "Plataformas y puzles",
+      "createdAt": "2026-05-23T20:54:19.776Z",
+      "updatedAt": "2026-05-23T20:54:19.776Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a121606ac4186cff41a2543",
+      "id": 140,
+      "name": "Misterio",
+      "createdAt": "2026-05-23T21:03:02.949Z",
+      "updatedAt": "2026-05-23T21:03:02.949Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a12160eac4186cff41a254a",
+      "id": 141,
+      "name": "Otome",
+      "createdAt": "2026-05-23T21:03:10.535Z",
+      "updatedAt": "2026-05-23T21:03:10.535Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a121b7aac4186cff41a920f",
+      "id": 142,
+      "name": "Cómic cel-shading",
+      "createdAt": "2026-05-23T21:26:18.982Z",
+      "updatedAt": "2026-05-23T21:26:18.982Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a121c69ac4186cff41ab924",
+      "id": 143,
+      "name": "Libro interactivo",
+      "createdAt": "2026-05-23T21:30:17.144Z",
+      "updatedAt": "2026-05-23T21:30:17.144Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a121cfdac4186cff41aed31",
+      "id": 144,
+      "name": "Fantasía medieval",
+      "createdAt": "2026-05-23T21:32:45.226Z",
+      "updatedAt": "2026-05-23T21:32:45.226Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a121d09ac4186cff41aed38",
+      "id": 145,
+      "name": "Danmaku",
+      "createdAt": "2026-05-23T21:32:57.506Z",
+      "updatedAt": "2026-05-23T21:32:57.506Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a121d72ac4186cff41b329a",
+      "id": 146,
+      "name": "Duelo competitivo",
+      "createdAt": "2026-05-23T21:34:42.216Z",
+      "updatedAt": "2026-05-23T21:34:42.216Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a125f32ac4186cff41caf31",
+      "id": 147,
+      "name": "Walking simulator",
+      "createdAt": "2026-05-24T02:15:15.000Z",
+      "updatedAt": "2026-05-24T02:15:15.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a125fb4ac4186cff41cd646",
+      "id": 148,
+      "name": "Granja",
+      "createdAt": "2026-05-24T02:17:24.269Z",
+      "updatedAt": "2026-05-24T02:17:24.269Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a126009ac4186cff41cfd59",
+      "id": 149,
+      "name": "Cooperativo online",
+      "createdAt": "2026-05-24T02:18:49.219Z",
+      "updatedAt": "2026-05-24T02:18:49.219Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a126077ac4186cff41d28c1",
+      "id": 150,
+      "name": "Cooperativo local",
+      "createdAt": "2026-05-24T02:20:39.434Z",
+      "updatedAt": "2026-05-24T02:20:39.434Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a12614bac4186cff41d7f89",
+      "id": 151,
+      "name": "Violencia",
+      "createdAt": "2026-05-24T02:24:11.880Z",
+      "updatedAt": "2026-05-24T02:24:11.880Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a126243ac4186cff41ddf08",
+      "id": 152,
+      "name": "Party",
+      "createdAt": "2026-05-24T02:28:19.967Z",
+      "updatedAt": "2026-05-24T02:28:19.967Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a126252ac4186cff41ddf0f",
+      "id": 153,
+      "name": "Multijugador local y en línea",
+      "createdAt": "2026-05-24T02:28:34.263Z",
+      "updatedAt": "2026-05-24T02:28:34.263Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1262d3ac4186cff41dfd7b",
+      "id": 154,
+      "name": "Simulación deportiva",
+      "createdAt": "2026-05-24T02:30:43.768Z",
+      "updatedAt": "2026-05-24T02:30:43.768Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1263c2ac4186cff41e6152",
+      "id": 155,
+      "name": "Un jugador y multijugador",
+      "createdAt": "2026-05-24T02:34:42.111Z",
+      "updatedAt": "2026-05-24T02:34:42.111Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a126415ac4186cff41e8868",
+      "id": 156,
+      "name": "Estrategia ligera",
+      "createdAt": "2026-05-24T02:36:05.408Z",
+      "updatedAt": "2026-05-24T02:36:05.408Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a126426ac4186cff41e886f",
+      "id": 157,
+      "name": "Simulación de mesa",
+      "createdAt": "2026-05-24T02:36:22.398Z",
+      "updatedAt": "2026-05-24T02:36:22.398Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a126478ac4186cff41ea6cf",
+      "id": 158,
+      "name": "Cocina",
+      "createdAt": "2026-05-24T02:37:44.274Z",
+      "updatedAt": "2026-05-24T02:37:44.274Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a126484ac4186cff41ea6d4",
+      "id": 159,
+      "name": "Fantasía cozy",
+      "createdAt": "2026-05-24T02:37:56.353Z",
+      "updatedAt": "2026-05-24T02:37:56.353Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a12659aac4186cff41ed69f",
+      "id": 160,
+      "name": "Mundo abierto interconectado",
+      "createdAt": "2026-05-24T02:42:34.612Z",
+      "updatedAt": "2026-05-24T02:42:34.612Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13dfceac4186cff41f1a11",
+      "id": 161,
+      "name": "Deckbuilding",
+      "createdAt": "2026-05-25T05:36:14.462Z",
+      "updatedAt": "2026-05-25T05:36:14.462Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e05eac4186cff41f388c",
+      "id": 162,
+      "name": "competitivo 3D",
+      "createdAt": "2026-05-25T05:38:38.087Z",
+      "updatedAt": "2026-05-25T05:38:38.087Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e11bac4186cff41f5714",
+      "id": 163,
+      "name": "Destrucción",
+      "createdAt": "2026-05-25T05:41:47.989Z",
+      "updatedAt": "2026-05-25T05:41:47.989Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e1f1ac4186cff41f82db",
+      "id": 164,
+      "name": "Aventura psicológica",
+      "createdAt": "2026-05-25T05:45:21.601Z",
+      "updatedAt": "2026-05-25T05:45:21.601Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e6ebac4186cff4200b39",
+      "id": 165,
+      "name": "Crimen",
+      "createdAt": "2026-05-25T06:06:35.455Z",
+      "updatedAt": "2026-05-25T06:06:35.455Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e6f5ac4186cff4200b3e",
+      "id": 166,
+      "name": "Colección remasterizada",
+      "createdAt": "2026-05-25T06:06:45.885Z",
+      "updatedAt": "2026-05-25T06:06:45.885Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e7a7ac4186cff4202a40",
+      "id": 167,
+      "name": "Shooter en tercera persona",
+      "createdAt": "2026-05-25T06:09:43.063Z",
+      "updatedAt": "2026-05-25T06:09:43.063Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a13e92dac4186cff4206404",
+      "id": 168,
+      "name": "Cooperativo dungeon crawler",
+      "createdAt": "2026-05-25T06:16:13.599Z",
+      "updatedAt": "2026-05-25T06:16:13.599Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a15a83dac4186cff420b580",
+      "id": 169,
+      "name": "Shooter FPS",
+      "createdAt": "2026-05-26T14:03:41.614Z",
+      "updatedAt": "2026-05-26T14:03:41.614Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a15a847ac4186cff420b585",
+      "id": 170,
+      "name": "Survival horror",
+      "createdAt": "2026-05-26T14:03:51.546Z",
+      "updatedAt": "2026-05-26T14:04:22.404Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a15aaafac4186cff4211843",
+      "id": 171,
+      "name": "Cinemático",
+      "createdAt": "2026-05-26T14:14:07.660Z",
+      "updatedAt": "2026-05-26T14:14:07.660Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a15ab7bac4186cff42152f8",
+      "id": 172,
+      "name": "Combate 2D",
+      "createdAt": "2026-05-26T14:17:31.116Z",
+      "updatedAt": "2026-05-26T14:17:31.116Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a15abe4ac4186cff42172b7",
+      "id": 173,
+      "name": "Simulación de vida",
+      "createdAt": "2026-05-26T14:19:16.935Z",
+      "updatedAt": "2026-05-26T14:19:16.935Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a164bdeac4186cff421acf1",
+      "id": 174,
+      "name": "Puzzle",
+      "createdAt": "2026-05-27T01:41:50.449Z",
+      "updatedAt": "2026-05-27T01:41:50.449Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a164be8ac4186cff421acf6",
+      "id": 175,
+      "name": "Indie",
+      "createdAt": "2026-05-27T01:42:00.187Z",
+      "updatedAt": "2026-05-27T01:42:00.187Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a164bf0ac4186cff421acfb",
+      "id": 176,
+      "name": "Humor oscuro",
+      "createdAt": "2026-05-27T01:42:08.514Z",
+      "updatedAt": "2026-05-27T01:42:08.514Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a164c9bac4186cff421da8d",
+      "id": 177,
+      "name": "Shooter",
+      "createdAt": "2026-05-27T01:44:59.116Z",
+      "updatedAt": "2026-05-27T01:44:59.116Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a164d26ac4186cff421ff1b",
+      "id": 178,
+      "name": "RPG táctico",
+      "createdAt": "2026-05-27T01:47:18.180Z",
+      "updatedAt": "2026-05-27T01:47:18.180Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1888a186205522b19318a4",
+      "id": 179,
+      "name": "RPG de acción ",
+      "createdAt": "2026-05-28T18:25:37.448Z",
+      "updatedAt": "2026-05-28T18:25:37.448Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1888ae86205522b19318a9",
+      "id": 180,
+      "name": "Recolección de criaturas",
+      "createdAt": "2026-05-28T18:25:50.440Z",
+      "updatedAt": "2026-05-28T18:25:50.440Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1a44fe86205522b193ea64",
+      "id": 181,
+      "name": "Fútbol Americano",
+      "createdAt": "2026-05-30T02:01:34.716Z",
+      "updatedAt": "2026-05-30T02:01:34.716Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1a464686205522b19418b1",
+      "id": 182,
+      "name": "Off-Road",
+      "createdAt": "2026-05-30T02:07:02.958Z",
+      "updatedAt": "2026-05-30T02:07:02.958Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1a474586205522b19470e1",
+      "id": 183,
+      "name": " Point and Click",
+      "createdAt": "2026-05-30T02:11:17.934Z",
+      "updatedAt": "2026-05-30T02:11:17.934Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1a589286205522b194a006",
+      "id": 184,
+      "name": "Guerra Naval",
+      "createdAt": "2026-05-30T03:25:06.272Z",
+      "updatedAt": "2026-05-30T03:25:06.272Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1a598b86205522b194c0a3",
+      "id": 185,
+      "name": "Guerra Moderna",
+      "createdAt": "2026-05-30T03:29:15.652Z",
+      "updatedAt": "2026-05-30T03:29:15.652Z",
+      "__v": 0
+    }
+  ],
+  "formats": [
+    {
+      "_id": "68c7470023b367d45c56a311",
+      "id": 1,
+      "name": "ISO/PKG",
+      "deleted": false,
+      "__v": 0,
+      "createdAt": "2025-09-14T22:51:44.813Z",
+      "updatedAt": "2025-09-14T22:51:44.813Z"
+    },
+    {
+      "_id": "68c7470023b367d45c56a312",
+      "id": 2,
+      "name": "NSP/XCI",
+      "deleted": false,
+      "__v": 0,
+      "createdAt": "2025-09-14T22:51:44.814Z",
+      "updatedAt": "2025-09-14T22:51:44.814Z"
+    },
+    {
+      "_id": "68c7470023b367d45c56a313",
+      "id": 3,
+      "name": "PREINSTALADO",
+      "deleted": false,
+      "__v": 0,
+      "createdAt": "2025-09-14T22:51:44.814Z",
+      "updatedAt": "2025-09-14T22:51:44.814Z"
+    },
+    {
+      "_id": "68c7470023b367d45c56a314",
+      "id": 4,
+      "name": "ISO",
+      "deleted": false,
+      "__v": 0,
+      "createdAt": "2025-09-14T22:51:44.815Z",
+      "updatedAt": "2025-09-14T22:51:44.815Z"
+    },
+    {
+      "_id": "68c7470023b367d45c56a315",
+      "id": 5,
+      "name": "WUA",
+      "deleted": false,
+      "__v": 0,
+      "createdAt": "2025-09-14T22:51:44.815Z",
+      "updatedAt": "2025-09-14T22:51:44.815Z"
+    },
+    {
+      "_id": "68c7470023b367d45c56a316",
+      "id": 6,
+      "name": "APK",
+      "deleted": false,
+      "__v": 0,
+      "createdAt": "2025-09-14T22:51:44.815Z",
+      "updatedAt": "2025-09-14T22:51:44.815Z"
+    },
+    {
+      "_id": "68c7470023b367d45c56a317",
+      "id": 7,
+      "name": "nds",
+      "deleted": false,
+      "__v": 0,
+      "createdAt": "2025-09-14T22:51:44.815Z",
+      "updatedAt": "2025-09-14T22:51:44.815Z"
+    },
+    {
+      "_id": "68c7470023b367d45c56a318",
+      "id": 8,
+      "name": "NSP",
+      "deleted": false,
+      "__v": 0,
+      "createdAt": "2025-09-14T22:51:44.815Z",
+      "updatedAt": "2025-09-14T22:51:44.815Z"
+    },
+    {
+      "_id": "68c7470023b367d45c56a319",
+      "id": 9,
+      "name": "XCI",
+      "deleted": false,
+      "__v": 0,
+      "createdAt": "2025-09-14T22:51:44.815Z",
+      "updatedAt": "2025-09-14T22:51:44.815Z"
+    },
+    {
+      "_id": "68c7470023b367d45c56a31a",
+      "id": 10,
+      "name": "Requiere instalación",
+      "deleted": false,
+      "__v": 0,
+      "createdAt": "2025-09-14T22:51:44.815Z",
+      "updatedAt": "2025-09-14T22:51:44.815Z"
+    },
+    {
+      "_id": "69935ebdd3b75b3e2ac57327",
+      "id": 11,
+      "name": "XISO",
+      "deleted": false,
+      "createdAt": "2026-02-16T18:15:25.145Z",
+      "updatedAt": "2026-02-16T18:15:25.145Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b42b04dc8e591e5cbbeb08",
+      "id": 12,
+      "name": "APKS",
+      "deleted": false,
+      "createdAt": "2026-03-13T15:19:32.171Z",
+      "updatedAt": "2026-03-13T15:19:32.171Z",
+      "__v": 0
+    },
+    {
+      "_id": "69b5d692dc8e591e5cbc160c",
+      "id": 13,
+      "name": "GOD/XEX",
+      "deleted": false,
+      "createdAt": "2026-03-14T21:43:46.792Z",
+      "updatedAt": "2026-03-14T22:19:10.349Z",
+      "__v": 0
+    },
+    {
+      "_id": "69d2b2c5f97f1bcce3541ce7",
+      "id": 14,
+      "name": "XEX",
+      "deleted": false,
+      "createdAt": "2026-04-05T19:06:45.397Z",
+      "updatedAt": "2026-04-05T19:06:45.397Z",
+      "__v": 0
+    },
+    {
+      "_id": "69d2b307f97f1bcce3542d87",
+      "id": 15,
+      "name": "Aéreo",
+      "deleted": false,
+      "createdAt": "2026-04-05T19:07:51.535Z",
+      "updatedAt": "2026-04-05T19:07:51.535Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a108ee8ac4186cff4151a09",
+      "id": 16,
+      "name": "ISO (INSTALAR)",
+      "deleted": false,
+      "createdAt": "2026-05-22T17:14:16.810Z",
+      "updatedAt": "2026-05-22T17:14:16.810Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1a5b2986205522b194d353",
+      "id": 17,
+      "name": "XEX (DVD)",
+      "deleted": false,
+      "createdAt": "2026-05-30T03:36:09.551Z",
+      "updatedAt": "2026-05-30T03:36:09.551Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1ba177cfaf11dd15a0d6a0",
+      "id": 18,
+      "name": "XBLA",
+      "deleted": false,
+      "createdAt": "2026-05-31T02:48:23.849Z",
+      "updatedAt": "2026-05-31T02:48:23.849Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1ba189cfaf11dd15a0d6a5",
+      "id": 19,
+      "name": "XBE",
+      "deleted": false,
+      "createdAt": "2026-05-31T02:48:41.393Z",
+      "updatedAt": "2026-05-31T02:48:41.393Z",
+      "__v": 0
+    }
+  ]
+}
