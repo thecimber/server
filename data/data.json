@@ -22451,7 +22451,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8c9fa",
       "id": "SSOs9BEz",
       "name": "Ben 10 Alien Force",
@@ -22475,9 +22474,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-08-04T23:09:20.814Z",
+      "updatedAt": "2026-08-04T23:09:20.859Z",
       "oldImage": "aP3hyfS2kk.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -34563,6 +34563,36 @@
       "captures": [],
       "createdAt": "2026-08-04T22:39:35.922Z",
       "updatedAt": "2026-08-04T22:39:35.922Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a7601d17d9816a180dea358",
+      "id": "jW-VAogq",
+      "name": "Bills Must Be Paid",
+      "image": "1786118606904-880ba3c1.webp",
+      "gameplayLink": "",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        58,
+        28,
+        19,
+        2,
+        70
+      ],
+      "size": "230MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1XunVzY80MnCYTCthbUKc1g",
+          "_id": "6a7601d17d9816a180dea359"
+        }
+      ],
+      "emulatorId": 2,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-08-07T16:03:29.700Z",
+      "updatedAt": "2026-08-07T16:03:29.700Z",
       "__v": 0
     },
     {
