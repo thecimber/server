@@ -34677,6 +34677,34 @@
       "createdAt": "2026-10-17T22:23:17.272Z",
       "updatedAt": "2026-10-17T22:23:17.272Z",
       "__v": 0
+    },
+    {
+      "_id": "6ad3f6a79cedb5d982bf3a9a",
+      "id": "UtmFWq28",
+      "name": "Naruto Shippuden Ultimate Ninja Generations",
+      "image": "1792276134263-ef9e4b62.webp",
+      "gameplayLink": "",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        22,
+        24,
+        10
+      ],
+      "size": "5,3GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://bit.ly/4sdrRyD",
+          "_id": "6ad3f6a79cedb5d982bf3a9b"
+        }
+      ],
+      "emulatorId": 10,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-10-17T22:28:55.758Z",
+      "updatedAt": "2026-10-17T22:28:55.758Z",
+      "__v": 0
     }
   ],
   "emulators": [
