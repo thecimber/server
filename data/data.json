@@ -16770,6 +16770,34 @@
       "isUpdate": true
     },
     {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c890",
+      "id": "h0ZHETHX",
+      "name": "Palworld",
+      "image": "Palworld.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        12,
+        16,
+        21
+      ],
+      "size": "23.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1ZRf7r1nND5Xi1P1VeLbZFQ",
+          "_id": "68e08df79e798a708ef8c891"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "Palworld.webp"
+    },
+    {
       "_id": "68e08df79e798a708ef8c89e",
       "id": "CrW9J-QP",
       "name": "Project Hospital",
@@ -16796,34 +16824,6 @@
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "jFimIa2UgD.webp",
       "isUpdate": true
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c88e",
-      "id": "XDUKzsv3",
-      "name": "Outward Definitive Edition",
-      "image": "JxDy8ARU9s.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        12,
-        16,
-        21
-      ],
-      "size": "14.7 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://terabox.com/s/1RUsq7sjeo4YESJQBfgPLFg",
-          "_id": "68e08df79e798a708ef8c88f"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "JxDy8ARU9s.webp"
     },
     {
       "isUpdate": false,
@@ -17936,10 +17936,10 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c890",
-      "id": "h0ZHETHX",
-      "name": "Palworld",
-      "image": "Palworld.webp",
+      "_id": "68e08df79e798a708ef8c88e",
+      "id": "XDUKzsv3",
+      "name": "Outward Definitive Edition",
+      "image": "JxDy8ARU9s.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
@@ -17947,12 +17947,12 @@
         16,
         21
       ],
-      "size": "23.5 Gb",
+      "size": "14.7 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1ZRf7r1nND5Xi1P1VeLbZFQ",
-          "_id": "68e08df79e798a708ef8c891"
+          "type": "terabox",
+          "link": "https://terabox.com/s/1RUsq7sjeo4YESJQBfgPLFg",
+          "_id": "68e08df79e798a708ef8c88f"
         }
       ],
       "emulatorId": 2,
@@ -17960,7 +17960,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Palworld.webp"
+      "oldImage": "JxDy8ARU9s.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c892",
@@ -21395,24 +21395,24 @@
       "oldImage": "WfFnv7PxmW.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9d1",
-      "id": "JL0jFBPg",
-      "name": "LEGO HARRY POTTER COLLECTION ",
-      "image": "vJnWE9JmMd.webp",
+      "_id": "68e08df79e798a708ef8c9cf",
+      "id": "0wPSXJSM",
+      "name": "LEGO THE LEGO MOVIE VIDEOGAME",
+      "image": "1D9CaaBNe3.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
         3,
+        12,
         44,
-        12
+        1
       ],
-      "size": "13.6 Gb",
+      "size": "7.3 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1yjG5hskenlGV-trCKUgoOw",
-          "_id": "68e08df79e798a708ef8c9d2"
+          "link": "https://1024terabox.com/s/1HsrVQQvjz_O0-_q1lBvd_A",
+          "_id": "68e08df79e798a708ef8c9d0"
         }
       ],
       "emulatorId": 2,
@@ -21421,7 +21421,7 @@
       "createdAt": "2025-10-04T03:01:11.688Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "vJnWE9JmMd.webp"
+      "oldImage": "1D9CaaBNe3.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c9d3",
@@ -21510,24 +21510,24 @@
       "oldImage": "gKCqTlOWkm.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9cf",
-      "id": "0wPSXJSM",
-      "name": "LEGO THE LEGO MOVIE VIDEOGAME",
-      "image": "1D9CaaBNe3.webp",
+      "_id": "68e08df79e798a708ef8c9d1",
+      "id": "JL0jFBPg",
+      "name": "LEGO HARRY POTTER COLLECTION ",
+      "image": "vJnWE9JmMd.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
+        2,
         3,
-        12,
         44,
-        1
+        12
       ],
-      "size": "7.3 Gb",
+      "size": "13.6 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1HsrVQQvjz_O0-_q1lBvd_A",
-          "_id": "68e08df79e798a708ef8c9d0"
+          "link": "https://1024terabox.com/s/1yjG5hskenlGV-trCKUgoOw",
+          "_id": "68e08df79e798a708ef8c9d2"
         }
       ],
       "emulatorId": 2,
@@ -21536,7 +21536,7 @@
       "createdAt": "2025-10-04T03:01:11.688Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "1D9CaaBNe3.webp"
+      "oldImage": "vJnWE9JmMd.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c9c3",
@@ -21626,35 +21626,6 @@
       "oldImage": "8BsCFT5m1R.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9c5",
-      "id": "1z3sFaqo",
-      "name": "LEGO MARVEL SUPER HEROES ",
-      "image": "hy-N6ftTEp.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        44,
-        45,
-        7
-      ],
-      "size": "5.9 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1wDM2TApj4CzOkpW7PnFvTg",
-          "_id": "68e08df79e798a708ef8c9c6"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.688Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "hy-N6ftTEp.webp"
-    },
-    {
       "isUpdate": false,
       "_id": "68e08df79e798a708ef8c9bd",
       "id": "gtVZse3P",
@@ -21682,6 +21653,35 @@
       "createdAt": "2025-10-04T03:01:11.688Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "BrCpqqiVum.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9c5",
+      "id": "1z3sFaqo",
+      "name": "LEGO MARVEL SUPER HEROES ",
+      "image": "hy-N6ftTEp.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        44,
+        45,
+        7
+      ],
+      "size": "5.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1wDM2TApj4CzOkpW7PnFvTg",
+          "_id": "68e08df79e798a708ef8c9c6"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.688Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "hy-N6ftTEp.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c9bb",
@@ -22962,6 +22962,33 @@
       "oldImage": "zGSxPN8DeE.webp"
     },
     {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca64",
+      "id": "0TJbTU3T",
+      "name": "Scribblenauts Unlimited (USA)",
+      "image": "OtIXREsooE.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        39
+      ],
+      "size": "1,2 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1d5qgNDuIId5dt2ATbsuA4A",
+          "_id": "68e08df89e798a708ef8ca65"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "OtIXREsooE.webp"
+    },
+    {
       "_id": "68e08df89e798a708ef8ca78",
       "id": "RyNm0snU",
       "name": "Subnautica ( Nueva Versión)",
@@ -22988,33 +23015,6 @@
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
       "oldImage": "w2E-3pN4Sp.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca66",
-      "id": "EAwwkWf6",
-      "name": "Scribblenauts Unmasked (USA)",
-      "image": "77K6kgppFO.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        39
-      ],
-      "size": "981 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/18RkthFvs4ZKwC8YU3V4HmQ",
-          "_id": "68e08df89e798a708ef8ca67"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "77K6kgppFO.webp"
     },
     {
       "isUpdate": false,
@@ -23234,22 +23234,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca64",
-      "id": "0TJbTU3T",
-      "name": "Scribblenauts Unlimited (USA)",
-      "image": "OtIXREsooE.webp",
+      "_id": "68e08df89e798a708ef8ca66",
+      "id": "EAwwkWf6",
+      "name": "Scribblenauts Unmasked (USA)",
+      "image": "77K6kgppFO.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        2,
+        7,
         39
       ],
-      "size": "1,2 Gb",
+      "size": "981 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1d5qgNDuIId5dt2ATbsuA4A",
-          "_id": "68e08df89e798a708ef8ca65"
+          "link": "https://1024terabox.com/s/18RkthFvs4ZKwC8YU3V4HmQ",
+          "_id": "68e08df89e798a708ef8ca67"
         }
       ],
       "emulatorId": 5,
@@ -23257,7 +23257,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "OtIXREsooE.webp"
+      "oldImage": "77K6kgppFO.webp"
     },
     {
       "_id": "68e08df89e798a708ef8ca12",
@@ -24547,34 +24547,6 @@
       "oldImage": "1759155363188-3c71e339.webp"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8caa2",
-      "id": "HfgSrewpd",
-      "name": "Hollow Knight SILKSONG",
-      "image": "hol34221423.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        2,
-        9
-      ],
-      "size": "1.9 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/1EZOSJFrJC7jM0cq_9Mm-9Q",
-          "_id": "68e08df89e798a708ef8caa3"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-08T03:01:12.243Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "hol34221423.webp"
-    },
-    {
       "_id": "68e08df89e798a708ef8caa4",
       "id": "HSwsoC80sX",
       "name": "Hollow Knight SILKSONG",
@@ -24601,6 +24573,34 @@
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "holsw62672vs.webp",
       "isUpdate": true
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8caa2",
+      "id": "HfgSrewpd",
+      "name": "Hollow Knight SILKSONG",
+      "image": "hol34221423.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        2,
+        9
+      ],
+      "size": "1.9 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://terabox.com/s/1EZOSJFrJC7jM0cq_9Mm-9Q",
+          "_id": "68e08df89e798a708ef8caa3"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-08T03:01:12.243Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "hol34221423.webp"
     },
     {
       "isUpdate": false,
@@ -34704,6 +34704,34 @@
       "captures": [],
       "createdAt": "2026-10-17T22:28:55.758Z",
       "updatedAt": "2026-10-17T22:28:55.758Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ad65fc69cedb5d982bf7fdd",
+      "id": "5bP1VQfY",
+      "name": "Naruto Shippuden Ultimate Ninja Storm full burst 3",
+      "image": "1792434115402-75c7a1d1.webp",
+      "gameplayLink": "",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        22,
+        24,
+        10
+      ],
+      "size": "5,3GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://bit.ly/4isfoDC",
+          "_id": "6ad65fc69cedb5d982bf7fde"
+        }
+      ],
+      "emulatorId": 10,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-10-19T18:21:58.857Z",
+      "updatedAt": "2026-10-19T18:21:58.857Z",
       "__v": 0
     }
   ],
