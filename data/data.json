@@ -34733,6 +34733,34 @@
       "createdAt": "2026-10-19T18:21:58.857Z",
       "updatedAt": "2026-10-19T18:21:58.857Z",
       "__v": 0
+    },
+    {
+      "_id": "6ad6603f9cedb5d982bf89c9",
+      "id": "CN9vezJ0",
+      "name": "Super Mario Galaxy",
+      "image": "1792434237480-a337ca21.webp",
+      "gameplayLink": "",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3,
+        1
+      ],
+      "size": "3,2 GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://bit.ly/4hOSsyi",
+          "_id": "6ad6603f9cedb5d982bf89ca"
+        }
+      ],
+      "emulatorId": 10,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-10-19T18:23:59.302Z",
+      "updatedAt": "2026-10-19T18:23:59.302Z",
+      "__v": 0
     }
   ],
   "emulators": [
