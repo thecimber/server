@@ -16742,6 +16742,34 @@
       "isUpdate": true
     },
     {
+      "_id": "68e08df79e798a708ef8c892",
+      "id": "IgnMN9sD",
+      "name": "Pepper Grinder",
+      "image": "Pepper Grinder.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        32,
+        33
+      ],
+      "size": "1.4 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/19VRWgnA7O8Gsp09fH-Rkag",
+          "_id": "68e08df79e798a708ef8c893"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "Pepper Grinder.webp"
+    },
+    {
       "_id": "68e08df79e798a708ef8c89c",
       "id": "oYBjrkpI",
       "name": "Post Trauma",
@@ -16768,34 +16796,6 @@
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "KiywKuVlif.webp",
       "isUpdate": true
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c890",
-      "id": "h0ZHETHX",
-      "name": "Palworld",
-      "image": "Palworld.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        12,
-        16,
-        21
-      ],
-      "size": "23.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1ZRf7r1nND5Xi1P1VeLbZFQ",
-          "_id": "68e08df79e798a708ef8c891"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Palworld.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c89e",
@@ -17963,23 +17963,24 @@
       "oldImage": "JxDy8ARU9s.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c892",
-      "id": "IgnMN9sD",
-      "name": "Pepper Grinder",
-      "image": "Pepper Grinder.webp",
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c890",
+      "id": "h0ZHETHX",
+      "name": "Palworld",
+      "image": "Palworld.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        1,
-        32,
-        33
+        12,
+        16,
+        21
       ],
-      "size": "1.4 Gb",
+      "size": "23.5 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/19VRWgnA7O8Gsp09fH-Rkag",
-          "_id": "68e08df79e798a708ef8c893"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1ZRf7r1nND5Xi1P1VeLbZFQ",
+          "_id": "68e08df79e798a708ef8c891"
         }
       ],
       "emulatorId": 2,
@@ -17987,8 +17988,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "Pepper Grinder.webp"
+      "oldImage": "Palworld.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c8ca",
@@ -34760,6 +34760,33 @@
       "captures": [],
       "createdAt": "2026-10-19T18:23:59.302Z",
       "updatedAt": "2026-10-19T18:23:59.302Z",
+      "__v": 0
+    },
+    {
+      "_id": "6afdd8c39cedb5d982c05523",
+      "id": "gkqnHPv2",
+      "name": "Dragon Ball Sparking Zero",
+      "image": "1795020992085-6066e1e2.webp",
+      "gameplayLink": "",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        24,
+        22
+      ],
+      "size": "7 GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1nBsA0umBHHR-IuACIHpIYg",
+          "_id": "6afdd8c39cedb5d982c05524"
+        }
+      ],
+      "emulatorId": 10,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-11-18T16:56:35.160Z",
+      "updatedAt": "2026-11-18T16:56:35.160Z",
       "__v": 0
     }
   ],
