@@ -34788,6 +34788,34 @@
       "createdAt": "2026-11-18T16:56:35.160Z",
       "updatedAt": "2026-11-18T16:56:35.160Z",
       "__v": 0
+    },
+    {
+      "_id": "6afdd9179cedb5d982c05f19",
+      "id": "SjQLwi2g",
+      "name": "Resident evil 5",
+      "image": "1795021077685-d52f34d4.webp",
+      "gameplayLink": "",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        14,
+        17
+      ],
+      "size": "9GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://bit.ly/3VrtkVS",
+          "_id": "6afdd9179cedb5d982c05f1a"
+        }
+      ],
+      "emulatorId": 10,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-11-18T16:57:59.623Z",
+      "updatedAt": "2026-11-18T16:57:59.623Z",
+      "__v": 0
     }
   ],
   "emulators": [
