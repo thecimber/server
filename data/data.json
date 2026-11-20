@@ -23238,27 +23238,27 @@
       "_id": "68e08df89e798a708ef8ca32",
       "id": "-pisnbWK",
       "name": "Need for Speed Most Wanted U (USA) (v32)",
-      "image": "xNvRbgKY9D.webp",
+      "image": "1795196967653-fad7d13f.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        13,
-        42
+        13
       ],
-      "size": "5.5 Gb",
+      "size": "5,5GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1h07XCVB9eFcTZdZUJnFtuQ",
-          "_id": "68e08df89e798a708ef8ca33"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1A-sIyhRSwK5xRUeHeNIQZA",
+          "_id": "6b0088299cedb5d982c18abc"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "xNvRbgKY9D.webp"
+      "updatedAt": "2026-11-20T17:49:29.363Z",
+      "oldImage": "xNvRbgKY9D.webp",
+      "gameplayLink": ""
     },
     {
       "_id": "68e08df89e798a708ef8ca34",
