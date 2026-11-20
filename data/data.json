@@ -23530,30 +23530,31 @@
       "oldImage": "WAJW2h6DdV.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca2c",
       "id": "SfiwPKxY",
-      "name": "Mario Tennis Ultra Smash ",
-      "image": "N_oOKhV5kK.webp",
+      "name": "Mario Tennis Ultra Smash",
+      "image": "1795194494397-76c3223e.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         4
       ],
-      "size": "831 Mb",
+      "size": "831MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/16DK6Bg-B6gjlhPnolR865w",
-          "_id": "68e08df89e798a708ef8ca2d"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/15bz_bgSh8NmhKCC4Fz1fqQ",
+          "_id": "6b007e809cedb5d982c0cc9d"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "N_oOKhV5kK.webp"
+      "updatedAt": "2026-11-20T17:08:16.343Z",
+      "oldImage": "N_oOKhV5kK.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -36733,4 +36734,4 @@
       "__v": 0
     }
   ]
-}
+}}
