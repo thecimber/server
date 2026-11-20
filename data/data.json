@@ -23019,32 +23019,33 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca44",
       "id": "H4uDlA5j",
       "name": "RESIDENT EVIL REVELATIONS (USA) (DLC) (v16)",
-      "image": "GpCwDD-3Ri.webp",
+      "image": "1795197897606-f32a6743.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        2,
         14,
+        2,
         9
       ],
-      "size": "12,7 Gb",
+      "size": "12,7GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/15pxY7dV3x5zlRE4jVPavpA",
-          "_id": "68e08df89e798a708ef8ca45"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1LeScEFFrGUjvmnWr4udTLg",
+          "_id": "6b008bcb9cedb5d982c202fe"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "GpCwDD-3Ri.webp"
+      "updatedAt": "2026-11-20T18:04:59.541Z",
+      "oldImage": "GpCwDD-3Ri.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
