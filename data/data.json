@@ -34959,6 +34959,33 @@
       "createdAt": "2026-11-20T17:47:21.118Z",
       "updatedAt": "2026-11-20T17:47:21.118Z",
       "__v": 0
+    },
+    {
+      "_id": "6b00885a9cedb5d982c199b9",
+      "id": "WHrg5YzU",
+      "name": "SUPER MARIO BROS. U + SUPER LUIGI U",
+      "image": "1795197016886-bfe4b422.webp",
+      "gameplayLink": "",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        1
+      ],
+      "size": "12,9GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1vLuPCWDWaod6ZJ3dxFS9pg",
+          "_id": "6b00885a9cedb5d982c199ba"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-11-20T17:50:18.724Z",
+      "updatedAt": "2026-11-20T17:50:18.724Z",
+      "__v": 0
     }
   ],
   "emulators": [
