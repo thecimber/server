@@ -22990,31 +22990,32 @@
       "oldImage": "1gt3ndCcSu.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca26",
       "id": "xBDsf7px",
       "name": "Monster Hunter 3 Ultimate",
-      "image": "eL3gOesWqt.webp",
+      "image": "1795194791257-8fe50abf.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         7,
-        41
+        57
       ],
-      "size": "5.8 Gb",
+      "size": "5,8GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1jsWKj6AZdEoz0aYs6IzN1w",
-          "_id": "68e08df89e798a708ef8ca27"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1iwDt4UIkTTgQZTjthjkTbA",
+          "_id": "6b007fa99cedb5d982c11784"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "eL3gOesWqt.webp"
+      "updatedAt": "2026-11-20T17:13:13.093Z",
+      "oldImage": "eL3gOesWqt.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca2a",
@@ -36817,4 +36818,4 @@
       "__v": 0
     }
   ]
-}}
+}
