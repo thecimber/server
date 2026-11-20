@@ -35122,6 +35122,32 @@
       "createdAt": "2026-11-20T18:06:13.924Z",
       "updatedAt": "2026-11-20T18:06:13.924Z",
       "__v": 0
+    },
+    {
+      "_id": "6b008c459cedb5d982c21c12",
+      "id": "g6Ti-x2t",
+      "name": "Rodea the Sky Soldier",
+      "image": "1795198019463-c856a0d6.webp",
+      "gameplayLink": "",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        7
+      ],
+      "size": "3,2GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1FYGkfY5E8TDodR1C2VVPbg",
+          "_id": "6b008c459cedb5d982c21c13"
+        }
+      ],
+      "emulatorId": 5,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-11-20T18:07:01.360Z",
+      "updatedAt": "2026-11-20T18:07:01.360Z",
+      "__v": 0
     }
   ],
   "emulators": [
