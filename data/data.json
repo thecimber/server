@@ -34843,6 +34843,33 @@
       "createdAt": "2026-11-20T16:57:04.813Z",
       "updatedAt": "2026-11-20T16:57:04.813Z",
       "__v": 0
+    },
+    {
+      "_id": "6b007c5f9cedb5d982c08ba0",
+      "id": "VfXEIO7I",
+      "name": "SUPER MARIO BROS. U",
+      "image": "1795193949377-ee13963e.webp",
+      "gameplayLink": "",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        1
+      ],
+      "size": "1,2GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1dcuDJpbN1_YLSVsWoATi1Q",
+          "_id": "6b007c5f9cedb5d982c08ba1"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-11-20T16:59:11.165Z",
+      "updatedAt": "2026-11-20T16:59:11.165Z",
+      "__v": 0
     }
   ],
   "emulators": [
