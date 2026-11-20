@@ -22855,31 +22855,32 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca2a",
       "id": "w1VoOMQH",
-      "name": "Mario Party 10 ",
-      "image": "0bj3Z6enwh.webp",
+      "name": "Mario Party 10",
+      "image": "1795194310142-b23582d7.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         2,
         3
       ],
-      "size": "2.8 gb",
+      "size": "2,8GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1JXlgNcd14fnZFJkjPX4SnA",
-          "_id": "68e08df89e798a708ef8ca2b"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1PKtZnqX198ryXlx6w4vVhA",
+          "_id": "6b007dc89cedb5d982c0bda7"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "0bj3Z6enwh.webp"
+      "updatedAt": "2026-11-20T17:05:12.106Z",
+      "oldImage": "0bj3Z6enwh.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -24103,7 +24104,6 @@
       "oldImage": "W2yybzypX6.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca9c",
       "id": "HaS_CAky",
       "name": "Transformers Prime",
@@ -24128,9 +24128,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-11-20T17:04:01.533Z",
+      "updatedAt": "2026-11-20T17:04:01.568Z",
       "oldImage": "O0TulmC5AJ.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
