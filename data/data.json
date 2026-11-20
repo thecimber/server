@@ -35067,6 +35067,33 @@
       "createdAt": "2026-11-20T17:53:19.692Z",
       "updatedAt": "2026-11-20T17:53:19.692Z",
       "__v": 0
+    },
+    {
+      "_id": "6b0089379cedb5d982c1d0cb",
+      "id": "2ttk7G8y",
+      "name": "POKKÉN TOURNAMENT (USA) (v64).wua",
+      "image": "1795197238040-3ff63b6e.webp",
+      "gameplayLink": "",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        24
+      ],
+      "size": "3.5GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/13GZpuGfPvqbRW6d1JLfwhA",
+          "_id": "6b0089379cedb5d982c1d0cc"
+        }
+      ],
+      "emulatorId": 5,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-11-20T17:53:59.892Z",
+      "updatedAt": "2026-11-20T17:53:59.892Z",
+      "__v": 0
     }
   ],
   "emulators": [
