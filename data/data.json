@@ -23937,7 +23937,6 @@
       "oldImage": "UhXPDpOZTT.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca5c",
       "id": "zyPAJdzy",
       "name": "Rapala Pro Bass Fishing (USA)",
@@ -23959,9 +23958,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-11-20T17:01:15.793Z",
+      "updatedAt": "2026-11-20T17:01:15.846Z",
       "oldImage": "-e_5gwbpXT.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca90",
