@@ -22590,31 +22590,32 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca46",
       "id": "dJBdL0yt",
       "name": "Phineas and Ferb - Quest for Cool Stuff (USA)",
-      "image": "iRpptvI-07.webp",
+      "image": "1795197435772-ecf8927c.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         3,
         1
       ],
-      "size": "211 Mb",
+      "size": "211MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1W_rfTiO6_iKWl_p7R9VE7A",
-          "_id": "68e08df89e798a708ef8ca47"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1RVEeBX2mqyIJrLhNwK_hsA",
+          "_id": "6b0089fd9cedb5d982c1e4e5"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "iRpptvI-07.webp"
+      "updatedAt": "2026-11-20T17:57:17.699Z",
+      "oldImage": "iRpptvI-07.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca2a",
