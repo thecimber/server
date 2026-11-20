@@ -23234,7 +23234,6 @@
       "oldImage": "Yt9GZ4sXIa.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca32",
       "id": "-pisnbWK",
       "name": "Need for Speed Most Wanted U (USA) (v32)",
@@ -23256,9 +23255,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-11-20T17:49:29.363Z",
+      "updatedAt": "2026-11-20T17:49:29.399Z",
       "oldImage": "xNvRbgKY9D.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca34",
