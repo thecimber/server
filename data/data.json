@@ -35123,6 +35123,32 @@
       "createdAt": "2026-11-20T18:07:01.360Z",
       "updatedAt": "2026-11-20T18:07:01.360Z",
       "__v": 0
+    },
+    {
+      "_id": "6b008d3e9cedb5d982c24434",
+      "id": "-IMQfSYs",
+      "name": "RISE OF THE GUARDIANS",
+      "image": "1795198269160-51cb576d.webp",
+      "gameplayLink": "",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        7
+      ],
+      "size": "2,3GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/12oB1DHd85Y4h1xiqvpjsyw",
+          "_id": "6b008d3e9cedb5d982c24435"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-11-20T18:11:10.890Z",
+      "updatedAt": "2026-11-20T18:11:10.890Z",
+      "__v": 0
     }
   ],
   "emulators": [
