@@ -22781,31 +22781,32 @@
       "oldImage": "ejLC9iC_Hz.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca60",
       "id": "3rEJdOo4",
       "name": "Runbow Deluxe (USA)",
-      "image": "4msru_Bwoy.webp",
+      "image": "1795198231757-7f2dae53.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         13,
         1
       ],
-      "size": "226 Mb",
+      "size": "226MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1li1DuSofBF8YLRYuTBS8Vg",
-          "_id": "68e08df89e798a708ef8ca61"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Ts7m8cFNm3qUMN3o3i_QcA",
+          "_id": "6b008d199cedb5d982c23527"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "4msru_Bwoy.webp"
+      "updatedAt": "2026-11-20T18:10:33.493Z",
+      "oldImage": "4msru_Bwoy.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca72",
