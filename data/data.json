@@ -23205,30 +23205,31 @@
       "oldImage": "Y-fMBzi-rC.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca2e",
       "id": "Abz193Fk",
       "name": "Mario Vs Donkey Kong Tipping Stars",
-      "image": "j_sUYhFUwU.webp",
+      "image": "1795194557234-1dd9e73b.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         3
       ],
-      "size": "386 Mb",
+      "size": "386MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1x1uHSqzWF1t2QJjkzaVrew",
-          "_id": "68e08df89e798a708ef8ca2f"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1DIcj9PbhnA5sM8FOcx_9HQ",
+          "_id": "6b007ebe9cedb5d982c0db93"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "j_sUYhFUwU.webp"
+      "updatedAt": "2026-11-20T17:09:18.921Z",
+      "oldImage": "j_sUYhFUwU.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
