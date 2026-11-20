@@ -23103,30 +23103,31 @@
       "oldImage": "flMbLt3sUz.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca50",
       "id": "_djkBr-v",
       "name": "PAC-MAN and the Ghostly Adventures 2 (USA)",
-      "image": "NbD2q5QAhn.webp",
+      "image": "1795197103550-48c46e87.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         1
       ],
-      "size": "3,2 Gb",
+      "size": "3,2GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1WfSjiTp8UHUNgIa1MAZTUw",
-          "_id": "68e08df89e798a708ef8ca51"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1kt0EvKL9Hko868poOfmdWg",
+          "_id": "6b0088b19cedb5d982c1adc0"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "NbD2q5QAhn.webp"
+      "updatedAt": "2026-11-20T17:51:45.441Z",
+      "oldImage": "NbD2q5QAhn.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca70",
