@@ -18048,23 +18048,23 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df79e798a708ef8c8c8",
-      "id": "cuxXVlFO",
-      "name": "Rogue Loops",
-      "image": "Rogue Loops.webp",
+      "_id": "68e08df79e798a708ef8c8ca",
+      "id": "_s9Om_O8",
+      "name": "Roots of pacha v1.3.0.2",
+      "image": "dvdPtRp76R.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
+        19,
         57,
-        58
+        60
       ],
-      "size": "1.4 Gb",
+      "size": "911 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1P8jANBFzQki-Q-vpTsHoJA",
-          "_id": "68e08df79e798a708ef8c8c9"
+          "link": "https://1024terabox.com/s/1AQlN-WqljE7LYbs_vhx6Tw",
+          "_id": "68e08df79e798a708ef8c8cb"
         }
       ],
       "emulatorId": 2,
@@ -18072,7 +18072,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.295Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Rogue Loops.webp",
+      "oldImage": "dvdPtRp76R.webp",
       "isUpdate": true
     },
     {
@@ -18132,23 +18132,23 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df79e798a708ef8c8ca",
-      "id": "_s9Om_O8",
-      "name": "Roots of pacha v1.3.0.2",
-      "image": "dvdPtRp76R.webp",
+      "_id": "68e08df79e798a708ef8c8c8",
+      "id": "cuxXVlFO",
+      "name": "Rogue Loops",
+      "image": "Rogue Loops.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        19,
+        2,
         57,
-        60
+        58
       ],
-      "size": "911 Mb",
+      "size": "1.4 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1AQlN-WqljE7LYbs_vhx6Tw",
-          "_id": "68e08df79e798a708ef8c8cb"
+          "link": "https://1024terabox.com/s/1P8jANBFzQki-Q-vpTsHoJA",
+          "_id": "68e08df79e798a708ef8c8c9"
         }
       ],
       "emulatorId": 2,
@@ -18156,7 +18156,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.295Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "dvdPtRp76R.webp",
+      "oldImage": "Rogue Loops.webp",
       "isUpdate": true
     },
     {
@@ -23264,23 +23264,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca1a",
-      "id": "pXazO5lz",
-      "name": "LEGO Jurassic World ",
-      "image": "78iZn_DxkM.webp",
+      "_id": "68e08df89e798a708ef8ca20",
+      "id": "5cxrNh8-",
+      "name": "LEGO The Hobbit ",
+      "image": "UYe1j55Vqq.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        3,
+        7,
         44
       ],
       "size": "5.9 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1S-IC5k-HkGA7Z7tisG9klw",
-          "_id": "68e08df89e798a708ef8ca1b"
+          "link": "https://1024terabox.com/s/1LW32o_WYKYmDxYW94YBsNw",
+          "_id": "68e08df89e798a708ef8ca21"
         }
       ],
       "emulatorId": 5,
@@ -23288,7 +23287,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "78iZn_DxkM.webp"
+      "oldImage": "UYe1j55Vqq.webp"
     },
     {
       "_id": "68e08df89e798a708ef8ca76",
@@ -23591,22 +23590,21 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca20",
-      "id": "5cxrNh8-",
-      "name": "LEGO The Hobbit ",
-      "image": "UYe1j55Vqq.webp",
+      "_id": "68e08df89e798a708ef8ca36",
+      "id": "42jRxFsC",
+      "name": "NES REMIX PACK (USA)",
+      "image": "iymK5rWHzT.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        44
+        3
       ],
-      "size": "5.9 Gb",
+      "size": "127 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1LW32o_WYKYmDxYW94YBsNw",
-          "_id": "68e08df89e798a708ef8ca21"
+          "link": "ttps://1024terabox.com/s/1YDlzC-qzemd5MOAcydwztA",
+          "_id": "68e08df89e798a708ef8ca37"
         }
       ],
       "emulatorId": 5,
@@ -23614,7 +23612,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "UYe1j55Vqq.webp"
+      "oldImage": "iymK5rWHzT.webp"
     },
     {
       "isUpdate": false,
@@ -23703,21 +23701,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca36",
-      "id": "42jRxFsC",
-      "name": "NES REMIX PACK (USA)",
-      "image": "iymK5rWHzT.webp",
+      "_id": "68e08df89e798a708ef8ca1a",
+      "id": "pXazO5lz",
+      "name": "LEGO Jurassic World ",
+      "image": "78iZn_DxkM.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        3
+        2,
+        3,
+        44
       ],
-      "size": "127 Mb",
+      "size": "5.9 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "ttps://1024terabox.com/s/1YDlzC-qzemd5MOAcydwztA",
-          "_id": "68e08df89e798a708ef8ca37"
+          "link": "https://1024terabox.com/s/1S-IC5k-HkGA7Z7tisG9klw",
+          "_id": "68e08df89e798a708ef8ca1b"
         }
       ],
       "emulatorId": 5,
@@ -23725,7 +23725,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "iymK5rWHzT.webp"
+      "oldImage": "78iZn_DxkM.webp"
     },
     {
       "isUpdate": false,
@@ -35093,6 +35093,33 @@
       "captures": [],
       "createdAt": "2026-11-20T17:53:59.892Z",
       "updatedAt": "2026-11-20T17:53:59.892Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b00896d9cedb5d982c1dad6",
+      "id": "Uwac_FOX",
+      "name": "Penguins of Madagascar",
+      "image": "1795197291771-e122f203.webp",
+      "gameplayLink": "",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3
+      ],
+      "size": "281MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Aa4oSUE_uLFYfTOZJl9rbA",
+          "_id": "6b00896d9cedb5d982c1dad7"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-11-20T17:54:53.521Z",
+      "updatedAt": "2026-11-20T17:54:53.521Z",
       "__v": 0
     }
   ],
