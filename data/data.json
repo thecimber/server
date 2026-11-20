@@ -24107,28 +24107,30 @@
       "_id": "68e08df89e798a708ef8ca9c",
       "id": "HaS_CAky",
       "name": "Transformers Prime",
-      "image": "O0TulmC5AJ.webp",
+      "image": "1795194239870-c3c57304.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         7,
         30,
+        13,
         28
       ],
-      "size": "1,9 Gb",
+      "size": "1,9GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/1yARy93TT7grBYCKk2tK8Rw",
-          "_id": "68e08df89e798a708ef8ca9d"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1uvRC_ABRLX4UrEMo4ptr-A",
+          "_id": "6b007d819cedb5d982c0aea5"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "O0TulmC5AJ.webp"
+      "updatedAt": "2026-11-20T17:04:01.533Z",
+      "oldImage": "O0TulmC5AJ.webp",
+      "gameplayLink": ""
     },
     {
       "isUpdate": false,
