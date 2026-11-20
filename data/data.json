@@ -16882,6 +16882,35 @@
       "oldImage": "ANrBF5lzq_.webp"
     },
     {
+      "isUpdate": false,
+      "_id": "68e08df79e798a708ef8c878",
+      "id": "7w0NwZpb",
+      "name": "Need For Speed Hot Pursuit ",
+      "image": "1772678281251-848df312.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        67,
+        86,
+        12
+      ],
+      "size": "7.6 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Xb3LOg6CjLoPf8Wqt3io5A",
+          "_id": "68e08df79e798a708ef8c879"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.293Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "1772678281251-848df312.webp"
+    },
+    {
       "_id": "68e08df79e798a708ef8c8a2",
       "id": "SIVOhqb2",
       "name": "Promise Mascot Agency",
@@ -16909,34 +16938,6 @@
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "Promise Mascot Agency.webp",
       "isUpdate": true
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c874",
-      "id": "L4_tju8E",
-      "name": "Naruto Ultimate Ninja Storm 4",
-      "image": "Naruto Ultimate Ninja Storm 4.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        10,
-        22,
-        24
-      ],
-      "size": "38.7 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/12VaqZvvbqsHbZCF7yBUQGg",
-          "_id": "68e08df79e798a708ef8c875"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.293Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Naruto Ultimate Ninja Storm 4.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c8aa",
@@ -17709,24 +17710,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df79e798a708ef8c878",
-      "id": "7w0NwZpb",
-      "name": "Need For Speed Hot Pursuit ",
-      "image": "1772678281251-848df312.webp",
+      "_id": "68e08df79e798a708ef8c874",
+      "id": "L4_tju8E",
+      "name": "Naruto Ultimate Ninja Storm 4",
+      "image": "Naruto Ultimate Ninja Storm 4.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        13,
-        67,
-        86,
-        12
+        10,
+        22,
+        24
       ],
-      "size": "7.6 Gb",
+      "size": "38.7 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Xb3LOg6CjLoPf8Wqt3io5A",
-          "_id": "68e08df79e798a708ef8c879"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/12VaqZvvbqsHbZCF7yBUQGg",
+          "_id": "68e08df79e798a708ef8c875"
         }
       ],
       "emulatorId": 2,
@@ -17734,7 +17734,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:11.293Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "1772678281251-848df312.webp"
+      "oldImage": "Naruto Ultimate Ninja Storm 4.webp"
     },
     {
       "isUpdate": false,
@@ -21828,34 +21828,6 @@
       "oldImage": "ty-QUE2AP9.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9df",
-      "id": "nwjO7MgN",
-      "name": "DOOM ETERNAL ",
-      "image": "G7eHri7c_B.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        11,
-        31
-      ],
-      "size": "90.1 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1YOR-vU5WNHZh50DqAhL9aw",
-          "_id": "68e08df79e798a708ef8c9e0"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "G7eHri7c_B.webp"
-    },
-    {
       "_id": "68e08df79e798a708ef8c9ef",
       "id": "IPjBqOfF",
       "name": "Poppy playtime chapter 4",
@@ -21883,6 +21855,34 @@
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "oldImage": "4hWDXXdtsB.webp",
       "isUpdate": true
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9df",
+      "id": "nwjO7MgN",
+      "name": "DOOM ETERNAL ",
+      "image": "G7eHri7c_B.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        11,
+        31
+      ],
+      "size": "90.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1YOR-vU5WNHZh50DqAhL9aw",
+          "_id": "68e08df79e798a708ef8c9e0"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "G7eHri7c_B.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c9e3",
@@ -22828,31 +22828,31 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca66",
-      "id": "EAwwkWf6",
-      "name": "Scribblenauts Unmasked (USA)",
-      "image": "77K6kgppFO.webp",
-      "format": 5,
+      "_id": "68e08df89e798a708ef8ca6c",
+      "id": "IbgyKzo0",
+      "name": "Persona 3 Portable",
+      "image": "pv-Po8XUVy.webp",
+      "format": 2,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        39
+        16,
+        19
       ],
-      "size": "981 Mb",
+      "size": "7,6 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/18RkthFvs4ZKwC8YU3V4HmQ",
-          "_id": "68e08df89e798a708ef8ca67"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/103Y8V6_xiu5oqP7CDM7G_A",
+          "_id": "68e08df89e798a708ef8ca6d"
         }
       ],
-      "emulatorId": 5,
+      "emulatorId": 8,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "77K6kgppFO.webp"
+      "oldImage": "pv-Po8XUVy.webp",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -22934,31 +22934,31 @@
       "oldImage": "urBBkzlQ4d.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca6c",
-      "id": "IbgyKzo0",
-      "name": "Persona 3 Portable",
-      "image": "pv-Po8XUVy.webp",
-      "format": 2,
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca66",
+      "id": "EAwwkWf6",
+      "name": "Scribblenauts Unmasked (USA)",
+      "image": "77K6kgppFO.webp",
+      "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        16,
-        19
+        7,
+        39
       ],
-      "size": "7,6 Gb",
+      "size": "981 Mb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/103Y8V6_xiu5oqP7CDM7G_A",
-          "_id": "68e08df89e798a708ef8ca6d"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/18RkthFvs4ZKwC8YU3V4HmQ",
+          "_id": "68e08df89e798a708ef8ca67"
         }
       ],
-      "emulatorId": 8,
+      "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "pv-Po8XUVy.webp",
-      "isUpdate": true
+      "oldImage": "77K6kgppFO.webp"
     },
     {
       "isUpdate": false,
@@ -23365,6 +23365,32 @@
       "oldImage": "Prh84CISZj.webp"
     },
     {
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca36",
+      "id": "42jRxFsC",
+      "name": "NES REMIX PACK (USA)",
+      "image": "iymK5rWHzT.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        3
+      ],
+      "size": "127 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "ttps://1024terabox.com/s/1YDlzC-qzemd5MOAcydwztA",
+          "_id": "68e08df89e798a708ef8ca37"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "iymK5rWHzT.webp"
+    },
+    {
       "_id": "68e08df89e798a708ef8ca56",
       "id": "fUodemuZ",
       "name": "New SUPER MARIO BROS. U (USA) (DLC) (v64)",
@@ -23390,32 +23416,6 @@
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
       "oldImage": "1kvqSwbTn7.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca36",
-      "id": "42jRxFsC",
-      "name": "NES REMIX PACK (USA)",
-      "image": "iymK5rWHzT.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        3
-      ],
-      "size": "127 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "ttps://1024terabox.com/s/1YDlzC-qzemd5MOAcydwztA",
-          "_id": "68e08df89e798a708ef8ca37"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "iymK5rWHzT.webp"
     },
     {
       "isUpdate": false,
@@ -23991,10 +23991,10 @@
       "oldImage": "FzMV69PJNo.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca8e",
-      "id": "Exy190Oj",
-      "name": "Hitman Absolution ",
-      "image": "dPVJkMICsh.webp",
+      "_id": "68e08df89e798a708ef8ca8a",
+      "id": "yKaYhI6Z",
+      "name": "Hitman 2016 ",
+      "image": "hMLJrAJP7G.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
@@ -24002,12 +24002,12 @@
         8,
         30
       ],
-      "size": "15,9 Gb",
+      "size": "45,2 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1Kjk54P-IUJs_a-4Q1vb4dA",
-          "_id": "68e08df89e798a708ef8ca8f"
+          "link": "https://1024terabox.com/s/1x5C618b4tjCKvpCRX2qjCA",
+          "_id": "68e08df89e798a708ef8ca8b"
         }
       ],
       "emulatorId": 2,
@@ -24015,7 +24015,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "dPVJkMICsh.webp",
+      "oldImage": "hMLJrAJP7G.webp",
       "isUpdate": true
     },
     {
@@ -24156,23 +24156,23 @@
       "oldImage": "D3b1as4L9L.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca94",
-      "id": "Cf1wEeKn",
-      "name": "Darksiders Genesis ",
-      "image": "9QRxr8V6TP.webp",
+      "_id": "68e08df89e798a708ef8ca9a",
+      "id": "3lsgWRaY",
+      "name": "Darksiders 3 ",
+      "image": "OQ-EyUm_nH.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
         3,
-        27
+        9,
+        16
       ],
-      "size": "10,4 Gb",
+      "size": "23,8 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/19CXslc_bq0QDoHJn2qQ3JQ",
-          "_id": "68e08df89e798a708ef8ca95"
+          "link": "https://1024terabox.com/s/1lVOpl8u2RvVquywLwhRmYg",
+          "_id": "68e08df89e798a708ef8ca9b"
         }
       ],
       "emulatorId": 2,
@@ -24181,35 +24181,7 @@
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "9QRxr8V6TP.webp"
-    },
-    {
-      "_id": "68e08df89e798a708ef8ca8a",
-      "id": "yKaYhI6Z",
-      "name": "Hitman 2016 ",
-      "image": "hMLJrAJP7G.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        8,
-        30
-      ],
-      "size": "45,2 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1x5C618b4tjCKvpCRX2qjCA",
-          "_id": "68e08df89e798a708ef8ca8b"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.243Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "hMLJrAJP7G.webp",
-      "isUpdate": true
+      "oldImage": "OQ-EyUm_nH.webp"
     },
     {
       "_id": "68e08df89e798a708ef8ca7c",
@@ -24323,23 +24295,23 @@
       "oldImage": "56S1e9b4V3.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca96",
-      "id": "VsvfU9db",
-      "name": "Darksiders Warmastered Edition ",
-      "image": "TxBlBdVIVm.webp",
+      "_id": "68e08df89e798a708ef8ca94",
+      "id": "Cf1wEeKn",
+      "name": "Darksiders Genesis ",
+      "image": "9QRxr8V6TP.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        27,
-        9
+        2,
+        3,
+        27
       ],
-      "size": "23,5 Gb",
+      "size": "10,4 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1nyY3N1UR2zOZBW6ltrRgpg",
-          "_id": "68e08df89e798a708ef8ca97"
+          "link": "https://1024terabox.com/s/19CXslc_bq0QDoHJn2qQ3JQ",
+          "_id": "68e08df89e798a708ef8ca95"
         }
       ],
       "emulatorId": 2,
@@ -24348,7 +24320,7 @@
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "TxBlBdVIVm.webp"
+      "oldImage": "9QRxr8V6TP.webp"
     },
     {
       "_id": "68e08df89e798a708ef8ca9e",
@@ -24379,6 +24351,34 @@
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
       "oldImage": "4HCdVgXpmc.webp"
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca8e",
+      "id": "Exy190Oj",
+      "name": "Hitman Absolution ",
+      "image": "dPVJkMICsh.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        8,
+        30
+      ],
+      "size": "15,9 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Kjk54P-IUJs_a-4Q1vb4dA",
+          "_id": "68e08df89e798a708ef8ca8f"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.243Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "dPVJkMICsh.webp",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -24491,23 +24491,23 @@
       "oldImage": "kulOXyZgfk.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca9a",
-      "id": "3lsgWRaY",
-      "name": "Darksiders 3 ",
-      "image": "OQ-EyUm_nH.webp",
+      "_id": "68e08df89e798a708ef8ca96",
+      "id": "VsvfU9db",
+      "name": "Darksiders Warmastered Edition ",
+      "image": "TxBlBdVIVm.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        9,
-        16
+        7,
+        27,
+        9
       ],
-      "size": "23,8 Gb",
+      "size": "23,5 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1lVOpl8u2RvVquywLwhRmYg",
-          "_id": "68e08df89e798a708ef8ca9b"
+          "link": "https://1024terabox.com/s/1nyY3N1UR2zOZBW6ltrRgpg",
+          "_id": "68e08df89e798a708ef8ca97"
         }
       ],
       "emulatorId": 2,
@@ -24516,7 +24516,7 @@
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "OQ-EyUm_nH.webp"
+      "oldImage": "TxBlBdVIVm.webp"
     },
     {
       "_id": "68e08df89e798a708ef8caa4",
@@ -34869,6 +34869,33 @@
       "captures": [],
       "createdAt": "2026-11-20T16:59:11.165Z",
       "updatedAt": "2026-11-20T16:59:11.165Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b007c9d9cedb5d982c09598",
+      "id": "DFGUqlaJ",
+      "name": "SUPER LUIGI U (USA)",
+      "image": "1795194011261-f31673dd.webp",
+      "gameplayLink": "",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        1
+      ],
+      "size": "1,1GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1rbDQyCdP0zuU7b6b1cgeA",
+          "_id": "6b007c9d9cedb5d982c09599"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-11-20T17:00:13.384Z",
+      "updatedAt": "2026-11-20T17:00:13.384Z",
       "__v": 0
     }
   ],
