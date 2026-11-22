@@ -23271,7 +23271,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca68",
       "id": "hHOrzj9Q",
       "name": "Shakedown Hawaii (USA)",
@@ -23294,9 +23293,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-11-22T16:25:17.351Z",
+      "updatedAt": "2026-11-22T16:25:17.380Z",
       "oldImage": "F3W_-xkHZr.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -35126,6 +35126,33 @@
       "captures": [],
       "createdAt": "2026-11-22T15:59:10.154Z",
       "updatedAt": "2026-11-22T15:59:10.154Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b0317a09cedb5d982c37cc5",
+      "id": "CSh0HZpY",
+      "name": "Scribblenauts Unmasked",
+      "image": "1795364767407-4d635b29.webp",
+      "gameplayLink": "",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        39
+      ],
+      "size": "981MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Qp3yXpXlyy6hG19t8EfEtg",
+          "_id": "6b0317a09cedb5d982c37cc6"
+        }
+      ],
+      "emulatorId": 8,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-11-22T16:26:08.945Z",
+      "updatedAt": "2026-11-22T16:26:08.945Z",
       "__v": 0
     }
   ],
