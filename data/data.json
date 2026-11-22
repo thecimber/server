@@ -7667,32 +7667,29 @@
       "oldImage": "photo_5100582605748809406_x.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c5f0",
       "id": "0lpdr8Cf",
       "name": "The Legend of Zelda - Twilight Princess HD",
-      "image": "The Legend of Zelda - Twilight Princess HD.webp",
+      "image": "1795363189790-d3a3f0ad.webp",
       "format": 5,
       "language": "Multi-Idioma",
-      "genre": [
-        3,
-        7,
-        9
-      ],
-      "size": "4.8 Gb",
+      "genre": [],
+      "size": "4,8GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1-tj2sLNA1CoruQ7InXaWVg",
-          "_id": "68e08df49e798a708ef8c5f1"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1gnCKx-6FRGmtWQnVC2CtJQ",
+          "_id": "6b0311779cedb5d982c29081"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.892Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "The Legend of Zelda - Twilight Princess HD.webp"
+      "updatedAt": "2026-11-22T15:59:51.431Z",
+      "oldImage": "The Legend of Zelda - Twilight Princess HD.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
