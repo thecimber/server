@@ -6803,7 +6803,7 @@
       "isUpdate": false,
       "_id": "68e08df49e798a708ef8c596",
       "id": "utOvdxyW",
-      "name": "BATMAN ARKHAM ORIGINS WII U",
+      "name": "Warriors Orochi Hyper 3",
       "image": "BATMAN-ARKHAM-ORIGINS-WII-U.webp",
       "format": 5,
       "language": "Multi-Idioma",
@@ -6815,7 +6815,7 @@
       "size": "16.10 Gb",
       "downloadMethods": [
         {
-          "type": "Mediafire",
+          "type": "mediafire",
           "link": "https://cuty.io/50Fx8lo",
           "_id": "68e08df49e798a708ef8c597"
         }
@@ -6824,8 +6824,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.888Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "BATMAN-ARKHAM-ORIGINS-WII-U.webp"
+      "updatedAt": "2026-11-22T16:22:07.606Z",
+      "oldImage": "BATMAN-ARKHAM-ORIGINS-WII-U.webp",
+      "gameplayLink": ""
     },
     {
       "isUpdate": false,
