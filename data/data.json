@@ -23242,7 +23242,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca1c",
       "id": "O_4bvu8Y",
       "name": "LEGO Marvel Avengers",
@@ -23267,9 +23266,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-11-22T16:17:03.365Z",
+      "updatedAt": "2026-11-22T16:17:03.424Z",
       "oldImage": "w0bB4jRuvx.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -23516,32 +23516,32 @@
       "oldImage": "pFK4dIC_LA.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca1a",
       "id": "pXazO5lz",
-      "name": "LEGO Jurassic World ",
-      "image": "78iZn_DxkM.webp",
+      "name": "LEGO Jurassic World",
+      "image": "1795364263804-e4f3984b.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        3,
+        7,
         44
       ],
-      "size": "5.9 Gb",
+      "size": "5,9GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1S-IC5k-HkGA7Z7tisG9klw",
-          "_id": "68e08df89e798a708ef8ca1b"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/151kbY96mKkFa02lYhkAbUw",
+          "_id": "6b0315a99cedb5d982c3407c"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "78iZn_DxkM.webp"
+      "updatedAt": "2026-11-22T16:17:45.771Z",
+      "oldImage": "78iZn_DxkM.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca76",
