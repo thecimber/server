@@ -23245,31 +23245,31 @@
       "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca1c",
       "id": "O_4bvu8Y",
-      "name": "LEGO Marvel Avengers ",
-      "image": "w0bB4jRuvx.webp",
+      "name": "LEGO Marvel Avengers",
+      "image": "1795364221425-b58c250e.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        12,
+        7,
         44,
         45,
-        3
+        12
       ],
-      "size": "8.1 Gb",
+      "size": "8,1GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1do972pWVT-DU4_FC55v4rA",
-          "_id": "68e08df89e798a708ef8ca1d"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1utMv4Ui9mar75cD9ChUJtg",
+          "_id": "6b03157f9cedb5d982c3316c"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "w0bB4jRuvx.webp"
+      "updatedAt": "2026-11-22T16:17:03.365Z",
+      "oldImage": "w0bB4jRuvx.webp",
+      "gameplayLink": ""
     },
     {
       "isUpdate": false,
