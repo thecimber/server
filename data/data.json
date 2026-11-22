@@ -23275,27 +23275,28 @@
       "_id": "68e08df89e798a708ef8ca68",
       "id": "hHOrzj9Q",
       "name": "Shakedown Hawaii (USA)",
-      "image": "F3W_-xkHZr.webp",
+      "image": "1795364715716-ee64efaf.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         7,
         12
       ],
-      "size": "55 Mb",
+      "size": "55MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Z4x0NNeTc_a2rTqpVqsDbA",
-          "_id": "68e08df89e798a708ef8ca69"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/10eJnvrXEKuspZT99zUEQcQ",
+          "_id": "6b03176d9cedb5d982c36db4"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "F3W_-xkHZr.webp"
+      "updatedAt": "2026-11-22T16:25:17.351Z",
+      "oldImage": "F3W_-xkHZr.webp",
+      "gameplayLink": ""
     },
     {
       "isUpdate": false,
