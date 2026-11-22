@@ -22970,27 +22970,28 @@
       "_id": "68e08df89e798a708ef8ca1e",
       "id": "Q84lwyw1",
       "name": "LEGO Star Wars El Despertar de la Fuerza",
-      "image": "1gt3ndCcSu.webp",
+      "image": "1795363301630-17b6f58e.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         7,
         44
       ],
-      "size": "6.8 Gb",
+      "size": "6,8GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1A-PEvVG2yO86TQUMw_KiMg",
-          "_id": "68e08df89e798a708ef8ca1f"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1vUth0IYYVa7DiiltGrzbyA",
+          "_id": "6b0311e79cedb5d982c2aebe"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "1gt3ndCcSu.webp"
+      "updatedAt": "2026-11-22T16:01:43.271Z",
+      "oldImage": "1gt3ndCcSu.webp",
+      "gameplayLink": ""
     },
     {
       "_id": "68e08df89e798a708ef8ca26",
