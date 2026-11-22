@@ -22532,7 +22532,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca28",
       "id": "jP4CSCkd",
       "name": "Madden NFL 13",
@@ -22554,9 +22553,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-11-22T16:14:14.720Z",
+      "updatedAt": "2026-11-22T16:14:14.790Z",
       "oldImage": "ejLC9iC_Hz.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca3a",
@@ -22887,31 +22887,32 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca22",
       "id": "eYDCboGB",
-      "name": "Legend Of Kay Anniversary ",
-      "image": "Yt9GZ4sXIa.webp",
+      "name": "Legend Of Kay Anniversary",
+      "image": "1795364104125-c1cdd84e.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         7,
-        41
+        57
       ],
-      "size": "3.3 Gb",
+      "size": "3,3GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1_kvZ4ODd7Yj_Z_D5vNSlkA",
-          "_id": "68e08df89e798a708ef8ca23"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1kM3P7djOdGmunfs7Bz9Tsw",
+          "_id": "6b03150a9cedb5d982c31350"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Yt9GZ4sXIa.webp"
+      "updatedAt": "2026-11-22T16:15:06.311Z",
+      "oldImage": "Yt9GZ4sXIa.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
