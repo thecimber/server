@@ -22966,7 +22966,6 @@
       "oldImage": "eyNJoMCYkD.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca1e",
       "id": "Q84lwyw1",
       "name": "LEGO Star Wars El Despertar de la Fuerza",
@@ -22989,9 +22988,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-11-22T16:01:43.271Z",
+      "updatedAt": "2026-11-22T16:01:43.325Z",
       "oldImage": "1gt3ndCcSu.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca26",
@@ -23815,30 +23815,31 @@
       "oldImage": "78iZn_DxkM.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca24",
       "id": "keQdzVGu",
-      "name": "Luv Me Buddies Wonderland ",
-      "image": "k7yaZnmYxc.webp",
+      "name": "Luv Me Buddies Wonderland",
+      "image": "1795363338898-c3169879.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         3
       ],
-      "size": "55.37 Mb",
+      "size": "55,37MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1NHenJxlZoRwJfuNd_Em7wA",
-          "_id": "68e08df89e798a708ef8ca25"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1GKMa1kanv4SK0tx4e2NWbQ",
+          "_id": "6b03120c9cedb5d982c2bde2"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "k7yaZnmYxc.webp"
+      "updatedAt": "2026-11-22T16:02:20.725Z",
+      "oldImage": "k7yaZnmYxc.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
