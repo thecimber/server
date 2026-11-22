@@ -23160,31 +23160,32 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca20",
       "id": "5cxrNh8-",
-      "name": "LEGO The Hobbit ",
-      "image": "UYe1j55Vqq.webp",
+      "name": "LEGO The Hobbit",
+      "image": "1795364167934-d63e6a05.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         7,
         44
       ],
-      "size": "5.9 Gb",
+      "size": "5,9GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1LW32o_WYKYmDxYW94YBsNw",
-          "_id": "68e08df89e798a708ef8ca21"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1iVt7v58f1VKkwNOU0RdZTw",
+          "_id": "6b0315499cedb5d982c3225e"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "UYe1j55Vqq.webp"
+      "updatedAt": "2026-11-22T16:16:09.808Z",
+      "oldImage": "UYe1j55Vqq.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca5c",
