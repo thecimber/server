@@ -22536,26 +22536,27 @@
       "_id": "68e08df89e798a708ef8ca28",
       "id": "jP4CSCkd",
       "name": "Madden NFL 13",
-      "image": "ejLC9iC_Hz.webp",
+      "image": "1795364052664-f1a18dbc.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         4
       ],
-      "size": "4.3 Gb",
+      "size": "4,3GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1AJ4YZU2rj09XOZpFni8Efw",
-          "_id": "68e08df89e798a708ef8ca29"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/16okBy_h__oqx6dbZdyTVGA",
+          "_id": "6b0314d69cedb5d982c3043f"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "ejLC9iC_Hz.webp"
+      "updatedAt": "2026-11-22T16:14:14.720Z",
+      "oldImage": "ejLC9iC_Hz.webp",
+      "gameplayLink": ""
     },
     {
       "_id": "68e08df89e798a708ef8ca3a",
