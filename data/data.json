@@ -23539,11 +23539,10 @@
       "oldImage": "OcYHveTuPl.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca18",
       "id": "92w4jfEL",
       "name": "LEGO CITY Undercover",
-      "image": "WAJW2h6DdV.webp",
+      "image": "1795363231157-bdbbead3.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
@@ -23551,20 +23550,22 @@
         12,
         44
       ],
-      "size": "18.9 Gb",
+      "size": "18,9GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1PqW3YAp7eLelIYovdpKhCw",
-          "_id": "68e08df89e798a708ef8ca19"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1mqmVNS3dFgdWqKixVn2XVA",
+          "_id": "6b0311a19cedb5d982c29f9b"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "WAJW2h6DdV.webp"
+      "updatedAt": "2026-11-22T16:00:33.230Z",
+      "oldImage": "WAJW2h6DdV.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca2c",
