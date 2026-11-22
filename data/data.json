@@ -22861,30 +22861,31 @@
       "oldImage": "m7HIsc2t1x.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca6a",
       "id": "Y-yGuZZp",
       "name": "Shantae Half-Genie Hero (USA) (DLC) (v80)",
-      "image": "urBBkzlQ4d.webp",
+      "image": "1795363078665-488319dc.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         1
       ],
-      "size": "2,4 Gb",
+      "size": "2,4GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/18337Kfxew7M9H1BBX_iltg",
-          "_id": "68e08df89e798a708ef8ca6b"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/19Qstp0gTliQadxaXMdWxiw",
+          "_id": "6b0311089cedb5d982c27756"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "urBBkzlQ4d.webp"
+      "updatedAt": "2026-11-22T15:58:00.431Z",
+      "oldImage": "urBBkzlQ4d.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
