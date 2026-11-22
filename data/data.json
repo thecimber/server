@@ -6800,33 +6800,31 @@
       "oldImage": "Assassins-Creed-black-Flag.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c596",
       "id": "utOvdxyW",
       "name": "Warriors Orochi Hyper 3",
-      "image": "BATMAN-ARKHAM-ORIGINS-WII-U.webp",
+      "image": "1795364571703-7a6500b0.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        7,
-        8
+        24
       ],
-      "size": "16.10 Gb",
+      "size": "16,10 GB",
       "downloadMethods": [
         {
           "type": "mediafire",
           "link": "https://cuty.io/50Fx8lo",
-          "_id": "68e08df49e798a708ef8c597"
+          "_id": "6b0316dd9cedb5d982c35ea2"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.888Z",
-      "updatedAt": "2026-11-22T16:22:07.606Z",
+      "updatedAt": "2026-11-22T16:22:53.380Z",
       "oldImage": "BATMAN-ARKHAM-ORIGINS-WII-U.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
