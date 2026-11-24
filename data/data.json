@@ -22162,7 +22162,6 @@
       "oldImage": "qWQQhqoKcw.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca0a",
       "id": "1T_8dRHz",
       "name": "Breath Of fire 3",
@@ -22184,9 +22183,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-11-24T01:06:21.498Z",
+      "updatedAt": "2026-11-24T01:06:21.529Z",
       "oldImage": "MtxvGhkkWj.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca08",
@@ -33767,7 +33767,7 @@
       "_id": "6a2f715a14dabecb3ed09536",
       "id": "sMdR8iG9",
       "name": "FIFA 06 (Europe)",
-      "image": "1781494105005-2950cc22.webp",
+      "image": "1795482503609-a22621cc.webp",
       "gameplayLink": "",
       "format": 4,
       "language": "Multi-Idioma",
@@ -33780,15 +33780,15 @@
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1NDwTh38k_Bjq71B0hn_IYQ",
-          "_id": "6a2f715a14dabecb3ed09537"
+          "link": "https://1024terabox.com/s/16pxlXwDIg_vVeuYXNqPKbQ",
+          "_id": "6b04e3899cedb5d982c3dc70"
         }
       ],
       "emulatorId": 3,
-      "isUpdate": false,
+      "isUpdate": true,
       "captures": [],
       "createdAt": "2026-06-15T03:28:26.332Z",
-      "updatedAt": "2026-06-15T03:28:26.332Z",
+      "updatedAt": "2026-11-24T01:08:25.270Z",
       "__v": 0
     },
     {
@@ -37020,4 +37020,4 @@
       "__v": 0
     }
   ]
-}
+}}
