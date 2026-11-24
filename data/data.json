@@ -3960,32 +3960,32 @@
       "oldImage": "Wwe 2013.webp"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4e8",
-      "id": "r3IDxmQg",
-      "name": "LEGO Harry Potter - Years 5-7",
-      "image": "LEGO Harry Potter - Years 5-7.webp",
+      "_id": "68e08df49e798a708ef8c4e2",
+      "id": "JvP5H6-3",
+      "name": "God of War - Ghost of Sparta",
+      "image": "1785881418100-92cd9070.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        1,
-        7,
-        39
+        24,
+        7
       ],
-      "size": "1.3 Gb",
+      "size": "1,2GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1HNoZtKjOF2R9dkV73RPY-A",
-          "_id": "68e08df49e798a708ef8c4e9"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1csb3PzJWxneS2WYBvofCNQ",
+          "_id": "6a72634c7d9816a180dd765f"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "LEGO Harry Potter - Years 5-7.webp"
+      "updatedAt": "2026-08-04T22:10:20.731Z",
+      "oldImage": "God of War - Ghost of Sparta.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -4205,34 +4205,6 @@
       "createdAt": "2025-10-04T03:01:08.450Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "LEGO Star Wars The Original Trilogy.webp"
-    },
-    {
-      "_id": "68e08df49e798a708ef8c4e2",
-      "id": "JvP5H6-3",
-      "name": "God of War - Ghost of Sparta",
-      "image": "1785881418100-92cd9070.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        24,
-        7
-      ],
-      "size": "1,2GB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1csb3PzJWxneS2WYBvofCNQ",
-          "_id": "6a72634c7d9816a180dd765f"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T22:10:20.731Z",
-      "oldImage": "God of War - Ghost of Sparta.webp",
-      "gameplayLink": "",
-      "isUpdate": true
     },
     {
       "_id": "68e08df49e798a708ef8c4e0",
@@ -4495,23 +4467,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c522",
-      "id": "Fa6aGqoe",
-      "name": "Call of Duty: Black Ops",
-      "image": "Call-of-Duty:Black-Ops.webp",
+      "_id": "68e08df49e798a708ef8c524",
+      "id": "2LPRD6il",
+      "name": "Cars",
+      "image": "Cars.webp",
       "format": 7,
       "language": "Español",
       "genre": [
-        2,
-        11,
-        35
+        13,
+        39
       ],
-      "size": "44 Mb",
+      "size": "9 Mb",
       "downloadMethods": [
         {
           "type": "Mediafire",
-          "link": "https://cuty.io/iYZJv2a9Xq",
-          "_id": "68e08df49e798a708ef8c523"
+          "link": "https://cuty.io/YA1sL",
+          "_id": "68e08df49e798a708ef8c525"
         }
       ],
       "emulatorId": 4,
@@ -4519,7 +4490,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Call-of-Duty:Black-Ops.webp"
+      "oldImage": "Cars.webp"
     },
     {
       "isUpdate": false,
@@ -4551,22 +4522,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c524",
-      "id": "2LPRD6il",
-      "name": "Cars",
-      "image": "Cars.webp",
+      "_id": "68e08df49e798a708ef8c522",
+      "id": "Fa6aGqoe",
+      "name": "Call of Duty: Black Ops",
+      "image": "Call-of-Duty:Black-Ops.webp",
       "format": 7,
       "language": "Español",
       "genre": [
-        13,
-        39
+        2,
+        11,
+        35
       ],
-      "size": "9 Mb",
+      "size": "44 Mb",
       "downloadMethods": [
         {
           "type": "Mediafire",
-          "link": "https://cuty.io/YA1sL",
-          "_id": "68e08df49e798a708ef8c525"
+          "link": "https://cuty.io/iYZJv2a9Xq",
+          "_id": "68e08df49e798a708ef8c523"
         }
       ],
       "emulatorId": 4,
@@ -4574,7 +4546,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Cars.webp"
+      "oldImage": "Call-of-Duty:Black-Ops.webp"
     },
     {
       "isUpdate": false,
@@ -4991,33 +4963,6 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df49e798a708ef8c516",
-      "id": "ampVnULe",
-      "name": "Star Wars Battlefront - Elite Squadron",
-      "image": "1785883046807-62048712.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        10
-      ],
-      "size": "1,2GB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1wOb-zWRErEbcUswpjuXr1w",
-          "_id": "6a7269a87d9816a180de233f"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-08-04T22:37:28.431Z",
-      "oldImage": "Star Wars Battlefront - Elite Squadron.webp",
-      "gameplayLink": "",
-      "isUpdate": true
-    },
-    {
       "_id": "68e08df49e798a708ef8c510",
       "id": "vJwKhHKL",
       "name": "Star Wars - Lethal Alliance",
@@ -5041,6 +4986,33 @@
       "createdAt": "2025-10-04T03:01:08.451Z",
       "updatedAt": "2026-08-04T22:32:23.694Z",
       "oldImage": "Star Wars - Lethal Alliance.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df49e798a708ef8c516",
+      "id": "ampVnULe",
+      "name": "Star Wars Battlefront - Elite Squadron",
+      "image": "1785883046807-62048712.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        10
+      ],
+      "size": "1,2GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1wOb-zWRErEbcUswpjuXr1w",
+          "_id": "6a7269a87d9816a180de233f"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.451Z",
+      "updatedAt": "2026-08-04T22:37:28.431Z",
+      "oldImage": "Star Wars Battlefront - Elite Squadron.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
