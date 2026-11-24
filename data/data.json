@@ -22511,7 +22511,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca5a",
       "id": "E25Zx-Nq",
       "name": "Rabbids Land (USA) (v16)",
@@ -22533,9 +22532,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-11-24T04:31:53.449Z",
+      "updatedAt": "2026-11-24T04:31:55.847Z",
       "oldImage": "EKf2_PHZfA.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
