@@ -35377,6 +35377,33 @@
       "createdAt": "2026-11-24T01:15:45.264Z",
       "updatedAt": "2026-11-24T01:15:45.264Z",
       "__v": 0
+    },
+    {
+      "_id": "6b04e55d9cedb5d982c44139",
+      "id": "F8H9995g",
+      "name": "LEGO Star Wars 3 the clone wars (Europe)",
+      "image": "1795482971438-10f2bf40.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        187
+      ],
+      "size": "1,4GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1nK9TvSMR34vQ1Pn7YtPd5g",
+          "_id": "6b04e55d9cedb5d982c4413a"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-11-24T01:16:13.342Z",
+      "updatedAt": "2026-11-24T01:16:13.342Z",
+      "__v": 0
     }
   ],
   "emulators": [
