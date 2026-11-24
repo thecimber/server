@@ -35432,6 +35432,35 @@
       "createdAt": "2026-11-24T01:24:11.069Z",
       "updatedAt": "2026-11-24T01:24:11.069Z",
       "__v": 0
+    },
+    {
+      "_id": "6b04e7889cedb5d982c4a156",
+      "id": "4zRSeByT",
+      "name": "FIFA 12",
+      "image": "1795483526828-f43019df.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        6,
+        19,
+        118
+      ],
+      "size": "828,2MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1fkLgkr2jW58Xx0LjagB62g",
+          "_id": "6b04e7889cedb5d982c4a157"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-11-24T01:25:28.503Z",
+      "updatedAt": "2026-11-24T01:25:28.503Z",
+      "__v": 0
     }
   ],
   "emulators": [
