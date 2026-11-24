@@ -34381,26 +34381,27 @@
       "_id": "6a726a277d9816a180de686d",
       "id": "_TV9WN8o",
       "name": "Sonic Rivals (Europe)",
-      "image": "1785883174482-0b4500cd.webp",
+      "image": "1795483411741-40e4deb2.webp",
       "gameplayLink": "",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
+        2,
         13
       ],
       "size": "113MB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1UFiFJDmaX87sw-nQD0wHeQ",
-          "_id": "6a726a277d9816a180de686e"
+          "link": "https://1024terabox.com/s/1vFHKrkqSbowr58iTipn15A",
+          "_id": "6b04e7159cedb5d982c478dc"
         }
       ],
       "emulatorId": 3,
-      "isUpdate": false,
+      "isUpdate": true,
       "captures": [],
       "createdAt": "2026-08-04T22:39:35.922Z",
-      "updatedAt": "2026-08-04T22:39:35.922Z",
+      "updatedAt": "2026-11-24T01:23:33.437Z",
       "__v": 0
     },
     {
