@@ -5045,31 +5045,31 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c51a",
       "id": "78tMI0F6",
       "name": "UEFA champions league 2006-2007",
-      "image": "UEFA champions league 2006-2007.webp",
+      "image": "1795483476974-0a4c2f64.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        4,
-        6
+        4
       ],
-      "size": "0",
+      "size": "700MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Qkbs_7qP_ohxiEOk88VSyA",
-          "_id": "68e08df49e798a708ef8c51b"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/10V8dNHsJgN0b9hFZGXeLCw",
+          "_id": "6b04e7569cedb5d982c49226"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "UEFA champions league 2006-2007.webp"
+      "updatedAt": "2026-11-24T01:24:38.746Z",
+      "oldImage": "UEFA champions league 2006-2007.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df49e798a708ef8c504",
