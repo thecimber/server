@@ -3768,6 +3768,34 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c496",
+      "id": "rKgbFYFG",
+      "name": "The Last Of Us Link",
+      "image": "The Last Of Us Link.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        14,
+        21
+      ],
+      "size": "35.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1c0V_5qCkkX6R_reMcUqVLQ",
+          "_id": "68e08df49e798a708ef8c497"
+        }
+      ],
+      "emulatorId": 1,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.449Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "The Last Of Us Link.webp"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c498",
       "id": "90685",
       "name": "The Simpsons Game",
@@ -3933,38 +3961,10 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c496",
-      "id": "rKgbFYFG",
-      "name": "The Last Of Us Link",
-      "image": "The Last Of Us Link.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        14,
-        21
-      ],
-      "size": "35.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1c0V_5qCkkX6R_reMcUqVLQ",
-          "_id": "68e08df49e798a708ef8c497"
-        }
-      ],
-      "emulatorId": 1,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.449Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "The Last Of Us Link.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4f0",
-      "id": "B3pkOKu5",
-      "name": "LEGO Star Wars 3 the clone wars",
-      "image": "LEGO Star Wars 3 the clone wars.webp",
+      "_id": "68e08df49e798a708ef8c4f2",
+      "id": "HTHKzc1z",
+      "name": "LEGO Star Wars The Original Trilogy",
+      "image": "LEGO Star Wars The Original Trilogy.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
@@ -3972,12 +3972,12 @@
         7,
         39
       ],
-      "size": "1.4 Gb",
+      "size": "876 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1_DjjZyz6Pdo6Ouj-gTmi0Q",
-          "_id": "68e08df49e798a708ef8c4f1"
+          "link": "https://1024terabox.com/s/1zy6HPw1nGi20hftT-4LHZQ",
+          "_id": "68e08df49e798a708ef8c4f3"
         }
       ],
       "emulatorId": 3,
@@ -3985,59 +3985,141 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "LEGO Star Wars 3 the clone wars.webp"
+      "oldImage": "LEGO Star Wars The Original Trilogy.webp"
     },
     {
-      "_id": "68e08df49e798a708ef8c4f4",
-      "id": "dp0LHOqI",
-      "name": "Naruto Shippuden Kizuna Drive",
-      "image": "1785879174181-0d5a997a.webp",
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c502",
+      "id": "uGS3A1cQ",
+      "name": "Prince of Persia – Boukyaku no Suna",
+      "image": "Prince of Persia – Boukyaku no Suna.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        24
+        2,
+        7,
+        15
       ],
-      "size": "1,22GB",
+      "size": "483 Mb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1qgOeOaYWWvuRTyuJdO80iA",
-          "_id": "6a725a877d9816a180dd1d7c"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/10ZCHAa76QpeTUKvvUDz8LQ",
+          "_id": "68e08df49e798a708ef8c503"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T21:32:55.930Z",
-      "oldImage": "Naruto Shippuden Kizuna Drive.webp",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Prince of Persia – Boukyaku no Suna.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c500",
+      "id": "sFrvmBl0",
+      "name": "Pes Pro evolution Soccer 6",
+      "image": "Pes Pro evolution Soccer 6.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        6
+      ],
+      "size": "849 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1zldHiV27PWRBgTuo9QCtxA",
+          "_id": "68e08df49e798a708ef8c501"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.450Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Pes Pro evolution Soccer 6.webp"
+    },
+    {
+      "_id": "68e08df49e798a708ef8c4fe",
+      "id": "SneUELth",
+      "name": "Naruto Ultimate Ninja Heroes 2",
+      "image": "1785879119672-671be94f.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        24
+      ],
+      "size": "1,27GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1UlqeH_WFOLQh-Jl1VwfZ9Q",
+          "_id": "6a725a517d9816a180dce74a"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.450Z",
+      "updatedAt": "2026-08-04T21:32:01.362Z",
+      "oldImage": "Naruto Ultimate Ninja Heroes 2.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
     {
-      "_id": "68e08df49e798a708ef8c4f6",
-      "id": "9_eX6BUh",
-      "name": "Naruto Shippuden Legends Akatsuki Rising",
-      "image": "1785879146208-1efb1f9f.webp",
+      "_id": "68e08df49e798a708ef8c4fc",
+      "id": "Jeo-MerP",
+      "name": "Naruto Ultimate Ninja Heroes",
+      "image": "1795483342427-887f372b.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        24
+        187
       ],
-      "size": "545GB",
+      "size": "500MB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1LoxHajvqXSvEKwoyM8_U2g",
-          "_id": "6a725a6d7d9816a180dcffea"
+          "link": "https://1024terabox.com/s/1KdT6iN0wBR0upJlsYoB9rw",
+          "_id": "6b04e6d09cedb5d982c45a82"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T21:32:29.122Z",
-      "oldImage": "Naruto Shippuden Legends Akatsuki Rising.webp",
+      "updatedAt": "2026-11-24T01:22:24.108Z",
+      "oldImage": "Naruto Ultimate Ninja Heroes.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df49e798a708ef8c4fa",
+      "id": "79y1gaf7",
+      "name": "Naruto Shippuden Ultimate Ninja Impact",
+      "image": "1785879160270-12b9ead0.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        24
+      ],
+      "size": "915GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1nQqEiOp-cyJQsT46sqt1bw",
+          "_id": "6a725a797d9816a180dd0eb3"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.450Z",
+      "updatedAt": "2026-08-04T21:32:41.934Z",
+      "oldImage": "Naruto Shippuden Ultimate Ninja Impact.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
@@ -4070,168 +4152,58 @@
       "oldImage": "Naruto Shippuden Ultimate Ninja heroes 3.webp"
     },
     {
-      "_id": "68e08df49e798a708ef8c4fa",
-      "id": "79y1gaf7",
-      "name": "Naruto Shippuden Ultimate Ninja Impact",
-      "image": "1785879160270-12b9ead0.webp",
+      "_id": "68e08df49e798a708ef8c4f6",
+      "id": "9_eX6BUh",
+      "name": "Naruto Shippuden Legends Akatsuki Rising",
+      "image": "1785879146208-1efb1f9f.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
         24
       ],
-      "size": "915GB",
+      "size": "545GB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1nQqEiOp-cyJQsT46sqt1bw",
-          "_id": "6a725a797d9816a180dd0eb3"
+          "link": "https://1024terabox.com/s/1LoxHajvqXSvEKwoyM8_U2g",
+          "_id": "6a725a6d7d9816a180dcffea"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T21:32:41.934Z",
-      "oldImage": "Naruto Shippuden Ultimate Ninja Impact.webp",
+      "updatedAt": "2026-08-04T21:32:29.122Z",
+      "oldImage": "Naruto Shippuden Legends Akatsuki Rising.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
     {
-      "_id": "68e08df49e798a708ef8c4fc",
-      "id": "Jeo-MerP",
-      "name": "Naruto Ultimate Ninja Heroes",
-      "image": "1795483342427-887f372b.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        187
-      ],
-      "size": "500MB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1KdT6iN0wBR0upJlsYoB9rw",
-          "_id": "6b04e6d09cedb5d982c45a82"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-11-24T01:22:24.108Z",
-      "oldImage": "Naruto Ultimate Ninja Heroes.webp",
-      "gameplayLink": "",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df49e798a708ef8c4fe",
-      "id": "SneUELth",
-      "name": "Naruto Ultimate Ninja Heroes 2",
-      "image": "1785879119672-671be94f.webp",
+      "_id": "68e08df49e798a708ef8c4f4",
+      "id": "dp0LHOqI",
+      "name": "Naruto Shippuden Kizuna Drive",
+      "image": "1785879174181-0d5a997a.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
         24
       ],
-      "size": "1,27GB",
+      "size": "1,22GB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1UlqeH_WFOLQh-Jl1VwfZ9Q",
-          "_id": "6a725a517d9816a180dce74a"
+          "link": "https://1024terabox.com/s/1qgOeOaYWWvuRTyuJdO80iA",
+          "_id": "6a725a877d9816a180dd1d7c"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T21:32:01.362Z",
-      "oldImage": "Naruto Ultimate Ninja Heroes 2.webp",
+      "updatedAt": "2026-08-04T21:32:55.930Z",
+      "oldImage": "Naruto Shippuden Kizuna Drive.webp",
       "gameplayLink": "",
       "isUpdate": true
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c500",
-      "id": "sFrvmBl0",
-      "name": "Pes Pro evolution Soccer 6",
-      "image": "Pes Pro evolution Soccer 6.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        4,
-        6
-      ],
-      "size": "849 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1zldHiV27PWRBgTuo9QCtxA",
-          "_id": "68e08df49e798a708ef8c501"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Pes Pro evolution Soccer 6.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c502",
-      "id": "uGS3A1cQ",
-      "name": "Prince of Persia – Boukyaku no Suna",
-      "image": "Prince of Persia – Boukyaku no Suna.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        7,
-        15
-      ],
-      "size": "483 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/10ZCHAa76QpeTUKvvUDz8LQ",
-          "_id": "68e08df49e798a708ef8c503"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Prince of Persia – Boukyaku no Suna.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4f2",
-      "id": "HTHKzc1z",
-      "name": "LEGO Star Wars The Original Trilogy",
-      "image": "LEGO Star Wars The Original Trilogy.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        7,
-        39
-      ],
-      "size": "876 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1zy6HPw1nGi20hftT-4LHZQ",
-          "_id": "68e08df49e798a708ef8c4f3"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "LEGO Star Wars The Original Trilogy.webp"
     },
     {
       "isUpdate": false,
