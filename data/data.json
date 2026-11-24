@@ -4212,25 +4212,25 @@
       "_id": "68e08df49e798a708ef8c4fc",
       "id": "Jeo-MerP",
       "name": "Naruto Ultimate Ninja Heroes",
-      "image": "1785879106268-c969d533.webp",
+      "image": "1795483342427-887f372b.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        24
+        187
       ],
       "size": "500MB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/12PAkxbbVaw6CqXhRoI9kaA",
-          "_id": "6a725a447d9816a180dcd884"
+          "link": "https://1024terabox.com/s/1KdT6iN0wBR0upJlsYoB9rw",
+          "_id": "6b04e6d09cedb5d982c45a82"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T21:31:48.128Z",
+      "updatedAt": "2026-11-24T01:22:24.108Z",
       "oldImage": "Naruto Ultimate Ninja Heroes.webp",
       "gameplayLink": "",
       "isUpdate": true
