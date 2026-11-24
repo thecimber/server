@@ -3768,34 +3768,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c496",
-      "id": "rKgbFYFG",
-      "name": "The Last Of Us Link",
-      "image": "The Last Of Us Link.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        14,
-        21
-      ],
-      "size": "35.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1c0V_5qCkkX6R_reMcUqVLQ",
-          "_id": "68e08df49e798a708ef8c497"
-        }
-      ],
-      "emulatorId": 1,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.449Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "The Last Of Us Link.webp"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c498",
       "id": "90685",
       "name": "The Simpsons Game",
@@ -3961,6 +3933,34 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c496",
+      "id": "rKgbFYFG",
+      "name": "The Last Of Us Link",
+      "image": "The Last Of Us Link.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        14,
+        21
+      ],
+      "size": "35.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1c0V_5qCkkX6R_reMcUqVLQ",
+          "_id": "68e08df49e798a708ef8c497"
+        }
+      ],
+      "emulatorId": 1,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.449Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "The Last Of Us Link.webp"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4f2",
       "id": "HTHKzc1z",
       "name": "LEGO Star Wars The Original Trilogy",
@@ -3988,138 +3988,56 @@
       "oldImage": "LEGO Star Wars The Original Trilogy.webp"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c502",
-      "id": "uGS3A1cQ",
-      "name": "Prince of Persia – Boukyaku no Suna",
-      "image": "Prince of Persia – Boukyaku no Suna.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        7,
-        15
-      ],
-      "size": "483 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/10ZCHAa76QpeTUKvvUDz8LQ",
-          "_id": "68e08df49e798a708ef8c503"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Prince of Persia – Boukyaku no Suna.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c500",
-      "id": "sFrvmBl0",
-      "name": "Pes Pro evolution Soccer 6",
-      "image": "Pes Pro evolution Soccer 6.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        4,
-        6
-      ],
-      "size": "849 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1zldHiV27PWRBgTuo9QCtxA",
-          "_id": "68e08df49e798a708ef8c501"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Pes Pro evolution Soccer 6.webp"
-    },
-    {
-      "_id": "68e08df49e798a708ef8c4fe",
-      "id": "SneUELth",
-      "name": "Naruto Ultimate Ninja Heroes 2",
-      "image": "1785879119672-671be94f.webp",
+      "_id": "68e08df49e798a708ef8c4f4",
+      "id": "dp0LHOqI",
+      "name": "Naruto Shippuden Kizuna Drive",
+      "image": "1785879174181-0d5a997a.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
         24
       ],
-      "size": "1,27GB",
+      "size": "1,22GB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1UlqeH_WFOLQh-Jl1VwfZ9Q",
-          "_id": "6a725a517d9816a180dce74a"
+          "link": "https://1024terabox.com/s/1qgOeOaYWWvuRTyuJdO80iA",
+          "_id": "6a725a877d9816a180dd1d7c"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T21:32:01.362Z",
-      "oldImage": "Naruto Ultimate Ninja Heroes 2.webp",
+      "updatedAt": "2026-08-04T21:32:55.930Z",
+      "oldImage": "Naruto Shippuden Kizuna Drive.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
     {
-      "_id": "68e08df49e798a708ef8c4fc",
-      "id": "Jeo-MerP",
-      "name": "Naruto Ultimate Ninja Heroes",
-      "image": "1795483342427-887f372b.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        187
-      ],
-      "size": "500MB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1KdT6iN0wBR0upJlsYoB9rw",
-          "_id": "6b04e6d09cedb5d982c45a82"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-11-24T01:22:24.108Z",
-      "oldImage": "Naruto Ultimate Ninja Heroes.webp",
-      "gameplayLink": "",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df49e798a708ef8c4fa",
-      "id": "79y1gaf7",
-      "name": "Naruto Shippuden Ultimate Ninja Impact",
-      "image": "1785879160270-12b9ead0.webp",
+      "_id": "68e08df49e798a708ef8c4f6",
+      "id": "9_eX6BUh",
+      "name": "Naruto Shippuden Legends Akatsuki Rising",
+      "image": "1785879146208-1efb1f9f.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
         24
       ],
-      "size": "915GB",
+      "size": "545GB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1nQqEiOp-cyJQsT46sqt1bw",
-          "_id": "6a725a797d9816a180dd0eb3"
+          "link": "https://1024terabox.com/s/1LoxHajvqXSvEKwoyM8_U2g",
+          "_id": "6a725a6d7d9816a180dcffea"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T21:32:41.934Z",
-      "oldImage": "Naruto Shippuden Ultimate Ninja Impact.webp",
+      "updatedAt": "2026-08-04T21:32:29.122Z",
+      "oldImage": "Naruto Shippuden Legends Akatsuki Rising.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
@@ -4152,58 +4070,140 @@
       "oldImage": "Naruto Shippuden Ultimate Ninja heroes 3.webp"
     },
     {
-      "_id": "68e08df49e798a708ef8c4f6",
-      "id": "9_eX6BUh",
-      "name": "Naruto Shippuden Legends Akatsuki Rising",
-      "image": "1785879146208-1efb1f9f.webp",
+      "_id": "68e08df49e798a708ef8c4fa",
+      "id": "79y1gaf7",
+      "name": "Naruto Shippuden Ultimate Ninja Impact",
+      "image": "1785879160270-12b9ead0.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
         24
       ],
-      "size": "545GB",
+      "size": "915GB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1LoxHajvqXSvEKwoyM8_U2g",
-          "_id": "6a725a6d7d9816a180dcffea"
+          "link": "https://1024terabox.com/s/1nQqEiOp-cyJQsT46sqt1bw",
+          "_id": "6a725a797d9816a180dd0eb3"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T21:32:29.122Z",
-      "oldImage": "Naruto Shippuden Legends Akatsuki Rising.webp",
+      "updatedAt": "2026-08-04T21:32:41.934Z",
+      "oldImage": "Naruto Shippuden Ultimate Ninja Impact.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
     {
-      "_id": "68e08df49e798a708ef8c4f4",
-      "id": "dp0LHOqI",
-      "name": "Naruto Shippuden Kizuna Drive",
-      "image": "1785879174181-0d5a997a.webp",
+      "_id": "68e08df49e798a708ef8c4fc",
+      "id": "Jeo-MerP",
+      "name": "Naruto Ultimate Ninja Heroes",
+      "image": "1795483342427-887f372b.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        24
+        187
       ],
-      "size": "1,22GB",
+      "size": "500MB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1qgOeOaYWWvuRTyuJdO80iA",
-          "_id": "6a725a877d9816a180dd1d7c"
+          "link": "https://1024terabox.com/s/1KdT6iN0wBR0upJlsYoB9rw",
+          "_id": "6b04e6d09cedb5d982c45a82"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T21:32:55.930Z",
-      "oldImage": "Naruto Shippuden Kizuna Drive.webp",
+      "updatedAt": "2026-11-24T01:22:24.108Z",
+      "oldImage": "Naruto Ultimate Ninja Heroes.webp",
       "gameplayLink": "",
       "isUpdate": true
+    },
+    {
+      "_id": "68e08df49e798a708ef8c4fe",
+      "id": "SneUELth",
+      "name": "Naruto Ultimate Ninja Heroes 2",
+      "image": "1785879119672-671be94f.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        24
+      ],
+      "size": "1,27GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1UlqeH_WFOLQh-Jl1VwfZ9Q",
+          "_id": "6a725a517d9816a180dce74a"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.450Z",
+      "updatedAt": "2026-08-04T21:32:01.362Z",
+      "oldImage": "Naruto Ultimate Ninja Heroes 2.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c500",
+      "id": "sFrvmBl0",
+      "name": "Pes Pro evolution Soccer 6",
+      "image": "Pes Pro evolution Soccer 6.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        4,
+        6
+      ],
+      "size": "849 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1zldHiV27PWRBgTuo9QCtxA",
+          "_id": "68e08df49e798a708ef8c501"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.450Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Pes Pro evolution Soccer 6.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c502",
+      "id": "uGS3A1cQ",
+      "name": "Prince of Persia – Boukyaku no Suna",
+      "image": "Prince of Persia – Boukyaku no Suna.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        7,
+        15
+      ],
+      "size": "483 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/10ZCHAa76QpeTUKvvUDz8LQ",
+          "_id": "68e08df49e798a708ef8c503"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.450Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Prince of Persia – Boukyaku no Suna.webp"
     },
     {
       "isUpdate": false,
@@ -4234,148 +4234,85 @@
       "oldImage": "LEGO Harry Potter - Years 5-7.webp"
     },
     {
-      "_id": "68e08df49e798a708ef8c4c6",
-      "id": "Sf2teo6A",
-      "name": "Crash Tag Team Racing",
-      "image": "1781493248690-9409a0ba.webp",
+      "_id": "68e08df49e798a708ef8c4e2",
+      "id": "JvP5H6-3",
+      "name": "God of War - Ghost of Sparta",
+      "image": "1785881418100-92cd9070.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        13,
-        86,
-        1
-      ],
-      "size": "959MB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1QddCGwT8sIIknZRyLXRhuQ",
-          "_id": "6a2f6e0214dabecb3ed029f8"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-15T03:14:10.189Z",
-      "oldImage": "Crash Tag Team Racing.webp",
-      "gameplayLink": "",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df49e798a708ef8c4c8",
-      "id": "XJlZMJwt",
-      "name": "Dragon ball z Shin Budokai",
-      "image": "1781493637931-97426e29.webp",
-      "format": 1,
-      "language": "Multi-Idioma",
-      "genre": [
         24,
-        22,
-        118
+        7
       ],
-      "size": "500MB",
+      "size": "1,2GB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1hxatrqNOLJGLtYyD7qMQug",
-          "_id": "6a2f6f8714dabecb3ed050f9"
+          "link": "https://1024terabox.com/s/1csb3PzJWxneS2WYBvofCNQ",
+          "_id": "6a72634c7d9816a180dd765f"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-15T03:20:39.355Z",
-      "oldImage": "Dragon ball z Shin Budokai.webp",
+      "updatedAt": "2026-08-04T22:10:20.731Z",
+      "oldImage": "God of War - Ghost of Sparta.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
     {
-      "_id": "68e08df49e798a708ef8c4ca",
-      "id": "FK0hh7Hr",
-      "name": "Dragon Ball z Shin Budokai 2",
-      "image": "1781493898457-a23a7768.webp",
-      "format": 1,
-      "language": "Multi-Idioma",
-      "genre": [
-        24,
-        22,
-        118
-      ],
-      "size": "540MB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1PVYI4epNzHeTge13zmw8IA",
-          "_id": "6a2f708b14dabecb3ed077f3"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-15T03:24:59.908Z",
-      "oldImage": "Dragon Ball z Shin Budokai 2.webp",
-      "gameplayLink": "",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df49e798a708ef8c4cc",
-      "id": "5j9_JgO-",
-      "name": "Dragon Ball Z Tenkaichi Tag team",
-      "image": "1781493912264-6c1189bc.webp",
-      "format": 1,
-      "language": "Multi-Idioma",
-      "genre": [
-        24,
-        22,
-        118
-      ],
-      "size": "1,09GB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1t4HXrLt0NB_39obTXTbiCw",
-          "_id": "6a2f709914dabecb3ed08695"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-15T03:25:13.752Z",
-      "oldImage": "Dragon Ball Z Tenkaichi Tag team.webp",
-      "gameplayLink": "",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df49e798a708ef8c4d0",
-      "id": "ew__Qvkl",
-      "name": "FIFA 07 (Europe)",
-      "image": "FIFA 07.webp",
+      "_id": "68e08df49e798a708ef8c4e0",
+      "id": "HD_FXHQv",
+      "name": "God of War - Chains of Olympus",
+      "image": "1785881431763-188f1b29.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        6,
-        4,
-        19,
-        118
+        2,
+        24
       ],
-      "size": "838 Mb",
+      "size": "1,2GB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1HLJt5wEVKn_CuxVZpyFfjA",
-          "_id": "68e08df49e798a708ef8c4d1"
+          "link": "https://1024terabox.com/s/1LKRSoBsX1AQdJ2O0_M_jjw",
+          "_id": "6a7263597d9816a180dd852b"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-21T14:51:34.112Z",
-      "oldImage": "FIFA 07.webp",
+      "updatedAt": "2026-08-04T22:10:33.326Z",
+      "oldImage": "God of War - Chains of Olympus.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df49e798a708ef8c4dc",
+      "id": "kILiuJ0t",
+      "name": "FIFA Street 2",
+      "image": "1785879223175-a1407075.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        4
+      ],
+      "size": "218MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1cbBQabYVadZxCMUZ3JasGg",
+          "_id": "6a725ab87d9816a180dd3621"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.450Z",
+      "updatedAt": "2026-08-04T21:33:44.737Z",
+      "oldImage": "FIFA Street 2.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
@@ -4410,94 +4347,157 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df49e798a708ef8c4dc",
-      "id": "kILiuJ0t",
-      "name": "FIFA Street 2",
-      "image": "1785879223175-a1407075.webp",
+      "_id": "68e08df49e798a708ef8c4d0",
+      "id": "ew__Qvkl",
+      "name": "FIFA 07 (Europe)",
+      "image": "FIFA 07.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        4
+        6,
+        4,
+        19,
+        118
       ],
-      "size": "218MB",
+      "size": "838 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1cbBQabYVadZxCMUZ3JasGg",
-          "_id": "6a725ab87d9816a180dd3621"
+          "link": "https://1024terabox.com/s/1HLJt5wEVKn_CuxVZpyFfjA",
+          "_id": "68e08df49e798a708ef8c4d1"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T21:33:44.737Z",
-      "oldImage": "FIFA Street 2.webp",
+      "updatedAt": "2026-06-21T14:51:34.112Z",
+      "oldImage": "FIFA 07.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
     {
-      "_id": "68e08df49e798a708ef8c4e0",
-      "id": "HD_FXHQv",
-      "name": "God of War - Chains of Olympus",
-      "image": "1785881431763-188f1b29.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        24
-      ],
-      "size": "1,2GB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1LKRSoBsX1AQdJ2O0_M_jjw",
-          "_id": "6a7263597d9816a180dd852b"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T22:10:33.326Z",
-      "oldImage": "God of War - Chains of Olympus.webp",
-      "gameplayLink": "",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df49e798a708ef8c4e2",
-      "id": "JvP5H6-3",
-      "name": "God of War - Ghost of Sparta",
-      "image": "1785881418100-92cd9070.webp",
-      "format": 4,
+      "_id": "68e08df49e798a708ef8c4cc",
+      "id": "5j9_JgO-",
+      "name": "Dragon Ball Z Tenkaichi Tag team",
+      "image": "1781493912264-6c1189bc.webp",
+      "format": 1,
       "language": "Multi-Idioma",
       "genre": [
         24,
-        7
+        22,
+        118
       ],
-      "size": "1,2GB",
+      "size": "1,09GB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1csb3PzJWxneS2WYBvofCNQ",
-          "_id": "6a72634c7d9816a180dd765f"
+          "link": "https://1024terabox.com/s/1t4HXrLt0NB_39obTXTbiCw",
+          "_id": "6a2f709914dabecb3ed08695"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T22:10:20.731Z",
-      "oldImage": "God of War - Ghost of Sparta.webp",
+      "updatedAt": "2026-06-15T03:25:13.752Z",
+      "oldImage": "Dragon Ball Z Tenkaichi Tag team.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df49e798a708ef8c4ca",
+      "id": "FK0hh7Hr",
+      "name": "Dragon Ball z Shin Budokai 2",
+      "image": "1781493898457-a23a7768.webp",
+      "format": 1,
+      "language": "Multi-Idioma",
+      "genre": [
+        24,
+        22,
+        118
+      ],
+      "size": "540MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1PVYI4epNzHeTge13zmw8IA",
+          "_id": "6a2f708b14dabecb3ed077f3"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.450Z",
+      "updatedAt": "2026-06-15T03:24:59.908Z",
+      "oldImage": "Dragon Ball z Shin Budokai 2.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df49e798a708ef8c4c8",
+      "id": "XJlZMJwt",
+      "name": "Dragon ball z Shin Budokai",
+      "image": "1781493637931-97426e29.webp",
+      "format": 1,
+      "language": "Multi-Idioma",
+      "genre": [
+        24,
+        22,
+        118
+      ],
+      "size": "500MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1hxatrqNOLJGLtYyD7qMQug",
+          "_id": "6a2f6f8714dabecb3ed050f9"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.450Z",
+      "updatedAt": "2026-06-15T03:20:39.355Z",
+      "oldImage": "Dragon ball z Shin Budokai.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df49e798a708ef8c4c6",
+      "id": "Sf2teo6A",
+      "name": "Crash Tag Team Racing",
+      "image": "1781493248690-9409a0ba.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        86,
+        1
+      ],
+      "size": "959MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1QddCGwT8sIIknZRyLXRhuQ",
+          "_id": "6a2f6e0214dabecb3ed029f8"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.450Z",
+      "updatedAt": "2026-06-15T03:14:10.189Z",
+      "oldImage": "Crash Tag Team Racing.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c520",
-      "id": "mWQ0RtuS",
-      "name": "Assassin's Creed Altair's Chronicle",
-      "image": "Assassin's-Creed-Altairs-Chronicle.webp",
+      "_id": "68e08df49e798a708ef8c51e",
+      "id": "ttNpgLht",
+      "name": "Assassin's Creed 2 Discovery",
+      "image": "Assassin's-Creed-2-Discovery.webp",
       "format": 7,
       "language": "Español",
       "genre": [
@@ -4505,12 +4505,12 @@
         7,
         8
       ],
-      "size": "40.01 Mb",
+      "size": "49.1 MB",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1pTAK43a9IVhdtplIgVCDMg",
-          "_id": "68e08df49e798a708ef8c521"
+          "link": "https://1024terabox.com/s/1HHBT6gT5mbUUAdi4RCsqDw",
+          "_id": "68e08df49e798a708ef8c51f"
         }
       ],
       "emulatorId": 4,
@@ -4518,226 +4518,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Assassin's-Creed-Altairs-Chronicle.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c532",
-      "id": "HGC4r0Hi",
-      "name": "Kirby Super Star Ultra",
-      "image": "Kirby-Super-Star-Ultra.webp",
-      "format": 7,
-      "language": "Español",
-      "genre": [
-        1,
-        7
-      ],
-      "size": "64 Mb",
-      "downloadMethods": [
-        {
-          "type": "Mediafire",
-          "link": "https://cuty.io/EgVYScasSwzy",
-          "_id": "68e08df49e798a708ef8c533"
-        }
-      ],
-      "emulatorId": 4,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Kirby-Super-Star-Ultra.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c530",
-      "id": "O1-19zh6",
-      "name": "Kingdom Hearts 358/2 Days",
-      "image": "Kingdom-Hearts-358-2Days.webp",
-      "format": 7,
-      "language": "Español",
-      "genre": [
-        7,
-        16,
-        22
-      ],
-      "size": "217 Mb",
-      "downloadMethods": [
-        {
-          "type": "Mediafire",
-          "link": "https://cuty.io/kGbsmkjsN",
-          "_id": "68e08df49e798a708ef8c531"
-        }
-      ],
-      "emulatorId": 4,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Kingdom-Hearts-358-2Days.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c52e",
-      "id": "G45jVZvo",
-      "name": "Inazuma Eleven",
-      "image": "Inazuma-Eleven.webp",
-      "format": 7,
-      "language": "Español",
-      "genre": [
-        4,
-        41
-      ],
-      "size": "145 Mb",
-      "downloadMethods": [
-        {
-          "type": "Mediafire",
-          "link": "https://cuty.io/qyEKo",
-          "_id": "68e08df49e798a708ef8c52f"
-        }
-      ],
-      "emulatorId": 4,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Inazuma-Eleven.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c52c",
-      "id": "2ZD8DVsu",
-      "name": "GoldenEye 007",
-      "image": "GoldenEye-007.webp",
-      "format": 7,
-      "language": "Español",
-      "genre": [
-        2,
-        11,
-        35
-      ],
-      "size": "41 Mb",
-      "downloadMethods": [
-        {
-          "type": "Mediafire",
-          "link": "https://cuty.io/CPND6kD",
-          "_id": "68e08df49e798a708ef8c52d"
-        }
-      ],
-      "emulatorId": 4,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "GoldenEye-007.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c52a",
-      "id": "Jen9LibJ",
-      "name": "Final Fantasy II",
-      "image": "Final-Fantasy-II.webp",
-      "format": 7,
-      "language": "Español",
-      "genre": [
-        16,
-        41
-      ],
-      "size": "66 Mb",
-      "downloadMethods": [
-        {
-          "type": "Mediafire",
-          "link": "https://cuty.io/wwLFx9hcKP",
-          "_id": "68e08df49e798a708ef8c52b"
-        }
-      ],
-      "emulatorId": 4,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Final-Fantasy-II.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c528",
-      "id": "I1v0Ke_I",
-      "name": "Cooking Mama",
-      "image": "Cooking-Mama.webp",
-      "format": 7,
-      "language": "Español",
-      "genre": [
-        19,
-        40
-      ],
-      "size": "8 Mb",
-      "downloadMethods": [
-        {
-          "type": "Mediafire",
-          "link": "https://cuty.io/vY6Z",
-          "_id": "68e08df49e798a708ef8c529"
-        }
-      ],
-      "emulatorId": 4,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Cooking-Mama.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c526",
-      "id": "-wPVoZaX",
-      "name": "Castlevania: Dawn of Sorrow",
-      "image": "Castlevania:Dawn-of-Sorrow.webp",
-      "format": 7,
-      "language": "Español",
-      "genre": [
-        2,
-        7,
-        20
-      ],
-      "size": "23 Mb",
-      "downloadMethods": [
-        {
-          "type": "Mediafire",
-          "link": "https://cuty.io/yul92knJ",
-          "_id": "68e08df49e798a708ef8c527"
-        }
-      ],
-      "emulatorId": 4,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Castlevania:Dawn-of-Sorrow.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c524",
-      "id": "2LPRD6il",
-      "name": "Cars",
-      "image": "Cars.webp",
-      "format": 7,
-      "language": "Español",
-      "genre": [
-        13,
-        39
-      ],
-      "size": "9 Mb",
-      "downloadMethods": [
-        {
-          "type": "Mediafire",
-          "link": "https://cuty.io/YA1sL",
-          "_id": "68e08df49e798a708ef8c525"
-        }
-      ],
-      "emulatorId": 4,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Cars.webp"
+      "oldImage": "Assassin's-Creed-2-Discovery.webp"
     },
     {
       "isUpdate": false,
@@ -4769,10 +4550,10 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c51e",
-      "id": "ttNpgLht",
-      "name": "Assassin's Creed 2 Discovery",
-      "image": "Assassin's-Creed-2-Discovery.webp",
+      "_id": "68e08df49e798a708ef8c520",
+      "id": "mWQ0RtuS",
+      "name": "Assassin's Creed Altair's Chronicle",
+      "image": "Assassin's-Creed-Altairs-Chronicle.webp",
       "format": 7,
       "language": "Español",
       "genre": [
@@ -4780,12 +4561,12 @@
         7,
         8
       ],
-      "size": "49.1 MB",
+      "size": "40.01 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1HHBT6gT5mbUUAdi4RCsqDw",
-          "_id": "68e08df49e798a708ef8c51f"
+          "link": "https://1024terabox.com/s/1pTAK43a9IVhdtplIgVCDMg",
+          "_id": "68e08df49e798a708ef8c521"
         }
       ],
       "emulatorId": 4,
@@ -4793,7 +4574,226 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Assassin's-Creed-2-Discovery.webp"
+      "oldImage": "Assassin's-Creed-Altairs-Chronicle.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c524",
+      "id": "2LPRD6il",
+      "name": "Cars",
+      "image": "Cars.webp",
+      "format": 7,
+      "language": "Español",
+      "genre": [
+        13,
+        39
+      ],
+      "size": "9 Mb",
+      "downloadMethods": [
+        {
+          "type": "Mediafire",
+          "link": "https://cuty.io/YA1sL",
+          "_id": "68e08df49e798a708ef8c525"
+        }
+      ],
+      "emulatorId": 4,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.451Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Cars.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c526",
+      "id": "-wPVoZaX",
+      "name": "Castlevania: Dawn of Sorrow",
+      "image": "Castlevania:Dawn-of-Sorrow.webp",
+      "format": 7,
+      "language": "Español",
+      "genre": [
+        2,
+        7,
+        20
+      ],
+      "size": "23 Mb",
+      "downloadMethods": [
+        {
+          "type": "Mediafire",
+          "link": "https://cuty.io/yul92knJ",
+          "_id": "68e08df49e798a708ef8c527"
+        }
+      ],
+      "emulatorId": 4,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.451Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Castlevania:Dawn-of-Sorrow.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c528",
+      "id": "I1v0Ke_I",
+      "name": "Cooking Mama",
+      "image": "Cooking-Mama.webp",
+      "format": 7,
+      "language": "Español",
+      "genre": [
+        19,
+        40
+      ],
+      "size": "8 Mb",
+      "downloadMethods": [
+        {
+          "type": "Mediafire",
+          "link": "https://cuty.io/vY6Z",
+          "_id": "68e08df49e798a708ef8c529"
+        }
+      ],
+      "emulatorId": 4,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.451Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Cooking-Mama.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c52a",
+      "id": "Jen9LibJ",
+      "name": "Final Fantasy II",
+      "image": "Final-Fantasy-II.webp",
+      "format": 7,
+      "language": "Español",
+      "genre": [
+        16,
+        41
+      ],
+      "size": "66 Mb",
+      "downloadMethods": [
+        {
+          "type": "Mediafire",
+          "link": "https://cuty.io/wwLFx9hcKP",
+          "_id": "68e08df49e798a708ef8c52b"
+        }
+      ],
+      "emulatorId": 4,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.451Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Final-Fantasy-II.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c52c",
+      "id": "2ZD8DVsu",
+      "name": "GoldenEye 007",
+      "image": "GoldenEye-007.webp",
+      "format": 7,
+      "language": "Español",
+      "genre": [
+        2,
+        11,
+        35
+      ],
+      "size": "41 Mb",
+      "downloadMethods": [
+        {
+          "type": "Mediafire",
+          "link": "https://cuty.io/CPND6kD",
+          "_id": "68e08df49e798a708ef8c52d"
+        }
+      ],
+      "emulatorId": 4,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.451Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "GoldenEye-007.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c52e",
+      "id": "G45jVZvo",
+      "name": "Inazuma Eleven",
+      "image": "Inazuma-Eleven.webp",
+      "format": 7,
+      "language": "Español",
+      "genre": [
+        4,
+        41
+      ],
+      "size": "145 Mb",
+      "downloadMethods": [
+        {
+          "type": "Mediafire",
+          "link": "https://cuty.io/qyEKo",
+          "_id": "68e08df49e798a708ef8c52f"
+        }
+      ],
+      "emulatorId": 4,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.451Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Inazuma-Eleven.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c530",
+      "id": "O1-19zh6",
+      "name": "Kingdom Hearts 358/2 Days",
+      "image": "Kingdom-Hearts-358-2Days.webp",
+      "format": 7,
+      "language": "Español",
+      "genre": [
+        7,
+        16,
+        22
+      ],
+      "size": "217 Mb",
+      "downloadMethods": [
+        {
+          "type": "Mediafire",
+          "link": "https://cuty.io/kGbsmkjsN",
+          "_id": "68e08df49e798a708ef8c531"
+        }
+      ],
+      "emulatorId": 4,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.451Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Kingdom-Hearts-358-2Days.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c532",
+      "id": "HGC4r0Hi",
+      "name": "Kirby Super Star Ultra",
+      "image": "Kirby-Super-Star-Ultra.webp",
+      "format": 7,
+      "language": "Español",
+      "genre": [
+        1,
+        7
+      ],
+      "size": "64 Mb",
+      "downloadMethods": [
+        {
+          "type": "Mediafire",
+          "link": "https://cuty.io/EgVYScasSwzy",
+          "_id": "68e08df49e798a708ef8c533"
+        }
+      ],
+      "emulatorId": 4,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.451Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Kirby-Super-Star-Ultra.webp"
     },
     {
       "_id": "68e08df49e798a708ef8c51a",
@@ -4964,29 +4964,29 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df49e798a708ef8c510",
-      "id": "vJwKhHKL",
-      "name": "Star Wars - Lethal Alliance",
-      "image": "1785882741955-ec65cf5d.webp",
+      "_id": "68e08df49e798a708ef8c512",
+      "id": "KsN97421",
+      "name": "Star Wars - The Clone Wars - Republic Heroes",
+      "image": "1785882704918-13dbde45.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
         14
       ],
-      "size": "730MB",
+      "size": "1GB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1H0jsKIBDShZ9Jkc69Bmvbg",
-          "_id": "6a7268777d9816a180ddd44b"
+          "link": "https://1024terabox.com/s/19Lcy1OlrXKP9uLo0_IVquw",
+          "_id": "6a7268527d9816a180ddc57d"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-08-04T22:32:23.694Z",
-      "oldImage": "Star Wars - Lethal Alliance.webp",
+      "updatedAt": "2026-08-04T22:31:46.576Z",
+      "oldImage": "Star Wars - The Clone Wars - Republic Heroes.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
@@ -5045,57 +5045,29 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c518",
-      "id": "a-dM1lLl",
-      "name": "Star Wars Battlefront - Renegade Squadron",
-      "image": "Star Wars Battlefront - Renegade Squadron.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        12,
-        35
-      ],
-      "size": "1.1 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1tMcNSSV0rTYvPpTtHjVPbQ",
-          "_id": "68e08df49e798a708ef8c519"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Star Wars Battlefront - Renegade Squadron.webp"
-    },
-    {
-      "_id": "68e08df49e798a708ef8c512",
-      "id": "KsN97421",
-      "name": "Star Wars - The Clone Wars - Republic Heroes",
-      "image": "1785882704918-13dbde45.webp",
+      "_id": "68e08df49e798a708ef8c510",
+      "id": "vJwKhHKL",
+      "name": "Star Wars - Lethal Alliance",
+      "image": "1785882741955-ec65cf5d.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
         14
       ],
-      "size": "1GB",
+      "size": "730MB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/19Lcy1OlrXKP9uLo0_IVquw",
-          "_id": "6a7268527d9816a180ddc57d"
+          "link": "https://1024terabox.com/s/1H0jsKIBDShZ9Jkc69Bmvbg",
+          "_id": "6a7268777d9816a180ddd44b"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-08-04T22:31:46.576Z",
-      "oldImage": "Star Wars - The Clone Wars - Republic Heroes.webp",
+      "updatedAt": "2026-08-04T22:32:23.694Z",
+      "oldImage": "Star Wars - Lethal Alliance.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
@@ -5481,22 +5453,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c543",
-      "id": "UxWcR1wN",
-      "name": "Ninja Gaiden: Dragon Sword",
-      "image": "Ninja-GaidenDragon-Sword.webp",
+      "_id": "68e08df49e798a708ef8c545",
+      "id": "OhQM0weG",
+      "name": "Phoenix Wright: Ace Attorney",
+      "image": "Phoenix-Wright:Ace-Attorney.webp",
       "format": 7,
       "language": "Español",
       "genre": [
-        2,
-        27
+        23,
+        28
       ],
-      "size": "106 Mb",
+      "size": "39 Mb",
       "downloadMethods": [
         {
           "type": "Mediafire",
-          "link": "https://cuty.io/4X6r13d2i",
-          "_id": "68e08df49e798a708ef8c544"
+          "link": "https://cuty.io/dQQdWdAceyQM",
+          "_id": "68e08df49e798a708ef8c546"
         }
       ],
       "emulatorId": 4,
@@ -5504,7 +5476,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.886Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Ninja-GaidenDragon-Sword.webp"
+      "oldImage": "Phoenix-Wright:Ace-Attorney.webp"
     },
     {
       "isUpdate": false,
@@ -5697,6 +5669,33 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c543",
+      "id": "UxWcR1wN",
+      "name": "Ninja Gaiden: Dragon Sword",
+      "image": "Ninja-GaidenDragon-Sword.webp",
+      "format": 7,
+      "language": "Español",
+      "genre": [
+        2,
+        27
+      ],
+      "size": "106 Mb",
+      "downloadMethods": [
+        {
+          "type": "Mediafire",
+          "link": "https://cuty.io/4X6r13d2i",
+          "_id": "68e08df49e798a708ef8c544"
+        }
+      ],
+      "emulatorId": 4,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.886Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Ninja-GaidenDragon-Sword.webp"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c537",
       "id": "MrBnBwVW",
       "name": "Mario & Luigi: Partners In Time",
@@ -5722,33 +5721,6 @@
       "createdAt": "2025-10-04T03:01:08.886Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "Mario-&-Luigi:Partners-In-Time.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c545",
-      "id": "OhQM0weG",
-      "name": "Phoenix Wright: Ace Attorney",
-      "image": "Phoenix-Wright:Ace-Attorney.webp",
-      "format": 7,
-      "language": "Español",
-      "genre": [
-        23,
-        28
-      ],
-      "size": "39 Mb",
-      "downloadMethods": [
-        {
-          "type": "Mediafire",
-          "link": "https://cuty.io/dQQdWdAceyQM",
-          "_id": "68e08df49e798a708ef8c546"
-        }
-      ],
-      "emulatorId": 4,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.886Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Phoenix-Wright:Ace-Attorney.webp"
     },
     {
       "isUpdate": false,
@@ -6140,23 +6112,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c58a",
-      "id": "8pLeS64h",
-      "name": "Assassin's Creed black Flag",
-      "image": "Assassins-Creed-black-Flag.webp",
+      "_id": "68e08df49e798a708ef8c590",
+      "id": "I24Dg-GL",
+      "name": "Barbie breamhouse party",
+      "image": "Barbie-breamhouse-party.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        7,
-        12
+        3,
+        19
       ],
-      "size": "13.7 Gb",
+      "size": "1,8 GB",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1a0tIOZPJ8KhrMLKoqKhzdA",
-          "_id": "68e08df49e798a708ef8c58b"
+          "link": "https://1024terabox.com/s/1GpGw5EqECL5mAUuVoIEXVg",
+          "_id": "68e08df49e798a708ef8c591"
         }
       ],
       "emulatorId": 5,
@@ -6164,7 +6135,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.888Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Assassins-Creed-black-Flag.webp"
+      "oldImage": "Barbie-breamhouse-party.webp"
     },
     {
       "isUpdate": false,
@@ -6444,133 +6415,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c590",
-      "id": "I24Dg-GL",
-      "name": "Barbie breamhouse party",
-      "image": "Barbie-breamhouse-party.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        19
-      ],
-      "size": "1,8 GB",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1GpGw5EqECL5mAUuVoIEXVg",
-          "_id": "68e08df49e798a708ef8c591"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.888Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Barbie-breamhouse-party.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c58e",
-      "id": "-g73LHA1",
-      "name": "Barbie & her Sisters Puppy rescue",
-      "image": "Barbie-&-her-Sisters-Puppy-rescue.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        19
-      ],
-      "size": "1.0 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Frz1GPtDePut2ePWjcjoLg",
-          "_id": "68e08df49e798a708ef8c58f"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.888Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Barbie-&-her-Sisters-Puppy-rescue.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c58c",
-      "id": "_yrvfOAn",
-      "name": "Axiom verge",
-      "image": "Axiom-verge.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        7,
-        38
-      ],
-      "size": "427.3 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1MUxWLRP6VNuk2Smes3Y7IA",
-          "_id": "68e08df49e798a708ef8c58d"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.888Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Axiom-verge.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c580",
-      "id": "AhgVyn4y",
-      "name": "Adventure Time finn & jake investgations",
-      "image": "Adventure-Time-finn-&-jake-investgations.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        7,
-        9
-      ],
-      "size": "1.7 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1gsfJm4xBQnyTrn1wGrFn0g",
-          "_id": "68e08df49e798a708ef8c581"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.888Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Adventure-Time-finn-&-jake-investgations.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c588",
-      "id": "_20mVo60",
-      "name": "Assassin's Creed 3",
-      "image": "Assassi'-Creed-3.webp",
+      "_id": "68e08df49e798a708ef8c594",
+      "id": "MjxKI1o4",
+      "name": "Batman arkham origins",
+      "image": "Batman-arkham-origins.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         2,
         7,
-        12
+        8
       ],
-      "size": "20 Gb",
+      "size": "13.2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1jIoAu4nPTaiJPdl3Pbr6-g",
-          "_id": "68e08df49e798a708ef8c589"
+          "link": "https://1024terabox.com/s/1ZLSjeU2XEE8qc0PeB9MGUg",
+          "_id": "68e08df49e798a708ef8c595"
         }
       ],
       "emulatorId": 5,
@@ -6578,7 +6439,61 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.888Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Assassi'-Creed-3.webp"
+      "oldImage": "Batman-arkham-origins.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c582",
+      "id": "AsGC1pGi",
+      "name": "Angry Birds star wars",
+      "image": "Angry-Birds-star-wars.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        39
+      ],
+      "size": "1.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1GS257NJmrzazq4gqfXjvMQ",
+          "_id": "68e08df49e798a708ef8c583"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.888Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Angry-Birds-star-wars.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c584",
+      "id": "GESVd1mK",
+      "name": "Angry Birds Trilogy",
+      "image": "Angry-Birds-Trilogy.webp",
+      "format": 5,
+      "language": "Multi-IDdioma",
+      "genre": [
+        1,
+        39
+      ],
+      "size": "1.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1onm-tktkhor9w81zCpURPA",
+          "_id": "68e08df49e798a708ef8c585"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.888Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Angry-Birds-Trilogy.webp"
     },
     {
       "isUpdate": false,
@@ -6610,77 +6525,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c584",
-      "id": "GESVd1mK",
-      "name": "Angry Birds Trilogy",
-      "image": "Angry-Birds-Trilogy.webp",
-      "format": 5,
-      "language": "Multi-IDdioma",
-      "genre": [
-        1,
-        39
-      ],
-      "size": "1.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1onm-tktkhor9w81zCpURPA",
-          "_id": "68e08df49e798a708ef8c585"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.888Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Angry-Birds-Trilogy.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c582",
-      "id": "AsGC1pGi",
-      "name": "Angry Birds star wars",
-      "image": "Angry-Birds-star-wars.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        39
-      ],
-      "size": "1.3 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1GS257NJmrzazq4gqfXjvMQ",
-          "_id": "68e08df49e798a708ef8c583"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.888Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Angry-Birds-star-wars.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c594",
-      "id": "MjxKI1o4",
-      "name": "Batman arkham origins",
-      "image": "Batman-arkham-origins.webp",
+      "_id": "68e08df49e798a708ef8c588",
+      "id": "_20mVo60",
+      "name": "Assassin's Creed 3",
+      "image": "Assassi'-Creed-3.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
         2,
         7,
-        8
+        12
       ],
-      "size": "13.2 Gb",
+      "size": "20 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1ZLSjeU2XEE8qc0PeB9MGUg",
-          "_id": "68e08df49e798a708ef8c595"
+          "link": "https://1024terabox.com/s/1jIoAu4nPTaiJPdl3Pbr6-g",
+          "_id": "68e08df49e798a708ef8c589"
         }
       ],
       "emulatorId": 5,
@@ -6688,36 +6549,118 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.888Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Batman-arkham-origins.webp"
+      "oldImage": "Assassi'-Creed-3.webp"
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c5ba",
-      "id": "nGHer8zj",
-      "name": "Disney Infinity 2.0",
-      "image": "Disney-Infinity-2.webp",
+      "_id": "68e08df49e798a708ef8c58c",
+      "id": "_yrvfOAn",
+      "name": "Axiom verge",
+      "image": "Axiom-verge.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        3,
+        1,
         7,
-        39,
-        17
+        38
       ],
-      "size": "10.30 Gb",
+      "size": "427.3 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1SuCIyU3_O_LJUnWPVVmXrg",
-          "_id": "68e08df49e798a708ef8c5bb"
+          "link": "https://1024terabox.com/s/1MUxWLRP6VNuk2Smes3Y7IA",
+          "_id": "68e08df49e798a708ef8c58d"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.891Z",
+      "createdAt": "2025-10-04T03:01:08.888Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Disney-Infinity-2.webp"
+      "oldImage": "Axiom-verge.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c58e",
+      "id": "-g73LHA1",
+      "name": "Barbie & her Sisters Puppy rescue",
+      "image": "Barbie-&-her-Sisters-Puppy-rescue.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        19
+      ],
+      "size": "1.0 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1Frz1GPtDePut2ePWjcjoLg",
+          "_id": "68e08df49e798a708ef8c58f"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.888Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Barbie-&-her-Sisters-Puppy-rescue.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c580",
+      "id": "AhgVyn4y",
+      "name": "Adventure Time finn & jake investgations",
+      "image": "Adventure-Time-finn-&-jake-investgations.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        7,
+        9
+      ],
+      "size": "1.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1gsfJm4xBQnyTrn1wGrFn0g",
+          "_id": "68e08df49e798a708ef8c581"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.888Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Adventure-Time-finn-&-jake-investgations.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c58a",
+      "id": "8pLeS64h",
+      "name": "Assassin's Creed black Flag",
+      "image": "Assassins-Creed-black-Flag.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        7,
+        12
+      ],
+      "size": "13.7 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1a0tIOZPJ8KhrMLKoqKhzdA",
+          "_id": "68e08df49e798a708ef8c58b"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.888Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Assassins-Creed-black-Flag.webp"
     },
     {
       "isUpdate": false,
@@ -6801,6 +6744,35 @@
       "createdAt": "2025-10-04T03:01:08.891Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "Donkey-Kong-Country:Tropical-Freeze .webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c5ba",
+      "id": "nGHer8zj",
+      "name": "Disney Infinity 2.0",
+      "image": "Disney-Infinity-2.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        7,
+        39,
+        17
+      ],
+      "size": "10.30 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1SuCIyU3_O_LJUnWPVVmXrg",
+          "_id": "68e08df49e798a708ef8c5bb"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.891Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Disney-Infinity-2.webp"
     },
     {
       "isUpdate": false,
@@ -6919,35 +6891,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c5b4",
-      "id": "CcR_TuTr",
-      "name": "Devil's Third",
-      "image": "Devils-Third.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        10,
-        30,
-        35
-      ],
-      "size": "13.0 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1npzWOnP8KgVDieTISBRAPw",
-          "_id": "68e08df49e798a708ef8c5b5"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.891Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Devils-Third.webp"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c5ae",
       "id": "wps6Z3St",
       "name": "Darksiders 2",
@@ -7057,6 +7000,62 @@
       "createdAt": "2025-10-04T03:01:08.891Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "Call-Of-Duty-Ghosts.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c5b4",
+      "id": "CcR_TuTr",
+      "name": "Devil's Third",
+      "image": "Devils-Third.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        10,
+        30,
+        35
+      ],
+      "size": "13.0 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1npzWOnP8KgVDieTISBRAPw",
+          "_id": "68e08df49e798a708ef8c5b5"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.891Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Devils-Third.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c5de",
+      "id": "nZgb7MHX",
+      "name": "Injustice Gods Among Us",
+      "image": "photo_5100582605748809410_x.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        10,
+        24
+      ],
+      "size": "8.22 Gb",
+      "downloadMethods": [
+        {
+          "type": "Mediafire",
+          "link": "https://cuty.io/ChFrGlioGy",
+          "_id": "68e08df49e798a708ef8c5df"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.892Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "photo_5100582605748809410_x.webp"
     },
     {
       "isUpdate": false,
@@ -7503,33 +7502,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c5de",
-      "id": "nZgb7MHX",
-      "name": "Injustice Gods Among Us",
-      "image": "photo_5100582605748809410_x.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        10,
-        24
-      ],
-      "size": "8.22 Gb",
-      "downloadMethods": [
-        {
-          "type": "Mediafire",
-          "link": "https://cuty.io/ChFrGlioGy",
-          "_id": "68e08df49e798a708ef8c5df"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.892Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "photo_5100582605748809410_x.webp"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c5c2",
       "id": "2E1OZXa_",
       "name": "F1 RACE STARS - POWERED UP EDITION",
@@ -7914,34 +7886,6 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df59e798a708ef8c603",
-      "id": "Ms9jPOi8",
-      "name": "Carrion Mobile",
-      "image": "Carrion Mobile.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        14,
-        20,
-        31
-      ],
-      "size": "166 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1hIiFo2ZuWgOclZJVDjRZoQ",
-          "_id": "68e08df59e798a708ef8c604"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:09.417Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Carrion Mobile.webp",
-      "isUpdate": true
-    },
-    {
       "_id": "68e08df59e798a708ef8c60f",
       "id": "gI2Bc7IZ",
       "name": "Five Nights At Freddy's 4 v2.0.3",
@@ -7996,6 +7940,34 @@
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "Five Nights At Freddys 3 v2.0.3.webp",
       "isUpdate": true
+    },
+    {
+      "_id": "68e08df59e798a708ef8c607",
+      "id": "5bDFQ_i6",
+      "name": "DREDGE v1.5.18",
+      "image": "DREDGE .webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        14,
+        21,
+        34
+      ],
+      "size": "649 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1F65NtE7LmmTGLrXGvSW3TA",
+          "_id": "68e08df59e798a708ef8c608"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:09.417Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "isUpdate": true,
+      "oldImage": "DREDGE .webp"
     },
     {
       "_id": "68e08df59e798a708ef8c60b",
@@ -8053,34 +8025,6 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df59e798a708ef8c607",
-      "id": "5bDFQ_i6",
-      "name": "DREDGE v1.5.18",
-      "image": "DREDGE .webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        14,
-        21,
-        34
-      ],
-      "size": "649 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1F65NtE7LmmTGLrXGvSW3TA",
-          "_id": "68e08df59e798a708ef8c608"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:09.417Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "isUpdate": true,
-      "oldImage": "DREDGE .webp"
-    },
-    {
       "isUpdate": false,
       "_id": "68e08df59e798a708ef8c605",
       "id": "dkVSYFub",
@@ -8107,6 +8051,34 @@
       "createdAt": "2025-10-04T03:01:09.417Z",
       "updatedAt": "2026-03-06T03:44:02.431Z",
       "oldImage": "Cuphead v1.50.jpeg"
+    },
+    {
+      "_id": "68e08df59e798a708ef8c603",
+      "id": "Ms9jPOi8",
+      "name": "Carrion Mobile",
+      "image": "Carrion Mobile.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        14,
+        20,
+        31
+      ],
+      "size": "166 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1hIiFo2ZuWgOclZJVDjRZoQ",
+          "_id": "68e08df59e798a708ef8c604"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:09.417Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Carrion Mobile.webp",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -8331,22 +8303,23 @@
       "oldImage": "repo.webp"
     },
     {
-      "_id": "68e08df59e798a708ef8c62b",
-      "id": "ta63KeFg",
-      "name": "Sonic Momentum",
-      "image": "Sonic Momentum.webp",
+      "_id": "68e08df59e798a708ef8c627",
+      "id": "zjYRYr9P",
+      "name": "Sonic Mania Plus v5.2.2",
+      "image": "Sonic Mania Plus v5.2.2.webp",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
         1,
-        32
+        32,
+        33
       ],
-      "size": "54 Mb",
+      "size": "236 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1mBhiLFI7_smK0HZ05l0hcQ",
-          "_id": "68e08df59e798a708ef8c62c"
+          "link": "https://1024terabox.com/s/1_kK80qW2LUbumWz-jmHI_Q",
+          "_id": "68e08df59e798a708ef8c628"
         }
       ],
       "emulatorId": 10,
@@ -8354,61 +8327,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.420Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Sonic Momentum.webp",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df59e798a708ef8c62d",
-      "id": "MNzDReLC",
-      "name": "Sonic Prime Dash v1.16.0",
-      "image": "Sonic Prime Dash v1.12.0.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        13
-      ],
-      "size": "348 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1yjaATLrVwmD4ZL73rNBACw",
-          "_id": "68e08df59e798a708ef8c62e"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:09.420Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Sonic Prime Dash v1.12.0.webp",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df59e798a708ef8c62f",
-      "id": "U9qr0nRN",
-      "name": "Sonic Runners Adventure v1.0.3",
-      "image": "Sonic Runners Adventure v1.0.3.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        13
-      ],
-      "size": "34 Mb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1XLllYym_JyEw2G318jp1pw",
-          "_id": "68e08df59e798a708ef8c630"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:09.420Z",
-      "updatedAt": "2026-03-15T15:28:12.718Z",
-      "oldImage": "Sonic Runners Adventure v1.0.3.jpeg",
+      "oldImage": "Sonic Mania Plus v5.2.2.webp",
       "isUpdate": true
     },
     {
@@ -8439,23 +8358,49 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df59e798a708ef8c627",
-      "id": "zjYRYr9P",
-      "name": "Sonic Mania Plus v5.2.2",
-      "image": "Sonic Mania Plus v5.2.2.webp",
+      "_id": "68e08df59e798a708ef8c62f",
+      "id": "U9qr0nRN",
+      "name": "Sonic Runners Adventure v1.0.3",
+      "image": "Sonic Runners Adventure v1.0.3.webp",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
         1,
-        32,
-        33
+        13
       ],
-      "size": "236 Mb",
+      "size": "34 Mb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1_kK80qW2LUbumWz-jmHI_Q",
-          "_id": "68e08df59e798a708ef8c628"
+          "link": "https://1024terabox.com/s/1XLllYym_JyEw2G318jp1pw",
+          "_id": "68e08df59e798a708ef8c630"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:09.420Z",
+      "updatedAt": "2026-03-15T15:28:12.718Z",
+      "oldImage": "Sonic Runners Adventure v1.0.3.jpeg",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df59e798a708ef8c62d",
+      "id": "MNzDReLC",
+      "name": "Sonic Prime Dash v1.16.0",
+      "image": "Sonic Prime Dash v1.12.0.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        13
+      ],
+      "size": "348 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1yjaATLrVwmD4ZL73rNBACw",
+          "_id": "68e08df59e798a708ef8c62e"
         }
       ],
       "emulatorId": 10,
@@ -8463,7 +8408,34 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.420Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Sonic Mania Plus v5.2.2.webp",
+      "oldImage": "Sonic Prime Dash v1.12.0.webp",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df59e798a708ef8c62b",
+      "id": "ta63KeFg",
+      "name": "Sonic Momentum",
+      "image": "Sonic Momentum.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        32
+      ],
+      "size": "54 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1mBhiLFI7_smK0HZ05l0hcQ",
+          "_id": "68e08df59e798a708ef8c62c"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:09.420Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Sonic Momentum.webp",
       "isUpdate": true
     },
     {
