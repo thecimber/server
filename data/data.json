@@ -34905,33 +34905,6 @@
       "__v": 0
     },
     {
-      "_id": "6b0310dc9cedb5d982c26d45",
-      "id": "sO9dKFBg",
-      "name": "Scribblenauts Unlimited (USA)",
-      "image": "1795363034201-9196ee18.webp",
-      "gameplayLink": "",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        39
-      ],
-      "size": "1,2GB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1lNXtMgLQm8Aaj2jpcXW0Uw",
-          "_id": "6b0310dc9cedb5d982c26d46"
-        }
-      ],
-      "emulatorId": 8,
-      "isUpdate": false,
-      "captures": [],
-      "createdAt": "2026-11-22T15:57:16.162Z",
-      "updatedAt": "2026-11-22T15:57:16.162Z",
-      "__v": 0
-    },
-    {
       "_id": "6b03114e9cedb5d982c2866e",
       "id": "Rf8OibF6",
       "name": "The Legend of Zelda Breath of the Wild",
