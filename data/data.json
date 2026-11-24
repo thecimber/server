@@ -35270,6 +35270,32 @@
       "createdAt": "2026-11-24T01:11:46.337Z",
       "updatedAt": "2026-11-24T01:11:46.337Z",
       "__v": 0
+    },
+    {
+      "_id": "6b04e4fe9cedb5d982c418d6",
+      "id": "d1Trz6FU",
+      "name": "Star Wars - Battlefront II (Europe)",
+      "image": "1795482876739-53f4d340.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        186
+      ],
+      "size": "1,13GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1e5uS98yJXVaI6Kvb12iHXw",
+          "_id": "6b04e4fe9cedb5d982c418d7"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-11-24T01:14:38.593Z",
+      "updatedAt": "2026-11-24T01:14:38.593Z",
+      "__v": 0
     }
   ],
   "emulators": [
@@ -36926,6 +36952,14 @@
       "name": "Guerra Moderna",
       "createdAt": "2026-05-30T03:29:15.652Z",
       "updatedAt": "2026-05-30T03:29:15.652Z",
+      "__v": 0
+    },
+    {
+      "_id": "6b04e4fb9cedb5d982c413ce",
+      "id": 186,
+      "name": "Other",
+      "createdAt": "2026-11-24T01:14:35.453Z",
+      "updatedAt": "2026-11-24T01:14:35.453Z",
       "__v": 0
     }
   ],
