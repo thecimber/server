@@ -21969,34 +21969,6 @@
       "oldImage": "OOvlCqvgKg.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9df",
-      "id": "nwjO7MgN",
-      "name": "DOOM ETERNAL ",
-      "image": "G7eHri7c_B.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        11,
-        31
-      ],
-      "size": "90.1 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1YOR-vU5WNHZh50DqAhL9aw",
-          "_id": "68e08df79e798a708ef8c9e0"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "G7eHri7c_B.webp"
-    },
-    {
       "_id": "68e08df79e798a708ef8c9e3",
       "id": "Qisn9j2M",
       "name": "LEGO The Lord Of The Rings",
@@ -22024,6 +21996,33 @@
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
       "oldImage": "9B6ypJwO0K.webp"
+    },
+    {
+      "_id": "68e08df79e798a708ef8c9d9",
+      "id": "dHFFCqeZ",
+      "name": "LEGO Builders Journey",
+      "image": "ty-QUE2AP9.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        3,
+        44
+      ],
+      "size": "1.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/15W_ZjTZU2gDZ5BFUIw37jw",
+          "_id": "68e08df79e798a708ef8c9da"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "ty-QUE2AP9.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c9db",
@@ -22055,22 +22054,23 @@
       "oldImage": "XWuJ5jNuRu.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9d9",
-      "id": "dHFFCqeZ",
-      "name": "LEGO Builders Journey",
-      "image": "ty-QUE2AP9.webp",
+      "_id": "68e08df79e798a708ef8c9df",
+      "id": "nwjO7MgN",
+      "name": "DOOM ETERNAL ",
+      "image": "G7eHri7c_B.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        3,
-        44
+        2,
+        11,
+        31
       ],
-      "size": "1.5 Gb",
+      "size": "90.1 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/15W_ZjTZU2gDZ5BFUIw37jw",
-          "_id": "68e08df79e798a708ef8c9da"
+          "link": "https://1024terabox.com/s/1YOR-vU5WNHZh50DqAhL9aw",
+          "_id": "68e08df79e798a708ef8c9e0"
         }
       ],
       "emulatorId": 2,
@@ -22079,32 +22079,32 @@
       "createdAt": "2025-10-04T03:01:11.689Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "ty-QUE2AP9.webp"
+      "oldImage": "G7eHri7c_B.webp"
     },
     {
-      "_id": "68e08df89e798a708ef8ca06",
-      "id": "QUfMNhpM",
-      "name": "Burnout Dominator",
-      "image": "1795483646931-5c2791c6.webp",
+      "_id": "68e08df89e798a708ef8ca0a",
+      "id": "1T_8dRHz",
+      "name": "Breath Of fire 3",
+      "image": "1795482379796-abc2c957.webp",
       "format": 4,
       "language": "Español-Ingles",
       "genre": [
-        42
+        16
       ],
-      "size": "777MB",
+      "size": "403MB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1OFm5YyD4-_grMNBt1ivTwQ",
-          "_id": "6b04e8009cedb5d982c4bfbd"
+          "link": "https://1024terabox.com/s/1DCOS0JiBnzPPV3J9abm6Qg",
+          "_id": "6b04e30d9cedb5d982c3cd5c"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-11-24T01:27:28.621Z",
-      "oldImage": "eRf65rrylI.webp",
+      "updatedAt": "2026-11-24T01:06:21.529Z",
+      "oldImage": "MtxvGhkkWj.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
@@ -22165,33 +22165,6 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df89e798a708ef8ca0a",
-      "id": "1T_8dRHz",
-      "name": "Breath Of fire 3",
-      "image": "1795482379796-abc2c957.webp",
-      "format": 4,
-      "language": "Español-Ingles",
-      "genre": [
-        16
-      ],
-      "size": "403MB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1DCOS0JiBnzPPV3J9abm6Qg",
-          "_id": "6b04e30d9cedb5d982c3cd5c"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-11-24T01:06:21.529Z",
-      "oldImage": "MtxvGhkkWj.webp",
-      "gameplayLink": "",
-      "isUpdate": true
-    },
-    {
       "_id": "68e08df89e798a708ef8ca08",
       "id": "STxoLzhR",
       "name": "Burnout Legends",
@@ -22215,6 +22188,33 @@
       "createdAt": "2025-10-04T03:01:12.241Z",
       "updatedAt": "2026-08-04T22:08:22.986Z",
       "oldImage": "H5asG3xv24.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca06",
+      "id": "QUfMNhpM",
+      "name": "Burnout Dominator",
+      "image": "1795483646931-5c2791c6.webp",
+      "format": 4,
+      "language": "Español-Ingles",
+      "genre": [
+        42
+      ],
+      "size": "777MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1OFm5YyD4-_grMNBt1ivTwQ",
+          "_id": "6b04e8009cedb5d982c4bfbd"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2026-11-24T01:27:28.621Z",
+      "oldImage": "eRf65rrylI.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
@@ -22365,34 +22365,6 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df89e798a708ef8c9fe",
-      "id": "19P2Z17Y",
-      "name": "BlazBlue Calamity trigger",
-      "image": "1781492439208-a4e3038b.webp",
-      "format": 4,
-      "language": "Español-Ingles",
-      "genre": [
-        32,
-        7
-      ],
-      "size": "936MB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1oFNeVPZaGKArveqWtthmew",
-          "_id": "6a2f6ad814dabecb3ed00cb9"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-15T03:00:40.899Z",
-      "oldImage": "HzoEOjHpqj.webp",
-      "gameplayLink": "",
-      "isUpdate": true
-    },
-    {
       "_id": "68e08df89e798a708ef8c9f8",
       "id": "JJgh7uMH",
       "name": "Ben 10 Alien Force Vilgax Attacks",
@@ -22448,6 +22420,34 @@
       "createdAt": "2025-10-04T03:01:12.241Z",
       "updatedAt": "2026-11-24T01:01:26.875Z",
       "oldImage": "glvSu40pXZ.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df89e798a708ef8c9fe",
+      "id": "19P2Z17Y",
+      "name": "BlazBlue Calamity trigger",
+      "image": "1781492439208-a4e3038b.webp",
+      "format": 4,
+      "language": "Español-Ingles",
+      "genre": [
+        32,
+        7
+      ],
+      "size": "936MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1oFNeVPZaGKArveqWtthmew",
+          "_id": "6a2f6ad814dabecb3ed00cb9"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.241Z",
+      "updatedAt": "2026-06-15T03:00:40.899Z",
+      "oldImage": "HzoEOjHpqj.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
@@ -22785,31 +22785,30 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df89e798a708ef8ca32",
-      "id": "-pisnbWK",
-      "name": "Need for Speed Most Wanted U (USA) (v32)",
-      "image": "1795196967653-fad7d13f.webp",
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8ca36",
+      "id": "42jRxFsC",
+      "name": "NES REMIX PACK (USA)",
+      "image": "iymK5rWHzT.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        13
+        3
       ],
-      "size": "5,5GB",
+      "size": "127 Mb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1A-sIyhRSwK5xRUeHeNIQZA",
-          "_id": "6b0088299cedb5d982c18abc"
+          "type": "Terabox",
+          "link": "ttps://1024terabox.com/s/1YDlzC-qzemd5MOAcydwztA",
+          "_id": "68e08df89e798a708ef8ca37"
         }
       ],
       "emulatorId": 5,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-11-20T17:49:29.399Z",
-      "oldImage": "xNvRbgKY9D.webp",
-      "gameplayLink": "",
-      "isUpdate": true
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "oldImage": "iymK5rWHzT.webp"
     },
     {
       "isUpdate": false,
@@ -23585,32 +23584,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8ca36",
-      "id": "42jRxFsC",
-      "name": "NES REMIX PACK (USA)",
-      "image": "iymK5rWHzT.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        3
-      ],
-      "size": "127 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "ttps://1024terabox.com/s/1YDlzC-qzemd5MOAcydwztA",
-          "_id": "68e08df89e798a708ef8ca37"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "iymK5rWHzT.webp"
-    },
-    {
       "_id": "68e08df89e798a708ef8ca34",
       "id": "DbYV5A_U",
       "name": "NINJA GAIDEN 3 Razor's Edge (USA) (v80)",
@@ -23636,6 +23609,33 @@
       "createdAt": "2025-10-04T03:01:12.242Z",
       "updatedAt": "2026-11-20T17:48:19.135Z",
       "oldImage": "UhXPDpOZTT.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df89e798a708ef8ca32",
+      "id": "-pisnbWK",
+      "name": "Need for Speed Most Wanted U (USA) (v32)",
+      "image": "1795196967653-fad7d13f.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        13
+      ],
+      "size": "5,5GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1A-sIyhRSwK5xRUeHeNIQZA",
+          "_id": "6b0088299cedb5d982c18abc"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:12.242Z",
+      "updatedAt": "2026-11-20T17:49:29.399Z",
+      "oldImage": "xNvRbgKY9D.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
@@ -23778,23 +23778,24 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df89e798a708ef8ca90",
-      "id": "L3BHagb6",
-      "name": "Hitman 2 ",
-      "image": "FzMV69PJNo.webp",
-      "format": 3,
+      "isUpdate": false,
+      "_id": "68e08df89e798a708ef8caa0",
+      "id": "yte79bff",
+      "name": "Gears Of war 3",
+      "image": "Aojfdsjo-32.webp",
+      "format": 0,
       "language": "Multi-Idioma",
       "genre": [
-        7,
-        8,
+        2,
+        35,
         30
       ],
-      "size": "74,1 Gb",
+      "size": "1.6 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Qr-Hwu5rc6mhGuzJtBDijA",
-          "_id": "68e08df89e798a708ef8ca91"
+          "type": "Terabox",
+          "link": "https://terabox.com/s/15Xi2g1LCywKwhe4dZGzMrA",
+          "_id": "68e08df89e798a708ef8caa1"
         }
       ],
       "emulatorId": 2,
@@ -23802,8 +23803,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "FzMV69PJNo.webp"
+      "oldImage": "Aojfdsjo-32.webp"
     },
     {
       "_id": "68e08df89e798a708ef8ca9e",
@@ -24007,24 +24007,23 @@
       "oldImage": "56S1e9b4V3.webp"
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df89e798a708ef8caa0",
-      "id": "yte79bff",
-      "name": "Gears Of war 3",
-      "image": "Aojfdsjo-32.webp",
-      "format": 0,
+      "_id": "68e08df89e798a708ef8ca90",
+      "id": "L3BHagb6",
+      "name": "Hitman 2 ",
+      "image": "FzMV69PJNo.webp",
+      "format": 3,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        35,
+        7,
+        8,
         30
       ],
-      "size": "1.6 Gb",
+      "size": "74,1 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://terabox.com/s/15Xi2g1LCywKwhe4dZGzMrA",
-          "_id": "68e08df89e798a708ef8caa1"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1Qr-Hwu5rc6mhGuzJtBDijA",
+          "_id": "68e08df89e798a708ef8ca91"
         }
       ],
       "emulatorId": 2,
@@ -24032,7 +24031,8 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.243Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "Aojfdsjo-32.webp"
+      "isUpdate": true,
+      "oldImage": "FzMV69PJNo.webp"
     },
     {
       "_id": "68e08df89e798a708ef8ca8e",
@@ -34847,33 +34847,6 @@
       "captures": [],
       "createdAt": "2026-11-20T17:53:59.892Z",
       "updatedAt": "2026-11-20T17:53:59.892Z",
-      "__v": 0
-    },
-    {
-      "_id": "6b00896d9cedb5d982c1dad6",
-      "id": "Uwac_FOX",
-      "name": "Penguins of Madagascar",
-      "image": "1795197291771-e122f203.webp",
-      "gameplayLink": "",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3
-      ],
-      "size": "281MB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1Aa4oSUE_uLFYfTOZJl9rbA",
-          "_id": "6b00896d9cedb5d982c1dad7"
-        }
-      ],
-      "emulatorId": 8,
-      "isUpdate": false,
-      "captures": [],
-      "createdAt": "2026-11-20T17:54:53.521Z",
-      "updatedAt": "2026-11-20T17:54:53.521Z",
       "__v": 0
     },
     {
