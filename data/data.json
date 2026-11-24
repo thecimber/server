@@ -3961,10 +3961,10 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4f2",
-      "id": "HTHKzc1z",
-      "name": "LEGO Star Wars The Original Trilogy",
-      "image": "LEGO Star Wars The Original Trilogy.webp",
+      "_id": "68e08df49e798a708ef8c4f0",
+      "id": "B3pkOKu5",
+      "name": "LEGO Star Wars 3 the clone wars",
+      "image": "LEGO Star Wars 3 the clone wars.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
@@ -3972,12 +3972,12 @@
         7,
         39
       ],
-      "size": "876 Mb",
+      "size": "1.4 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1zy6HPw1nGi20hftT-4LHZQ",
-          "_id": "68e08df49e798a708ef8c4f3"
+          "link": "https://1024terabox.com/s/1_DjjZyz6Pdo6Ouj-gTmi0Q",
+          "_id": "68e08df49e798a708ef8c4f1"
         }
       ],
       "emulatorId": 3,
@@ -3985,7 +3985,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "LEGO Star Wars The Original Trilogy.webp"
+      "oldImage": "LEGO Star Wars 3 the clone wars.webp"
     },
     {
       "_id": "68e08df49e798a708ef8c4f4",
@@ -4207,10 +4207,10 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4f0",
-      "id": "B3pkOKu5",
-      "name": "LEGO Star Wars 3 the clone wars",
-      "image": "LEGO Star Wars 3 the clone wars.webp",
+      "_id": "68e08df49e798a708ef8c4f2",
+      "id": "HTHKzc1z",
+      "name": "LEGO Star Wars The Original Trilogy",
+      "image": "LEGO Star Wars The Original Trilogy.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
@@ -4218,12 +4218,12 @@
         7,
         39
       ],
-      "size": "1.4 Gb",
+      "size": "876 Mb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1_DjjZyz6Pdo6Ouj-gTmi0Q",
-          "_id": "68e08df49e798a708ef8c4f1"
+          "link": "https://1024terabox.com/s/1zy6HPw1nGi20hftT-4LHZQ",
+          "_id": "68e08df49e798a708ef8c4f3"
         }
       ],
       "emulatorId": 3,
@@ -4231,14 +4231,14 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "LEGO Star Wars 3 the clone wars.webp"
+      "oldImage": "LEGO Star Wars The Original Trilogy.webp"
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4ee",
-      "id": "ZrJsLPPs",
-      "name": "LEGO Pirates of the Caribbean - The Video Game",
-      "image": "LEGO Pirates of the Caribbean - The Video Game.webp",
+      "_id": "68e08df49e798a708ef8c4e8",
+      "id": "r3IDxmQg",
+      "name": "LEGO Harry Potter - Years 5-7",
+      "image": "LEGO Harry Potter - Years 5-7.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
@@ -4246,12 +4246,12 @@
         7,
         39
       ],
-      "size": "1.2 Gb",
+      "size": "1.3 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/12xcaLbg1xSRlvjGpD6Jlug",
-          "_id": "68e08df49e798a708ef8c4ef"
+          "link": "https://1024terabox.com/s/1HNoZtKjOF2R9dkV73RPY-A",
+          "_id": "68e08df49e798a708ef8c4e9"
         }
       ],
       "emulatorId": 3,
@@ -4259,121 +4259,118 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "LEGO Pirates of the Caribbean - The Video Game.webp"
+      "oldImage": "LEGO Harry Potter - Years 5-7.webp"
     },
     {
-      "_id": "68e08df49e798a708ef8c4c6",
-      "id": "Sf2teo6A",
-      "name": "Crash Tag Team Racing",
-      "image": "1781493248690-9409a0ba.webp",
+      "_id": "68e08df49e798a708ef8c4e2",
+      "id": "JvP5H6-3",
+      "name": "God of War - Ghost of Sparta",
+      "image": "1785881418100-92cd9070.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        13,
-        86,
-        1
+        24,
+        7
       ],
-      "size": "959MB",
+      "size": "1,2GB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1QddCGwT8sIIknZRyLXRhuQ",
-          "_id": "6a2f6e0214dabecb3ed029f8"
+          "link": "https://1024terabox.com/s/1csb3PzJWxneS2WYBvofCNQ",
+          "_id": "6a72634c7d9816a180dd765f"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-15T03:14:10.189Z",
-      "oldImage": "Crash Tag Team Racing.webp",
+      "updatedAt": "2026-08-04T22:10:20.731Z",
+      "oldImage": "God of War - Ghost of Sparta.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
     {
-      "_id": "68e08df49e798a708ef8c4c8",
-      "id": "XJlZMJwt",
-      "name": "Dragon ball z Shin Budokai",
-      "image": "1781493637931-97426e29.webp",
-      "format": 1,
+      "_id": "68e08df49e798a708ef8c4e0",
+      "id": "HD_FXHQv",
+      "name": "God of War - Chains of Olympus",
+      "image": "1785881431763-188f1b29.webp",
+      "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        24,
-        22,
-        118
+        2,
+        24
       ],
-      "size": "500MB",
+      "size": "1,2GB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1hxatrqNOLJGLtYyD7qMQug",
-          "_id": "6a2f6f8714dabecb3ed050f9"
+          "link": "https://1024terabox.com/s/1LKRSoBsX1AQdJ2O0_M_jjw",
+          "_id": "6a7263597d9816a180dd852b"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-15T03:20:39.355Z",
-      "oldImage": "Dragon ball z Shin Budokai.webp",
+      "updatedAt": "2026-08-04T22:10:33.326Z",
+      "oldImage": "God of War - Chains of Olympus.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
     {
-      "_id": "68e08df49e798a708ef8c4ca",
-      "id": "FK0hh7Hr",
-      "name": "Dragon Ball z Shin Budokai 2",
-      "image": "1781493898457-a23a7768.webp",
-      "format": 1,
+      "_id": "68e08df49e798a708ef8c4dc",
+      "id": "kILiuJ0t",
+      "name": "FIFA Street 2",
+      "image": "1785879223175-a1407075.webp",
+      "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        24,
-        22,
-        118
+        4
       ],
-      "size": "540MB",
+      "size": "218MB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1PVYI4epNzHeTge13zmw8IA",
-          "_id": "6a2f708b14dabecb3ed077f3"
+          "link": "https://1024terabox.com/s/1cbBQabYVadZxCMUZ3JasGg",
+          "_id": "6a725ab87d9816a180dd3621"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-15T03:24:59.908Z",
-      "oldImage": "Dragon Ball z Shin Budokai 2.webp",
+      "updatedAt": "2026-08-04T21:33:44.737Z",
+      "oldImage": "FIFA Street 2.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
     {
-      "_id": "68e08df49e798a708ef8c4cc",
-      "id": "5j9_JgO-",
-      "name": "Dragon Ball Z Tenkaichi Tag team",
-      "image": "1781493912264-6c1189bc.webp",
-      "format": 1,
+      "_id": "68e08df49e798a708ef8c4d4",
+      "id": "C2Dwb4YU",
+      "name": "FIFA 09",
+      "image": "1782052028682-13cb87f4.webp",
+      "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        24,
-        22,
+        4,
+        6,
+        19,
         118
       ],
-      "size": "1,09GB",
+      "size": "809MB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1t4HXrLt0NB_39obTXTbiCw",
-          "_id": "6a2f709914dabecb3ed08695"
+          "link": "https://1024terabox.com/s/1cBDTyDFtrlOwKl_Cjva77g",
+          "_id": "6a37f4bd14dabecb3ed11552"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-15T03:25:13.752Z",
-      "oldImage": "Dragon Ball Z Tenkaichi Tag team.webp",
+      "updatedAt": "2026-06-21T14:27:10.002Z",
+      "oldImage": "FIFA 09.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
@@ -4408,143 +4405,118 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df49e798a708ef8c4dc",
-      "id": "kILiuJ0t",
-      "name": "FIFA Street 2",
-      "image": "1785879223175-a1407075.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        4
-      ],
-      "size": "218MB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1cbBQabYVadZxCMUZ3JasGg",
-          "_id": "6a725ab87d9816a180dd3621"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T21:33:44.737Z",
-      "oldImage": "FIFA Street 2.webp",
-      "gameplayLink": "",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df49e798a708ef8c4e0",
-      "id": "HD_FXHQv",
-      "name": "God of War - Chains of Olympus",
-      "image": "1785881431763-188f1b29.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        24
-      ],
-      "size": "1,2GB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1LKRSoBsX1AQdJ2O0_M_jjw",
-          "_id": "6a7263597d9816a180dd852b"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T22:10:33.326Z",
-      "oldImage": "God of War - Chains of Olympus.webp",
-      "gameplayLink": "",
-      "isUpdate": true
-    },
-    {
-      "_id": "68e08df49e798a708ef8c4e2",
-      "id": "JvP5H6-3",
-      "name": "God of War - Ghost of Sparta",
-      "image": "1785881418100-92cd9070.webp",
-      "format": 4,
+      "_id": "68e08df49e798a708ef8c4cc",
+      "id": "5j9_JgO-",
+      "name": "Dragon Ball Z Tenkaichi Tag team",
+      "image": "1781493912264-6c1189bc.webp",
+      "format": 1,
       "language": "Multi-Idioma",
       "genre": [
         24,
-        7
+        22,
+        118
       ],
-      "size": "1,2GB",
+      "size": "1,09GB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1csb3PzJWxneS2WYBvofCNQ",
-          "_id": "6a72634c7d9816a180dd765f"
+          "link": "https://1024terabox.com/s/1t4HXrLt0NB_39obTXTbiCw",
+          "_id": "6a2f709914dabecb3ed08695"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T22:10:20.731Z",
-      "oldImage": "God of War - Ghost of Sparta.webp",
+      "updatedAt": "2026-06-15T03:25:13.752Z",
+      "oldImage": "Dragon Ball Z Tenkaichi Tag team.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4e8",
-      "id": "r3IDxmQg",
-      "name": "LEGO Harry Potter - Years 5-7",
-      "image": "LEGO Harry Potter - Years 5-7.webp",
-      "format": 4,
+      "_id": "68e08df49e798a708ef8c4ca",
+      "id": "FK0hh7Hr",
+      "name": "Dragon Ball z Shin Budokai 2",
+      "image": "1781493898457-a23a7768.webp",
+      "format": 1,
       "language": "Multi-Idioma",
       "genre": [
-        1,
-        7,
-        39
-      ],
-      "size": "1.3 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1HNoZtKjOF2R9dkV73RPY-A",
-          "_id": "68e08df49e798a708ef8c4e9"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "LEGO Harry Potter - Years 5-7.webp"
-    },
-    {
-      "_id": "68e08df49e798a708ef8c4d4",
-      "id": "C2Dwb4YU",
-      "name": "FIFA 09",
-      "image": "1782052028682-13cb87f4.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        4,
-        6,
-        19,
+        24,
+        22,
         118
       ],
-      "size": "809MB",
+      "size": "540MB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1cBDTyDFtrlOwKl_Cjva77g",
-          "_id": "6a37f4bd14dabecb3ed11552"
+          "link": "https://1024terabox.com/s/1PVYI4epNzHeTge13zmw8IA",
+          "_id": "6a2f708b14dabecb3ed077f3"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-21T14:27:10.002Z",
-      "oldImage": "FIFA 09.webp",
+      "updatedAt": "2026-06-15T03:24:59.908Z",
+      "oldImage": "Dragon Ball z Shin Budokai 2.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df49e798a708ef8c4c8",
+      "id": "XJlZMJwt",
+      "name": "Dragon ball z Shin Budokai",
+      "image": "1781493637931-97426e29.webp",
+      "format": 1,
+      "language": "Multi-Idioma",
+      "genre": [
+        24,
+        22,
+        118
+      ],
+      "size": "500MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1hxatrqNOLJGLtYyD7qMQug",
+          "_id": "6a2f6f8714dabecb3ed050f9"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.450Z",
+      "updatedAt": "2026-06-15T03:20:39.355Z",
+      "oldImage": "Dragon ball z Shin Budokai.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df49e798a708ef8c4c6",
+      "id": "Sf2teo6A",
+      "name": "Crash Tag Team Racing",
+      "image": "1781493248690-9409a0ba.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        13,
+        86,
+        1
+      ],
+      "size": "959MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1QddCGwT8sIIknZRyLXRhuQ",
+          "_id": "6a2f6e0214dabecb3ed029f8"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.450Z",
+      "updatedAt": "2026-06-15T03:14:10.189Z",
+      "oldImage": "Crash Tag Team Racing.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
@@ -4602,6 +4574,34 @@
       "createdAt": "2025-10-04T03:01:08.451Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "Assassin's-Creed-Altairs-Chronicle.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c51e",
+      "id": "ttNpgLht",
+      "name": "Assassin's Creed 2 Discovery",
+      "image": "Assassin's-Creed-2-Discovery.webp",
+      "format": 7,
+      "language": "Español",
+      "genre": [
+        2,
+        7,
+        8
+      ],
+      "size": "49.1 MB",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1HHBT6gT5mbUUAdi4RCsqDw",
+          "_id": "68e08df49e798a708ef8c51f"
+        }
+      ],
+      "emulatorId": 4,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.451Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Assassin's-Creed-2-Discovery.webp"
     },
     {
       "isUpdate": false,
@@ -4852,58 +4852,31 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c51e",
-      "id": "ttNpgLht",
-      "name": "Assassin's Creed 2 Discovery",
-      "image": "Assassin's-Creed-2-Discovery.webp",
-      "format": 7,
-      "language": "Español",
-      "genre": [
-        2,
-        7,
-        8
-      ],
-      "size": "49.1 MB",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1HHBT6gT5mbUUAdi4RCsqDw",
-          "_id": "68e08df49e798a708ef8c51f"
-        }
-      ],
-      "emulatorId": 4,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Assassin's-Creed-2-Discovery.webp"
-    },
-    {
-      "_id": "68e08df49e798a708ef8c51a",
-      "id": "78tMI0F6",
-      "name": "UEFA champions league 2006-2007",
-      "image": "1795483476974-0a4c2f64.webp",
+      "_id": "68e08df49e798a708ef8c518",
+      "id": "a-dM1lLl",
+      "name": "Star Wars Battlefront - Renegade Squadron",
+      "image": "Star Wars Battlefront - Renegade Squadron.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        4
+        2,
+        12,
+        35
       ],
-      "size": "700MB",
+      "size": "1.1 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/10V8dNHsJgN0b9hFZGXeLCw",
-          "_id": "6b04e7569cedb5d982c49226"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1tMcNSSV0rTYvPpTtHjVPbQ",
+          "_id": "68e08df49e798a708ef8c519"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-11-24T01:24:38.746Z",
-      "oldImage": "UEFA champions league 2006-2007.webp",
-      "gameplayLink": "",
-      "isUpdate": true
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Star Wars Battlefront - Renegade Squadron.webp"
     },
     {
       "_id": "68e08df49e798a708ef8c504",
@@ -5074,33 +5047,6 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df49e798a708ef8c510",
-      "id": "vJwKhHKL",
-      "name": "Star Wars - Lethal Alliance",
-      "image": "1785882741955-ec65cf5d.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        14
-      ],
-      "size": "730MB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1H0jsKIBDShZ9Jkc69Bmvbg",
-          "_id": "6a7268777d9816a180ddd44b"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-08-04T22:32:23.694Z",
-      "oldImage": "Star Wars - Lethal Alliance.webp",
-      "gameplayLink": "",
-      "isUpdate": true
-    },
-    {
       "_id": "68e08df49e798a708ef8c512",
       "id": "KsN97421",
       "name": "Star Wars - The Clone Wars - Republic Heroes",
@@ -5182,32 +5128,58 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c518",
-      "id": "a-dM1lLl",
-      "name": "Star Wars Battlefront - Renegade Squadron",
-      "image": "Star Wars Battlefront - Renegade Squadron.webp",
+      "_id": "68e08df49e798a708ef8c510",
+      "id": "vJwKhHKL",
+      "name": "Star Wars - Lethal Alliance",
+      "image": "1785882741955-ec65cf5d.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        2,
-        12,
-        35
+        14
       ],
-      "size": "1.1 Gb",
+      "size": "730MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1tMcNSSV0rTYvPpTtHjVPbQ",
-          "_id": "68e08df49e798a708ef8c519"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1H0jsKIBDShZ9Jkc69Bmvbg",
+          "_id": "6a7268777d9816a180ddd44b"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Star Wars Battlefront - Renegade Squadron.webp"
+      "updatedAt": "2026-08-04T22:32:23.694Z",
+      "oldImage": "Star Wars - Lethal Alliance.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df49e798a708ef8c51a",
+      "id": "78tMI0F6",
+      "name": "UEFA champions league 2006-2007",
+      "image": "1795483476974-0a4c2f64.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        4
+      ],
+      "size": "700MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/10V8dNHsJgN0b9hFZGXeLCw",
+          "_id": "6b04e7569cedb5d982c49226"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.451Z",
+      "updatedAt": "2026-11-24T01:24:38.746Z",
+      "oldImage": "UEFA champions league 2006-2007.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -6223,10 +6195,10 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c588",
-      "id": "_20mVo60",
-      "name": "Assassin's Creed 3",
-      "image": "Assassi'-Creed-3.webp",
+      "_id": "68e08df49e798a708ef8c58a",
+      "id": "8pLeS64h",
+      "name": "Assassin's Creed black Flag",
+      "image": "Assassins-Creed-black-Flag.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
@@ -6234,12 +6206,12 @@
         7,
         12
       ],
-      "size": "20 Gb",
+      "size": "13.7 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1jIoAu4nPTaiJPdl3Pbr6-g",
-          "_id": "68e08df49e798a708ef8c589"
+          "link": "https://1024terabox.com/s/1a0tIOZPJ8KhrMLKoqKhzdA",
+          "_id": "68e08df49e798a708ef8c58b"
         }
       ],
       "emulatorId": 5,
@@ -6247,7 +6219,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.888Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Assassi'-Creed-3.webp"
+      "oldImage": "Assassins-Creed-black-Flag.webp"
     },
     {
       "isUpdate": false,
@@ -6609,34 +6581,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c58a",
-      "id": "8pLeS64h",
-      "name": "Assassin's Creed black Flag",
-      "image": "Assassins-Creed-black-Flag.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        7,
-        12
-      ],
-      "size": "13.7 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1a0tIOZPJ8KhrMLKoqKhzdA",
-          "_id": "68e08df49e798a708ef8c58b"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.888Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Assassins-Creed-black-Flag.webp"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c580",
       "id": "AhgVyn4y",
       "name": "Adventure Time finn & jake investgations",
@@ -6662,6 +6606,34 @@
       "createdAt": "2025-10-04T03:01:08.888Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "Adventure-Time-finn-&-jake-investgations.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c588",
+      "id": "_20mVo60",
+      "name": "Assassin's Creed 3",
+      "image": "Assassi'-Creed-3.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        7,
+        12
+      ],
+      "size": "20 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1jIoAu4nPTaiJPdl3Pbr6-g",
+          "_id": "68e08df49e798a708ef8c589"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.888Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Assassi'-Creed-3.webp"
     },
     {
       "isUpdate": false,
@@ -8522,23 +8494,22 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df59e798a708ef8c623",
-      "id": "PTp-CLyH",
-      "name": "Sonic 3 A.I.R [AIR]",
-      "image": "Sonic 3 A.I.R [AIR].webp",
+      "_id": "68e08df59e798a708ef8c625",
+      "id": "52VWjqNJ",
+      "name": "Sonic GT",
+      "image": "Sonic GT.webp",
       "format": 6,
       "language": "Multi-Idioma",
       "genre": [
-        1,
-        32,
-        33
+        13,
+        42
       ],
-      "size": "170 Mb",
+      "size": "1.5 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1ryv1bcCJyUonyOW4qr1ChQ",
-          "_id": "68e08df59e798a708ef8c624"
+          "link": "https://1024terabox.com/s/10z2s6UGE_10ZVhuL_8uTvw",
+          "_id": "68e08df59e798a708ef8c626"
         }
       ],
       "emulatorId": 10,
@@ -8546,7 +8517,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:09.420Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Sonic 3 A.I.R [AIR].webp",
+      "oldImage": "Sonic GT.webp",
       "isUpdate": true
     },
     {
@@ -8578,33 +8549,6 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df59e798a708ef8c625",
-      "id": "52VWjqNJ",
-      "name": "Sonic GT",
-      "image": "Sonic GT.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        13,
-        42
-      ],
-      "size": "1.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/10z2s6UGE_10ZVhuL_8uTvw",
-          "_id": "68e08df59e798a708ef8c626"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:09.420Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Sonic GT.webp",
-      "isUpdate": true
-    },
-    {
       "isUpdate": false,
       "_id": "68e08df59e798a708ef8c621",
       "id": "qtO25Xtc",
@@ -8631,6 +8575,34 @@
       "createdAt": "2025-10-04T03:01:09.420Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "Resident Evil 4 Mobile Edition.webp"
+    },
+    {
+      "_id": "68e08df59e798a708ef8c623",
+      "id": "PTp-CLyH",
+      "name": "Sonic 3 A.I.R [AIR]",
+      "image": "Sonic 3 A.I.R [AIR].webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        32,
+        33
+      ],
+      "size": "170 Mb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1ryv1bcCJyUonyOW4qr1ChQ",
+          "_id": "68e08df59e798a708ef8c624"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:09.420Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Sonic 3 A.I.R [AIR].webp",
+      "isUpdate": true
     },
     {
       "_id": "68e08df59e798a708ef8c629",
