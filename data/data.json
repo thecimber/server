@@ -23169,7 +23169,6 @@
       "oldImage": "w2E-3pN4Sp.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca3c",
       "id": "dhHK5XrF",
       "name": "Monster High 13 Wishes (USA).wua",
@@ -23191,9 +23190,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-11-24T04:10:14.777Z",
+      "updatedAt": "2026-11-24T04:29:41.925Z",
       "oldImage": "pFK4dIC_LA.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca10",
