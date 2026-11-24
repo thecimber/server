@@ -22165,27 +22165,28 @@
       "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca0a",
       "id": "1T_8dRHz",
-      "name": "Breath Of fire 3 ",
-      "image": "MtxvGhkkWj.webp",
+      "name": "Breath Of fire 3",
+      "image": "1795482379796-abc2c957.webp",
       "format": 4,
-      "language": "Español",
+      "language": "Español-Ingles",
       "genre": [
         16
       ],
-      "size": "403 Mb",
+      "size": "403MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1d-zVYuUiiMTge-j3PGhQcg",
-          "_id": "68e08df89e798a708ef8ca0b"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1DCOS0JiBnzPPV3J9abm6Qg",
+          "_id": "6b04e30d9cedb5d982c3cd5c"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "MtxvGhkkWj.webp"
+      "updatedAt": "2026-11-24T01:06:21.498Z",
+      "oldImage": "MtxvGhkkWj.webp",
+      "gameplayLink": ""
     },
     {
       "_id": "68e08df89e798a708ef8ca08",
@@ -37019,4 +37020,4 @@
       "__v": 0
     }
   ]
-}}
+}
