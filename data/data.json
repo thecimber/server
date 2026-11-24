@@ -22108,30 +22108,31 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca0e",
       "id": "MKcPh2xV",
-      "name": "Killzone Liberation ",
-      "image": "CSoJgz1_n2.webp",
+      "name": "Killzone Liberation",
+      "image": "1795482577017-12e6f174.webp",
       "format": 4,
-      "language": "Español",
+      "language": "Español-Ingles",
       "genre": [
         30
       ],
-      "size": "510 Mb",
+      "size": "510MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1eQefxjeHChu3m2prikiNrw",
-          "_id": "68e08df89e798a708ef8ca0f"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1OA0devx4TpWEbvoj5CSBhw",
+          "_id": "6b04e3d29cedb5d982c3f592"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "CSoJgz1_n2.webp"
+      "updatedAt": "2026-11-24T01:09:38.812Z",
+      "oldImage": "CSoJgz1_n2.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
