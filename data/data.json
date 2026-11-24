@@ -22591,7 +22591,6 @@
       "gameplayLink": ""
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca54",
       "id": "WuoXasF3",
       "name": "New SUPER MARIO BROS. U + New SUPER LUIGI U (USA)",
@@ -22614,9 +22613,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-11-24T04:24:35.506Z",
+      "updatedAt": "2026-11-24T04:29:54.108Z",
       "oldImage": "Y-fMBzi-rC.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca50",
