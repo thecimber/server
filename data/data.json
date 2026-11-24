@@ -22660,8 +22660,8 @@
       "size": "6,7 Gb",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1pCLTTzcI7ZKn7BT6MLLc-Q",
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1FiIu-_wgrgF_y9qe8Bsdyg",
           "_id": "68e08df89e798a708ef8ca4f"
         }
       ],
@@ -22669,8 +22669,9 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "eyNJoMCYkD.webp"
+      "updatedAt": "2026-11-24T04:27:13.065Z",
+      "oldImage": "eyNJoMCYkD.webp",
+      "gameplayLink": ""
     },
     {
       "isUpdate": false,
