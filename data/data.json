@@ -21740,23 +21740,23 @@
       "oldImage": "ErMEDU32Iq.webp"
     },
     {
-      "_id": "68e08df79e798a708ef8c9df",
-      "id": "nwjO7MgN",
-      "name": "DOOM ETERNAL ",
-      "image": "G7eHri7c_B.webp",
+      "_id": "68e08df79e798a708ef8c9dd",
+      "id": "Civims3f",
+      "name": "LIES OF P ",
+      "image": "YWRPUPWraS.webp",
       "format": 3,
       "language": "Multi-Idioma",
       "genre": [
         2,
-        11,
-        31
+        3,
+        0
       ],
-      "size": "90.1 Gb",
+      "size": "58.6 Gb",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1YOR-vU5WNHZh50DqAhL9aw",
-          "_id": "68e08df79e798a708ef8c9e0"
+          "link": "https://1024terabox.com/s/1swTQmRdqacv4nZ5Gezk9TA",
+          "_id": "68e08df79e798a708ef8c9de"
         }
       ],
       "emulatorId": 2,
@@ -21765,7 +21765,7 @@
       "createdAt": "2025-10-04T03:01:11.689Z",
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
-      "oldImage": "G7eHri7c_B.webp"
+      "oldImage": "YWRPUPWraS.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c9ef",
@@ -21969,6 +21969,34 @@
       "oldImage": "OOvlCqvgKg.webp"
     },
     {
+      "_id": "68e08df79e798a708ef8c9df",
+      "id": "nwjO7MgN",
+      "name": "DOOM ETERNAL ",
+      "image": "G7eHri7c_B.webp",
+      "format": 3,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        11,
+        31
+      ],
+      "size": "90.1 Gb",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1YOR-vU5WNHZh50DqAhL9aw",
+          "_id": "68e08df79e798a708ef8c9e0"
+        }
+      ],
+      "emulatorId": 2,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:11.689Z",
+      "updatedAt": "2026-06-12T04:32:54.345Z",
+      "isUpdate": true,
+      "oldImage": "G7eHri7c_B.webp"
+    },
+    {
       "_id": "68e08df79e798a708ef8c9e3",
       "id": "Qisn9j2M",
       "name": "LEGO The Lord Of The Rings",
@@ -21996,34 +22024,6 @@
       "updatedAt": "2026-06-12T04:32:54.345Z",
       "isUpdate": true,
       "oldImage": "9B6ypJwO0K.webp"
-    },
-    {
-      "_id": "68e08df79e798a708ef8c9dd",
-      "id": "Civims3f",
-      "name": "LIES OF P ",
-      "image": "YWRPUPWraS.webp",
-      "format": 3,
-      "language": "Multi-Idioma",
-      "genre": [
-        2,
-        3,
-        0
-      ],
-      "size": "58.6 Gb",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1swTQmRdqacv4nZ5Gezk9TA",
-          "_id": "68e08df79e798a708ef8c9de"
-        }
-      ],
-      "emulatorId": 2,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:11.689Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "isUpdate": true,
-      "oldImage": "YWRPUPWraS.webp"
     },
     {
       "_id": "68e08df79e798a708ef8c9db",
@@ -34683,33 +34683,6 @@
       "captures": [],
       "createdAt": "2026-11-20T16:59:11.165Z",
       "updatedAt": "2026-11-20T16:59:11.165Z",
-      "__v": 0
-    },
-    {
-      "_id": "6b007c9d9cedb5d982c09598",
-      "id": "DFGUqlaJ",
-      "name": "SUPER LUIGI U (USA)",
-      "image": "1795194011261-f31673dd.webp",
-      "gameplayLink": "",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        1
-      ],
-      "size": "1,1GB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1rbDQyCdP0zuU7b6b1cgeA",
-          "_id": "6b007c9d9cedb5d982c09599"
-        }
-      ],
-      "emulatorId": 8,
-      "isUpdate": false,
-      "captures": [],
-      "createdAt": "2026-11-20T17:00:13.384Z",
-      "updatedAt": "2026-11-20T17:00:13.384Z",
       "__v": 0
     },
     {
