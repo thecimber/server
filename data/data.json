@@ -5183,31 +5183,32 @@
       "oldImage": "Sonic Rivals.webp"
     },
     {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c50c",
       "id": "vo1hM5Gr",
       "name": "Sonic Rivals 2",
-      "image": "Sonic Rivals 2.webp",
+      "image": "1795483746062-7c6c8380.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        1,
+        2,
         13
       ],
-      "size": "240 Mb",
+      "size": "240MB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1AeRfCRvvhlVVuF8jGa-8qA",
-          "_id": "68e08df49e798a708ef8c50d"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1H8uA3mBxCb0Wscns_buMnA",
+          "_id": "6b04e8639cedb5d982c4cefa"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Sonic Rivals 2.webp"
+      "updatedAt": "2026-11-24T01:29:07.849Z",
+      "oldImage": "Sonic Rivals 2.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df49e798a708ef8c50e",
