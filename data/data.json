@@ -22303,32 +22303,33 @@
       "gameplayLink": ""
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8c9fc",
       "id": "bOcEkrqv",
       "name": "Blade Dancer Lineage Of Light",
-      "image": "xvEPE4-q_n.webp",
+      "image": "1795482331674-e007b05e.webp",
       "format": 4,
-      "language": "Español",
+      "language": "Español-Ingles",
       "genre": [
-        2,
         41,
+        2,
         3
       ],
-      "size": "1.4 Gb",
+      "size": "1,4GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1MfoVwA-xCoXLiibFkHBCgw",
-          "_id": "68e08df89e798a708ef8c9fd"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1fROH4Zj6QTKQzXtKGZ2VyQ",
+          "_id": "6b04e2dd9cedb5d982c3be48"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "xvEPE4-q_n.webp"
+      "updatedAt": "2026-11-24T01:05:33.421Z",
+      "oldImage": "xvEPE4-q_n.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8c9fa",
