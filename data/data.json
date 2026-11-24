@@ -4290,32 +4290,32 @@
       "oldImage": "Prince of Persia – Boukyaku no Suna.webp"
     },
     {
-      "_id": "68e08df49e798a708ef8c4e2",
-      "id": "JvP5H6-3",
-      "name": "God of War - Ghost of Sparta",
-      "image": "1785881418100-92cd9070.webp",
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c4e4",
+      "id": "mOFjTN9-",
+      "name": "LEGO Batman - The Video Game",
+      "image": "LEGO Batman - The Video Game.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        24,
-        7
+        1,
+        7,
+        39
       ],
-      "size": "1,2GB",
+      "size": "591 Mb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1csb3PzJWxneS2WYBvofCNQ",
-          "_id": "6a72634c7d9816a180dd765f"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1LFbUadc96PCIVHiUt5liGw",
+          "_id": "68e08df49e798a708ef8c4e5"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T22:10:20.731Z",
-      "oldImage": "God of War - Ghost of Sparta.webp",
-      "gameplayLink": "",
-      "isUpdate": true
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "LEGO Batman - The Video Game.webp"
     },
     {
       "isUpdate": false,
@@ -4521,33 +4521,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4de",
-      "id": "rsfUDaGP",
-      "name": "FIFA World Cup Germany 2006",
-      "image": "FIFA World Cup Germany 2006.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        4,
-        6
-      ],
-      "size": "700 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1oGgJRDe2rrMltRzsra8hAw",
-          "_id": "68e08df49e798a708ef8c4df"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "FIFA World Cup Germany 2006.webp"
-    },
-    {
       "_id": "68e08df49e798a708ef8c4e0",
       "id": "HD_FXHQv",
       "name": "God of War - Chains of Olympus",
@@ -4572,6 +4545,34 @@
       "createdAt": "2025-10-04T03:01:08.450Z",
       "updatedAt": "2026-08-04T22:10:33.326Z",
       "oldImage": "God of War - Chains of Olympus.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df49e798a708ef8c4e2",
+      "id": "JvP5H6-3",
+      "name": "God of War - Ghost of Sparta",
+      "image": "1785881418100-92cd9070.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        24,
+        7
+      ],
+      "size": "1,2GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1csb3PzJWxneS2WYBvofCNQ",
+          "_id": "6a72634c7d9816a180dd765f"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.450Z",
+      "updatedAt": "2026-08-04T22:10:20.731Z",
+      "oldImage": "God of War - Ghost of Sparta.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
@@ -4603,34 +4604,6 @@
       "oldImage": "Crash Tag Team Racing.webp",
       "gameplayLink": "",
       "isUpdate": true
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4e4",
-      "id": "mOFjTN9-",
-      "name": "LEGO Batman - The Video Game",
-      "image": "LEGO Batman - The Video Game.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        7,
-        39
-      ],
-      "size": "591 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1LFbUadc96PCIVHiUt5liGw",
-          "_id": "68e08df49e798a708ef8c4e5"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "LEGO Batman - The Video Game.webp"
     },
     {
       "isUpdate": false,
@@ -4688,32 +4661,31 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c51e",
-      "id": "ttNpgLht",
-      "name": "Assassin's Creed 2 Discovery",
-      "image": "Assassin's-Creed-2-Discovery.webp",
-      "format": 7,
-      "language": "Español",
+      "_id": "68e08df49e798a708ef8c51c",
+      "id": "48XBURhK",
+      "name": "UEFA Euro 2008",
+      "image": "1785882897440-87eafc2c.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
       "genre": [
-        2,
-        7,
-        8
+        4
       ],
-      "size": "49.1 MB",
+      "size": "1GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1HHBT6gT5mbUUAdi4RCsqDw",
-          "_id": "68e08df49e798a708ef8c51f"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/17432hqZWDzMDY1hbHvULVw",
+          "_id": "6a7269137d9816a180de00b3"
         }
       ],
-      "emulatorId": 4,
+      "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Assassin's-Creed-2-Discovery.webp"
+      "updatedAt": "2026-08-04T22:34:59.145Z",
+      "oldImage": "UEFA Euro 2008.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -4991,31 +4963,32 @@
       "oldImage": "Kirby-Super-Star-Ultra.webp"
     },
     {
-      "_id": "68e08df49e798a708ef8c51c",
-      "id": "48XBURhK",
-      "name": "UEFA Euro 2008",
-      "image": "1785882897440-87eafc2c.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c51e",
+      "id": "ttNpgLht",
+      "name": "Assassin's Creed 2 Discovery",
+      "image": "Assassin's-Creed-2-Discovery.webp",
+      "format": 7,
+      "language": "Español",
       "genre": [
-        4
+        2,
+        7,
+        8
       ],
-      "size": "1GB",
+      "size": "49.1 MB",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/17432hqZWDzMDY1hbHvULVw",
-          "_id": "6a7269137d9816a180de00b3"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1HHBT6gT5mbUUAdi4RCsqDw",
+          "_id": "68e08df49e798a708ef8c51f"
         }
       ],
-      "emulatorId": 3,
+      "emulatorId": 4,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-08-04T22:34:59.145Z",
-      "oldImage": "UEFA Euro 2008.webp",
-      "gameplayLink": "",
-      "isUpdate": true
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Assassin's-Creed-2-Discovery.webp"
     },
     {
       "_id": "68e08df49e798a708ef8c51a",
@@ -5213,6 +5186,33 @@
       "isUpdate": true
     },
     {
+      "_id": "68e08df49e798a708ef8c510",
+      "id": "vJwKhHKL",
+      "name": "Star Wars - Lethal Alliance",
+      "image": "1785882741955-ec65cf5d.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        14
+      ],
+      "size": "730MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1H0jsKIBDShZ9Jkc69Bmvbg",
+          "_id": "6a7268777d9816a180ddd44b"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.451Z",
+      "updatedAt": "2026-08-04T22:32:23.694Z",
+      "oldImage": "Star Wars - Lethal Alliance.webp",
+      "gameplayLink": "",
+      "isUpdate": true
+    },
+    {
       "_id": "68e08df49e798a708ef8c512",
       "id": "KsN97421",
       "name": "Star Wars - The Clone Wars - Republic Heroes",
@@ -5320,33 +5320,6 @@
       "createdAt": "2025-10-04T03:01:08.451Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "Star Wars Battlefront - Renegade Squadron.webp"
-    },
-    {
-      "_id": "68e08df49e798a708ef8c510",
-      "id": "vJwKhHKL",
-      "name": "Star Wars - Lethal Alliance",
-      "image": "1785882741955-ec65cf5d.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        14
-      ],
-      "size": "730MB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1H0jsKIBDShZ9Jkc69Bmvbg",
-          "_id": "6a7268777d9816a180ddd44b"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.451Z",
-      "updatedAt": "2026-08-04T22:32:23.694Z",
-      "oldImage": "Star Wars - Lethal Alliance.webp",
-      "gameplayLink": "",
-      "isUpdate": true
     },
     {
       "isUpdate": false,
@@ -6362,34 +6335,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c580",
-      "id": "AhgVyn4y",
-      "name": "Adventure Time finn & jake investgations",
-      "image": "Adventure-Time-finn-&-jake-investgations.webp",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        3,
-        7,
-        9
-      ],
-      "size": "1.7 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1gsfJm4xBQnyTrn1wGrFn0g",
-          "_id": "68e08df49e798a708ef8c581"
-        }
-      ],
-      "emulatorId": 5,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.888Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Adventure-Time-finn-&-jake-investgations.webp"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c5a6",
       "id": "BRkmF97C",
       "name": "Call Of Duty Black ops 2",
@@ -6415,6 +6360,33 @@
       "createdAt": "2025-10-04T03:01:08.888Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "Call-Of-Duty-Black-ops-2.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c582",
+      "id": "AsGC1pGi",
+      "name": "Angry Birds star wars",
+      "image": "Angry-Birds-star-wars.webp",
+      "format": 5,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        39
+      ],
+      "size": "1.3 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1GS257NJmrzazq4gqfXjvMQ",
+          "_id": "68e08df49e798a708ef8c583"
+        }
+      ],
+      "emulatorId": 5,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.888Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Angry-Birds-star-wars.webp"
     },
     {
       "isUpdate": false,
@@ -6859,22 +6831,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c582",
-      "id": "AsGC1pGi",
-      "name": "Angry Birds star wars",
-      "image": "Angry-Birds-star-wars.webp",
+      "_id": "68e08df49e798a708ef8c580",
+      "id": "AhgVyn4y",
+      "name": "Adventure Time finn & jake investgations",
+      "image": "Adventure-Time-finn-&-jake-investgations.webp",
       "format": 5,
       "language": "Multi-Idioma",
       "genre": [
-        1,
-        39
+        3,
+        7,
+        9
       ],
-      "size": "1.3 Gb",
+      "size": "1.7 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1GS257NJmrzazq4gqfXjvMQ",
-          "_id": "68e08df49e798a708ef8c583"
+          "link": "https://1024terabox.com/s/1gsfJm4xBQnyTrn1wGrFn0g",
+          "_id": "68e08df49e798a708ef8c581"
         }
       ],
       "emulatorId": 5,
@@ -6882,7 +6855,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.888Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Angry-Birds-star-wars.webp"
+      "oldImage": "Adventure-Time-finn-&-jake-investgations.webp"
     },
     {
       "isUpdate": false,
