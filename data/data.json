@@ -35216,6 +35216,33 @@
       "createdAt": "2026-11-24T01:08:56.326Z",
       "updatedAt": "2026-11-24T01:08:56.326Z",
       "__v": 0
+    },
+    {
+      "_id": "6b04e4349cedb5d982c404ab",
+      "id": "ge61rIWk",
+      "name": "LEGO Indiana Jones - The Original Adventures (Europe)",
+      "image": "1795482674951-bbcbd7a8.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        24
+      ],
+      "size": "669,1MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1DRsOoEqjwfvIxclI6nPPvA",
+          "_id": "6b04e4349cedb5d982c404ac"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-11-24T01:11:16.574Z",
+      "updatedAt": "2026-11-24T01:11:16.574Z",
+      "__v": 0
     }
   ],
   "emulators": [
