@@ -35487,6 +35487,33 @@
       "createdAt": "2026-11-24T01:26:01.039Z",
       "updatedAt": "2026-11-24T01:26:01.039Z",
       "__v": 0
+    },
+    {
+      "_id": "6b04e7c09cedb5d982c4b598",
+      "id": "r3L3V6re",
+      "name": "LEGO Harry Potter - Years 5-7 (Europe)",
+      "image": "1795483582993-f0c0a8f3.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        187
+      ],
+      "size": "1,3GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1XBi-Sg1kF8FStV_nX3pYbg",
+          "_id": "6b04e7c09cedb5d982c4b599"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-11-24T01:26:24.680Z",
+      "updatedAt": "2026-11-24T01:26:24.680Z",
+      "__v": 0
     }
   ],
   "emulators": [
