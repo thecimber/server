@@ -22135,32 +22135,33 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca0c",
       "id": "YmwSBoB9",
       "name": "Little Big planet [Special Edition]",
-      "image": "qWQQhqoKcw.webp",
+      "image": "1795483271558-7832a87b.webp",
       "format": 4,
-      "language": "Español",
+      "language": "Español-Ingles",
       "genre": [
-        1,
         3,
-        17
+        1,
+        113
       ],
-      "size": "1.3 Gb",
+      "size": "1,3GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/12GfHzDKpMrC-fGiA951uxQ",
-          "_id": "68e08df89e798a708ef8ca0d"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/16pIAe80_0yYNy5lBuG0dSw",
+          "_id": "6b04e6899cedb5d982c44b56"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.241Z",
-      "updatedAt": "2026-06-12T04:32:54.345Z",
-      "oldImage": "qWQQhqoKcw.webp"
+      "updatedAt": "2026-11-24T01:21:13.306Z",
+      "oldImage": "qWQQhqoKcw.webp",
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "_id": "68e08df89e798a708ef8ca08",
