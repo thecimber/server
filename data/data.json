@@ -2249,22 +2249,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df39e798a708ef8c43d",
-      "id": "948741",
-      "name": "Need for Speed: Most Wanted",
-      "image": "Most-Wanted-ps3.webp",
+      "_id": "68e08df39e798a708ef8c43b",
+      "id": "109868",
+      "name": "Need for speed rivals",
+      "image": "need-for-speed-rivals-ps3-wiki.webp",
       "format": 1,
       "language": "Español",
       "genre": [
         13,
         12
       ],
-      "size": "4.39 GB",
+      "size": "6,54 GB",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1D-A5-hG6v2XMmKUdpL7G5w",
-          "_id": "68e08df39e798a708ef8c43e"
+          "link": "https://1024terabox.com/s/1gdDtWten0ORmmADB1fVOOw",
+          "_id": "68e08df39e798a708ef8c43c"
         }
       ],
       "emulatorId": 1,
@@ -2272,7 +2272,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:07.492Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Most-Wanted-ps3.webp"
+      "oldImage": "need-for-speed-rivals-ps3-wiki.webp"
     },
     {
       "isUpdate": false,
@@ -2387,6 +2387,33 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df39e798a708ef8c43d",
+      "id": "948741",
+      "name": "Need for Speed: Most Wanted",
+      "image": "Most-Wanted-ps3.webp",
+      "format": 1,
+      "language": "Español",
+      "genre": [
+        13,
+        12
+      ],
+      "size": "4.39 GB",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1D-A5-hG6v2XMmKUdpL7G5w",
+          "_id": "68e08df39e798a708ef8c43e"
+        }
+      ],
+      "emulatorId": 1,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:07.492Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Most-Wanted-ps3.webp"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df39e798a708ef8c435",
       "id": "Q4Mnwoqo",
       "name": "NCAA FOOTBALL 14 ",
@@ -2411,33 +2438,6 @@
       "createdAt": "2025-10-04T03:01:07.492Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "NCAA FOOTBALL 14 .webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df39e798a708ef8c43b",
-      "id": "109868",
-      "name": "Need for speed rivals",
-      "image": "need-for-speed-rivals-ps3-wiki.webp",
-      "format": 1,
-      "language": "Español",
-      "genre": [
-        13,
-        12
-      ],
-      "size": "6,54 GB",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1gdDtWten0ORmmADB1fVOOw",
-          "_id": "68e08df39e798a708ef8c43c"
-        }
-      ],
-      "emulatorId": 1,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:07.492Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "need-for-speed-rivals-ps3-wiki.webp"
     },
     {
       "isUpdate": false,
@@ -3547,23 +3547,22 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c490",
-      "id": "840928",
-      "name": "The Amazing Spider-man ",
-      "image": "Amazing-Spider-Man-ps3a.webp",
-      "format": 1,
-      "language": "Español",
+      "_id": "68e08df49e798a708ef8c48e",
+      "id": "QXGa3Siy",
+      "name": "Terminator: Salvation",
+      "image": "Terminator:Salvation.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
       "genre": [
         2,
-        7,
-        12
+        30
       ],
-      "size": "8,67 GB",
+      "size": "5.65 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1EPy2XXvLppaA0qpQUCbKOQ",
-          "_id": "68e08df49e798a708ef8c491"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1sAfOuZCr33lAw2MguIcTqA",
+          "_id": "68e08df49e798a708ef8c48f"
         }
       ],
       "emulatorId": 1,
@@ -3571,7 +3570,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.449Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Amazing-Spider-Man-ps3a.webp"
+      "oldImage": "Terminator:Salvation.webp"
     },
     {
       "isUpdate": false,
@@ -3685,22 +3684,23 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c48e",
-      "id": "QXGa3Siy",
-      "name": "Terminator: Salvation",
-      "image": "Terminator:Salvation.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
+      "_id": "68e08df49e798a708ef8c490",
+      "id": "840928",
+      "name": "The Amazing Spider-man ",
+      "image": "Amazing-Spider-Man-ps3a.webp",
+      "format": 1,
+      "language": "Español",
       "genre": [
         2,
-        30
+        7,
+        12
       ],
-      "size": "5.65 Gb",
+      "size": "8,67 GB",
       "downloadMethods": [
         {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1sAfOuZCr33lAw2MguIcTqA",
-          "_id": "68e08df49e798a708ef8c48f"
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1EPy2XXvLppaA0qpQUCbKOQ",
+          "_id": "68e08df49e798a708ef8c491"
         }
       ],
       "emulatorId": 1,
@@ -3708,7 +3708,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.449Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Terminator:Salvation.webp"
+      "oldImage": "Amazing-Spider-Man-ps3a.webp"
     },
     {
       "isUpdate": false,
@@ -3958,34 +3958,6 @@
       "createdAt": "2025-10-04T03:01:08.449Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "The Last Of Us Link.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4ee",
-      "id": "ZrJsLPPs",
-      "name": "LEGO Pirates of the Caribbean - The Video Game",
-      "image": "LEGO Pirates of the Caribbean - The Video Game.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        7,
-        39
-      ],
-      "size": "1.2 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/12xcaLbg1xSRlvjGpD6Jlug",
-          "_id": "68e08df49e798a708ef8c4ef"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "LEGO Pirates of the Caribbean - The Video Game.webp"
     },
     {
       "isUpdate": false,
@@ -4263,10 +4235,10 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4e8",
-      "id": "r3IDxmQg",
-      "name": "LEGO Harry Potter - Years 5-7",
-      "image": "LEGO Harry Potter - Years 5-7.webp",
+      "_id": "68e08df49e798a708ef8c4ee",
+      "id": "ZrJsLPPs",
+      "name": "LEGO Pirates of the Caribbean - The Video Game",
+      "image": "LEGO Pirates of the Caribbean - The Video Game.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
@@ -4274,12 +4246,12 @@
         7,
         39
       ],
-      "size": "1.3 Gb",
+      "size": "1.2 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1HNoZtKjOF2R9dkV73RPY-A",
-          "_id": "68e08df49e798a708ef8c4e9"
+          "link": "https://1024terabox.com/s/12xcaLbg1xSRlvjGpD6Jlug",
+          "_id": "68e08df49e798a708ef8c4ef"
         }
       ],
       "emulatorId": 3,
@@ -4287,7 +4259,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "LEGO Harry Potter - Years 5-7.webp"
+      "oldImage": "LEGO Pirates of the Caribbean - The Video Game.webp"
     },
     {
       "_id": "68e08df49e798a708ef8c4c6",
@@ -4520,10 +4492,10 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4e6",
-      "id": "3eqAc0kW",
-      "name": "LEGO Harry Potter - Years 1-4",
-      "image": "LEGO Harry Potter - Years 1-4.webp",
+      "_id": "68e08df49e798a708ef8c4e8",
+      "id": "r3IDxmQg",
+      "name": "LEGO Harry Potter - Years 5-7",
+      "image": "LEGO Harry Potter - Years 5-7.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
@@ -4531,12 +4503,12 @@
         7,
         39
       ],
-      "size": "1.2 Gb",
+      "size": "1.3 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1vVH9fY9y3j_UGaz8BIJ3Pg",
-          "_id": "68e08df49e798a708ef8c4e7"
+          "link": "https://1024terabox.com/s/1HNoZtKjOF2R9dkV73RPY-A",
+          "_id": "68e08df49e798a708ef8c4e9"
         }
       ],
       "emulatorId": 3,
@@ -4544,7 +4516,7 @@
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "LEGO Harry Potter - Years 1-4.webp"
+      "oldImage": "LEGO Harry Potter - Years 5-7.webp"
     },
     {
       "_id": "68e08df49e798a708ef8c4d4",
