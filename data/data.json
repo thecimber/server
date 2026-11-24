@@ -34795,33 +34795,6 @@
       "__v": 0
     },
     {
-      "_id": "6b0088e09cedb5d982c1bcc3",
-      "id": "xUjXGhD7",
-      "name": "PAPER MARIO Color Splash (USA)",
-      "image": "1795197151044-88d60239.webp",
-      "gameplayLink": "",
-      "format": 5,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        16
-      ],
-      "size": "6,7GB",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1FiIu-_wgrgF_y9qe8Bsdyg",
-          "_id": "6b0088e09cedb5d982c1bcc4"
-        }
-      ],
-      "emulatorId": 8,
-      "isUpdate": false,
-      "captures": [],
-      "createdAt": "2026-11-20T17:52:32.774Z",
-      "updatedAt": "2026-11-20T17:52:32.774Z",
-      "__v": 0
-    },
-    {
       "_id": "6b00890f9cedb5d982c1c6c7",
       "id": "we36PsRd",
       "name": "PIKMIN 3",
