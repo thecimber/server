@@ -3603,34 +3603,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4a6",
-      "id": "B7r66HHf",
-      "name": "Wwe 2013",
-      "image": "Wwe 2013.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        4,
-        10,
-        24
-      ],
-      "size": "13.8 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1Kq4ImUfH1qfNDHXN6RLNAA",
-          "_id": "68e08df49e798a708ef8c4a7"
-        }
-      ],
-      "emulatorId": 1,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.449Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Wwe 2013.webp"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c488",
       "id": "ZBdjzWIU",
       "name": "Street fighter IV",
@@ -3796,34 +3768,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c496",
-      "id": "rKgbFYFG",
-      "name": "The Last Of Us Link",
-      "image": "The Last Of Us Link.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        7,
-        14,
-        21
-      ],
-      "size": "35.5 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1c0V_5qCkkX6R_reMcUqVLQ",
-          "_id": "68e08df49e798a708ef8c497"
-        }
-      ],
-      "emulatorId": 1,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.449Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "The Last Of Us Link.webp"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c498",
       "id": "90685",
       "name": "The Simpsons Game",
@@ -3961,31 +3905,59 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4ea",
-      "id": "Da7azxqM",
-      "name": "LEGO Indiana Jones - The Original Adventures",
-      "image": "LEGO Indiana Jones - The Original Adventures.webp",
+      "_id": "68e08df49e798a708ef8c4a6",
+      "id": "B7r66HHf",
+      "name": "Wwe 2013",
+      "image": "Wwe 2013.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        1,
-        7,
-        39
+        4,
+        10,
+        24
       ],
-      "size": "669.1 Mb",
+      "size": "13.8 Gb",
       "downloadMethods": [
         {
           "type": "Terabox",
-          "link": "https://1024terabox.com/s/1y-on10Vf9zOkf0ZWkesmKw",
-          "_id": "68e08df49e798a708ef8c4eb"
+          "link": "https://1024terabox.com/s/1Kq4ImUfH1qfNDHXN6RLNAA",
+          "_id": "68e08df49e798a708ef8c4a7"
         }
       ],
-      "emulatorId": 3,
+      "emulatorId": 1,
       "captures": [],
       "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
+      "createdAt": "2025-10-04T03:01:08.449Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "LEGO Indiana Jones - The Original Adventures.webp"
+      "oldImage": "Wwe 2013.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c496",
+      "id": "rKgbFYFG",
+      "name": "The Last Of Us Link",
+      "image": "The Last Of Us Link.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        7,
+        14,
+        21
+      ],
+      "size": "35.5 Gb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1c0V_5qCkkX6R_reMcUqVLQ",
+          "_id": "68e08df49e798a708ef8c497"
+        }
+      ],
+      "emulatorId": 1,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.449Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "The Last Of Us Link.webp"
     },
     {
       "isUpdate": false,
@@ -4347,34 +4319,6 @@
     },
     {
       "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4e6",
-      "id": "3eqAc0kW",
-      "name": "LEGO Harry Potter - Years 1-4",
-      "image": "LEGO Harry Potter - Years 1-4.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        1,
-        7,
-        39
-      ],
-      "size": "1.2 Gb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1vVH9fY9y3j_UGaz8BIJ3Pg",
-          "_id": "68e08df49e798a708ef8c4e7"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "LEGO Harry Potter - Years 1-4.webp"
-    },
-    {
-      "isUpdate": false,
       "_id": "68e08df49e798a708ef8c4e8",
       "id": "r3IDxmQg",
       "name": "LEGO Harry Potter - Years 5-7",
@@ -4400,6 +4344,34 @@
       "createdAt": "2025-10-04T03:01:08.450Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "LEGO Harry Potter - Years 5-7.webp"
+    },
+    {
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c4ea",
+      "id": "Da7azxqM",
+      "name": "LEGO Indiana Jones - The Original Adventures",
+      "image": "LEGO Indiana Jones - The Original Adventures.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        1,
+        7,
+        39
+      ],
+      "size": "669.1 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1y-on10Vf9zOkf0ZWkesmKw",
+          "_id": "68e08df49e798a708ef8c4eb"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.450Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "LEGO Indiana Jones - The Original Adventures.webp"
     },
     {
       "_id": "68e08df49e798a708ef8c4c8",
@@ -4489,33 +4461,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
-      "_id": "68e08df49e798a708ef8c4ce",
-      "id": "MKR58pKB",
-      "name": "FIFA 06",
-      "image": "FIFA 06.webp",
-      "format": 4,
-      "language": "Multi-Idioma",
-      "genre": [
-        4,
-        6
-      ],
-      "size": "644 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1zs4j05JiYaxUiTIgAeIlvA",
-          "_id": "68e08df49e798a708ef8c4cf"
-        }
-      ],
-      "emulatorId": 3,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "FIFA 06.webp"
-    },
-    {
       "_id": "68e08df49e798a708ef8c4d0",
       "id": "ew__Qvkl",
       "name": "FIFA 07 (Europe)",
@@ -4546,29 +4491,32 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df49e798a708ef8c4dc",
-      "id": "kILiuJ0t",
-      "name": "FIFA Street 2",
-      "image": "1785879223175-a1407075.webp",
+      "_id": "68e08df49e798a708ef8c4d4",
+      "id": "C2Dwb4YU",
+      "name": "FIFA 09",
+      "image": "1782052028682-13cb87f4.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        4
+        4,
+        6,
+        19,
+        118
       ],
-      "size": "218MB",
+      "size": "809MB",
       "downloadMethods": [
         {
           "type": "terabox",
-          "link": "https://1024terabox.com/s/1cbBQabYVadZxCMUZ3JasGg",
-          "_id": "6a725ab87d9816a180dd3621"
+          "link": "https://1024terabox.com/s/1cBDTyDFtrlOwKl_Cjva77g",
+          "_id": "6a37f4bd14dabecb3ed11552"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-08-04T21:33:44.737Z",
-      "oldImage": "FIFA Street 2.webp",
+      "updatedAt": "2026-06-21T14:27:10.002Z",
+      "oldImage": "FIFA 09.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
@@ -4685,32 +4633,57 @@
       "oldImage": "LEGO Batman - The Video Game.webp"
     },
     {
-      "_id": "68e08df49e798a708ef8c4d4",
-      "id": "C2Dwb4YU",
-      "name": "FIFA 09",
-      "image": "1782052028682-13cb87f4.webp",
+      "isUpdate": false,
+      "_id": "68e08df49e798a708ef8c4e6",
+      "id": "3eqAc0kW",
+      "name": "LEGO Harry Potter - Years 1-4",
+      "image": "LEGO Harry Potter - Years 1-4.webp",
       "format": 4,
       "language": "Multi-Idioma",
       "genre": [
-        4,
-        6,
-        19,
-        118
+        1,
+        7,
+        39
       ],
-      "size": "809MB",
+      "size": "1.2 Gb",
       "downloadMethods": [
         {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/1cBDTyDFtrlOwKl_Cjva77g",
-          "_id": "6a37f4bd14dabecb3ed11552"
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1vVH9fY9y3j_UGaz8BIJ3Pg",
+          "_id": "68e08df49e798a708ef8c4e7"
         }
       ],
       "emulatorId": 3,
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:08.450Z",
-      "updatedAt": "2026-06-21T14:27:10.002Z",
-      "oldImage": "FIFA 09.webp",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "LEGO Harry Potter - Years 1-4.webp"
+    },
+    {
+      "_id": "68e08df49e798a708ef8c4dc",
+      "id": "kILiuJ0t",
+      "name": "FIFA Street 2",
+      "image": "1785879223175-a1407075.webp",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        4
+      ],
+      "size": "218MB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1cbBQabYVadZxCMUZ3JasGg",
+          "_id": "6a725ab87d9816a180dd3621"
+        }
+      ],
+      "emulatorId": 3,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:08.450Z",
+      "updatedAt": "2026-08-04T21:33:44.737Z",
+      "oldImage": "FIFA Street 2.webp",
       "gameplayLink": "",
       "isUpdate": true
     },
@@ -8387,6 +8360,33 @@
     },
     {
       "isUpdate": false,
+      "_id": "68e08df59e798a708ef8c61f",
+      "id": "HY0P0sGh",
+      "name": "R.E.P.O v1.0.9 [REPO]",
+      "image": "repo.webp",
+      "format": 6,
+      "language": "Español",
+      "genre": [
+        28,
+        40
+      ],
+      "size": "8.01 Mb",
+      "downloadMethods": [
+        {
+          "type": "Terabox",
+          "link": "https://1024terabox.com/s/1EktatH2Fg0sLGR93H3M0SA",
+          "_id": "68e08df59e798a708ef8c620"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:09.418Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "repo.webp"
+    },
+    {
+      "isUpdate": false,
       "_id": "68e08df59e798a708ef8c61d",
       "id": "QetUEruQ",
       "name": "Prince of Persia: Lost Crown",
@@ -8412,33 +8412,6 @@
       "createdAt": "2025-10-04T03:01:09.418Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "Prince of Persia: Lost Crown.webp"
-    },
-    {
-      "isUpdate": false,
-      "_id": "68e08df59e798a708ef8c61f",
-      "id": "HY0P0sGh",
-      "name": "R.E.P.O v1.0.9 [REPO]",
-      "image": "repo.webp",
-      "format": 6,
-      "language": "Español",
-      "genre": [
-        28,
-        40
-      ],
-      "size": "8.01 Mb",
-      "downloadMethods": [
-        {
-          "type": "Terabox",
-          "link": "https://1024terabox.com/s/1EktatH2Fg0sLGR93H3M0SA",
-          "_id": "68e08df59e798a708ef8c620"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:09.418Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "repo.webp"
     },
     {
       "_id": "68e08df59e798a708ef8c61b",
@@ -8496,34 +8469,6 @@
       "isUpdate": true
     },
     {
-      "_id": "68e08df59e798a708ef8c613",
-      "id": "bwUQysgR",
-      "name": "Five Nights At Freddy's: sister location v2.0.4",
-      "image": "Five Nights At Freddy's: sister location v2.0.4.webp",
-      "format": 6,
-      "language": "Multi-Idioma",
-      "genre": [
-        14,
-        20,
-        31
-      ],
-      "size": "296MB [8,1MB]",
-      "downloadMethods": [
-        {
-          "type": "terabox",
-          "link": "https://1024terabox.com/s/17isEn-QXOtgX5L3XQFHayw",
-          "_id": "68e08df59e798a708ef8c614"
-        }
-      ],
-      "emulatorId": 10,
-      "captures": [],
-      "__v": 0,
-      "createdAt": "2025-10-04T03:01:09.418Z",
-      "updatedAt": "2026-06-12T04:32:54.344Z",
-      "oldImage": "Five Nights At Freddy's: sister location v2.0.4.webp",
-      "isUpdate": true
-    },
-    {
       "_id": "68e08df59e798a708ef8c615",
       "id": "gY2_RF-T",
       "name": "Hitman Blood Money reprisal",
@@ -8549,6 +8494,34 @@
       "createdAt": "2025-10-04T03:01:09.418Z",
       "updatedAt": "2026-06-12T04:32:54.344Z",
       "oldImage": "Hitman Blood Money reprisal.webp",
+      "isUpdate": true
+    },
+    {
+      "_id": "68e08df59e798a708ef8c613",
+      "id": "bwUQysgR",
+      "name": "Five Nights At Freddy's: sister location v2.0.4",
+      "image": "Five Nights At Freddy's: sister location v2.0.4.webp",
+      "format": 6,
+      "language": "Multi-Idioma",
+      "genre": [
+        14,
+        20,
+        31
+      ],
+      "size": "296MB [8,1MB]",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/17isEn-QXOtgX5L3XQFHayw",
+          "_id": "68e08df59e798a708ef8c614"
+        }
+      ],
+      "emulatorId": 10,
+      "captures": [],
+      "__v": 0,
+      "createdAt": "2025-10-04T03:01:09.418Z",
+      "updatedAt": "2026-06-12T04:32:54.344Z",
+      "oldImage": "Five Nights At Freddy's: sister location v2.0.4.webp",
       "isUpdate": true
     },
     {
