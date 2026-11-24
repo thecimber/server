@@ -35323,6 +35323,33 @@
       "createdAt": "2026-11-24T01:14:51.137Z",
       "updatedAt": "2026-11-24T01:14:51.137Z",
       "__v": 0
+    },
+    {
+      "_id": "6b04e51f9cedb5d982c42d03",
+      "id": "k0d5ybqK",
+      "name": "LEGO Harry Potter - Years 1-4 (Europe)",
+      "image": "1795482910080-5b11676a.webp",
+      "gameplayLink": "",
+      "format": 4,
+      "language": "Multi-Idioma",
+      "genre": [
+        2,
+        3
+      ],
+      "size": "1,2GB",
+      "downloadMethods": [
+        {
+          "type": "terabox",
+          "link": "https://1024terabox.com/s/1qyQgWXI7rZ3aWRWTQPJa9A",
+          "_id": "6b04e51f9cedb5d982c42d04"
+        }
+      ],
+      "emulatorId": 3,
+      "isUpdate": false,
+      "captures": [],
+      "createdAt": "2026-11-24T01:15:11.755Z",
+      "updatedAt": "2026-11-24T01:15:11.755Z",
+      "__v": 0
     }
   ],
   "emulators": [
