@@ -22646,7 +22646,6 @@
       "isUpdate": true
     },
     {
-      "isUpdate": false,
       "_id": "68e08df89e798a708ef8ca4e",
       "id": "nrjtR9YC",
       "name": "PAPER MARIO Color Splash (USA)",
@@ -22669,9 +22668,10 @@
       "captures": [],
       "__v": 0,
       "createdAt": "2025-10-04T03:01:12.242Z",
-      "updatedAt": "2026-11-24T04:27:13.065Z",
+      "updatedAt": "2026-11-24T04:29:23.958Z",
       "oldImage": "eyNJoMCYkD.webp",
-      "gameplayLink": ""
+      "gameplayLink": "",
+      "isUpdate": true
     },
     {
       "isUpdate": false,
