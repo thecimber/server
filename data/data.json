@@ -35187,6 +35187,21 @@
       "createdAt": "2026-11-26T00:47:09.462Z",
       "updatedAt": "2026-11-26T00:47:09.462Z",
       "__v": 0
+    },
+    {
+      "_id": "6b0781ff6ce9f79a274d5dd8",
+      "id": 16,
+      "name": "Nintendo 64",
+      "path": "n64",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/1795654141752-cdcfffa7.webp",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/n64/",
+      "emulator": "",
+      "index": 0,
+      "active": true,
+      "deleted": false,
+      "createdAt": "2026-11-26T00:49:03.376Z",
+      "updatedAt": "2026-11-26T00:49:03.376Z",
+      "__v": 0
     }
   ],
   "genres": [
