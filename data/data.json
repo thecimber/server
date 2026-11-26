@@ -35157,6 +35157,21 @@
       "createdAt": "2026-11-26T00:42:50.812Z",
       "updatedAt": "2026-11-26T00:42:50.812Z",
       "__v": 0
+    },
+    {
+      "_id": "6b0780f26ce9f79a274d49c0",
+      "id": 14,
+      "name": "PS1",
+      "path": "ps1",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/1795653872921-950fd4fe.png",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/ps1/",
+      "emulator": "",
+      "index": 0,
+      "active": false,
+      "deleted": false,
+      "createdAt": "2026-11-26T00:44:34.209Z",
+      "updatedAt": "2026-11-26T00:44:34.209Z",
+      "__v": 0
     }
   ],
   "genres": [
