@@ -35217,6 +35217,21 @@
       "createdAt": "2026-11-26T00:50:28.272Z",
       "updatedAt": "2026-11-26T00:50:28.272Z",
       "__v": 0
+    },
+    {
+      "_id": "6b0782cc6ce9f79a274d6cd9",
+      "id": 18,
+      "name": "Nintendo 3ds",
+      "path": "3ds",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/1795654346817-07edbf19.png",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/3ds/",
+      "emulator": "",
+      "index": 0,
+      "active": false,
+      "deleted": false,
+      "createdAt": "2026-11-26T00:52:28.461Z",
+      "updatedAt": "2026-11-26T00:52:28.461Z",
+      "__v": 0
     }
   ],
   "genres": [
