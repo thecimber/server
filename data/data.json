@@ -35172,6 +35172,21 @@
       "createdAt": "2026-11-26T00:44:34.209Z",
       "updatedAt": "2026-11-26T00:46:26.982Z",
       "__v": 0
+    },
+    {
+      "_id": "6b07818d6ce9f79a274d58c8",
+      "id": 15,
+      "name": "WII",
+      "path": "wii",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/1795654028054-9b85b55d.png",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/wii/",
+      "emulator": "",
+      "index": 0,
+      "active": false,
+      "deleted": false,
+      "createdAt": "2026-11-26T00:47:09.462Z",
+      "updatedAt": "2026-11-26T00:47:09.462Z",
+      "__v": 0
     }
   ],
   "genres": [
