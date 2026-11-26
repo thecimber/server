@@ -35247,6 +35247,21 @@
       "createdAt": "2026-11-26T04:37:18.402Z",
       "updatedAt": "2026-11-26T04:39:40.929Z",
       "__v": 0
+    },
+    {
+      "_id": "6b07ba276ce9f79a274da06b",
+      "id": 20,
+      "name": "Nintendo switch 2",
+      "path": "sw2",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/1795668518051-5d7d4dc7.jpg",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/sw2/",
+      "emulator": "",
+      "index": 0,
+      "active": false,
+      "deleted": false,
+      "createdAt": "2026-11-26T04:48:39.490Z",
+      "updatedAt": "2026-11-26T04:48:39.490Z",
+      "__v": 0
     }
   ],
   "genres": [
