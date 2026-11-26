@@ -35197,10 +35197,10 @@
       "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/n64/",
       "emulator": "",
       "index": 0,
-      "active": true,
+      "active": false,
       "deleted": false,
       "createdAt": "2026-11-26T00:49:03.376Z",
-      "updatedAt": "2026-11-26T00:49:03.376Z",
+      "updatedAt": "2026-11-26T00:49:28.431Z",
       "__v": 0
     }
   ],
