@@ -35232,6 +35232,21 @@
       "createdAt": "2026-11-26T00:52:28.461Z",
       "updatedAt": "2026-11-26T00:52:28.461Z",
       "__v": 0
+    },
+    {
+      "_id": "6b07b77e6ce9f79a274d7843",
+      "id": 19,
+      "name": "PS VITA",
+      "path": "psvita",
+      "image": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/emulators/1795667836897-89f24c1a.jpg",
+      "pathServer": "https://raw.githubusercontent.com/thecimber/server/refs/heads/main/psvita/",
+      "emulator": "",
+      "index": 0,
+      "active": false,
+      "deleted": false,
+      "createdAt": "2026-11-26T04:37:18.402Z",
+      "updatedAt": "2026-11-26T04:37:18.402Z",
+      "__v": 0
     }
   ],
   "genres": [
